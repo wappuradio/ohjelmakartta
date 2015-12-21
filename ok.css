@@ -1,5 +1,5 @@
 #ohjelmakartta { font-family: sans-serif; }
-#ohjelmakartta input { width: 16.6666%; box-sizing: border-box; line-height: 25px; height: 25px; margin-bottom: 15px; }
+#ohjelmakartta input { width: 16.6666%; box-sizing: border-box; height: 30px; line-height: 30px; font-size: 14px; margin-bottom: 15px; }
 #ohjelmakartta input[type=submit] { font-weight: bold; }
 #ohjelmakartta textarea { width: 100%; box-sizing: border-box; height: 100px; margin-bottom: 15px; }
 #ohjelmakartta #lisaa { white-space: nowrap; }

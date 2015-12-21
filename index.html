@@ -13,8 +13,11 @@
 <body id="okdb">
 <div id='ohjelmakartta'>
 <div id='calendar'></div>
-<form id='lisaa'><input name='id' style='display: none'><input name='start' placeholder='Alkaa'><input name='end' placeholder='Loppuu'><input name='title' placeholder='Ohjelman nimi'><input name='host' placeholder='Tekijät'><input name='prod' placeholder='Tuottaja'><input type='submit' value='Tallenna'><br>
+<form id='lisaa'><input name='id' style='display: none'><input name='start' placeholder='Alkaa'><input name='end' placeholder='Loppuu'><input name='title' list='title' placeholder='Ohjelman nimi'><input name='host' list='host' placeholder='Tekijät'><input name='prod' list='prod' placeholder='Tuottaja'><input type='submit' value='Tallenna'><br>
 <textarea name='desc' placeholder='Kuvaus'></textarea>
+<datalist id='title'></datalist>
+<datalist id='host'></datalist>
+<datalist id='prod'></datalist>
 </form>
 <table id='lista'><thead><tr><th>Alkaa</th><th>Loppuu</th><th>Ohjelman nimi</th><th>Tekijät</th><th>Tuottaja</th><th>Kuvaus</th></tr></thead><tbody></tbody></table>
 </div>

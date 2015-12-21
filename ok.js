@@ -84,13 +84,15 @@ $(function() {
                 return 0;
             });
             $('#lista tbody').html('');
+            $('datalist').html('');
             for(var i in events) {
+                if(!events.hasOwnProperty(i)) continue;
                 if(events[i].url !== undefined) continue;
                 $('#lista tbody').append('<tr><td>'+moment(events[i].start).format('YYYY-MM-DD HH:mm')+'</td><td>'+moment(events[i].end).format('YYYY-MM-DD HH:mm')+'</td><td><a href="#" class="event" data-id="'+events[i].id+'">'+events[i].title+'</a></td><td>'+events[i].host+'</td><td>'+events[i].prod+'</td><td>'+events[i].desc.length+' <a href="#" class="delete" data-id="'+events[i].id+'">roskiin</a></td></tr>');
+                $('datalist#title').append('<option value="'+events[i].title+'">');
+                $('datalist#host').append('<option value="'+events[i].host+'">');
+                $('datalist#prod').append('<option value="'+events[i].prod+'">');
             }
-            $('#ohjelmakartta [name=title]').easyAutocomplete({data: events, getValue: 'title'});
-            $('#ohjelmakartta [name=host]').easyAutocomplete({data: events, getValue: 'host'});
-            $('#ohjelmakartta [name=prod]').easyAutocomplete({data: events, getValue: 'prod'});
         }
     });
     $('#lisaa').submit(function(e) {
