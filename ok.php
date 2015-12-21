@@ -15,7 +15,7 @@ for($i=0;$i<sizeof($data);$i++) {
 if($_POST['id']) {
   $data[] = $_POST;
 }
-$data = json_encode($data);
+$data = json_encode($data, JSON_PRETTY_PRINT);
 $fp = fopen('ok.json', 'w+');
 fwrite($fp, $data);
 fclose($fp);
