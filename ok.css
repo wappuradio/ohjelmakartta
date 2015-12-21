@@ -1,0 +1,14 @@
+#ohjelmakartta { font-family: sans-serif; }
+#ohjelmakartta input { width: 16.6666%; box-sizing: border-box; line-height: 25px; height: 25px; margin-bottom: 15px; }
+#ohjelmakartta input[type=submit] { font-weight: bold; }
+#ohjelmakartta textarea { width: 100%; box-sizing: border-box; height: 100px; margin-bottom: 15px; }
+#ohjelmakartta #lisaa { white-space: nowrap; }
+#ohjelmakartta table { width: 100%; }
+#ohjelmakartta #lista th { text-align: left; width: 16.666%; }
+#ohjelmakartta #lista td { width: 16.666% }
+#ohjelmakartta .delete { float: right; }
+#ohjelmakartta .easy-autocomplete { display: inline; position: relative; }
+#ohjelmakartta .easy-autocomplete-container { position: absolute; left: 0; background: white; margin: -10px 0 0 5px; }
+#ohjelmakartta .easy-autocomplete-container ul { list-style-type: none; padding: 0; margin: 0; }
+#ohjelmakartta .easy-autocomplete-container li { margin: 0; color: black; }
+#ohjelmakartta .easy-autocomplete-container li.selected { background: #abcdef; }

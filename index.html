@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.5.0/fullcalendar.css'>
+<link rel='stylesheet' href='/okdb/ok.css'>
+<script src='https://code.jquery.com/jquery-2.1.4.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.5.0/fullcalendar.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.5.0/gcal.js'></script>
+<script src='/okdb/EasyAutocomplete-1.3.3/jquery.easy-autocomplete.min.js'></script>
+<script src='/okdb/ok.js'></script>
+</head>
+<body id="okdb">
+<div id='ohjelmakartta'>
+<div id='calendar'></div>
+<form id='lisaa'><input name='id' style='display: none'><input name='start' placeholder='Alkaa'><input name='end' placeholder='Loppuu'><input name='title' placeholder='Ohjelman nimi'><input name='host' placeholder='Tekijät'><input name='prod' placeholder='Tuottaja'><input type='submit' value='Tallenna'><br>
+<textarea name='desc' placeholder='Kuvaus'></textarea>
+</form>
+<table id='lista'><thead><tr><th>Alkaa</th><th>Loppuu</th><th>Ohjelman nimi</th><th>Tekijät</th><th>Tuottaja</th><th>Kuvaus</th></tr></thead><tbody></tbody></table>
+</div>
+</body>
+</html>
