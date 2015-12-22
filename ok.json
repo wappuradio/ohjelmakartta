@@ -70,5 +70,14 @@
         "host": "P\u00e4\u00e4toimitus",
         "prod": "",
         "desc": ""
+    },
+    {
+        "id": "ba580abc-309f-49ab-802d-1153af8088a2",
+        "start": "2016-04-21 00:00",
+        "end": "2016-04-21 07:00",
+        "title": "Y\u00f6ohjelma",
+        "host": "hessu",
+        "prod": "mikki",
+        "desc": ""
     }
 ]
