@@ -89,9 +89,13 @@ $(function() {
                 if(!events.hasOwnProperty(i)) continue;
                 if(events[i].url !== undefined) continue;
                 $('#lista tbody').append('<tr><td>'+moment(events[i].start).format('YYYY-MM-DD HH:mm')+'</td><td>'+moment(events[i].end).format('YYYY-MM-DD HH:mm')+'</td><td><a href="#" class="event" data-id="'+events[i].id+'">'+events[i].title+'</a></td><td>'+events[i].host+'</td><td>'+events[i].prod+'</td><td>'+events[i].desc.length+' <a href="#" class="delete" data-id="'+events[i].id+'">roskiin</a></td></tr>');
-                $('datalist#title').append('<option value="'+events[i].title+'">');
-                $('datalist#host').append('<option value="'+events[i].host+'">');
-                $('datalist#prod').append('<option value="'+events[i].prod+'">');
+                var list = ['title', 'host', 'prod'];
+                for(var j in list) {
+                    var html = '<option value="'+events[i][list[j]]+'">';
+                    if($('datalist#'+list[j]+' option[value="'+events[i][list[j]]+'"]').length == 0) {
+                        $('datalist#'+list[j]).append(html);
+                    }
+                }
             }
         }
     });
