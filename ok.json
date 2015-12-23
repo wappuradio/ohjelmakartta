@@ -1,92 +1,56 @@
 [
     {
-        "id": "d392830c-a5ca-4bc6-9727-04903ee48707",
-        "start": "2016-04-19 12:00",
-        "end": "2016-04-19 14:00",
-        "title": "P\u00e4iv\u00e4ohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "79e9aeac-9089-4286-951a-1e44d886559f",
-        "start": "2016-04-20 12:00",
-        "end": "2016-04-20 14:00",
-        "title": "P\u00e4iv\u00e4ohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "8d01932e-2685-4b19-8047-6f607b1afa41",
-        "start": "2016-04-21 12:00",
-        "end": "2016-04-21 14:00",
-        "title": "P\u00e4iv\u00e4ohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "2f069719-943f-48c5-ab28-b4553c9c32ff",
-        "start": "2016-04-22 12:00",
-        "end": "2016-04-22 14:00",
-        "title": "P\u00e4iv\u00e4ohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "cb74b9b5-465d-4cec-90c0-c216d5318a54",
-        "start": "2016-04-21 07:00",
-        "end": "2016-04-21 09:00",
-        "title": "Aamuohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "f80d084c-3d89-4915-bda4-29df55ae1722",
-        "start": "2016-04-20 07:00",
-        "end": "2016-04-20 09:00",
-        "title": "Aamuohjelma",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "97f53f03-c4ff-4ff8-a199-138455146337",
-        "start": "2016-04-23 00:00",
-        "end": "2016-04-23 07:00",
-        "title": "Pekka Sauronin y\u00f6radio",
-        "host": "Pekka Sauron",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "e16d7d1f-903c-4079-8a9e-727dec16506f",
-        "start": "2016-04-19 09:00",
-        "end": "2016-04-19 12:00",
+        "id": "517a9381-8557-4b56-adb7-69c3326423bd",
+        "start": "2016-04-19 10:00",
+        "end": "2016-04-19 11:00",
         "title": "Alkushow",
-        "host": "P\u00e4\u00e4toimitus",
-        "prod": "",
-        "desc": ""
+        "host": "Eetu, Mikko ja Helge",
+        "prod": "Jussi",
+        "desc": "Al\u00adkua ja show\u00adta. [L]"
     },
     {
-        "id": "ba580abc-309f-49ab-802d-1153af8088a2",
-        "start": "2016-04-21 00:00",
-        "end": "2016-04-21 07:00",
-        "title": "Y\u00f6ohjelma",
-        "host": "hessu",
-        "prod": "mikki",
-        "desc": ""
+        "id": "9f573006-a6b5-4537-86d7-21337f457cd5",
+        "start": "2016-04-19 11:00",
+        "end": "2016-04-19 14:00",
+        "title": "P\u00e4iv\u00e4risteily",
+        "host": "Nia ja Pirita",
+        "prod": "Jussi",
+        "desc": "Hei me\u00adri\u00admies, olet saa\u00adnut kut\u00adsun kap\u00adtee\u00adnin p\u00f6y\u00adt\u00e4\u00e4n! \u00c4l\u00e4 j\u00e4\u00e4 ran\u00adnoil\u00adle rui\u00adkut\u00adta\u00admaan, vaan l\u00e4h\u00adde mu\u00adkaan p\u00e4i\u00adv\u00e4\u00adris\u00adtei\u00adlyl\u00adle aa\u00advoil\u00adle ra\u00addio\u00adaal\u00adloil\u00adle. P\u00e4i\u00advit\u00adt\u00e4in me\u00adri\u00adtun\u00adnel\u00admaan si\u00adnut joh\u00addat\u00adtaa Nia ja Pi\u00adri\u00adta sek\u00e4 ajoit\u00adtain vaih\u00adtu\u00adva va\u00adkio\u00advie\u00adras. Ris\u00adtei\u00adly\u00adoh\u00adjel\u00admas\u00adsa on lu\u00advas\u00adsa mm. vi\u00adsais\u00adta\u00adkin vi\u00adsai\u00adsem\u00adpi kat\u00adka\u00adra\u00adpu\u00adbin\u00adgo, kor\u00advia hi\u00adve\u00adle\u00adv\u00e4\u00e4 ka\u00adrao\u00adkea sek\u00e4 hui\u00adkea kes\u00adki\u00adp\u00e4i\u00adv\u00e4n show upei\u00adne t\u00e4h\u00adtiar\u00adtis\u00adtei\u00adneen. Kaik\u00adki lai\u00advaan \u2013 All aboard!"
     },
     {
-        "id": "4bbaba06-2358-4579-97fd-9e1f3b689e82",
-        "start": "2016-04-24 18:00",
-        "end": "2016-04-24 19:00",
-        "title": "Ep\u00e4kaupallista ulinaa",
+        "id": "d2f8c700-bc3a-4a42-bd20-55f6653ae1f9",
+        "start": "2016-04-19 14:00",
+        "end": "2016-04-19 15:00",
+        "title": "Oulu vs Tampere",
+        "host": "Ida ja Sanna",
+        "prod": "Jussi",
+        "desc": "Onko Suo\u00admen pa\u00adras Teek\u00adka\u00adriWap\u00adpu Tam\u00adpe\u00adreel\u00adla vai sit\u00adten\u00adkin Ou\u00adlus\u00adsa?\r\n\r\nOh\u00adjel\u00admas\u00adsa ver\u00adtail\u00adlaan Ou\u00adlun ja Tam\u00adpe\u00adreen Wap\u00adpu\u00adta\u00adpah\u00adtu\u00admia ja sel\u00advi\u00adte\u00adt\u00e4\u00e4n pa\u00adrem\u00adpi paik\u00adka Wa\u00adpun viet\u00adtoon juon\u00adta\u00adjien toi\u00adsil\u00adleen aset\u00adta\u00admien haas\u00adtei\u00adden pe\u00adrus\u00adteel\u00adla. Vie\u00adrail\u00adlaan sek\u00e4 Ou\u00adlus\u00adsa ett\u00e4 Tam\u00adpe\u00adreel\u00adla Wap\u00adpu\u00adta\u00adpah\u00adtu\u00admis\u00adsa tark\u00adkai\u00adle\u00admas\u00adsa mei\u00adnin\u00adki\u00e4 ja Wa\u00adpun viet\u00adt\u00e4\u00adji\u00e4. Oh\u00adjel\u00adma si\u00ads\u00e4l\u00adt\u00e4\u00e4 my\u00f6s yh\u00adtei\u00adsen Fuk\u00adsiWa\u00adpun fii\u00adlis\u00adte\u00adly\u00e4 sek\u00e4 mm. tei\u00adni\u00advuo\u00adsien pa\u00adras\u00adta musiik\u00adkia. Ul\u00adko\u00adn\u00e4\u00adk\u00f6\u00adta\u00adkuu."
+    },
+    {
+        "id": "cf08692e-cbf4-42fb-b668-e7d62215ce80",
+        "start": "2016-04-19 15:00",
+        "end": "2016-04-19 17:00",
+        "title": "Yl\u00f6snousemus",
+        "host": "Mikkg & So\u00adli\u00adDi",
+        "prod": "Jussi",
+        "desc": "Hei\u00adt\u00e4 kra\u00advat\u00adti nurk\u00adkaan ja h\u00f6l\u00adl\u00e4\u00e4 kau\u00adlus\u00adpai\u00addan nap\u00adpe\u00adja. Wap\u00adpu\u00adra\u00addion arki-il\u00adta\u00adp\u00e4i\u00advis\u00ads\u00e4 ar\u00admot\u00adto\u00admat ark\u00adkien\u00adke\u00adlit, kel\u00adpo ke\u00adru\u00adbit Mik\u00adko ja Mii\u00adka nos\u00adtat\u00adta\u00advat pit\u00adk\u00e4n ty\u00f6\u00adp\u00e4i\u00adv\u00e4n (tai ei\u00adlis\u00adp\u00e4i\u00adv\u00e4n rien\u00adto\u00adjen) tur\u00adrut\u00adta\u00admat Wap\u00adpu\u00adfii\u00adlik\u00adset kuol\u00adleis\u00adta aina tai\u00advaal\u00adli\u00adsiin sf\u00e4\u00e4\u00adrei\u00adhin asti. Lu\u00advas\u00adsa Wap\u00adpui\u00adsia ki\u00adsai\u00adlui\u00adta, sy\u00adv\u00e4\u00adluo\u00adtaa\u00advaa ana\u00adlyy\u00adsi\u00e4, haas\u00adtat\u00adte\u00adlui\u00adta, toi\u00advot\u00adtua ja toi\u00advo\u00adma\u00adton\u00adta musiik\u00adkia sek\u00e4 pal\u00adjon muu\u00adta. Hyl\u00adk\u00e4\u00e4 hy\u00f6\u00addyt\u00adt\u00f6\u00adm\u00e4t depres\u00adsion de\u00admo\u00adnit ja pit\u00adk\u00e4s\u00adty\u00admi\u00adsen pi\u00adrut. K\u00e4\u00e4n\u00adn\u00e4 kat\u00adsee\u00adsi koh\u00adti yl\u00f6s\u00adnouse\u00admus\u00adta.\r\n"
+    },
+    {
+        "id": "c6020070-60de-42b9-a931-27c42f4a8131",
+        "start": "2016-04-19 17:00",
+        "end": "2016-04-19 19:00",
+        "title": "Peukaloruuvi",
+        "host": "Alvila&kumpp.",
+        "prod": "Jussi",
+        "desc": "Yh\u00adteis\u00adkun\u00adnan yti\u00admeen ja \u00e4r\u00adsyt\u00adt\u00e4\u00adviin il\u00admi\u00f6i\u00adhin pu\u00adreu\u00adtu\u00adva kes\u00adkus\u00adte\u00adlua ai\u00adheut\u00adta\u00adva huu\u00admo\u00adril\u00adla h\u00f6ys\u00adtet\u00adty ajan\u00adkoh\u00adtais\u00adoh\u00adjel\u00adma.\r\n\r\nPeu\u00adka\u00adlo\u00adruu\u00advi ei taa\u00adtus\u00adti j\u00e4t\u00e4 ke\u00adt\u00e4\u00e4n kyl\u00adm\u00e4k\u00adsi. Peu\u00adka\u00adlo\u00adruu\u00advis\u00adsa osan\u00adsa saa\u00advat kaik\u00adki yh\u00adteis\u00adkun\u00adtam\u00adme ha\u00adpa\u00adtuk\u00adsen uh\u00adrit fe\u00admi\u00adnis\u00adteis\u00adt\u00e4 ho\u00admeo\u00adpaat\u00adtei\u00adhin."
+    },
+    {
+        "id": "6e3987de-f203-4224-9b34-5bcbb0407d8f",
+        "start": "2016-04-19 19:00",
+        "end": "2016-04-19 21:00",
+        "title": "Iltap\u00e4ikk\u00e4rit",
         "host": "",
         "prod": "",
-        "desc": ""
+        "desc": "Mur."
     }
 ]
