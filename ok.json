@@ -495,15 +495,6 @@
         "desc": "Mor\u00addo\u00adrin suur\u00adruh\u00adti\u00adnas ja keit\u00adti\u00f6p\u00adsy\u00adko\u00adlo\u00adgian kun\u00adnia\u00adtoh\u00adto\u00adri Pek\u00adka Sau\u00adron opas\u00adtaa mui\u00adta yk\u00adsi\u00adn\u00e4i\u00adsi\u00e4 kul\u00adki\u00adjoi\u00adta l\u00e4pi kyl\u00adm\u00e4n ja su\u00admui\u00adsen ke\u00adv\u00e4\u00adty\u00f6n. Soi\u00adta stu\u00addioon ja ker\u00adro mik\u00e4 sy\u00add\u00e4n\u00adt\u00e4 pai\u00adnaa. V\u00e4\u00adlil\u00adl\u00e4 soi\u00adte\u00adtaan my\u00f6s musii\u00adkik\u00adsi m\u00e4\u00e4\u00adri\u00adtel\u00adt\u00e4\u00advis\u00ads\u00e4 ole\u00advaa kaa\u00adka\u00adtus\u00adta."
     },
     {
-        "id": "d9f23bf8-5a63-45be-91f2-c51069a9bc2c",
-        "start": "2016-04-24 07:00",
-        "end": "2016-04-24 09:00",
-        "title": "Darraspinni",
-        "host": "Spinni",
-        "prod": "Jussi",
-        "desc": "Ot\u00adtaa\u00adko wap\u00adpu ko\u00advil\u00adle? Sat\u00adtuu\u00adko p\u00e4\u00e4\u00adh\u00e4n tai muu\u00adal\u00adle ke\u00adhoon? Ha\u00adluai\u00adsit\u00adko rau\u00adhoit\u00adtua het\u00adken? Kiin\u00adnos\u00adtaa\u00adko hyv\u00e4 musiik\u00adki ja mel\u00adkein yht\u00e4 hy\u00adv\u00e4t ju\u00adtut? Py\u00adh\u00e4\u00adaa\u00admun pi\u00adris\u00adtyk\u00adsek\u00adsi Wap\u00adpu\u00adra\u00addios\u00adsa tar\u00adjoil\u00adlaan peh\u00adme\u00ad\u00e4\u00e4 musiik\u00adkia ja rau\u00adhoit\u00adta\u00advia jut\u00adtu\u00adja ren\u00adtou\u00adtu\u00admi\u00adseen ja sie\u00adlun puh\u00addis\u00adtuk\u00adseen."
-    },
-    {
         "id": "7c067092-f4bc-4884-8914-cd430c89eb43",
         "start": "2016-04-24 09:00",
         "end": "2016-04-24 11:00",
@@ -577,11 +568,20 @@
     },
     {
         "id": "e280a0d1-d062-4084-8acf-3b50bd82cf2c",
-        "start": "2015-12-23 23:00",
-        "end": "2015-12-24 00:00",
+        "start": "2015-12-24 00:00",
+        "end": "2015-12-24 01:00",
         "title": "Testi",
         "host": "Dregu",
         "prod": "Jussi",
-        "desc": "Eku\u00adDance vs My\u00adpa\u00adRock on eri\u00adlai\u00adsia musiik\u00adki\u00adtyy\u00adle\u00adj\u00e4 yh\u00addis\u00adt\u00e4\u00adv\u00e4 kon\u00adsep\u00adti, jos\u00adsa Eku ja Mypa soit\u00adta\u00advat suo\u00adsik\u00adki\u00admusiik\u00adki\u00adaan men\u00adneil\u00adt\u00e4 vuo\u00adsi\u00adkym\u00adme\u00adnil\u00adt\u00e4. Lu\u00advas\u00adsa on siis musiik\u00adki\u00adka\u00adval\u00adka\u00addi, jos\u00adsa juon\u00adta\u00adjat ot\u00adta\u00advat mit\u00adtaa tois\u00adten\u00adsa musiik\u00adki\u00admaa\u00adil\u00admois\u00adta. Kuin\u00adka pit\u00adk\u00e4l\u00adle rok\u00adka\u00adrin rah\u00adkeet riit\u00adt\u00e4\u00adv\u00e4t, vai onko ys\u00e4\u00adri\u00addance yk\u00adk\u00f6\u00adnen? T\u00e4t\u00e4 sun\u00adnun\u00adtain ys\u00adt\u00e4\u00adv\u00e4l\u00adlis\u00admie\u00adlis\u00adt\u00e4 hy\u00adbri\u00addioh\u00adjel\u00admaa ei kan\u00adna\u00adta olla kuun\u00adte\u00adle\u00admat\u00adta!\r\n\r\nOh\u00adjel\u00adman juon\u00adta\u00advat Jo\u00adhan\u00adnes \"Eku\" Ko\u00admu\u00adlai\u00adnen ja Joni \"Mypa\" Aho\u00adla.\r\nStudiossa: Eku & Mypa\r\nTuottaja: Jussi"
+        "desc": "Eku\u00adDance vs My\u00adpa\u00adRock on eri\u00adlai\u00adsia musiik\u00adki\u00adtyy\u00adle\u00adj\u00e4 yh\u00addis\u00adt\u00e4\u00adv\u00e4 kon\u00adsep\u00adti, jos\u00adsa Eku ja Mypa soit\u00adta\u00advat suo\u00adsik\u00adki\u00admusiik\u00adki\u00adaan men\u00adneil\u00adt\u00e4 vuo\u00adsi\u00adkym\u00adme\u00adnil\u00adt\u00e4. Lu\u00advas\u00adsa on siis musiik\u00adki\u00adka\u00adval\u00adka\u00addi, jos\u00adsa juon\u00adta\u00adjat ot\u00adta\u00advat mit\u00adtaa tois\u00adten\u00adsa musiik\u00adki\u00admaa\u00adil\u00admois\u00adta. Kuin\u00adka pit\u00adk\u00e4l\u00adle rok\u00adka\u00adrin rah\u00adkeet riit\u00adt\u00e4\u00adv\u00e4t, vai onko ys\u00e4\u00adri\u00addance yk\u00adk\u00f6\u00adnen? T\u00e4t\u00e4 sun\u00adnun\u00adtain ys\u00adt\u00e4\u00adv\u00e4l\u00adlis\u00admie\u00adlis\u00adt\u00e4 hy\u00adbri\u00addioh\u00adjel\u00admaa ei kan\u00adna\u00adta olla kuun\u00adte\u00adle\u00admat\u00adta!\r\n\r\nOh\u00adjel\u00adman juon\u00adta\u00advat Jo\u00adhan\u00adnes \"Eku\" Ko\u00admu\u00adlai\u00adnen ja Joni \"Mypa\" Aho\u00adla."
+    },
+    {
+        "id": "d9f23bf8-5a63-45be-91f2-c51069a9bc2c",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "Darraspinni",
+        "host": "Spinni",
+        "prod": "Jussi",
+        "desc": "Ottaako wappu koville? Sattuuko p\u00e4\u00e4h\u00e4n tai muualle kehoon? Haluaisitko rauhoittua hetken? Kiinnostaako hyv\u00e4 musiikki ja melkein yht\u00e4 hyv\u00e4t jutut? Pyh\u00e4aamun piristykseksi Wappuradiossa tarjoillaan pehme\u00e4\u00e4 musiikkia ja rauhoittavia juttuja rentoutumiseen ja sielun puhdistukseen."
     }
 ]
