@@ -79,5 +79,14 @@
         "host": "hessu",
         "prod": "mikki",
         "desc": ""
+    },
+    {
+        "id": "4bbaba06-2358-4579-97fd-9e1f3b689e82",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 19:00",
+        "title": "Ep\u00e4kaupallista ulinaa",
+        "host": "",
+        "prod": "",
+        "desc": ""
     }
 ]
