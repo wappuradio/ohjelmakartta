@@ -24,7 +24,7 @@ $(function() {
         },
         slotDuration: '01:00:00',
         firstDay: 1,
-        contentHeight: 640,
+        contentHeight: 'auto',
         slotLabelFormat: 'H:mm',
         dayNamesShort: ['Su', 'Ma', 'Ti', 'Ke', 'To', 'Pe', 'La'],
         week: "d. [MMMM'ta' (YYYY)]{' &ndash; 'd. MMMM'ta' YYYY}",
