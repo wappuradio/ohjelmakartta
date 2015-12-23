@@ -207,15 +207,6 @@
         "desc": "To\u00adtis\u00adta asi\u00adaa yri\u00adtyk\u00adsis\u00adt\u00e4, yrit\u00adt\u00e4\u00admi\u00adses\u00adt\u00e4, yrit\u00adt\u00e4\u00adm\u00e4t\u00adt\u00e4 j\u00e4t\u00adt\u00e4\u00admi\u00adses\u00adt\u00e4. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja ko\u00adpioi par\u00adhaat ideat it\u00adsel\u00adle\u00adsi!"
     },
     {
-        "id": "52fbf133-cce1-4458-acbd-4930bab7f006",
-        "start": "2016-04-23 12:00",
-        "end": "2016-04-23 17:00",
-        "title": "Wappuradio LIVE",
-        "host": "B\u00e4ndit",
-        "prod": "B\u00e4ndit",
-        "desc": "Etu\u00adnurt\u00adsi r\u00e4\u00adj\u00e4h\u00adt\u00e4\u00e4 kun Wap\u00adpu\u00adra\u00addio LI\u00adVEn hui\u00adkeat esiin\u00adty\u00adj\u00e4t as\u00adtu\u00advat la\u00adval\u00adle."
-    },
-    {
         "id": "9e8e0823-c00e-42fd-9c2b-6bd428311034",
         "start": "2016-04-23 12:00",
         "end": "2016-04-23 13:00",
@@ -574,5 +565,14 @@
         "host": "Markus & Tuukka",
         "prod": "Jussi",
         "desc": "Muun\u00adnam\u00adme kos\u00admi\u00adsen taus\u00adta\u00ads\u00e4\u00adtei\u00adlyn v\u00e4\u00adr\u00e4h\u00adte\u00adlyi\u00adt\u00e4 ih\u00admis\u00adkor\u00advan vas\u00adtaa\u00adnot\u00adta\u00admaan 4\/\u200b4-tah\u00adti\u00adja\u00adkoi\u00adseen muo\u00adtoon."
+    },
+    {
+        "id": "52fbf133-cce1-4458-acbd-4930bab7f006",
+        "start": "2016-04-23 12:00",
+        "end": "2016-04-23 17:00",
+        "title": "Wappuradio LIVE",
+        "host": "",
+        "prod": "",
+        "desc": "Etu\u00adnurt\u00adsi r\u00e4\u00adj\u00e4h\u00adt\u00e4\u00e4 kun Wap\u00adpu\u00adra\u00addio LI\u00adVEn hui\u00adkeat esiin\u00adty\u00adj\u00e4t as\u00adtu\u00advat la\u00adval\u00adle."
     }
 ]
