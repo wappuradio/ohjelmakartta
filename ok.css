@@ -1,6 +1,6 @@
 #ohjelmakartta { font-family: sans-serif; }
 #ohjelmakartta input { width: 16.6666%; box-sizing: border-box; height: 30px; line-height: 30px; font-size: 14px; margin-bottom: 15px; }
-#ohjelmakartta input[type=submit] { font-weight: bold; }
+#ohjelmakartta input[type=submit], #ohjelmakartta input[type=button] { font-weight: bold; width: 8.3333% }
 #ohjelmakartta textarea { width: 100%; box-sizing: border-box; height: 100px; margin-bottom: 15px; }
 #ohjelmakartta #lisaa { white-space: nowrap; }
 #ohjelmakartta table { width: 100%; }
