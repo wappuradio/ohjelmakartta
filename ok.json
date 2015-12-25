@@ -574,5 +574,14 @@
         "host": "Ida ja Sanna",
         "prod": "Jussi",
         "desc": "Onko Suo\u00admen pa\u00adras Teek\u00adka\u00adriWap\u00adpu Tam\u00adpe\u00adreel\u00adla vai sit\u00adten\u00adkin Ou\u00adlus\u00adsa?\r\n\r\nOh\u00adjel\u00admas\u00adsa ver\u00adtail\u00adlaan Ou\u00adlun ja Tam\u00adpe\u00adreen Wap\u00adpu\u00adta\u00adpah\u00adtu\u00admia ja sel\u00advi\u00adte\u00adt\u00e4\u00e4n pa\u00adrem\u00adpi paik\u00adka Wa\u00adpun viet\u00adtoon juon\u00adta\u00adjien toi\u00adsil\u00adleen aset\u00adta\u00admien haas\u00adtei\u00adden pe\u00adrus\u00adteel\u00adla. Vie\u00adrail\u00adlaan sek\u00e4 Ou\u00adlus\u00adsa ett\u00e4 Tam\u00adpe\u00adreel\u00adla Wap\u00adpu\u00adta\u00adpah\u00adtu\u00admis\u00adsa tark\u00adkai\u00adle\u00admas\u00adsa mei\u00adnin\u00adki\u00e4 ja Wa\u00adpun viet\u00adt\u00e4\u00adji\u00e4. Oh\u00adjel\u00adma si\u00ads\u00e4l\u00adt\u00e4\u00e4 my\u00f6s yh\u00adtei\u00adsen Fuk\u00adsiWa\u00adpun fii\u00adlis\u00adte\u00adly\u00e4 sek\u00e4 mm. tei\u00adni\u00advuo\u00adsien pa\u00adras\u00adta musiik\u00adkia. Ul\u00adko\u00adn\u00e4\u00adk\u00f6\u00adta\u00adkuu."
+    },
+    {
+        "id": "397a0094-015b-4534-9041-e5f07bd8e6ec",
+        "start": "2016-04-25 00:00",
+        "end": "2016-04-25 07:00",
+        "title": "jotain paskaa",
+        "host": "asd",
+        "prod": "dsa",
+        "desc": "foo"
     }
 ]
