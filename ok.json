@@ -531,15 +531,6 @@
         "desc": "Muun\u00adnam\u00adme kos\u00admi\u00adsen taus\u00adta\u00ads\u00e4\u00adtei\u00adlyn v\u00e4\u00adr\u00e4h\u00adte\u00adlyi\u00adt\u00e4 ih\u00admis\u00adkor\u00advan vas\u00adtaa\u00adnot\u00adta\u00admaan 4\/\u200b4-tah\u00adti\u00adja\u00adkoi\u00adseen muo\u00adtoon."
     },
     {
-        "id": "52fbf133-cce1-4458-acbd-4930bab7f006",
-        "start": "2016-04-23 12:00",
-        "end": "2016-04-23 17:00",
-        "title": "Wappuradio LIVE",
-        "host": "",
-        "prod": "",
-        "desc": "Etu\u00adnurt\u00adsi r\u00e4\u00adj\u00e4h\u00adt\u00e4\u00e4 kun Wap\u00adpu\u00adra\u00addio LI\u00adVEn hui\u00adkeat esiin\u00adty\u00adj\u00e4t as\u00adtu\u00advat la\u00adval\u00adle."
-    },
-    {
         "id": "d9f23bf8-5a63-45be-91f2-c51069a9bc2c",
         "start": "2016-04-24 07:00",
         "end": "2016-04-24 09:00",
@@ -592,5 +583,14 @@
         "host": "Allstars",
         "prod": "Jussi",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed magna et lorem auctor sagittis. Sed elementum est dui, at dignissim felis dapibus at. In hac habitasse platea dictumst. Mauris eu interdum odio, non porttitor nisi. Suspendisse potenti. Nullam nunc lectus, volutpat a dictum sit amet, tincidunt quis felis. Nulla facilisi. Aenean rhoncus venenatis felis, quis semper ligula molestie ut. Quisque vulputate faucibus dolor, a pellentesque justo ornare vitae. Sed felis nulla, tincidunt at erat ut, lobortis gravida dui. Maecenas vitae purus sit amet enim convallis tempus vel id nisl.\r\n\r\nCras vel mi et ex imperdiet faucibus. Nam accumsan erat id leo tempus, eu suscipit nunc condimentum. Nullam dignissim ornare magna, vitae ullamcorper felis. Aenean odio neque, vulputate sit amet nunc convallis, imperdiet pretium risus. Vestibulum lorem erat, venenatis vitae quam ut, suscipit pharetra eros. Nam sit amet ornare elit, fringilla tincidunt tellus. Cras egestas dictum laoreet."
+    },
+    {
+        "id": "52fbf133-cce1-4458-acbd-4930bab7f006",
+        "start": "2016-04-23 12:00",
+        "end": "2016-04-23 17:00",
+        "title": "Wappuradio LIVE",
+        "host": "",
+        "prod": "Jussi pid\u00e4 turhia taukoja",
+        "desc": "Etu\u00adnurt\u00adsi r\u00e4\u00adj\u00e4h\u00adt\u00e4\u00e4 kun Wap\u00adpu\u00adra\u00addio LI\u00adVEn hui\u00adkeat esiin\u00adty\u00adj\u00e4t as\u00adtu\u00advat la\u00adval\u00adle."
     }
 ]
