@@ -583,5 +583,14 @@
         "host": "asd",
         "prod": "dsa",
         "desc": "foo"
+    },
+    {
+        "id": "06d27e58-7808-4d99-8772-e7d356c96c72",
+        "start": "2016-01-04 00:00",
+        "end": "2016-04-18 00:00",
+        "title": "Ohjelman nimi allstars",
+        "host": "Allstars",
+        "prod": "Jussi",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed magna et lorem auctor sagittis. Sed elementum est dui, at dignissim felis dapibus at. In hac habitasse platea dictumst. Mauris eu interdum odio, non porttitor nisi. Suspendisse potenti. Nullam nunc lectus, volutpat a dictum sit amet, tincidunt quis felis. Nulla facilisi. Aenean rhoncus venenatis felis, quis semper ligula molestie ut. Quisque vulputate faucibus dolor, a pellentesque justo ornare vitae. Sed felis nulla, tincidunt at erat ut, lobortis gravida dui. Maecenas vitae purus sit amet enim convallis tempus vel id nisl.\r\n\r\nCras vel mi et ex imperdiet faucibus. Nam accumsan erat id leo tempus, eu suscipit nunc condimentum. Nullam dignissim ornare magna, vitae ullamcorper felis. Aenean odio neque, vulputate sit amet nunc convallis, imperdiet pretium risus. Vestibulum lorem erat, venenatis vitae quam ut, suscipit pharetra eros. Nam sit amet ornare elit, fringilla tincidunt tellus. Cras egestas dictum laoreet."
     }
 ]
