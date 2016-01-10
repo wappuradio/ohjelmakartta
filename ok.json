@@ -54,15 +54,6 @@
         "desc": "Stu\u00addios\u00adsa tuok\u00adsuu vie\u00adnos\u00adti kala kun kak\u00adsi kau\u00adnis\u00adta met\u00ads\u00e4s\u00adtyk\u00adsen ja ka\u00adlas\u00adtuk\u00adsen asian\u00adtun\u00adti\u00adjaa val\u00admis\u00adtau\u00adtu\u00advat pal\u00adjas\u00adta\u00admaan kaik\u00adki sa\u00adlai\u00adsim\u00admat saa\u00adlis\u00adtus\u00adnik\u00adsin\u00ads\u00e4. Kiin\u00adnos\u00adtaa\u00adkaa Catch'n'\u00adRe\u00adlea\u00adse? Mit\u00e4 v\u00e4\u00adli\u00adnei\u00adt\u00e4 tar\u00advit\u00adsee t\u00e4y\u00addel\u00adli\u00adseen kaa\u00adtoon? Mis\u00ads\u00e4 v\u00e4i\u00adjy\u00e4 saa\u00adlis\u00adta? Ke\u00adnen rei\u00e4l\u00adl\u00e4 pilk\u00adki\u00e4? Saa\u00adko kaik\u00adkial\u00adla kai\u00adra\u00adta? Onko sil\u00adl\u00e4 va\u00advan mi\u00adtal\u00adla v\u00e4\u00adli\u00e4? Ota vir\u00adve\u00adli\u00adsi esiin ja val\u00admis\u00adtau\u00addu, sil\u00adl\u00e4 t\u00e4m\u00e4 kak\u00adsik\u00adko ei tee sa\u00adla\u00adkaa\u00adto\u00adja."
     },
     {
-        "id": "a49771e6-a6dc-4925-a263-214185eaa0ba",
-        "start": "2016-04-19 22:00",
-        "end": "2016-04-20 00:00",
-        "title": "Pyrometallurgie",
-        "host": "Anna & Henri",
-        "prod": "Jussi",
-        "desc": "Sak\u00adsa\u00adlais\u00adta musiik\u00adkia me\u00adtal\u00adlil\u00adla ja il\u00adman, th\u00adras\u00adhis\u00adta NDH:n kaut\u00adta rok\u00adkiin ja ta\u00adkai\u00adsin. B\u00e4n\u00adde\u00adj\u00e4 joi\u00adta olet kuul\u00adlut, b\u00e4n\u00adde\u00adj\u00e4 jois\u00adta olet kuul\u00adlut ja b\u00e4n\u00adde\u00adj\u00e4 jois\u00adta ku\u00adkaan ei ole kuul\u00adlut! My\u00f6s sak\u00adsa\u00adlai\u00adset ovat teh\u00adneet musiik\u00adkia ja t\u00e4s\u00ads\u00e4 l\u00e4\u00adhe\u00adtyk\u00adses\u00ads\u00e4 sel\u00advi\u00ad\u00e4\u00e4, mil\u00adlais\u00adta."
-    },
-    {
         "id": "5df1fbd9-c46c-4b1f-b2be-d407bfb49f53",
         "start": "2016-04-20 00:00",
         "end": "2016-04-20 07:00",
@@ -70,15 +61,6 @@
         "host": "Il\u00adma\u00adri, Mik\u00adko, Mi\u00adkael",
         "prod": "Jussi",
         "desc": "Herwan\u00adnan no\u00adpein rak\u00adkaus- ja rau\u00adha-aat\u00adtei\u00adnen ur\u00adbaa\u00adnin ryt\u00admi\u00admusii\u00adkin y\u00f6\u00adra\u00addio. Ti\u00addeos\u00adsa pal\u00adjon eten\u00adkin laa\u00addu\u00adkas\u00adta rap-musiik\u00adkia y\u00f6n pik\u00adku\u00adtun\u00adtien ra\u00adtok\u00adsi."
-    },
-    {
-        "id": "cc192c95-1505-429e-ac25-68625855878e",
-        "start": "2016-04-20 07:00",
-        "end": "2016-04-20 09:00",
-        "title": "Py\u00f6riv\u00e4t muumit",
-        "host": "Puh ja Rokka",
-        "prod": "Jussi vet\u00e4\u00e4 pitk\u00e4\u00e4 p\u00e4iv\u00e4\u00e4",
-        "desc": "J\u00e4t\u00e4 vai\u00admo. J\u00e4t\u00e4 lap\u00adset. L\u00e4h\u00adde t\u00f6i\u00adhin! Py\u00f6\u00adri\u00adv\u00e4t muu\u00admit is\u00adkee kuin tu\u00adhat hat\u00adti\u00advat\u00adtia! T\u00e4s\u00ads\u00e4 aa\u00admuoh\u00adjel\u00admas\u00adsa Taru ja Ant\u00adti kes\u00adkus\u00adte\u00adle\u00advat va\u00adka\u00advas\u00adti j\u00e4r\u00adke\u00advis\u00adt\u00e4 ai\u00adheis\u00adta sek\u00e4 soit\u00adta\u00advat tut\u00adtua ja tur\u00adval\u00adlis\u00adta, mel\u00adko aja\u00adtuk\u00adsia he\u00adr\u00e4t\u00adt\u00e4\u00adm\u00e4\u00adt\u00f6n\u00adt\u00e4 musiik\u00adkia."
     },
     {
         "id": "b5024fb5-c62c-4ad0-9975-642e7814cf2d",
@@ -592,5 +574,23 @@
         "host": "",
         "prod": "Jussi pid\u00e4 turhia taukoja",
         "desc": "Etu\u00adnurt\u00adsi r\u00e4\u00adj\u00e4h\u00adt\u00e4\u00e4 kun Wap\u00adpu\u00adra\u00addio LI\u00adVEn hui\u00adkeat esiin\u00adty\u00adj\u00e4t as\u00adtu\u00advat la\u00adval\u00adle."
+    },
+    {
+        "id": "a49771e6-a6dc-4925-a263-214185eaa0ba",
+        "start": "2016-04-19 22:00",
+        "end": "2016-04-20 00:00",
+        "title": "Pyrometallurgie",
+        "host": "Anna & Henri",
+        "prod": "Jussi",
+        "desc": "dakjnaduhvo\u00f6urnv\u00f6oankjnewf"
+    },
+    {
+        "id": "cc192c95-1505-429e-ac25-68625855878e",
+        "start": "2016-04-20 07:00",
+        "end": "2016-04-20 09:00",
+        "title": "Py\u00f6riv\u00e4t koomarit",
+        "host": "jotkut ihan muut",
+        "prod": "Jussi vet\u00e4\u00e4 pitk\u00e4\u00e4 p\u00e4iv\u00e4\u00e4",
+        "desc": "J\u00e4t\u00e4 vai\u00admo. J\u00e4t\u00e4 lap\u00adset. L\u00e4h\u00adde t\u00f6i\u00adhin! Py\u00f6\u00adri\u00adv\u00e4t muu\u00admit is\u00adkee kuin tu\u00adhat hat\u00adti\u00advat\u00adtia! T\u00e4s\u00ads\u00e4 aa\u00admuoh\u00adjel\u00admas\u00adsa Taru ja Ant\u00adti kes\u00adkus\u00adte\u00adle\u00advat va\u00adka\u00advas\u00adti j\u00e4r\u00adke\u00advis\u00adt\u00e4 ai\u00adheis\u00adta sek\u00e4 soit\u00adta\u00advat tut\u00adtua ja tur\u00adval\u00adlis\u00adta, mel\u00adko aja\u00adtuk\u00adsia he\u00adr\u00e4t\u00adt\u00e4\u00adm\u00e4\u00adt\u00f6n\u00adt\u00e4 musiik\u00adkia."
     }
 ]
