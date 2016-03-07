@@ -1,14 +1,5 @@
 [
     {
-        "id": "56e42acb-dc3f-4ca9-bf23-0c59cb7d79f5",
-        "start": "2016-04-19 16:00",
-        "end": "2016-04-19 18:00",
-        "title": "Matin rock yms",
-        "host": "Matti",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
         "start": "2016-04-19 18:00",
         "end": "2016-04-19 20:00",
@@ -249,6 +240,717 @@
         "title": "hyv\u00e4 se o!",
         "host": "dregu",
         "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "56e42acb-dc3f-4ca9-bf23-0c59cb7d79f5",
+        "start": "2016-04-19 16:00",
+        "end": "2016-04-19 18:00",
+        "title": "Matin rock tms",
+        "host": "Matti",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
+        "start": "2016-04-20 20:00",
+        "end": "2016-04-20 22:00",
+        "title": "Olutradio",
+        "host": "Tommmi, Kekki",
+        "prod": "Pilkki",
+        "desc": ""
+    },
+    {
+        "id": "16e78623-07cf-408a-b990-02d2e94c9352",
+        "start": "2016-04-20 18:00",
+        "end": "2016-04-20 20:00",
+        "title": "TTYkitys",
+        "host": "Ville V",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
+        "start": "2016-04-20 16:00",
+        "end": "2016-04-20 18:00",
+        "title": "Internationals",
+        "host": "Albert, Elsa, Markus",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
+        "start": "2016-04-20 22:00",
+        "end": "2016-04-21 00:00",
+        "title": "Maxwellin epyht\u00e4l\u00f6t",
+        "host": "Lauhanen",
+        "prod": "Vuokko",
+        "desc": ""
+    },
+    {
+        "id": "322f6a49-5781-4d47-aa7c-a7c0eb39cce6",
+        "start": "2016-04-21 00:00",
+        "end": "2016-04-21 07:00",
+        "title": "Tekniikan Mikan blues",
+        "host": "Mika, Jaakko",
+        "prod": "Joonas",
+        "desc": ""
+    },
+    {
+        "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
+        "start": "2016-04-21 16:00",
+        "end": "2016-04-21 18:00",
+        "title": "Kukkia, kielimoukareita ja r\u00e4imett\u00e4",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": ""
+    },
+    {
+        "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
+        "start": "2016-04-21 18:00",
+        "end": "2016-04-21 20:00",
+        "title": "DDR:n Naisvoimistelijoiden Totuusradio",
+        "host": "Arttu, Tuomas",
+        "prod": "Lasse T.",
+        "desc": ""
+    },
+    {
+        "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
+        "start": "2016-04-21 20:00",
+        "end": "2016-04-21 22:00",
+        "title": "Qma latinoradio",
+        "host": "Henna, Kaisa",
+        "prod": "Ketku",
+        "desc": ""
+    },
+    {
+        "id": "df49c01e-74df-4fc1-92c6-025b947902ff",
+        "start": "2016-04-21 22:00",
+        "end": "2016-04-22 00:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana, Viivi",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "Ilkka, Jaakko S, TVIK",
+        "prod": "mutsku",
+        "desc": ""
+    },
+    {
+        "id": "2f2185c5-ce63-4e54-a886-b9a64b773824",
+        "start": "2016-04-22 16:00",
+        "end": "2016-04-22 18:00",
+        "title": "Kukkia, kielimoukareita ja r\u00e4imett\u00e4",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": ""
+    },
+    {
+        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
+        "start": "2016-04-22 20:00",
+        "end": "2016-04-22 22:00",
+        "title": "Maikeyn ja Tintin EDM kekrit",
+        "host": "Maikey, Laura R",
+        "prod": "delta_cephei",
+        "desc": ""
+    },
+    {
+        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
+        "start": "2016-04-22 22:00",
+        "end": "2016-04-23 00:00",
+        "title": "Levyinkvisitio",
+        "host": "Tuomo, Jesse",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
+        "start": "2016-04-23 00:00",
+        "end": "2016-04-23 07:00",
+        "title": "Tummuva y\u00f6",
+        "host": "Donaldi, Hiihu",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
+        "start": "2016-04-23 07:00",
+        "end": "2016-04-23 09:00",
+        "title": "Nousevan Auringon (Maan) Aamushow",
+        "host": "Lahis, Delta102, FireFlower",
+        "prod": "Wunderkind",
+        "desc": ""
+    },
+    {
+        "id": "73a5417d-0a70-4111-ae4d-ed30f0918e87",
+        "start": "2016-04-23 09:00",
+        "end": "2016-04-23 11:00",
+        "title": "Tukanheiluttajain tanssigaala",
+        "host": "Tuomas, Pawes",
+        "prod": "JP",
+        "desc": ""
+    },
+    {
+        "id": "a1a614a5-c164-4135-bf20-2ab63204d181",
+        "start": "2016-04-30 10:00",
+        "end": "2016-04-30 12:00",
+        "title": "Tukanheiluttajain tanssigaala",
+        "host": "Tuomas, Pawes",
+        "prod": "JP",
+        "desc": ""
+    },
+    {
+        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
+        "start": "2016-04-23 11:00",
+        "end": "2016-04-23 13:00",
+        "title": "Jannen js Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
+        "start": "2016-04-24 11:00",
+        "end": "2016-04-24 13:00",
+        "title": "Jannen js Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
+        "start": "2016-04-23 13:00",
+        "end": "2016-04-23 15:00",
+        "title": "Rietasta el\u00e4m\u00e4\u00e4",
+        "host": "Pirita, Nia",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "09c2cfb0-743f-4408-95f4-50d82ed7b147",
+        "start": "2016-04-23 15:00",
+        "end": "2016-04-23 17:00",
+        "title": "H\u00e4t\u00e4varaslotti",
+        "host": "",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
+        "start": "2016-04-23 22:00",
+        "end": "2016-04-24 00:00",
+        "title": "Sceneradio",
+        "host": "Vuokko, Henri, Petri, Spiikki",
+        "prod": "Vuokko",
+        "desc": ""
+    },
+    {
+        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
+        "start": "2016-04-23 20:00",
+        "end": "2016-04-23 22:00",
+        "title": "EkuDance",
+        "host": "Eku",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
+        "start": "2016-04-23 17:00",
+        "end": "2016-04-23 20:00",
+        "title": "Energiakeijot pelastaa maailman!",
+        "host": "Tumu, Pena",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
+        "start": "2016-04-24 00:00",
+        "end": "2016-04-24 07:00",
+        "title": "Showroom Dummies + Y\u00f6aalto",
+        "host": "June, Otto",
+        "prod": "Vuokko",
+        "desc": ""
+    },
+    {
+        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "NeoTampere",
+        "host": "Markus H, Akseli L",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
+        "start": "2016-04-24 09:00",
+        "end": "2016-04-24 11:00",
+        "title": "Kaksi mielt\u00e4",
+        "host": "Matzi, Lorenz0",
+        "prod": "Veli-V",
+        "desc": ""
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 21:00",
+        "title": "Kurkun oma ohjelma",
+        "host": "Kurkku, Teemu, Juho",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
+        "start": "2016-04-24 23:00",
+        "end": "2016-04-25 00:00",
+        "title": "Hiukkasviihdytin",
+        "host": "Jaakko S",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
+        "start": "2016-04-24 21:00",
+        "end": "2016-04-24 23:00",
+        "title": "Kallen ja Tomin oma ohjelma",
+        "host": "Tuomola, Miikkulainen",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "d03554db-f384-4eb6-886c-ad89338956f6",
+        "start": "2016-04-25 00:00",
+        "end": "2016-04-25 07:00",
+        "title": "Kuun pime\u00e4 puoli",
+        "host": "zordiack, H\u00f6yss\u00e4",
+        "prod": "roope",
+        "desc": ""
+    },
+    {
+        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
+        "start": "2016-04-25 07:00",
+        "end": "2016-04-25 09:00",
+        "title": "Moottoritie on liukas",
+        "host": "Puh ja kaverit",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
+        "start": "2016-04-25 09:00",
+        "end": "2016-04-25 11:00",
+        "title": "Aamukahvia ja ADHD",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
+        "start": "2016-04-26 07:00",
+        "end": "2016-04-26 09:00",
+        "title": "Moottoritie on liukas",
+        "host": "Puh ja kaverit",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
+        "start": "2016-04-27 07:00",
+        "end": "2016-04-27 09:00",
+        "title": "Moottoritie on liukas",
+        "host": "Puh ja kaverit",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
+        "start": "2016-04-28 07:00",
+        "end": "2016-04-28 09:00",
+        "title": "Moottoritie on liukas",
+        "host": "Puh ja kaverit",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Moottoritie on liukas",
+        "host": "Puh ja kaverit",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
+        "start": "2016-04-26 09:00",
+        "end": "2016-04-26 11:00",
+        "title": "Aamukahvia ja ADHD",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
+        "start": "2016-04-27 09:00",
+        "end": "2016-04-27 11:00",
+        "title": "Aamukahvia ja ADHD",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
+        "start": "2016-04-28 09:00",
+        "end": "2016-04-28 11:00",
+        "title": "Aamukahvia ja ADHD",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
+        "start": "2016-04-29 09:00",
+        "end": "2016-04-29 11:00",
+        "title": "Aamukahvia ja ADHD",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
+        "start": "2016-04-25 13:00",
+        "end": "2016-04-25 14:00",
+        "title": "Huoratunti",
+        "host": "Maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
+        "start": "2016-04-26 13:00",
+        "end": "2016-04-26 14:00",
+        "title": "Huoratunti",
+        "host": "Maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
+        "start": "2016-04-28 13:00",
+        "end": "2016-04-28 14:00",
+        "title": "Huoratunti",
+        "host": "Maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
+        "start": "2016-04-27 13:00",
+        "end": "2016-04-27 14:00",
+        "title": "Huoratunti",
+        "host": "Maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
+        "start": "2016-04-29 13:00",
+        "end": "2016-04-29 14:00",
+        "title": "Huoratunti",
+        "host": "Maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
+        "start": "2016-04-25 20:00",
+        "end": "2016-04-25 21:00",
+        "title": "Trance Session With J.A.Z.P.",
+        "host": "Janne S.",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
+        "start": "2016-04-25 14:00",
+        "end": "2016-04-25 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
+        "start": "2016-04-26 14:00",
+        "end": "2016-04-26 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
+        "start": "2016-04-27 14:00",
+        "end": "2016-04-27 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
+        "start": "2016-04-28 14:00",
+        "end": "2016-04-28 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "0faaf665-a5d9-4e88-96b8-1357f9165bfe",
+        "start": "2016-04-29 14:00",
+        "end": "2016-04-29 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
+        "start": "2016-04-25 16:00",
+        "end": "2016-04-25 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "52e54871-2f72-4b38-9f77-2bb1ceb63e4f",
+        "start": "2016-04-27 16:00",
+        "end": "2016-04-27 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "18207eb2-799d-40c3-939e-92b1dcdceb01",
+        "start": "2016-04-29 16:00",
+        "end": "2016-04-29 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
+        "start": "2016-04-25 21:00",
+        "end": "2016-04-26 00:00",
+        "title": "Suomen soramontut v\u00e4rikuvina",
+        "host": "S\u00e4kkinen",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
+        "start": "2016-04-26 16:00",
+        "end": "2016-04-26 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": ""
+    },
+    {
+        "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
+        "start": "2016-04-26 18:00",
+        "end": "2016-04-26 20:00",
+        "title": "Klassisrock",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": ""
+    },
+    {
+        "id": "ea348754-750b-4799-9182-b479aa8b9572",
+        "start": "2016-04-26 20:00",
+        "end": "2016-04-26 22:00",
+        "title": "Tekniikan radio",
+        "host": "Eric, Ninnu",
+        "prod": "shiona",
+        "desc": ""
+    },
+    {
+        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
+        "start": "2016-04-26 22:00",
+        "end": "2016-04-27 00:00",
+        "title": "Kadonnut 00.luku",
+        "host": "Lahis, Reimann",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "d15b6633-b088-4244-a3e3-afbed9310361",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Janne K",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "a92010a0-6348-4640-9ee5-5fd672ea50bb",
+        "start": "2016-04-27 22:00",
+        "end": "2016-04-28 00:00",
+        "title": "Ska-punk-meininki radalla",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "mutsku",
+        "desc": ""
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Janne K",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
+        "start": "2016-04-28 16:00",
+        "end": "2016-04-28 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": ""
+    },
+    {
+        "id": "527d22a5-7459-4ba0-aba2-320ac3f0c200",
+        "start": "2016-04-28 18:00",
+        "end": "2016-04-28 20:00",
+        "title": "Klassisrock",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": ""
+    },
+    {
+        "id": "29318e76-9f5b-4678-a5dd-c3fcec6bb8d5",
+        "start": "2016-04-28 20:00",
+        "end": "2016-04-28 22:00",
+        "title": "Is\u00e4n levykaapilla",
+        "host": "Wilho, MiRa",
+        "prod": "Keba",
+        "desc": ""
+    },
+    {
+        "id": "9da741a2-8f9a-4e50-b967-23f6cd39b2e2",
+        "start": "2016-04-28 22:00",
+        "end": "2016-04-29 00:00",
+        "title": "Koiratarha radalla",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "roope",
+        "desc": ""
+    },
+    {
+        "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
+        "start": "2016-04-26 00:00",
+        "end": "2016-04-26 07:00",
+        "title": "Soihdut sammuu",
+        "host": "Veli-V, Maketzu",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
+        "start": "2016-04-27 00:00",
+        "end": "2016-04-27 07:00",
+        "title": "Illuminati",
+        "host": "mutsku ja muut",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
+        "start": "2016-04-28 00:00",
+        "end": "2016-04-28 07:00",
+        "title": "Rytmimuna",
+        "host": "Ilmari, Mikko",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
+        "start": "2016-04-29 00:00",
+        "end": "2016-04-29 07:00",
+        "title": "Spoiler Alert",
+        "host": "Kuisma, Vimpeli",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
+        "start": "2016-04-29 18:00",
+        "end": "2016-04-29 20:00",
+        "title": "Herkistelyradio",
+        "host": "Anna, zordiack",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Siljander, Henna, MiRa",
+        "prod": "JSuvanto",
+        "desc": ""
+    },
+    {
+        "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
+        "start": "2016-04-29 22:00",
+        "end": "2016-04-30 00:00",
+        "title": "Elokuvien B-puoli",
+        "host": "Olli E, Tuomas K",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "c9d02de4-ebb5-410d-be31-d0df7a2606b0",
+        "start": "2016-04-30 00:00",
+        "end": "2016-04-30 07:00",
+        "title": "Pekka Sauronin y\u00f6radio",
+        "host": "Pekka Sauron",
+        "prod": "Dildo Peppuli",
+        "desc": ""
+    },
+    {
+        "id": "c5a8a4d9-bfc1-4080-9266-c2b4688f4fcc",
+        "start": "2016-04-30 07:00",
+        "end": "2016-04-30 10:00",
+        "title": "Morning glory",
+        "host": "Lorens, AnRai, Kaisa",
+        "prod": "Markka",
+        "desc": ""
+    },
+    {
+        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
+        "start": "2016-04-30 12:00",
+        "end": "2016-04-30 15:00",
+        "title": "Loppushow",
+        "host": "",
+        "prod": "KukaKumma",
         "desc": ""
     }
 ]
