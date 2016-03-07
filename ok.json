@@ -9,15 +9,6 @@
         "desc": ""
     },
     {
-        "id": "87543496-be23-4d65-a853-36d8a8480c46",
-        "start": "2016-04-19 14:00",
-        "end": "2016-04-19 16:00",
-        "title": "HYPE!",
-        "host": "Keba, PunaJussi, Helge",
-        "prod": "KukaKumma",
-        "desc": ""
-    },
-    {
         "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
         "start": "2016-04-19 18:00",
         "end": "2016-04-19 20:00",
@@ -243,15 +234,6 @@
         "desc": ""
     },
     {
-        "id": "9b248a30-3629-4ded-bad0-3dd58d769e94",
-        "start": "",
-        "end": "",
-        "title": "",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "969703db-65a7-4d0c-be86-913a13ab0c01",
         "start": "2016-04-19 14:00",
         "end": "2016-04-19 16:00",
@@ -261,39 +243,12 @@
         "desc": ""
     },
     {
-        "id": "4abf242c-1f73-4a30-8af7-2d0a4da417e3",
-        "start": "",
-        "end": "",
-        "title": "",
-        "host": "",
+        "id": "232f3449-9542-4b0c-bcd7-9ded396ee305",
+        "start": "2016-04-18 03:00",
+        "end": "2016-04-18 06:00",
+        "title": "hyv\u00e4 se o!",
+        "host": "dregu",
         "prod": "",
         "desc": ""
-    },
-    {
-        "id": "0af56cd9-7fc1-4896-9ec2-e5faba800f2b",
-        "start": "2016-04-19 01:00",
-        "end": "2016-04-19 07:00",
-        "title": "x",
-        "host": "y",
-        "prod": "z",
-        "desc": ""
-    },
-    {
-        "id": "03b47bf0-968d-4009-9604-68e32414ec5c",
-        "start": "2016-04-19 01:00",
-        "end": "2016-04-20 10:00",
-        "title": "",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "90edf365-ef4e-447f-bc6c-10631ebe6e2d",
-        "start": "2016-04-18 14:00",
-        "end": "2016-04-18 16:00",
-        "title": "HYPE!",
-        "host": "Keba, PunaJussi, Helge",
-        "prod": "KukaKumma",
-        "desc": "Laktoositon."
     }
 ]

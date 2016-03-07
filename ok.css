@@ -7,8 +7,4 @@
 #ohjelmakartta #lista th { text-align: left; width: 16.666%; }
 #ohjelmakartta #lista td { width: 16.666% }
 #ohjelmakartta .delete { float: right; }
-#ohjelmakartta .easy-autocomplete { display: inline; position: relative; }
-#ohjelmakartta .easy-autocomplete-container { position: absolute; left: 0; background: white; margin: -10px 0 0 5px; }
-#ohjelmakartta .easy-autocomplete-container ul { list-style-type: none; padding: 0; margin: 0; }
-#ohjelmakartta .easy-autocomplete-container li { margin: 0; color: black; }
-#ohjelmakartta .easy-autocomplete-container li.selected { background: #abcdef; }
+#ohjelmakartta .fail { border-color: red; }

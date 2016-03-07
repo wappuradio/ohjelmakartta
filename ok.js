@@ -24,7 +24,8 @@ $(function() {
         },
         slotDuration: '01:00:00',
         firstDay: 1,
-        contentHeight: 'auto',
+        //contentHeight: 'auto',
+        height: 'auto',
         slotLabelFormat: 'H:mm',
         dayNamesShort: ['Su', 'Ma', 'Ti', 'Ke', 'To', 'Pe', 'La'],
         week: "d. [MMMM'ta' (YYYY)]{' &ndash; 'd. MMMM'ta' YYYY}",
@@ -114,13 +115,26 @@ $(function() {
                 return v.toString(16);
             }));
         }
-        if(!moment($('input#ohjelmakartta [name=start]').val()).isValid()) return false;
-        if(!moment($('input#ohjelmakartta [name=end]').val()).isValid()) return false;
+        var parseStart = moment($('#ohjelmakartta [name=start]').val(), 'YYYY-MM-DD HH:mm', true);
+        var parseEnd = moment($('#ohjelmakartta [name=end]').val(), 'YYYY-MM-DD HH:mm', true);
+        var fail = false;
+        if(!parseStart.isValid()) {
+            $('#ohjelmakartta [name=start]').addClass('fail');
+            fail = true;
+        }
+        if(!parseEnd.isValid()) {
+            $('#ohjelmakartta [name=end]').addClass('fail');
+            fail = true;
+        }
+        if(fail) return false;
+        $('#ohjelmakartta [name=start]').val(parseStart.format('YYYY-MM-DD HH:mm'));
+        $('#ohjelmakartta [name=end]').val(parseEnd.format('YYYY-MM-DD HH:mm'));
         $.post('/okdb/ok.php', $('#lisaa').serialize(), function(data) {
             $('#calendar').fullCalendar('unselect');
-            $('#calendar').fullCalendar('refetchEvents')
+            $('#calendar').fullCalendar('refetchEvents');
         });
         $('#lisaa')[0].reset();
+        $('#ohjelmakartta input').removeClass('fail');
         return false;
     });
     $('#lista').on('click', '.event', function(e) {
