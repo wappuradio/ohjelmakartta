@@ -666,42 +666,6 @@
         "desc": ""
     },
     {
-        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
-        "start": "2016-04-25 14:00",
-        "end": "2016-04-25 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
-        "start": "2016-04-26 14:00",
-        "end": "2016-04-26 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
-        "start": "2016-04-27 14:00",
-        "end": "2016-04-27 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
-        "start": "2016-04-28 14:00",
-        "end": "2016-04-28 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
         "id": "0faaf665-a5d9-4e88-96b8-1357f9165bfe",
         "start": "2016-04-29 14:00",
         "end": "2016-04-29 16:00",
@@ -927,15 +891,6 @@
         "desc": ""
     },
     {
-        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
-        "start": "2016-04-29 20:00",
-        "end": "2016-04-29 22:00",
-        "title": "Musiikin Kuuntelu Ohjelma",
-        "host": "Siljander, Henna, MiRa",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
         "start": "2016-04-23 00:00",
         "end": "2016-04-23 07:00",
@@ -951,6 +906,51 @@
         "title": "EkuDance",
         "host": "Eku, KukaKumma",
         "prod": "shiona",
+        "desc": ""
+    },
+    {
+        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
+        "start": "2016-04-28 14:00",
+        "end": "2016-04-28 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander, Jaketus",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Siljander, Henna, MiRa",
+        "prod": "Jaketus",
+        "desc": ""
+    },
+    {
+        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
+        "start": "2016-04-25 14:00",
+        "end": "2016-04-25 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander, Jaketus",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
+        "start": "2016-04-26 14:00",
+        "end": "2016-04-26 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander, Jaketus",
+        "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
+        "start": "2016-04-27 14:00",
+        "end": "2016-04-27 16:00",
+        "title": "Kahvitunti",
+        "host": "Siljander, Jaketus",
+        "prod": "JElf",
         "desc": ""
     }
 ]
