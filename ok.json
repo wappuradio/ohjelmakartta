@@ -369,15 +369,6 @@
         "desc": ""
     },
     {
-        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
-        "start": "2016-04-23 00:00",
-        "end": "2016-04-23 07:00",
-        "title": "Tummuva y\u00f6",
-        "host": "Donaldi, Hiihu",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
         "start": "2016-04-23 07:00",
         "end": "2016-04-23 09:00",
@@ -447,15 +438,6 @@
         "title": "Sceneradio",
         "host": "Vuokko, Henri, Petri, Spiikki",
         "prod": "Vuokko",
-        "desc": ""
-    },
-    {
-        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
-        "start": "2016-04-23 20:00",
-        "end": "2016-04-23 22:00",
-        "title": "EkuDance",
-        "host": "Eku",
-        "prod": "KukaKumma",
         "desc": ""
     },
     {
@@ -909,15 +891,6 @@
         "desc": ""
     },
     {
-        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
-        "start": "2016-04-29 20:00",
-        "end": "2016-04-29 22:00",
-        "title": "Musiikin Kuuntelu Ohjelma",
-        "host": "Siljander, Henna, MiRa",
-        "prod": "JSuvanto",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -951,6 +924,33 @@
         "title": "Loppushow",
         "host": "",
         "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Siljander, Henna, MiRa",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
+        "start": "2016-04-23 00:00",
+        "end": "2016-04-23 07:00",
+        "title": "Tummuva y\u00f6",
+        "host": "Donaldi, Hiihu",
+        "prod": "manty",
+        "desc": ""
+    },
+    {
+        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
+        "start": "2016-04-23 20:00",
+        "end": "2016-04-23 22:00",
+        "title": "EkuDance",
+        "host": "Eku, KukaKumma",
+        "prod": "shiona",
         "desc": ""
     }
 ]
