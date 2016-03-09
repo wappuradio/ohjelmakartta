@@ -450,15 +450,6 @@
         "desc": ""
     },
     {
-        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
-        "start": "2016-04-24 07:00",
-        "end": "2016-04-24 09:00",
-        "title": "NeoTampere",
-        "host": "Markus H, Akseli L",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
         "start": "2016-04-24 09:00",
         "end": "2016-04-24 11:00",
@@ -943,5 +934,14 @@
         "host": "Siljander, Jaketus",
         "prod": "JElf",
         "desc": ""
+    },
+    {
+        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "Neo-Tampere",
+        "host": "sateenropinaa, Akseli L",
+        "prod": "",
+        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     }
 ]
