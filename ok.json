@@ -72,15 +72,6 @@
         "desc": ""
     },
     {
-        "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
-        "start": "2016-04-20 13:00",
-        "end": "2016-04-20 14:00",
-        "title": "Huoratunti?",
-        "host": "SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
         "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
         "start": "2016-04-20 14:00",
         "end": "2016-04-20 16:00",
@@ -141,24 +132,6 @@
         "title": "Kenveskip\u00e4iv\u00e4",
         "host": "Tebo, Helky, Mutsku",
         "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "fc622df9-4e89-49d6-a31b-8c692f5e0728",
-        "start": "2016-04-21 13:00",
-        "end": "2016-04-21 14:00",
-        "title": "Huoratunti?",
-        "host": "SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
-        "start": "2016-04-22 13:00",
-        "end": "2016-04-22 14:00",
-        "title": "Huoratunti?",
-        "host": "SoliDi",
-        "prod": "zar",
         "desc": ""
     },
     {
@@ -495,57 +468,12 @@
         "desc": ""
     },
     {
-        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
-        "start": "2016-04-25 07:00",
-        "end": "2016-04-25 09:00",
-        "title": "Moottoritie on liukas",
-        "host": "Puh ja kaverit",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
         "start": "2016-04-25 09:00",
         "end": "2016-04-25 11:00",
         "title": "Aamukahvia ja ADHD",
         "host": "Keba, Wenla, Henni",
         "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
-        "start": "2016-04-26 07:00",
-        "end": "2016-04-26 09:00",
-        "title": "Moottoritie on liukas",
-        "host": "Puh ja kaverit",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
-        "start": "2016-04-27 07:00",
-        "end": "2016-04-27 09:00",
-        "title": "Moottoritie on liukas",
-        "host": "Puh ja kaverit",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
-        "start": "2016-04-28 07:00",
-        "end": "2016-04-28 09:00",
-        "title": "Moottoritie on liukas",
-        "host": "Puh ja kaverit",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
-        "start": "2016-04-29 07:00",
-        "end": "2016-04-29 09:00",
-        "title": "Moottoritie on liukas",
-        "host": "Puh ja kaverit",
-        "prod": "",
         "desc": ""
     },
     {
@@ -582,51 +510,6 @@
         "title": "Aamukahvia ja ADHD",
         "host": "Keba, Wenla, Henni",
         "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
-        "start": "2016-04-25 13:00",
-        "end": "2016-04-25 14:00",
-        "title": "Huoratunti",
-        "host": "Maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
-        "start": "2016-04-26 13:00",
-        "end": "2016-04-26 14:00",
-        "title": "Huoratunti",
-        "host": "Maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
-        "start": "2016-04-28 13:00",
-        "end": "2016-04-28 14:00",
-        "title": "Huoratunti",
-        "host": "Maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
-        "start": "2016-04-27 13:00",
-        "end": "2016-04-27 14:00",
-        "title": "Huoratunti",
-        "host": "Maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
-        "start": "2016-04-29 13:00",
-        "end": "2016-04-29 14:00",
-        "title": "Huoratunti",
-        "host": "Maketzu, SoliDi",
-        "prod": "zar",
         "desc": ""
     },
     {
@@ -943,5 +826,122 @@
         "host": "Tuomo, Jesse",
         "prod": "",
         "desc": "Syv\u00e4luotaava analyysi oluen matkasta pelloilta suuhun ja suusta takaisin luontoon."
+    },
+    {
+        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
+        "start": "2016-04-25 07:00",
+        "end": "2016-04-25 09:00",
+        "title": "Puh ja delic",
+        "host": "Puh, delic",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
+        "start": "2016-04-26 07:00",
+        "end": "2016-04-26 09:00",
+        "title": "Puh ja Ihaa",
+        "host": "Puh, Jenna",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
+        "start": "2016-04-27 07:00",
+        "end": "2016-04-27 09:00",
+        "title": "Puh ja Tikru",
+        "host": "Puh, Jaska",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
+        "start": "2016-04-28 07:00",
+        "end": "2016-04-28 09:00",
+        "title": "Puh ja Risto Reipas",
+        "host": "Puh, Aittapelto",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Puh ja delic",
+        "host": "Puh, delic",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
+        "start": "2016-04-20 13:00",
+        "end": "2016-04-20 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "fc622df9-4e89-49d6-a31b-8c692f5e0728",
+        "start": "2016-04-21 13:00",
+        "end": "2016-04-21 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
+        "start": "2016-04-22 13:00",
+        "end": "2016-04-22 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
+        "start": "2016-04-28 13:00",
+        "end": "2016-04-28 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
+        "start": "2016-04-25 13:00",
+        "end": "2016-04-25 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
+        "start": "2016-04-26 13:00",
+        "end": "2016-04-26 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
+        "start": "2016-04-27 13:00",
+        "end": "2016-04-27 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
+    },
+    {
+        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
+        "start": "2016-04-29 13:00",
+        "end": "2016-04-29 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": ""
     }
 ]
