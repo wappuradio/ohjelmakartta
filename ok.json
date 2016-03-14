@@ -918,15 +918,6 @@
         "desc": "Genesaretinj\u00e4rven syvyyksist\u00e4 nousee pahuuden inkarnaatio ja Suuret Muinaiset kurkistelevat ulottuvuusporteistaan, kun TTYkitys ttykittelee snadisti semikovaa tsempuraa. \u00c4l\u00e4 missaa!  "
     },
     {
-        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
-        "start": "2016-04-27 00:00",
-        "end": "2016-04-27 07:00",
-        "title": "\u25b2",
-        "host": "mutsku ja muut",
-        "prod": "ehk\u00e4 rahikainen",
-        "desc": ""
-    },
-    {
         "id": "a92010a0-6348-4640-9ee5-5fd672ea50bb",
         "start": "2016-04-27 22:00",
         "end": "2016-04-28 00:00",
@@ -942,6 +933,15 @@
         "title": "Koiratarha radalla",
         "host": "Arttu, Tatu, Kalle",
         "prod": "roope",
-        "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvalitatiivista analyysi\u00e4 kvantitatiivisesta levyhyllyst\u00e4."
+        "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvantitatiivinen annos suomir\u00e4ppilevyj\u00e4 ja taatusti kvalitatiivista analyysi\u00e4."
+    },
+    {
+        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
+        "start": "2016-04-27 00:00",
+        "end": "2016-04-27 07:00",
+        "title": "\u25b2",
+        "host": "mutsku ja muut",
+        "prod": "ehk\u00e4 rahikainen",
+        "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla"
     }
 ]
