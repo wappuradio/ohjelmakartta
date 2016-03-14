@@ -603,15 +603,6 @@
         "desc": ""
     },
     {
-        "id": "a92010a0-6348-4640-9ee5-5fd672ea50bb",
-        "start": "2016-04-27 22:00",
-        "end": "2016-04-28 00:00",
-        "title": "Ska-punk-meininki radalla",
-        "host": "Arttu, Tatu, Kalle",
-        "prod": "mutsku",
-        "desc": ""
-    },
-    {
         "id": "93f326d3-766d-4363-92c6-5f713058aee6",
         "start": "2016-04-25 18:00",
         "end": "2016-04-25 20:00",
@@ -648,30 +639,12 @@
         "desc": ""
     },
     {
-        "id": "9da741a2-8f9a-4e50-b967-23f6cd39b2e2",
-        "start": "2016-04-28 22:00",
-        "end": "2016-04-29 00:00",
-        "title": "Koiratarha radalla",
-        "host": "Arttu, Tatu, Kalle",
-        "prod": "roope",
-        "desc": ""
-    },
-    {
         "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
         "start": "2016-04-26 00:00",
         "end": "2016-04-26 07:00",
         "title": "Soihdut sammuu",
         "host": "Veli-V, Maketzu",
         "prod": "KukaKumma",
-        "desc": ""
-    },
-    {
-        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
-        "start": "2016-04-27 00:00",
-        "end": "2016-04-27 07:00",
-        "title": "Illuminati",
-        "host": "mutsku ja muut",
-        "prod": "",
         "desc": ""
     },
     {
@@ -943,5 +916,32 @@
         "host": "Ville, Juha, Joni",
         "prod": "Juho S",
         "desc": "Genesaretinj\u00e4rven syvyyksist\u00e4 nousee pahuuden inkarnaatio ja Suuret Muinaiset kurkistelevat ulottuvuusporteistaan, kun TTYkitys ttykittelee snadisti semikovaa tsempuraa. \u00c4l\u00e4 missaa!  "
+    },
+    {
+        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
+        "start": "2016-04-27 00:00",
+        "end": "2016-04-27 07:00",
+        "title": "\u25b2",
+        "host": "mutsku ja muut",
+        "prod": "ehk\u00e4 rahikainen",
+        "desc": ""
+    },
+    {
+        "id": "a92010a0-6348-4640-9ee5-5fd672ea50bb",
+        "start": "2016-04-27 22:00",
+        "end": "2016-04-28 00:00",
+        "title": "Shove-it up your ass",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "mutsku",
+        "desc": "Grindataa dekkei ja kurbataa reilei. Ei tiedet\u00e4 skedeemisest\u00e4 mit\u00e4\u00e4, mut skedepunkista sit\u00e4kin enemm\u00e4n."
+    },
+    {
+        "id": "9da741a2-8f9a-4e50-b967-23f6cd39b2e2",
+        "start": "2016-04-28 22:00",
+        "end": "2016-04-29 00:00",
+        "title": "Koiratarha radalla",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "roope",
+        "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvalitatiivista analyysi\u00e4 kvantitatiivisesta levyhyllyst\u00e4."
     }
 ]
