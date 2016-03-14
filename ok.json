@@ -225,15 +225,6 @@
         "desc": ""
     },
     {
-        "id": "16e78623-07cf-408a-b990-02d2e94c9352",
-        "start": "2016-04-20 18:00",
-        "end": "2016-04-20 20:00",
-        "title": "TTYkitys",
-        "host": "Ville V",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
         "start": "2016-04-20 16:00",
         "end": "2016-04-20 18:00",
@@ -943,5 +934,14 @@
         "host": "maketzu, SoliDi",
         "prod": "zar",
         "desc": ""
+    },
+    {
+        "id": "16e78623-07cf-408a-b990-02d2e94c9352",
+        "start": "2016-04-20 18:00",
+        "end": "2016-04-20 20:00",
+        "title": "TTYkitys",
+        "host": "Ville, Juha, Joni",
+        "prod": "Juho S",
+        "desc": "Genesaretinj\u00e4rven syvyyksist\u00e4 nousee pahuuden inkarnaatio ja Suuret Muinaiset kurkistelevat ulottuvuusporteistaan, kun TTYkitys ttykittelee snadisti semikovaa tsempuraa. \u00c4l\u00e4 missaa!  "
     }
 ]
