@@ -54,15 +54,6 @@
         "desc": ""
     },
     {
-        "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
-        "start": "2016-04-20 14:00",
-        "end": "2016-04-20 16:00",
-        "title": "Spinni",
-        "host": "Ville H, Jolek K, Juha, Mikko",
-        "prod": "PunaJussi",
-        "desc": ""
-    },
-    {
         "id": "f2b681e6-9841-47a0-acb1-ce54332cf2e5",
         "start": "2016-04-21 07:00",
         "end": "2016-04-21 09:00",
@@ -207,15 +198,6 @@
         "desc": ""
     },
     {
-        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
-        "start": "2016-04-20 22:00",
-        "end": "2016-04-21 00:00",
-        "title": "Maxwellin epyht\u00e4l\u00f6t",
-        "host": "Lauhanen",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
         "id": "322f6a49-5781-4d47-aa7c-a7c0eb39cce6",
         "start": "2016-04-21 00:00",
         "end": "2016-04-21 07:00",
@@ -306,48 +288,12 @@
         "desc": ""
     },
     {
-        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
-        "start": "2016-04-23 11:00",
-        "end": "2016-04-23 13:00",
-        "title": "Jannen js Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
-        "start": "2016-04-24 11:00",
-        "end": "2016-04-24 13:00",
-        "title": "Jannen js Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
         "start": "2016-04-23 13:00",
         "end": "2016-04-23 15:00",
         "title": "Rietasta el\u00e4m\u00e4\u00e4",
         "host": "Pirita, Nia",
         "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "09c2cfb0-743f-4408-95f4-50d82ed7b147",
-        "start": "2016-04-23 15:00",
-        "end": "2016-04-23 17:00",
-        "title": "H\u00e4t\u00e4varaslotti",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
-        "start": "2016-04-23 17:00",
-        "end": "2016-04-23 20:00",
-        "title": "Energiakeijot pelastaa maailman!",
-        "host": "Tumu, Pena",
-        "prod": "KukaKumma",
         "desc": ""
     },
     {
@@ -366,15 +312,6 @@
         "title": "Kaksi mielt\u00e4",
         "host": "Matzi, Lorenz0",
         "prod": "Veli-V",
-        "desc": ""
-    },
-    {
-        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
-        "start": "2016-04-24 13:00",
-        "end": "2016-04-24 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "Lorens",
-        "prod": "KukaKumma",
         "desc": ""
     },
     {
@@ -531,15 +468,6 @@
         "desc": ""
     },
     {
-        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
-        "start": "2016-04-26 22:00",
-        "end": "2016-04-27 00:00",
-        "title": "Kadonnut 00.luku",
-        "host": "Lahis, Reimann",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "d15b6633-b088-4244-a3e3-afbed9310361",
         "start": "2016-04-27 18:00",
         "end": "2016-04-27 20:00",
@@ -663,15 +591,6 @@
         "title": "Tummuva y\u00f6",
         "host": "Donaldi, Hiihu",
         "prod": "manty",
-        "desc": ""
-    },
-    {
-        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
-        "start": "2016-04-23 20:00",
-        "end": "2016-04-23 22:00",
-        "title": "EkuDance",
-        "host": "Eku, KukaKumma",
-        "prod": "shiona",
         "desc": ""
     },
     {
@@ -943,5 +862,86 @@
         "host": "Vuokko, Henri, Petri, Spiikki",
         "prod": "Vuokko",
         "desc": "h\u00f6t\u00f6<a href=\"http:\/\/google.fi\">m\u00f6l\u00f6\u00f6<\/a>"
+    },
+    {
+        "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
+        "start": "2016-04-20 14:00",
+        "end": "2016-04-20 16:00",
+        "title": "Spinni",
+        "host": "Ville H, Joel K, Juha, Mikko",
+        "prod": "PunaJussi",
+        "desc": ""
+    },
+    {
+        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
+        "start": "2016-04-26 22:00",
+        "end": "2016-04-27 00:00",
+        "title": "Kadonnut 00-luku",
+        "host": "Lahis, Reimann",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "09c2cfb0-743f-4408-95f4-50d82ed7b147",
+        "start": "2016-04-23 15:00",
+        "end": "2016-04-23 16:00",
+        "title": "Vapaa",
+        "host": "",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
+        "start": "2016-04-23 16:00",
+        "end": "2016-04-23 19:00",
+        "title": "??",
+        "host": "Tumu",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
+        "start": "2016-04-23 19:00",
+        "end": "2016-04-23 22:00",
+        "title": "EkuDance",
+        "host": "Eku, KukaKumma",
+        "prod": "shiona",
+        "desc": ""
+    },
+    {
+        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
+        "start": "2016-04-20 22:00",
+        "end": "2016-04-21 00:00",
+        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6t",
+        "host": "Lauhanen",
+        "prod": "Vuokko",
+        "desc": ""
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens, Kultsi",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
+        "start": "2016-04-23 11:00",
+        "end": "2016-04-23 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
+        "start": "2016-04-24 11:00",
+        "end": "2016-04-24 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": ""
     }
 ]
