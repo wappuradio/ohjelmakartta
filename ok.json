@@ -288,15 +288,6 @@
         "desc": ""
     },
     {
-        "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
-        "start": "2016-04-23 13:00",
-        "end": "2016-04-23 15:00",
-        "title": "Rietasta el\u00e4m\u00e4\u00e4",
-        "host": "Pirita, Nia",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
         "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
         "start": "2016-04-24 00:00",
         "end": "2016-04-24 07:00",
@@ -873,15 +864,6 @@
         "desc": ""
     },
     {
-        "id": "09c2cfb0-743f-4408-95f4-50d82ed7b147",
-        "start": "2016-04-23 15:00",
-        "end": "2016-04-23 16:00",
-        "title": "Vapaa",
-        "host": "",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
         "start": "2016-04-23 16:00",
         "end": "2016-04-23 19:00",
@@ -942,6 +924,15 @@
         "title": "Rytmimuna",
         "host": "Ilmari, Mikko",
         "prod": "PunaJussi",
+        "desc": ""
+    },
+    {
+        "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
+        "start": "2016-04-23 13:00",
+        "end": "2016-04-23 16:00",
+        "title": "Rietasta el\u00e4m\u00e4\u00e4",
+        "host": "Pirita, Nia",
+        "prod": "JElf",
         "desc": ""
     }
 ]
