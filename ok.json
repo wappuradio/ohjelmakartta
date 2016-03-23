@@ -522,15 +522,6 @@
         "desc": ""
     },
     {
-        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
-        "start": "2016-04-28 00:00",
-        "end": "2016-04-28 07:00",
-        "title": "Rytmimuna",
-        "host": "Ilmari, Mikko",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
         "start": "2016-04-29 00:00",
         "end": "2016-04-29 07:00",
@@ -942,6 +933,15 @@
         "title": "Jannen ja Tulkin TOP 5",
         "host": "Teemu, Lasse",
         "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
+        "start": "2016-04-28 00:00",
+        "end": "2016-04-28 07:00",
+        "title": "Rytmimuna",
+        "host": "Ilmari, Mikko",
+        "prod": "PunaJussi",
         "desc": ""
     }
 ]
