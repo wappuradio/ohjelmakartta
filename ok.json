@@ -342,15 +342,6 @@
         "desc": ""
     },
     {
-        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
-        "start": "2016-04-23 22:00",
-        "end": "2016-04-24 00:00",
-        "title": "Sceneradio",
-        "host": "Vuokko, Henri, Petri, Spiikki",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
         "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
         "start": "2016-04-23 17:00",
         "end": "2016-04-23 20:00",
@@ -536,15 +527,6 @@
         "end": "2016-04-26 20:00",
         "title": "Klassisrock",
         "host": "Masi, Manty",
-        "prod": "shiona",
-        "desc": ""
-    },
-    {
-        "id": "ea348754-750b-4799-9182-b479aa8b9572",
-        "start": "2016-04-26 20:00",
-        "end": "2016-04-26 22:00",
-        "title": "Tekniikan radio",
-        "host": "Eric, Ninnu",
         "prod": "shiona",
         "desc": ""
     },
@@ -943,5 +925,23 @@
         "host": "Noora, Veera",
         "prod": "PunaJussi",
         "desc": ""
+    },
+    {
+        "id": "ea348754-750b-4799-9182-b479aa8b9572",
+        "start": "2016-04-26 20:00",
+        "end": "2016-04-26 22:00",
+        "title": "Pelit ja vehkeet",
+        "host": "Eric, Ninnnu, zordiack, zzif, vuokko",
+        "prod": "shiona tai dregu",
+        "desc": ""
+    },
+    {
+        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
+        "start": "2016-04-23 22:00",
+        "end": "2016-04-24 00:00",
+        "title": "Sceneradio",
+        "host": "Vuokko, Henri, Petri, Spiikki",
+        "prod": "Vuokko",
+        "desc": "h\u00f6t\u00f6<a href=\"http:\/\/google.fi\">m\u00f6l\u00f6\u00f6<\/a>"
     }
 ]
