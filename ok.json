@@ -855,15 +855,6 @@
         "desc": ""
     },
     {
-        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
-        "start": "2016-04-26 22:00",
-        "end": "2016-04-27 00:00",
-        "title": "Kadonnut 00-luku",
-        "host": "Lahis, Reimann",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
         "start": "2016-04-23 16:00",
         "end": "2016-04-23 19:00",
@@ -933,6 +924,15 @@
         "title": "Rietasta el\u00e4m\u00e4\u00e4",
         "host": "Pirita, Nia",
         "prod": "JElf",
+        "desc": ""
+    },
+    {
+        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
+        "start": "2016-04-26 22:00",
+        "end": "2016-04-27 00:00",
+        "title": "Tuplanollat ja kadonnut vuosikymmen",
+        "host": "Lahis, Reimann",
+        "prod": "",
         "desc": ""
     }
 ]
