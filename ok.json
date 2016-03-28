@@ -864,15 +864,6 @@
         "desc": ""
     },
     {
-        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
-        "start": "2016-04-23 19:00",
-        "end": "2016-04-23 22:00",
-        "title": "EkuDance",
-        "host": "Eku, KukaKumma",
-        "prod": "shiona",
-        "desc": ""
-    },
-    {
         "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
         "start": "2016-04-20 22:00",
         "end": "2016-04-21 00:00",
@@ -934,5 +925,14 @@
         "host": "Lahis, Reimann",
         "prod": "",
         "desc": ""
+    },
+    {
+        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
+        "start": "2016-04-23 19:00",
+        "end": "2016-04-23 22:00",
+        "title": "EkuDance",
+        "host": "Eku, KukaKumma",
+        "prod": "shiona",
+        "desc": "Wappuradion lauantai-illan rauhan keskeytt\u00e4\u00e4 aina ajankohtainen ys\u00e4ridance EkuDancen muodossa, jee!\r\nLuvassa on viilt\u00e4v\u00e4\u00e4 analyysi\u00e4 ja trivia(ali)tietoa erin\u00e4isist\u00e4 90-luvun  \"artisteista\", j\u00e4\u00e4t\u00e4vi\u00e4 aasinsiltoja sek\u00e4 laadukkaita laukkakomppeja, unohtamatta valelopetuksia, omituista huumoria sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4. Ohjelman juontaa Johannes \"Eku\" Komulainen ja apupoikana kiekkoja py\u00f6rittelee Joni \"Kukis\" V\u00e4is\u00e4nen.\r\n"
     }
 ]
