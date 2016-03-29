@@ -18,15 +18,6 @@
         "desc": ""
     },
     {
-        "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
-        "start": "2016-04-27 20:00",
-        "end": "2016-04-27 22:00",
-        "title": "Syv\u00e4 purppura",
-        "host": "Noora, Veera",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
         "id": "c97c483e-7101-4f93-adf6-c36b93eca1f5",
         "start": "2016-04-20 07:00",
         "end": "2016-04-20 09:00",
@@ -927,12 +918,21 @@
         "desc": "Wappuradion lauantai-illan rauhan keskeytt\u00e4\u00e4 aina ajankohtainen ys\u00e4ridance EkuDancen muodossa, jee!\r\nLuvassa on viilt\u00e4v\u00e4\u00e4 analyysi\u00e4 ja trivia(ali)tietoa erin\u00e4isist\u00e4 90-luvun  \"artisteista\", j\u00e4\u00e4t\u00e4vi\u00e4 aasinsiltoja sek\u00e4 laadukkaita laukkakomppeja, unohtamatta valelopetuksia, omituista huumoria sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4. Ohjelman juontaa Johannes \"Eku\" Komulainen ja apupoikana kiekkoja py\u00f6rittelee Joni \"Kukis\" V\u00e4is\u00e4nen.\r\n"
     },
     {
+        "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
+        "start": "2016-04-27 20:00",
+        "end": "2016-04-27 22:00",
+        "title": "Syv\u00e4 purppura",
+        "host": "Noora, Veera",
+        "prod": "PunaJussi",
+        "desc": ""
+    },
+    {
         "id": "c5a8a4d9-bfc1-4080-9266-c2b4688f4fcc",
         "start": "2016-04-30 07:00",
         "end": "2016-04-30 10:00",
         "title": "Morning glory",
         "host": "Lorens, AnRai, Kaisa",
         "prod": "Markka",
-        "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun sunnuntaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesTeekkariMeditaation\u2122 tahdissa, kun aurinko nousee risukasaan kirkastamaan Wappukansan olemuksen."
+        "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun lauantaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesWappuMeditaation\u2122 tahdissa, kun aurinko nousee kirkastamaan niin risukasan kuin Wappukansan olemuksenkin."
     }
 ]
