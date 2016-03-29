@@ -171,15 +171,6 @@
         "desc": ""
     },
     {
-        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
-        "start": "2016-04-20 20:00",
-        "end": "2016-04-20 22:00",
-        "title": "Olutradio",
-        "host": "Tommmi, Kekki",
-        "prod": "Pilkki",
-        "desc": ""
-    },
-    {
         "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
         "start": "2016-04-20 16:00",
         "end": "2016-04-20 18:00",
@@ -513,15 +504,6 @@
         "desc": ""
     },
     {
-        "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
-        "start": "2016-04-29 18:00",
-        "end": "2016-04-29 20:00",
-        "title": "Herkistelyradio",
-        "host": "Anna, zordiack",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -610,15 +592,6 @@
         "host": "sateenropinaa, Akseli L",
         "prod": "",
         "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
-    },
-    {
-        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
-        "start": "2016-04-22 22:00",
-        "end": "2016-04-23 00:00",
-        "title": "Oluen matka",
-        "host": "Tuomo, Jesse",
-        "prod": "",
-        "desc": "Syv\u00e4luotaava analyysi oluen matkasta pelloilta suuhun ja suusta takaisin luontoon."
     },
     {
         "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
@@ -934,5 +907,32 @@
         "host": "Lorens, AnRai, Kaisa",
         "prod": "Markka",
         "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun lauantaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesWappuMeditaation\u2122 tahdissa, kun aurinko nousee kirkastamaan niin risukasan kuin Wappukansan olemuksenkin."
+    },
+    {
+        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
+        "start": "2016-04-20 20:00",
+        "end": "2016-04-20 22:00",
+        "title": "Olutradio",
+        "host": "Tommmi, Kekki",
+        "prod": "Pilkki",
+        "desc": ""
+    },
+    {
+        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
+        "start": "2016-04-22 22:00",
+        "end": "2016-04-23 00:00",
+        "title": "Historian radio",
+        "host": "Tuomo, Jesse",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
+        "start": "2016-04-29 18:00",
+        "end": "2016-04-29 20:00",
+        "title": "Herkk\u00e4 hetki",
+        "host": "Anna, zordiack",
+        "prod": "zar",
+        "desc": "Se erilainen toivekonsertti, jossa jokaisella kappaleella on tarina ja jokainen biisi on toivojalleen erityinen. Kertomuksia ihmisi\u00e4 liikuttaneiden, ilahduttaneiden ja lohduttaneiden kappaleiden takaa sek\u00e4 pohdintaa siit, mik\u00e4 tekee musiikista niin erityist\u00e4 ja tunteisiin vetoavaa.\r\n\r\nVoit j\u00e4tt\u00e4\u00e4 oman toiveesi ja tarinasi ohjelmaan osoitteessa http:\/\/goo.gl\/forms\/LIuugHe9fr"
     }
 ]
