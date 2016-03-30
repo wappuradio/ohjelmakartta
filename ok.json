@@ -585,15 +585,6 @@
         "desc": ""
     },
     {
-        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
-        "start": "2016-04-24 07:00",
-        "end": "2016-04-24 09:00",
-        "title": "Neo-Tampere",
-        "host": "sateenropinaa, Akseli L",
-        "prod": "",
-        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
-    },
-    {
         "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
         "start": "2016-04-25 07:00",
         "end": "2016-04-25 09:00",
@@ -934,5 +925,14 @@
         "host": "Anna, zordiack",
         "prod": "zar",
         "desc": "Se erilainen toivekonsertti, jossa jokaisella kappaleella on tarina ja jokainen biisi on toivojalleen erityinen. Kertomuksia ihmisi\u00e4 liikuttaneiden, ilahduttaneiden ja lohduttaneiden kappaleiden takaa sek\u00e4 pohdintaa siit, mik\u00e4 tekee musiikista niin erityist\u00e4 ja tunteisiin vetoavaa.\r\n\r\nVoit j\u00e4tt\u00e4\u00e4 oman toiveesi ja tarinasi ohjelmaan osoitteessa http:\/\/goo.gl\/forms\/LIuugHe9fr"
+    },
+    {
+        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "Neo-Tampere",
+        "host": "sateenropinaa, Akseli L",
+        "prod": "Vuokko",
+        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     }
 ]
