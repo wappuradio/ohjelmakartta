@@ -27,15 +27,6 @@
         "desc": ""
     },
     {
-        "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
-        "start": "2016-04-20 09:00",
-        "end": "2016-04-20 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "2a5c9c33-a6a8-4f8f-be2e-c3f536ddb02e",
         "start": "2016-04-20 11:00",
         "end": "2016-04-20 13:00",
@@ -60,24 +51,6 @@
         "title": "Tuorepuristettu kaurapuuro",
         "host": "Rocka, Ketku",
         "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "66f76f1a-f176-481e-acf6-8e6b13eada35",
-        "start": "2016-04-21 09:00",
-        "end": "2016-04-21 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "73c0b6c6-b32e-41e8-aeb7-8d7d9752526e",
-        "start": "2016-04-22 09:00",
-        "end": "2016-04-22 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "",
         "desc": ""
     },
     {
@@ -933,6 +906,33 @@
         "title": "Historian radio",
         "host": "Tuomo, Jesse",
         "prod": "fransmanni",
+        "desc": ""
+    },
+    {
+        "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
+        "start": "2016-04-20 09:00",
+        "end": "2016-04-20 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": ""
+    },
+    {
+        "id": "66f76f1a-f176-481e-acf6-8e6b13eada35",
+        "start": "2016-04-21 09:00",
+        "end": "2016-04-21 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": ""
+    },
+    {
+        "id": "73c0b6c6-b32e-41e8-aeb7-8d7d9752526e",
+        "start": "2016-04-22 09:00",
+        "end": "2016-04-22 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
         "desc": ""
     }
 ]
