@@ -180,15 +180,6 @@
         "desc": ""
     },
     {
-        "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
-        "start": "2016-04-21 20:00",
-        "end": "2016-04-21 22:00",
-        "title": "Qma latinoradio",
-        "host": "Henna, Kaisa",
-        "prod": "Ketku",
-        "desc": ""
-    },
-    {
         "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
         "start": "2016-04-22 00:00",
         "end": "2016-04-22 07:00",
@@ -934,5 +925,14 @@
         "host": "Lahis, Reimann",
         "prod": "Jarno T",
         "desc": ""
+    },
+    {
+        "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
+        "start": "2016-04-21 20:00",
+        "end": "2016-04-21 22:00",
+        "title": "Qma latinoradio",
+        "host": "Henna, Kaisa",
+        "prod": "Ketku",
+        "desc": "\u00a1Ay caramba, mitk\u00e4 rytmit! Qma latinoradio johdattelee suomalaiseen s\u00e4\u00e4h\u00e4n ja tasapaksuun biisipoljentoon kyll\u00e4styneet kuuntelijat svengaavien lattarirytmien avulla etel\u00e4n aurinkoon. Sivussa ihmetell\u00e4\u00e4n Latinalaisen Amerikan ja Euroopan menoa ja meininki\u00e4, sek\u00e4 tutustutaan lattaritansseihin tanssija Tapion latinolantion johdolla."
     }
 ]
