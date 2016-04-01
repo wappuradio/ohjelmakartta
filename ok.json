@@ -756,15 +756,6 @@
         "desc": ""
     },
     {
-        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
-        "start": "2016-04-23 22:00",
-        "end": "2016-04-24 00:00",
-        "title": "Sceneradio",
-        "host": "Vuokko, Henri, Petri, Spiikki",
-        "prod": "Vuokko",
-        "desc": "h\u00f6t\u00f6<a href=\"http:\/\/google.fi\">m\u00f6l\u00f6\u00f6<\/a>"
-    },
-    {
         "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
         "start": "2016-04-20 14:00",
         "end": "2016-04-20 16:00",
@@ -934,5 +925,14 @@
         "host": "Sonia, Sannis",
         "prod": "keba",
         "desc": ""
+    },
+    {
+        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
+        "start": "2016-04-23 22:00",
+        "end": "2016-04-24 00:00",
+        "title": "Sceneradio",
+        "host": "Vuokko, Exca, Poro, Spiikki",
+        "prod": "Vuokko",
+        "desc": "<a href=\u201dhttp:\/\/www.wappuradio.fi\/sceneradio\u201d>Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\u201dhttp:\/\/soundcloud.com\/oskill8-1\u201d>Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>."
     }
 ]
