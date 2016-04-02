@@ -486,15 +486,6 @@
         "desc": ""
     },
     {
-        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
-        "start": "2016-04-30 12:00",
-        "end": "2016-04-30 15:00",
-        "title": "Loppushow",
-        "host": "",
-        "prod": "KukaKumma",
-        "desc": ""
-    },
-    {
         "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
         "start": "2016-04-23 00:00",
         "end": "2016-04-23 07:00",
@@ -934,5 +925,14 @@
         "host": "Henna, Kaisa",
         "prod": "Ketku",
         "desc": "\u00a1Ay caramba, mitk\u00e4 rytmit! Qma latinoradio johdattelee suomalaiseen s\u00e4\u00e4h\u00e4n ja tasapaksuun biisipoljentoon kyll\u00e4styneet kuuntelijat svengaavien lattarirytmien avulla etel\u00e4n aurinkoon. Sivussa ihmetell\u00e4\u00e4n Latinalaisen Amerikan ja Euroopan menoa ja meininki\u00e4, sek\u00e4 tutustutaan lattaritansseihin tanssija Tapion latinolantion johdolla."
+    },
+    {
+        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
+        "start": "2016-04-30 12:00",
+        "end": "2016-04-30 15:00",
+        "title": "Loppushow",
+        "host": "Kaikki",
+        "prod": "KukaKumma",
+        "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushown saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan!"
     }
 ]
