@@ -288,51 +288,6 @@
         "desc": ""
     },
     {
-        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
-        "start": "2016-04-25 09:00",
-        "end": "2016-04-25 11:00",
-        "title": "Aamukahvia ja ADHD",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
-        "start": "2016-04-26 09:00",
-        "end": "2016-04-26 11:00",
-        "title": "Aamukahvia ja ADHD",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
-        "start": "2016-04-27 09:00",
-        "end": "2016-04-27 11:00",
-        "title": "Aamukahvia ja ADHD",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
-        "start": "2016-04-28 09:00",
-        "end": "2016-04-28 11:00",
-        "title": "Aamukahvia ja ADHD",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
-        "start": "2016-04-29 09:00",
-        "end": "2016-04-29 11:00",
-        "title": "Aamukahvia ja ADHD",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
         "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
         "start": "2016-04-25 20:00",
         "end": "2016-04-25 21:00",
@@ -933,6 +888,51 @@
         "title": "Suklaata & Samettia",
         "host": "Keba, Markkeli, Murtoj\u00e4rvi, Junamies",
         "prod": "keba",
-        "desc": "Poikien v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4"
+        "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4"
+    },
+    {
+        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
+        "start": "2016-04-25 09:00",
+        "end": "2016-04-25 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
+        "start": "2016-04-26 09:00",
+        "end": "2016-04-26 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
+        "start": "2016-04-27 09:00",
+        "end": "2016-04-27 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
+        "start": "2016-04-28 09:00",
+        "end": "2016-04-28 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
+    },
+    {
+        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
+        "start": "2016-04-29 09:00",
+        "end": "2016-04-29 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": ""
     }
 ]
