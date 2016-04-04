@@ -279,15 +279,6 @@
         "desc": ""
     },
     {
-        "id": "0faaf665-a5d9-4e88-96b8-1357f9165bfe",
-        "start": "2016-04-29 14:00",
-        "end": "2016-04-29 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
         "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
         "start": "2016-04-25 16:00",
         "end": "2016-04-25 18:00",
@@ -324,15 +315,6 @@
         "desc": ""
     },
     {
-        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
-        "start": "2016-04-26 16:00",
-        "end": "2016-04-26 18:00",
-        "title": "Jussi Kangas goes radio",
-        "host": "Jussi Kangas",
-        "prod": "Manty",
-        "desc": ""
-    },
-    {
         "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
         "start": "2016-04-26 18:00",
         "end": "2016-04-26 20:00",
@@ -357,15 +339,6 @@
         "title": "Viisut!",
         "host": "Lorens, Janne K",
         "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
-        "start": "2016-04-28 16:00",
-        "end": "2016-04-28 18:00",
-        "title": "Jussi Kangas goes radio",
-        "host": "Jussi Kangas",
-        "prod": "Manty",
         "desc": ""
     },
     {
@@ -420,42 +393,6 @@
         "title": "Tummuva y\u00f6",
         "host": "Donaldi, Hiihu",
         "prod": "manty",
-        "desc": ""
-    },
-    {
-        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
-        "start": "2016-04-28 14:00",
-        "end": "2016-04-28 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander, Jaketus",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
-        "start": "2016-04-25 14:00",
-        "end": "2016-04-25 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander, Jaketus",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
-        "start": "2016-04-26 14:00",
-        "end": "2016-04-26 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander, Jaketus",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
-        "start": "2016-04-27 14:00",
-        "end": "2016-04-27 16:00",
-        "title": "Kahvitunti",
-        "host": "Siljander, Jaketus",
-        "prod": "JElf",
         "desc": ""
     },
     {
@@ -942,6 +879,69 @@
         "title": "Musiikin Kuuntelu Ohjelma",
         "host": "Lauri, Henna, MiRa",
         "prod": "Jaketus",
-        "desc": ""
+        "desc": "Ohjelman tekij\u00e4t kuuntelevat studiossa musiikkia ja keskustelevat kuulemastaan. Radion kuuntelijat kuuntelevat keskustelua ja miettiv\u00e4t, ett\u00e4 mist\u00e4 ihmeest\u00e4 nuo toimittajat oikein keskustelevat."
+    },
+    {
+        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
+        "start": "2016-04-25 14:00",
+        "end": "2016-04-25 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
+    },
+    {
+        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
+        "start": "2016-04-26 14:00",
+        "end": "2016-04-26 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
+    },
+    {
+        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
+        "start": "2016-04-27 14:00",
+        "end": "2016-04-27 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
+    },
+    {
+        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
+        "start": "2016-04-28 14:00",
+        "end": "2016-04-28 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
+    },
+    {
+        "id": "0faaf665-a5d9-4e88-96b8-1357f9165bfe",
+        "start": "2016-04-29 14:00",
+        "end": "2016-04-29 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
+    },
+    {
+        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
+        "start": "2016-04-28 16:00",
+        "end": "2016-04-28 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 ja vapun kovin soundtrack!"
+    },
+    {
+        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
+        "start": "2016-04-26 16:00",
+        "end": "2016-04-26 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 ja vapun kovin soundtrack!"
     }
 ]
