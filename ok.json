@@ -819,15 +819,6 @@
         "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushown saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan!"
     },
     {
-        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
-        "start": "2016-04-23 16:00",
-        "end": "2016-04-23 19:00",
-        "title": "Suklaata & Samettia",
-        "host": "Keba, Markkeli, Murtoj\u00e4rvi, Junamies",
-        "prod": "keba",
-        "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4"
-    },
-    {
         "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
         "start": "2016-04-25 09:00",
         "end": "2016-04-25 11:00",
@@ -934,5 +925,23 @@
         "host": "June, Otto",
         "prod": "Vuokko",
         "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n scneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "SoliDi",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
+        "start": "2016-04-23 16:00",
+        "end": "2016-04-23 19:00",
+        "title": "Suklaata & Samettia",
+        "host": "Keba, Markkeli, Murtol\u00e4rvi, Kello",
+        "prod": "keba",
+        "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4."
     }
 ]
