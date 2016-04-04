@@ -207,15 +207,6 @@
         "desc": ""
     },
     {
-        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
-        "start": "2016-04-23 07:00",
-        "end": "2016-04-23 09:00",
-        "title": "Nousevan Auringon (Maan) Aamushow",
-        "host": "Lahis, Delta102, FireFlower",
-        "prod": "Wunderkind",
-        "desc": ""
-    },
-    {
         "id": "73a5417d-0a70-4111-ae4d-ed30f0918e87",
         "start": "2016-04-23 09:00",
         "end": "2016-04-23 11:00",
@@ -711,15 +702,6 @@
         "desc": "<a href=\u201dhttp:\/\/www.wappuradio.fi\/sceneradio\u201d>Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\u201dhttp:\/\/soundcloud.com\/oskill8-1\u201d>Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>."
     },
     {
-        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
-        "start": "2016-04-26 22:00",
-        "end": "2016-04-27 00:00",
-        "title": "Tuplanollat ja kadonnut vuosikymmen",
-        "host": "Lahis, Reimann",
-        "prod": "Jarno T",
-        "desc": ""
-    },
-    {
         "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
         "start": "2016-04-21 20:00",
         "end": "2016-04-21 22:00",
@@ -736,51 +718,6 @@
         "host": "Kaikki",
         "prod": "KukaKumma",
         "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushown saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan!"
-    },
-    {
-        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
-        "start": "2016-04-25 09:00",
-        "end": "2016-04-25 11:00",
-        "title": "Aamukahvia ananaspuusta",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
-        "start": "2016-04-26 09:00",
-        "end": "2016-04-26 11:00",
-        "title": "Aamukahvia ananaspuusta",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
-        "start": "2016-04-27 09:00",
-        "end": "2016-04-27 11:00",
-        "title": "Aamukahvia ananaspuusta",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
-        "start": "2016-04-28 09:00",
-        "end": "2016-04-28 11:00",
-        "title": "Aamukahvia ananaspuusta",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
-    },
-    {
-        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
-        "start": "2016-04-29 09:00",
-        "end": "2016-04-29 11:00",
-        "title": "Aamukahvia ananaspuusta",
-        "host": "Keba, Wenla, Henni",
-        "prod": "snottis",
-        "desc": ""
     },
     {
         "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
@@ -943,5 +880,68 @@
         "host": "Jussi Kangas",
         "prod": "Manty",
         "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 ja vapun kovin soundtrack!"
+    },
+    {
+        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
+        "start": "2016-04-25 09:00",
+        "end": "2016-04-25 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\""
+    },
+    {
+        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
+        "start": "2016-04-26 09:00",
+        "end": "2016-04-26 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\""
+    },
+    {
+        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
+        "start": "2016-04-27 09:00",
+        "end": "2016-04-27 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\""
+    },
+    {
+        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
+        "start": "2016-04-28 09:00",
+        "end": "2016-04-28 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\""
+    },
+    {
+        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
+        "start": "2016-04-29 09:00",
+        "end": "2016-04-29 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\""
+    },
+    {
+        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
+        "start": "2016-04-26 22:00",
+        "end": "2016-04-27 00:00",
+        "title": "Tuplanollat ja kadonnut vuosikymmen",
+        "host": "Lahis, Reimann",
+        "prod": "Jarno T",
+        "desc": "Kaikki tielt\u00e4v\u00e4t milt\u00e4 kasari kuullostaa, ja Eurodance tuo aina mukanaan erehtym\u00e4tt\u00f6m\u00e4n tuulahduksen ys\u00e4ri\u00e4, mutta mit\u00e4 ihmett\u00e4 soitettiin viime vuosikymmenell\u00e4? Agenttimme l\u00e4htev\u00e4t tutkimaan kadonneen vuosikymmenen tapausta ja selvitt\u00e4v\u00e4t, mit\u00e4 nykyisten teekkareiden teinivuosina oikein kuunneltiin. Ja oliko se oikeastaan mist\u00e4\u00e4n kotoisin."
+    },
+    {
+        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
+        "start": "2016-04-23 07:00",
+        "end": "2016-04-23 09:00",
+        "title": "Nousevan Auringon (Maan) Aamushow",
+        "host": "Lahis, Delta102, FireFlower",
+        "prod": "Wunderkind",
+        "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden Japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 Lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
     }
 ]
