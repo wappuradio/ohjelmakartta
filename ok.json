@@ -414,15 +414,6 @@
         "desc": ""
     },
     {
-        "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
-        "start": "2016-04-29 00:00",
-        "end": "2016-04-29 07:00",
-        "title": "Spoiler Alert",
-        "host": "Kuisma, Vimpeli",
-        "prod": "JElf",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -934,5 +925,14 @@
         "host": "Keba, Wenla, Henni",
         "prod": "snottis",
         "desc": ""
+    },
+    {
+        "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
+        "start": "2016-04-29 00:00",
+        "end": "2016-04-29 07:00",
+        "title": "Spoiler Alert!",
+        "host": "Kuisma, Vimpeli",
+        "prod": "JElf",
+        "desc": "Anna ja Maarit paljastavat enemm\u00e4n kuin haluaisit! Tuomme p\u00e4iv\u00e4nvaloon kummallisimpia opinn\u00e4ytet\u00f6it\u00e4. Spoilaamme aamun uutiset, kohul\u00f6\u00f6pit ja naistenlehtien tuoreimmat trendit. Kerromme, miten k\u00e4y Rion olympialaisissa ja ensi talven Lahden MM-kisoissa. Sukellamme spoilerien ytimeen pohtimalla kirjallisuuden ja tv-sarjojen yll\u00e4tysjuonenk\u00e4\u00e4nteit\u00e4 ja hurjimpia lopetuksia sek\u00e4 spoilerien merkityst\u00e4 luku- ja katsomiskokemukselle. \u00c4l\u00e4 yll\u00e4ty, kun spoilaamme tuoreimmat juonikuviot rakkaimmista sarjoista sek\u00e4 tarkoin varjellut k\u00e4\u00e4nteet klassikkokertomuksista."
     }
 ]
