@@ -234,15 +234,6 @@
         "desc": ""
     },
     {
-        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
-        "start": "2016-04-24 00:00",
-        "end": "2016-04-24 07:00",
-        "title": "Showroom Dummies + Y\u00f6aalto",
-        "host": "June, Otto",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
         "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
         "start": "2016-04-24 09:00",
         "end": "2016-04-24 11:00",
@@ -483,51 +474,6 @@
         "title": "Kahvitunti",
         "host": "Siljander, Jaketus",
         "prod": "JElf",
-        "desc": ""
-    },
-    {
-        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
-        "start": "2016-04-25 07:00",
-        "end": "2016-04-25 09:00",
-        "title": "Puh ja delic",
-        "host": "Puh, delic",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
-        "start": "2016-04-26 07:00",
-        "end": "2016-04-26 09:00",
-        "title": "Puh ja Ihaa",
-        "host": "Puh, Jenna",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
-        "start": "2016-04-27 07:00",
-        "end": "2016-04-27 09:00",
-        "title": "Puh ja Tikru",
-        "host": "Puh, Jaska",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
-        "start": "2016-04-28 07:00",
-        "end": "2016-04-28 09:00",
-        "title": "Puh ja Risto Reipas",
-        "host": "Puh, Aittapelto",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
-        "start": "2016-04-29 07:00",
-        "end": "2016-04-29 09:00",
-        "title": "Puh ja delic",
-        "host": "Puh, delic",
-        "prod": "",
         "desc": ""
     },
     {
@@ -934,5 +880,59 @@
         "host": "Kuisma, Vimpeli",
         "prod": "JElf",
         "desc": "Anna ja Maarit paljastavat enemm\u00e4n kuin haluaisit! Tuomme p\u00e4iv\u00e4nvaloon kummallisimpia opinn\u00e4ytet\u00f6it\u00e4. Spoilaamme aamun uutiset, kohul\u00f6\u00f6pit ja naistenlehtien tuoreimmat trendit. Kerromme, miten k\u00e4y Rion olympialaisissa ja ensi talven Lahden MM-kisoissa. Sukellamme spoilerien ytimeen pohtimalla kirjallisuuden ja tv-sarjojen yll\u00e4tysjuonenk\u00e4\u00e4nteit\u00e4 ja hurjimpia lopetuksia sek\u00e4 spoilerien merkityst\u00e4 luku- ja katsomiskokemukselle. \u00c4l\u00e4 yll\u00e4ty, kun spoilaamme tuoreimmat juonikuviot rakkaimmista sarjoista sek\u00e4 tarkoin varjellut k\u00e4\u00e4nteet klassikkokertomuksista."
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic",
+        "prod": "",
+        "desc": ""
+    },
+    {
+        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
+        "start": "2016-04-25 07:00",
+        "end": "2016-04-25 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic",
+        "prod": "",
+        "desc": "Puh ja delic her\u00e4ttelev\u00e4t toisensa ja sitten radion kuulijat."
+    },
+    {
+        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
+        "start": "2016-04-26 07:00",
+        "end": "2016-04-26 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, Jenna",
+        "prod": "",
+        "desc": "Puhin aamuvieraana kansalaisia her\u00e4ttelem\u00e4ss\u00e4 Ihaa. Kunhan virkoamme tutustumme goottigenren ominaispiirteisiin."
+    },
+    {
+        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
+        "start": "2016-04-27 07:00",
+        "end": "2016-04-27 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, Jaska",
+        "prod": "",
+        "desc": "Puhin aamuvieraana Tikru, jolle ominainen genre on ska."
+    },
+    {
+        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
+        "start": "2016-04-28 07:00",
+        "end": "2016-04-28 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, Aittapelto",
+        "prod": "",
+        "desc": "Puhin aamuvieraana Risto Reipas, jonka lempigenre on indie."
+    },
+    {
+        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
+        "start": "2016-04-24 00:00",
+        "end": "2016-04-24 07:00",
+        "title": "Showroom Dummies + Y\u00f6aalto",
+        "host": "June, Otto",
+        "prod": "Vuokko",
+        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n scneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
     }
 ]
