@@ -243,15 +243,6 @@
         "desc": ""
     },
     {
-        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
-        "start": "2016-04-24 18:00",
-        "end": "2016-04-24 21:00",
-        "title": "Kurkun oma ohjelma",
-        "host": "Kurkku, Teemu, Juho",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
         "start": "2016-04-24 23:00",
         "end": "2016-04-25 00:00",
@@ -943,5 +934,14 @@
         "host": "Keba, Markkeli, Murtol\u00e4rvi, Kello",
         "prod": "keba",
         "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4."
+    },
+    {
+        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 21:00",
+        "title": "Kolmen soinnun t\u00e4hteet",
+        "host": "Kurkku, Teemu, Koskenranta",
+        "prod": "",
+        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja.\r\n\r\nStudiossa horisevat Kurkku, Teemu ja Koskenranta."
     }
 ]
