@@ -432,15 +432,6 @@
         "desc": ""
     },
     {
-        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
-        "start": "2016-04-29 20:00",
-        "end": "2016-04-29 22:00",
-        "title": "Musiikin Kuuntelu Ohjelma",
-        "host": "Siljander, Henna, MiRa",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
         "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
         "start": "2016-04-25 14:00",
         "end": "2016-04-25 16:00",
@@ -943,5 +934,14 @@
         "host": "Kurkku, Teemu, Koskenranta",
         "prod": "",
         "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja.\r\n\r\nStudiossa horisevat Kurkku, Teemu ja Koskenranta."
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Lauri, Henna, MiRa",
+        "prod": "Jaketus",
+        "desc": ""
     }
 ]
