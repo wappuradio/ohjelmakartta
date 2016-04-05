@@ -666,15 +666,6 @@
         "desc": "Puhin aamuvieraana Risto Reipas, jonka lempigenre on indie."
     },
     {
-        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
-        "start": "2016-04-24 00:00",
-        "end": "2016-04-24 07:00",
-        "title": "Showroom Dummies + Y\u00f6aalto",
-        "host": "June, Otto",
-        "prod": "Vuokko",
-        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n scneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
-    },
-    {
         "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
         "start": "2016-04-23 16:00",
         "end": "2016-04-23 19:00",
@@ -943,5 +934,14 @@
         "host": "Jussi Kangas",
         "prod": "Manty",
         "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 sek\u00e4 wapun kovin soundtrack!"
+    },
+    {
+        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
+        "start": "2016-04-24 00:00",
+        "end": "2016-04-24 07:00",
+        "title": "Showroom Dummies + Y\u00f6aalto",
+        "host": "June, Otto",
+        "prod": "Vuokko",
+        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
     }
 ]
