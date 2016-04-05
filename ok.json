@@ -747,24 +747,6 @@
         "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4."
     },
     {
-        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
-        "start": "2016-04-28 16:00",
-        "end": "2016-04-28 18:00",
-        "title": "Jussi Kangas goes radio",
-        "host": "Jussi Kangas",
-        "prod": "Manty",
-        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 ja vapun kovin soundtrack!"
-    },
-    {
-        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
-        "start": "2016-04-26 16:00",
-        "end": "2016-04-26 18:00",
-        "title": "Jussi Kangas goes radio",
-        "host": "Jussi Kangas",
-        "prod": "Manty",
-        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 ja vapun kovin soundtrack!"
-    },
-    {
         "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
         "start": "2016-04-25 09:00",
         "end": "2016-04-25 11:00",
@@ -943,5 +925,23 @@
         "host": "Janne S.",
         "prod": "",
         "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
+    },
+    {
+        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
+        "start": "2016-04-26 16:00",
+        "end": "2016-04-26 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 sek\u00e4 wapun kovin soundtrack!"
+    },
+    {
+        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
+        "start": "2016-04-28 16:00",
+        "end": "2016-04-28 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 sek\u00e4 wapun kovin soundtrack!"
     }
 ]
