@@ -189,15 +189,6 @@
         "desc": ""
     },
     {
-        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
-        "start": "2016-04-22 20:00",
-        "end": "2016-04-22 22:00",
-        "title": "Maikeyn ja Tintin EDM kekrit",
-        "host": "Maikey, Laura R",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
         "id": "73a5417d-0a70-4111-ae4d-ed30f0918e87",
         "start": "2016-04-23 09:00",
         "end": "2016-04-23 11:00",
@@ -303,24 +294,6 @@
         "title": "Klassisrock",
         "host": "Masi, Manty",
         "prod": "shiona",
-        "desc": ""
-    },
-    {
-        "id": "d15b6633-b088-4244-a3e3-afbed9310361",
-        "start": "2016-04-27 18:00",
-        "end": "2016-04-27 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Janne K",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
-        "start": "2016-04-25 18:00",
-        "end": "2016-04-25 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Janne K",
-        "prod": "Jaketus",
         "desc": ""
     },
     {
@@ -943,5 +916,32 @@
         "host": "Lorens, Tuomo, Kultsi",
         "prod": "Jaketus",
         "desc": ""
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
+    },
+    {
+        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
+    },
+    {
+        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
+        "start": "2016-04-22 20:00",
+        "end": "2016-04-22 22:00",
+        "title": "Maikeyn ja Tintin EDM kekrit",
+        "host": "maikey, Laura R",
+        "prod": "delta_cephei",
+        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja Maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
     }
 ]
