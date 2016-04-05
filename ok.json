@@ -342,15 +342,6 @@
         "desc": ""
     },
     {
-        "id": "29318e76-9f5b-4678-a5dd-c3fcec6bb8d5",
-        "start": "2016-04-28 20:00",
-        "end": "2016-04-28 22:00",
-        "title": "Is\u00e4n levykaapilla",
-        "host": "Wilho, MiRa",
-        "prod": "Keba",
-        "desc": ""
-    },
-    {
         "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
         "start": "2016-04-26 00:00",
         "end": "2016-04-26 07:00",
@@ -783,15 +774,6 @@
         "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n scneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
     },
     {
-        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
-        "start": "2016-04-20 00:00",
-        "end": "2016-04-20 07:00",
-        "title": "Wappuheilan mets\u00e4stys",
-        "host": "SoliDi",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
         "start": "2016-04-23 16:00",
         "end": "2016-04-23 19:00",
@@ -943,5 +925,23 @@
         "host": "Lahis, Delta102, FireFlower",
         "prod": "Wunderkind",
         "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden Japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 Lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "SoliDi",
+        "prod": "KukaKumma",
+        "desc": ""
+    },
+    {
+        "id": "29318e76-9f5b-4678-a5dd-c3fcec6bb8d5",
+        "start": "2016-04-28 20:00",
+        "end": "2016-04-28 22:00",
+        "title": "Is\u00e4n levykaapilla",
+        "host": "Wilho, MiRa",
+        "prod": "Keba",
+        "desc": "Pitkill\u00e4 automatkoilla is\u00e4ukko p\u00e4\u00e4tti mit\u00e4 kuunnellaan ja kukaan muu ei radioon saanut koskea. Is\u00e4n mielest\u00e4 hyv\u00e4t rallatukset raastoivat omia kuulohermoja kilometri kilometrilt\u00e4. Illan polttavin kysymys onkin, onko is\u00e4n levykaapin sis\u00e4lt\u00f6 edelleen t\u00e4ytt\u00e4 sontaa, vai onko sekaan eksynyt helmi\u00e4? Aasinsiltojen v\u00e4ritt\u00e4m\u00e4ss\u00e4 ohjelmassa, me otamme t\u00e4st\u00e4 selv\u00e4n! "
     }
 ]
