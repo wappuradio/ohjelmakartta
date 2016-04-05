@@ -855,15 +855,6 @@
         "desc": "Kaikki tielt\u00e4v\u00e4t milt\u00e4 kasari kuullostaa, ja Eurodance tuo aina mukanaan erehtym\u00e4tt\u00f6m\u00e4n tuulahduksen ys\u00e4ri\u00e4, mutta mit\u00e4 ihmett\u00e4 soitettiin viime vuosikymmenell\u00e4? Agenttimme l\u00e4htev\u00e4t tutkimaan kadonneen vuosikymmenen tapausta ja selvitt\u00e4v\u00e4t, mit\u00e4 nykyisten teekkareiden teinivuosina oikein kuunneltiin. Ja oliko se oikeastaan mist\u00e4\u00e4n kotoisin."
     },
     {
-        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
-        "start": "2016-04-23 07:00",
-        "end": "2016-04-23 09:00",
-        "title": "Nousevan Auringon (Maan) Aamushow",
-        "host": "Lahis, Delta102, FireFlower",
-        "prod": "Wunderkind",
-        "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden Japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 Lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
-    },
-    {
         "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
         "start": "2016-04-20 00:00",
         "end": "2016-04-20 07:00",
@@ -909,15 +900,6 @@
         "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu."
     },
     {
-        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
-        "start": "2016-04-24 13:00",
-        "end": "2016-04-24 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "Lorens, Tuomo, Kultsi",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
         "id": "93f326d3-766d-4363-92c6-5f713058aee6",
         "start": "2016-04-25 18:00",
         "end": "2016-04-25 20:00",
@@ -943,5 +925,23 @@
         "host": "maikey, Laura R",
         "prod": "delta_cephei",
         "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja Maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
+    },
+    {
+        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
+        "start": "2016-04-23 07:00",
+        "end": "2016-04-23 09:00",
+        "title": "Nousevan Auringon (Maan) Aamushow",
+        "host": "Lahis, Delta102, FireFlower",
+        "prod": "Wunderkind",
+        "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens, Tuomo, Kultsi",
+        "prod": "Jaketus",
+        "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock "
     }
 ]
