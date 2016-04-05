@@ -171,15 +171,6 @@
         "desc": ""
     },
     {
-        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
-        "start": "2016-04-22 00:00",
-        "end": "2016-04-22 07:00",
-        "title": "Ompeluseura",
-        "host": "Ilkka, Jaakko S, TVIK",
-        "prod": "mutsku",
-        "desc": ""
-    },
-    {
         "id": "2f2185c5-ce63-4e54-a886-b9a64b773824",
         "start": "2016-04-22 16:00",
         "end": "2016-04-22 18:00",
@@ -558,15 +549,6 @@
         "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun lauantaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesWappuMeditaation\u2122 tahdissa, kun aurinko nousee kirkastamaan niin risukasan kuin Wappukansan olemuksenkin."
     },
     {
-        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
-        "start": "2016-04-20 20:00",
-        "end": "2016-04-20 22:00",
-        "title": "Olutradio",
-        "host": "Tommmi, Kekki",
-        "prod": "Pilkki",
-        "desc": ""
-    },
-    {
         "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
         "start": "2016-04-29 18:00",
         "end": "2016-04-29 20:00",
@@ -637,15 +619,6 @@
         "host": "Henna, Kaisa",
         "prod": "Ketku",
         "desc": "\u00a1Ay caramba, mitk\u00e4 rytmit! Qma latinoradio johdattelee suomalaiseen s\u00e4\u00e4h\u00e4n ja tasapaksuun biisipoljentoon kyll\u00e4styneet kuuntelijat svengaavien lattarirytmien avulla etel\u00e4n aurinkoon. Sivussa ihmetell\u00e4\u00e4n Latinalaisen Amerikan ja Euroopan menoa ja meininki\u00e4, sek\u00e4 tutustutaan lattaritansseihin tanssija Tapion latinolantion johdolla."
-    },
-    {
-        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
-        "start": "2016-04-30 12:00",
-        "end": "2016-04-30 15:00",
-        "title": "Loppushow",
-        "host": "Kaikki",
-        "prod": "KukaKumma",
-        "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushown saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan!"
     },
     {
         "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
@@ -900,24 +873,6 @@
         "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu."
     },
     {
-        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
-        "start": "2016-04-25 18:00",
-        "end": "2016-04-25 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Bjanze",
-        "prod": "Jaketus",
-        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
-    },
-    {
-        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
-        "start": "2016-04-27 18:00",
-        "end": "2016-04-27 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Bjanze",
-        "prod": "Jaketus",
-        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
-    },
-    {
         "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
         "start": "2016-04-22 20:00",
         "end": "2016-04-22 22:00",
@@ -943,5 +898,50 @@
         "host": "Lorens, Tuomo, Kultsi",
         "prod": "Jaketus",
         "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock "
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Tosipaha-Janne",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
+    },
+    {
+        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Viisut!",
+        "host": "Lorens, Tosipaha-Janne",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "Ilkka, Jaakko, Henkka, Arttu jne",
+        "prod": "mutsku",
+        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille."
+    },
+    {
+        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
+        "start": "2016-04-30 12:00",
+        "end": "2016-04-30 15:00",
+        "title": "Loppushow",
+        "host": "Kaikki",
+        "prod": "KukaKumma",
+        "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt Wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushow'n saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan."
+    },
+    {
+        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
+        "start": "2016-04-20 20:00",
+        "end": "2016-04-20 22:00",
+        "title": "Olutradio",
+        "host": "Tommi, Kekki",
+        "prod": "Pilkki",
+        "desc": "Kaksi tuntia asiaa ja musiikkia siit\u00e4 itsest\u00e4\u00e4n \u2014 oluesta. Olutamat\u00f6\u00f6rit Tommi ja Kekki tarinoivat harrastuksestaan oluen panemisen kiehtovassa maailmassa, poimivat internetin mehevimm\u00e4t olutbloggaukset sek\u00e4 soittavat timanttisimmat olutaiheiset biisit t\u00e4lt\u00e4 ja menneelt\u00e4 vuosisadalta. Huhupuheiden mukaan paikalle saattaa eksy\u00e4 my\u00f6s panemisen ammattilaisia."
     }
 ]
