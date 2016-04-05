@@ -522,15 +522,6 @@
         "desc": ""
     },
     {
-        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
-        "start": "2016-04-24 13:00",
-        "end": "2016-04-24 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "Lorens, Kultsi",
-        "prod": "KukaKumma",
-        "desc": ""
-    },
-    {
         "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
         "start": "2016-04-23 11:00",
         "end": "2016-04-23 13:00",
@@ -943,5 +934,14 @@
         "host": "Mika, Jaakko",
         "prod": "Joonas",
         "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu."
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens, Tuomo, Kultsi",
+        "prod": "Jaketus",
+        "desc": ""
     }
 ]
