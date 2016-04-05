@@ -450,15 +450,6 @@
         "desc": ""
     },
     {
-        "id": "ea348754-750b-4799-9182-b479aa8b9572",
-        "start": "2016-04-26 20:00",
-        "end": "2016-04-26 22:00",
-        "title": "Pelit ja vehkeet",
-        "host": "Eric, Ninnnu, zordiack, zzif, vuokko",
-        "prod": "shiona tai dregu",
-        "desc": ""
-    },
-    {
         "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
         "start": "2016-04-20 14:00",
         "end": "2016-04-20 16:00",
@@ -943,5 +934,14 @@
         "host": "June, Otto",
         "prod": "Vuokko",
         "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
+    },
+    {
+        "id": "ea348754-750b-4799-9182-b479aa8b9572",
+        "start": "2016-04-26 20:00",
+        "end": "2016-04-26 22:00",
+        "title": "Pelit ja vehkeet",
+        "host": "Eric, ninnnu, zordiack, zzif, vuokko",
+        "prod": "dregu",
+        "desc": "Teknist\u00e4 radiota radion tekniikalta."
     }
 ]
