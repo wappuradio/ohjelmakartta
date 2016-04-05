@@ -234,15 +234,6 @@
         "desc": ""
     },
     {
-        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
-        "start": "2016-04-25 20:00",
-        "end": "2016-04-25 21:00",
-        "title": "Trance Session With J.A.Z.P.",
-        "host": "Janne S.",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
         "start": "2016-04-25 16:00",
         "end": "2016-04-25 18:00",
@@ -943,5 +934,14 @@
         "host": "Tommi, Kekki",
         "prod": "Pilkki",
         "desc": "Kaksi tuntia asiaa ja musiikkia siit\u00e4 itsest\u00e4\u00e4n \u2014 oluesta. Olutamat\u00f6\u00f6rit Tommi ja Kekki tarinoivat harrastuksestaan oluen panemisen kiehtovassa maailmassa, poimivat internetin mehevimm\u00e4t olutbloggaukset sek\u00e4 soittavat timanttisimmat olutaiheiset biisit t\u00e4lt\u00e4 ja menneelt\u00e4 vuosisadalta. Huhupuheiden mukaan paikalle saattaa eksy\u00e4 my\u00f6s panemisen ammattilaisia."
+    },
+    {
+        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
+        "start": "2016-04-25 20:00",
+        "end": "2016-04-25 21:00",
+        "title": "Monday's Trance Session With J.A.Z.P.",
+        "host": "Janne S.",
+        "prod": "",
+        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
     }
 ]
