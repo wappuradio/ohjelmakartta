@@ -153,15 +153,6 @@
         "desc": ""
     },
     {
-        "id": "322f6a49-5781-4d47-aa7c-a7c0eb39cce6",
-        "start": "2016-04-21 00:00",
-        "end": "2016-04-21 07:00",
-        "title": "Tekniikan Mikan blues",
-        "host": "Mika, Jaakko",
-        "prod": "Joonas",
-        "desc": ""
-    },
-    {
         "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
         "start": "2016-04-21 16:00",
         "end": "2016-04-21 18:00",
@@ -943,5 +934,14 @@
         "host": "Pekka Sauron",
         "prod": "Dildo Peppuli",
         "desc": "Kaatuiko yhteiskuntasopimus, etk\u00e4 tied\u00e4 kenen puolella olet kaikkien sodassa kaikkia vastaan? Harmittaako ettet ole viel\u00e4k\u00e4\u00e4n ehtinyt n\u00e4hd\u00e4 Tampere2:a, vaikka Tampere3 on jo tulossa? \u00c4l\u00e4 vaivu synkkyyteen, vaan soita studioon ja kerro huolesi kaikkien alojen erikoisasiantuntijalle. Mordorin suuriruhtinas Pekka Sauron ratkaisee kuulijoiden kaikki ongelmat Wappuradion viimeisen\u00e4 y\u00f6n\u00e4. Tuottaja Dildo Peppuli tarjoilee puheluiden v\u00e4liin musiikinkaltaisia valmisteita. Ohjelma sis\u00e4lt\u00e4\u00e4 eri tuotteiden sijoittelua hassuihin paikkoihin."
+    },
+    {
+        "id": "322f6a49-5781-4d47-aa7c-a7c0eb39cce6",
+        "start": "2016-04-21 00:00",
+        "end": "2016-04-21 07:00",
+        "title": "Tekniikan Mikan y\u00f6blues",
+        "host": "Mika, Jaakko",
+        "prod": "Joonas",
+        "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu."
     }
 ]
