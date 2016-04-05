@@ -360,15 +360,6 @@
         "desc": ""
     },
     {
-        "id": "c9d02de4-ebb5-410d-be31-d0df7a2606b0",
-        "start": "2016-04-30 00:00",
-        "end": "2016-04-30 07:00",
-        "title": "Pekka Sauronin y\u00f6radio",
-        "host": "Pekka Sauron",
-        "prod": "Dildo Peppuli",
-        "desc": ""
-    },
-    {
         "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
         "start": "2016-04-23 00:00",
         "end": "2016-04-23 07:00",
@@ -502,15 +493,6 @@
         "host": "Marjaana, Viivi",
         "prod": "PunaJussi",
         "desc": ""
-    },
-    {
-        "id": "969703db-65a7-4d0c-be86-913a13ab0c01",
-        "start": "2016-04-19 14:00",
-        "end": "2016-04-19 16:00",
-        "title": "HYPE!",
-        "host": "Keba, PunaJussi, Helge",
-        "prod": "KukaKumma",
-        "desc": "EBIN"
     },
     {
         "id": "e2616329-9d5e-447a-adea-60b36c803803",
@@ -943,5 +925,23 @@
         "host": "Wilho, MiRa",
         "prod": "Keba",
         "desc": "Pitkill\u00e4 automatkoilla is\u00e4ukko p\u00e4\u00e4tti mit\u00e4 kuunnellaan ja kukaan muu ei radioon saanut koskea. Is\u00e4n mielest\u00e4 hyv\u00e4t rallatukset raastoivat omia kuulohermoja kilometri kilometrilt\u00e4. Illan polttavin kysymys onkin, onko is\u00e4n levykaapin sis\u00e4lt\u00f6 edelleen t\u00e4ytt\u00e4 sontaa, vai onko sekaan eksynyt helmi\u00e4? Aasinsiltojen v\u00e4ritt\u00e4m\u00e4ss\u00e4 ohjelmassa, me otamme t\u00e4st\u00e4 selv\u00e4n! "
+    },
+    {
+        "id": "0c8be5b5-6c60-438f-88c4-e9db7b43ccb7",
+        "start": "2016-04-19 14:00",
+        "end": "2016-04-19 16:00",
+        "title": "HYPE!",
+        "host": "Keba, PunaJussi, Helge",
+        "prod": "KukaKumma",
+        "desc": "EBIN"
+    },
+    {
+        "id": "c9d02de4-ebb5-410d-be31-d0df7a2606b0",
+        "start": "2016-04-30 00:00",
+        "end": "2016-04-30 07:00",
+        "title": "Pekka Sauronin y\u00f6radio",
+        "host": "Pekka Sauron",
+        "prod": "Dildo Peppuli",
+        "desc": "Kaatuiko yhteiskuntasopimus, etk\u00e4 tied\u00e4 kenen puolella olet kaikkien sodassa kaikkia vastaan? Harmittaako ettet ole viel\u00e4k\u00e4\u00e4n ehtinyt n\u00e4hd\u00e4 Tampere2:a, vaikka Tampere3 on jo tulossa? \u00c4l\u00e4 vaivu synkkyyteen, vaan soita studioon ja kerro huolesi kaikkien alojen erikoisasiantuntijalle. Mordorin suuriruhtinas Pekka Sauron ratkaisee kuulijoiden kaikki ongelmat Wappuradion viimeisen\u00e4 y\u00f6n\u00e4. Tuottaja Dildo Peppuli tarjoilee puheluiden v\u00e4liin musiikinkaltaisia valmisteita. Ohjelma sis\u00e4lt\u00e4\u00e4 eri tuotteiden sijoittelua hassuihin paikkoihin."
     }
 ]
