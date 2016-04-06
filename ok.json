@@ -468,15 +468,6 @@
         "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     },
     {
-        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
-        "start": "2016-04-22 22:00",
-        "end": "2016-04-23 00:00",
-        "title": "Historian radio",
-        "host": "Tuomo, Jesse",
-        "prod": "fransmanni",
-        "desc": ""
-    },
-    {
         "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
         "start": "2016-04-20 09:00",
         "end": "2016-04-20 11:00",
@@ -828,15 +819,6 @@
         "desc": "Kuka on s\u00e4velt\u00e4nyt, sanoittanut ja sovittanut kaikki Iron Maidenin kappaleet? Kuinka ihmeess\u00e4 Ozzy Osbourne on viel\u00e4 hengiss\u00e4? Mist\u00e4 tiet\u00e4\u00e4 ett\u00e4 Metallican Lars on ovella? Matti Moottori ja Arttu k\u00e4yv\u00e4t l\u00e4pi rock-maailman ihmeellisimpi\u00e4 tarinoita, joiden totuusarvoa ei taata miss\u00e4\u00e4n m\u00e4\u00e4rin."
     },
     {
-        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
-        "start": "2016-04-22 20:00",
-        "end": "2016-04-22 22:00",
-        "title": "maikeyn ja Tintin EDM kekrit",
-        "host": "maikey, Laura R",
-        "prod": "delta_cephei",
-        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
-    },
-    {
         "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
         "start": "2016-04-21 16:00",
         "end": "2016-04-21 18:00",
@@ -943,5 +925,23 @@
         "host": "Janne S.",
         "prod": "Markka",
         "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
+    },
+    {
+        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
+        "start": "2016-04-22 20:00",
+        "end": "2016-04-22 22:00",
+        "title": "Tintin ja maikeyn EDM kekrit",
+        "host": "maikey, Laura R",
+        "prod": "delta_cephei",
+        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio Wappuradion taajuudelle, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
+    },
+    {
+        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
+        "start": "2016-04-22 22:00",
+        "end": "2016-04-23 00:00",
+        "title": "Historian musiikki",
+        "host": "Tuomo, Jesse",
+        "prod": "fransmanni",
+        "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!"
     }
 ]
