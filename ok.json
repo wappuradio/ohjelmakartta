@@ -225,15 +225,6 @@
         "desc": ""
     },
     {
-        "id": "d03554db-f384-4eb6-886c-ad89338956f6",
-        "start": "2016-04-25 00:00",
-        "end": "2016-04-25 07:00",
-        "title": "Kuun pime\u00e4 puoli",
-        "host": "zordiack, H\u00f6yss\u00e4",
-        "prod": "roope",
-        "desc": ""
-    },
-    {
         "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
         "start": "2016-04-25 16:00",
         "end": "2016-04-25 18:00",
@@ -943,5 +934,14 @@
         "host": "Eric, ninnnu, zordiack, zzif, vuokko",
         "prod": "dregu",
         "desc": "Teknist\u00e4 radiota radion tekniikalta."
+    },
+    {
+        "id": "d03554db-f384-4eb6-886c-ad89338956f6",
+        "start": "2016-04-25 00:00",
+        "end": "2016-04-25 07:00",
+        "title": "10. piiri",
+        "host": "zordiack, H\u00f6yss\u00e4",
+        "prod": "roope",
+        "desc": "1300-luvulla er\u00e4s Dante-niminen veijari eksyi pienelle patikkaretkelle ja tutustuipa siin\u00e4 reissullansa my\u00f6s helvetin n\u00e4ht\u00e4vyyksiin. T\u00e4m\u00e4n ep\u00e4ilytt\u00e4v\u00e4n paljon Wapun j\u00e4lkeiselt\u00e4 walk-of-shamelta kuulostavan tripin innoittamana ohjelmamme tekee Danten jalanj\u00e4ljiss\u00e4 \u00f6isen musiikkimatkan helvetin piireihin. Luvassa siis y\u00f6musiikkia l\u00f6yh\u00e4sti aiheeseen liittyen tai liittym\u00e4tt\u00e4!"
     }
 ]
