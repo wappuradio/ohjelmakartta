@@ -810,15 +810,6 @@
         "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu."
     },
     {
-        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
-        "start": "2016-04-22 20:00",
-        "end": "2016-04-22 22:00",
-        "title": "Maikeyn ja Tintin EDM kekrit",
-        "host": "maikey, Laura R",
-        "prod": "delta_cephei",
-        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja Maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
-    },
-    {
         "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
         "start": "2016-04-23 07:00",
         "end": "2016-04-23 09:00",
@@ -943,5 +934,14 @@
         "host": "Matti Moottori, Arttu",
         "prod": "roope",
         "desc": "Kuka on s\u00e4velt\u00e4nyt, sanoittanut ja sovittanut kaikki Iron Maidenin kappaleet? Kuinka ihmeess\u00e4 Ozzy Osbourne on viel\u00e4 hengiss\u00e4? Mist\u00e4 tiet\u00e4\u00e4 ett\u00e4 Metallican Lars on ovella? Matti Moottori ja Arttu k\u00e4yv\u00e4t l\u00e4pi rock-maailman ihmeellisimpi\u00e4 tarinoita, joiden totuusarvoa ei taata miss\u00e4\u00e4n m\u00e4\u00e4rin."
+    },
+    {
+        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
+        "start": "2016-04-22 20:00",
+        "end": "2016-04-22 22:00",
+        "title": "maikeyn ja Tintin EDM kekrit",
+        "host": "maikey, Laura R",
+        "prod": "delta_cephei",
+        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
     }
 ]
