@@ -144,30 +144,12 @@
         "desc": ""
     },
     {
-        "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
-        "start": "2016-04-21 16:00",
-        "end": "2016-04-21 18:00",
-        "title": "Kukkia, kielimoukareita ja r\u00e4imett\u00e4",
-        "host": "Santtu, Jaati, Lari",
-        "prod": "Keba",
-        "desc": ""
-    },
-    {
         "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
         "start": "2016-04-21 18:00",
         "end": "2016-04-21 20:00",
         "title": "DDR:n Naisvoimistelijoiden Totuusradio",
         "host": "Arttu, Tuomas",
         "prod": "Lasse T.",
-        "desc": ""
-    },
-    {
-        "id": "2f2185c5-ce63-4e54-a886-b9a64b773824",
-        "start": "2016-04-22 16:00",
-        "end": "2016-04-22 18:00",
-        "title": "Kukkia, kielimoukareita ja r\u00e4imett\u00e4",
-        "host": "Santtu, Jaati, Lari",
-        "prod": "Keba",
         "desc": ""
     },
     {
@@ -943,5 +925,23 @@
         "host": "maikey, Laura R",
         "prod": "delta_cephei",
         "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio taajuudelle 101,6, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty."
+    },
+    {
+        "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
+        "start": "2016-04-21 16:00",
+        "end": "2016-04-21 18:00",
+        "title": "Mustia kukkia ja kielimoukareita",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  "
+    },
+    {
+        "id": "2f2185c5-ce63-4e54-a886-b9a64b773824",
+        "start": "2016-04-22 16:00",
+        "end": "2016-04-22 18:00",
+        "title": "Mustia kukkia ja kielimoukareita",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  "
     }
 ]
