@@ -225,15 +225,6 @@
         "desc": ""
     },
     {
-        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
-        "start": "2016-04-25 21:00",
-        "end": "2016-04-26 00:00",
-        "title": "Suomen soramontut v\u00e4rikuvina",
-        "host": "S\u00e4kkinen",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
         "start": "2016-04-26 18:00",
         "end": "2016-04-26 20:00",
@@ -783,15 +774,6 @@
         "desc": "Kaksi tuntia asiaa ja musiikkia siit\u00e4 itsest\u00e4\u00e4n \u2014 oluesta. Olutamat\u00f6\u00f6rit Tommi ja Kekki tarinoivat harrastuksestaan oluen panemisen kiehtovassa maailmassa, poimivat internetin mehevimm\u00e4t olutbloggaukset sek\u00e4 soittavat timanttisimmat olutaiheiset biisit t\u00e4lt\u00e4 ja menneelt\u00e4 vuosisadalta. Huhupuheiden mukaan paikalle saattaa eksy\u00e4 my\u00f6s panemisen ammattilaisia."
     },
     {
-        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
-        "start": "2016-04-25 20:00",
-        "end": "2016-04-25 21:00",
-        "title": "Monday's Trance Session With J.A.Z.P.",
-        "host": "Janne S.",
-        "prod": "",
-        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
-    },
-    {
         "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
         "start": "2016-04-26 16:00",
         "end": "2016-04-26 18:00",
@@ -927,15 +909,6 @@
         "desc": "Puhin kanssa her\u00e4ttelyhommissa delic."
     },
     {
-        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
-        "start": "2016-04-20 00:00",
-        "end": "2016-04-20 07:00",
-        "title": "Wappuheilan mets\u00e4stys",
-        "host": "",
-        "prod": "Rakkauden Nallekarhu",
-        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu on jo kova? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista uroista tai hemaisevimmista tsirpuloista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestariem opastaaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuistwappuisimman heilan hurmaamiseen."
-    },
-    {
         "id": "ebe52f5f-ff2c-47d8-99ea-da6b9a7ce941",
         "start": "2016-04-21 13:00",
         "end": "2016-04-21 14:00",
@@ -943,5 +916,32 @@
         "host": "Miika, Mikko ja Markus",
         "prod": "zar",
         "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "Solidi Romantikko",
+        "prod": "Rakkauden Nallekarhu",
+        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu on jo kova? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista uroista tai hemaisevimmista tsirpuloista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuistwappuisimman heilan hurmaamiseen."
+    },
+    {
+        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
+        "start": "2016-04-25 21:00",
+        "end": "2016-04-26 00:00",
+        "title": "Suomen soramontut v\u00e4rikuvina",
+        "host": "S\u00e4kkinen",
+        "prod": "Markka",
+        "desc": ""
+    },
+    {
+        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
+        "start": "2016-04-25 20:00",
+        "end": "2016-04-25 21:00",
+        "title": "Monday's Trance Session With J.A.Z.P.",
+        "host": "Janne S.",
+        "prod": "Markka",
+        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
     }
 ]
