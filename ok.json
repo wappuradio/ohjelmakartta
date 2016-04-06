@@ -432,24 +432,6 @@
         "desc": ""
     },
     {
-        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
-        "start": "2016-04-23 11:00",
-        "end": "2016-04-23 13:00",
-        "title": "Jannen ja Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
-        "start": "2016-04-24 11:00",
-        "end": "2016-04-24 13:00",
-        "title": "Jannen ja Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
         "start": "2016-04-28 00:00",
         "end": "2016-04-28 07:00",
@@ -810,24 +792,6 @@
         "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock "
     },
     {
-        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
-        "start": "2016-04-25 18:00",
-        "end": "2016-04-25 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Tosipaha-Janne",
-        "prod": "Jaketus",
-        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
-    },
-    {
-        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
-        "start": "2016-04-27 18:00",
-        "end": "2016-04-27 20:00",
-        "title": "Viisut!",
-        "host": "Lorens, Tosipaha-Janne",
-        "prod": "Jaketus",
-        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
-    },
-    {
         "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
         "start": "2016-04-22 00:00",
         "end": "2016-04-22 07:00",
@@ -943,5 +907,41 @@
         "host": "Santtu, Jaati, Lari",
         "prod": "Keba",
         "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  "
+    },
+    {
+        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
+        "start": "2016-04-23 11:00",
+        "end": "2016-04-23 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
+    },
+    {
+        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
+        "start": "2016-04-24 11:00",
+        "end": "2016-04-24 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, TosiPaha-Janne",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
+    },
+    {
+        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, TosiPaha-Janne",
+        "prod": "Jaketus",
+        "desc": "Maanantain l\u00e4hetyksess\u00e4 luvassa Euroviisujen historiaa, ikivihreit\u00e4 ja vuosituhannen vaihteen h\u00e4mment\u00e4vimm\u00e4t helmet.\r\n\r\nKeskiviikkona pureudutaan viisujen viimeisimp\u00e4\u00e4n vuosikymmeneen - lukuun ottamatta Dima Bilania, sill\u00e4 Euroviisuista l\u00f6ytyy my\u00f6s oikeaa musiikkia. \r\n\r\nT\u00e4ss\u00e4 sateenkaarentuoksuisessa, t\u00e4ysin ep\u00e4poliittisessa \u00e4\u00e4nimatkassa oppainanne toimivat Lorens ja Tosipaha-Janne. "
     }
 ]
