@@ -279,24 +279,6 @@
         "desc": ""
     },
     {
-        "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
-        "start": "2016-04-20 13:00",
-        "end": "2016-04-20 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "fc622df9-4e89-49d6-a31b-8c692f5e0728",
-        "start": "2016-04-21 13:00",
-        "end": "2016-04-21 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
         "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
         "start": "2016-04-22 13:00",
         "end": "2016-04-22 14:00",
@@ -558,15 +540,6 @@
         "desc": "Anna ja Maarit paljastavat enemm\u00e4n kuin haluaisit! Tuomme p\u00e4iv\u00e4nvaloon kummallisimpia opinn\u00e4ytet\u00f6it\u00e4. Spoilaamme aamun uutiset, kohul\u00f6\u00f6pit ja naistenlehtien tuoreimmat trendit. Kerromme, miten k\u00e4y Rion olympialaisissa ja ensi talven Lahden MM-kisoissa. Sukellamme spoilerien ytimeen pohtimalla kirjallisuuden ja tv-sarjojen yll\u00e4tysjuonenk\u00e4\u00e4nteit\u00e4 ja hurjimpia lopetuksia sek\u00e4 spoilerien merkityst\u00e4 luku- ja katsomiskokemukselle. \u00c4l\u00e4 yll\u00e4ty, kun spoilaamme tuoreimmat juonikuviot rakkaimmista sarjoista sek\u00e4 tarkoin varjellut k\u00e4\u00e4nteet klassikkokertomuksista."
     },
     {
-        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
-        "start": "2016-04-29 07:00",
-        "end": "2016-04-29 09:00",
-        "title": "Sadan eekkerin mets\u00e4",
-        "host": "Puh, delic",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
         "start": "2016-04-25 07:00",
         "end": "2016-04-25 09:00",
@@ -727,15 +700,6 @@
         "host": "Lahis, Reimann",
         "prod": "Jarno T",
         "desc": "Kaikki tielt\u00e4v\u00e4t milt\u00e4 kasari kuullostaa, ja Eurodance tuo aina mukanaan erehtym\u00e4tt\u00f6m\u00e4n tuulahduksen ys\u00e4ri\u00e4, mutta mit\u00e4 ihmett\u00e4 soitettiin viime vuosikymmenell\u00e4? Agenttimme l\u00e4htev\u00e4t tutkimaan kadonneen vuosikymmenen tapausta ja selvitt\u00e4v\u00e4t, mit\u00e4 nykyisten teekkareiden teinivuosina oikein kuunneltiin. Ja oliko se oikeastaan mist\u00e4\u00e4n kotoisin."
-    },
-    {
-        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
-        "start": "2016-04-20 00:00",
-        "end": "2016-04-20 07:00",
-        "title": "Wappuheilan mets\u00e4stys",
-        "host": "SoliDi",
-        "prod": "KukaKumma",
-        "desc": ""
     },
     {
         "id": "29318e76-9f5b-4678-a5dd-c3fcec6bb8d5",
@@ -943,5 +907,41 @@
         "host": "Lorens, TosiPaha-Janne",
         "prod": "Jaketus",
         "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
+    },
+    {
+        "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
+        "start": "2016-04-20 13:00",
+        "end": "2016-04-20 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Mikko ja Markus",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic",
+        "prod": "",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa delic."
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "",
+        "prod": "Rakkauden Nallekarhu",
+        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu on jo kova? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista uroista tai hemaisevimmista tsirpuloista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestariem opastaaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuistwappuisimman heilan hurmaamiseen."
+    },
+    {
+        "id": "ebe52f5f-ff2c-47d8-99ea-da6b9a7ce941",
+        "start": "2016-04-21 13:00",
+        "end": "2016-04-21 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Mikko ja Markus",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
     }
 ]
