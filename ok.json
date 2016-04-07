@@ -450,15 +450,6 @@
         "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4."
     },
     {
-        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
-        "start": "2016-04-24 18:00",
-        "end": "2016-04-24 21:00",
-        "title": "Kolmen soinnun t\u00e4hteet",
-        "host": "Kurkku, Teemu, Koskenranta",
-        "prod": "",
-        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja.\r\n\r\nStudiossa horisevat Kurkku, Teemu ja Koskenranta."
-    },
-    {
         "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
         "start": "2016-04-29 20:00",
         "end": "2016-04-29 22:00",
@@ -783,15 +774,6 @@
         "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
     },
     {
-        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
-        "start": "2016-04-20 00:00",
-        "end": "2016-04-20 07:00",
-        "title": "Wappuheilan mets\u00e4stys",
-        "host": "Solidi Romantikko",
-        "prod": "Rakkauden Nallekarhu",
-        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu on jo kova? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista uroista tai hemaisevimmista tsirpuloista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuistwappuisimman heilan hurmaamiseen."
-    },
-    {
         "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
         "start": "2016-04-25 21:00",
         "end": "2016-04-26 00:00",
@@ -943,5 +925,23 @@
         "host": "Janne S.",
         "prod": "Veli-V",
         "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
+    },
+    {
+        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 21:00",
+        "title": "Kolmen soinnun t\u00e4hteet",
+        "host": "Kurkku, Teemu, Koskenranta",
+        "prod": "",
+        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja."
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "Solidi Romantikko",
+        "prod": "Rakkauden Nallekarhu",
+        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu takoo rintaa kuin viidakkorumpu? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista Tarzaneista tai hemaisevimmista Janeista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuiston auringonnousua. "
     }
 ]
