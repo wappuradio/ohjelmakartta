@@ -207,15 +207,6 @@
         "desc": ""
     },
     {
-        "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
-        "start": "2016-04-26 00:00",
-        "end": "2016-04-26 07:00",
-        "title": "Soihdut sammuu",
-        "host": "Veli-V, Maketzu",
-        "prod": "KukaKumma",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -952,5 +943,14 @@
         "host": "Masi, Manty",
         "prod": "shiona",
         "desc": "Viime vuodelta tunnettu klassisen rockin erikoisohjelma palaa entist\u00e4 pidemp\u00e4n\u00e4. Soitamme suosikkisi 60- ja 70-luvuilta sek\u00e4 ehk\u00e4 l\u00e4hemp\u00e4\u00e4kin."
+    },
+    {
+        "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
+        "start": "2016-04-26 00:00",
+        "end": "2016-04-26 07:00",
+        "title": "Set\u00e4 sen ajan maailma",
+        "host": "Veli-V, maketzu",
+        "prod": "KukaKumma",
+        "desc": "Korvak\u00e4yt\u00e4v\u00e4si on meid\u00e4n kankaamme. Kankaalle me teemme kuvan, kuvan ajasta joka oli parempi, ajasta jolloin juontajat painoivat v\u00e4hemm\u00e4n, ajasta jolloin meill\u00e4kin oli mahdollisuus maailmassa. Takana loistava tulevaisuus, edess\u00e4 uneton y\u00f6. Muistelua ja tasokasta musiikkia."
     }
 ]
