@@ -216,15 +216,6 @@
         "desc": ""
     },
     {
-        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
-        "start": "2016-04-23 00:00",
-        "end": "2016-04-23 07:00",
-        "title": "Tummuva y\u00f6",
-        "host": "Donaldi, Hiihu",
-        "prod": "manty",
-        "desc": ""
-    },
-    {
         "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
         "start": "2016-04-22 13:00",
         "end": "2016-04-22 14:00",
@@ -952,5 +943,14 @@
         "host": "Ilmari, Mikko",
         "prod": "PunaJussi",
         "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin y\u00f6radio."
+    },
+    {
+        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
+        "start": "2016-04-23 00:00",
+        "end": "2016-04-23 07:00",
+        "title": "Tummuva y\u00f6",
+        "host": "Donaldi, Hiihu",
+        "prod": "manty",
+        "desc": "Ilta tummuu ja saapuu y\u00f6. Vaan mit\u00e4 saapuu y\u00f6n tummuessa? Monen muistikuvat voivat olla hataria tai kenties niit\u00e4 ei halua muistaakkaan... Tummuvassa y\u00f6ss\u00e4 pyrit\u00e4\u00e4n selvitt\u00e4m\u00e4\u00e4n mit\u00e4 merkillisyyksi\u00e4 l\u00f6ytyy y\u00f6n tuolla puolen... My\u00f6s musiikin puolella"
     }
 ]
