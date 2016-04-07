@@ -207,24 +207,6 @@
         "desc": ""
     },
     {
-        "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
-        "start": "2016-04-26 18:00",
-        "end": "2016-04-26 20:00",
-        "title": "Klassisrock",
-        "host": "Masi, Manty",
-        "prod": "shiona",
-        "desc": ""
-    },
-    {
-        "id": "527d22a5-7459-4ba0-aba2-320ac3f0c200",
-        "start": "2016-04-28 18:00",
-        "end": "2016-04-28 20:00",
-        "title": "Klassisrock",
-        "host": "Masi, Manty",
-        "prod": "shiona",
-        "desc": ""
-    },
-    {
         "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
         "start": "2016-04-26 00:00",
         "end": "2016-04-26 07:00",
@@ -952,5 +934,23 @@
         "host": "Ville H, Joel K, Juha, Mikko, Valtteri",
         "prod": "PunaJussi",
         "desc": "Leppoisa iltap\u00e4iv\u00e4hetki musiikin, kahvin, Panama-papersien, Tampereen klubihistorian ja basson merkeiss\u00e4 Spinnin poikkojen toimittamana. Elektronista musiikkia kahdenkymmenen vuoden skaalalla, my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4 aiheuttavia juontoja, pohjattomaan genresuohon uppoamista ja skenepisteit\u00e4 - Spinni Radio Lab on t\u00e4t\u00e4 kaikkea.\r\n"
+    },
+    {
+        "id": "527d22a5-7459-4ba0-aba2-320ac3f0c200",
+        "start": "2016-04-28 18:00",
+        "end": "2016-04-28 20:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": "Viime vuodelta tunnettu klassisen rockin erikoisohjelma palaa entist\u00e4 pidemp\u00e4n\u00e4. Soitamme suosikkisi 60- ja 70-luvuilta sek\u00e4 ehk\u00e4 l\u00e4hemp\u00e4\u00e4kin."
+    },
+    {
+        "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
+        "start": "2016-04-26 18:00",
+        "end": "2016-04-26 20:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": "Viime vuodelta tunnettu klassisen rockin erikoisohjelma palaa entist\u00e4 pidemp\u00e4n\u00e4. Soitamme suosikkisi 60- ja 70-luvuilta sek\u00e4 ehk\u00e4 l\u00e4hemp\u00e4\u00e4kin."
     }
 ]
