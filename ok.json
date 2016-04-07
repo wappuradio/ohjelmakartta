@@ -333,15 +333,6 @@
         "desc": ""
     },
     {
-        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
-        "start": "2016-04-28 00:00",
-        "end": "2016-04-28 07:00",
-        "title": "Rytmimuna",
-        "host": "Ilmari, Mikko",
-        "prod": "PunaJussi",
-        "desc": ""
-    },
-    {
         "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
         "start": "2016-04-23 13:00",
         "end": "2016-04-23 16:00",
@@ -952,5 +943,14 @@
         "host": "Veli-V, maketzu",
         "prod": "KukaKumma",
         "desc": "Korvak\u00e4yt\u00e4v\u00e4si on meid\u00e4n kankaamme. Kankaalle me teemme kuvan, kuvan ajasta joka oli parempi, ajasta jolloin juontajat painoivat v\u00e4hemm\u00e4n, ajasta jolloin meill\u00e4kin oli mahdollisuus maailmassa. Takana loistava tulevaisuus, edess\u00e4 uneton y\u00f6. Muistelua ja tasokasta musiikkia."
+    },
+    {
+        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
+        "start": "2016-04-28 00:00",
+        "end": "2016-04-28 07:00",
+        "title": "Rytmimuna",
+        "host": "Ilmari, Mikko",
+        "prod": "PunaJussi",
+        "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin y\u00f6radio."
     }
 ]
