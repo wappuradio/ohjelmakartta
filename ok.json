@@ -378,33 +378,6 @@
         "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     },
     {
-        "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
-        "start": "2016-04-20 09:00",
-        "end": "2016-04-20 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "keba",
-        "desc": ""
-    },
-    {
-        "id": "66f76f1a-f176-481e-acf6-8e6b13eada35",
-        "start": "2016-04-21 09:00",
-        "end": "2016-04-21 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "keba",
-        "desc": ""
-    },
-    {
-        "id": "73c0b6c6-b32e-41e8-aeb7-8d7d9752526e",
-        "start": "2016-04-22 09:00",
-        "end": "2016-04-22 11:00",
-        "title": "Wake Up With SS",
-        "host": "Sonia, Sannis",
-        "prod": "keba",
-        "desc": ""
-    },
-    {
         "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
         "start": "2016-04-23 22:00",
         "end": "2016-04-24 00:00",
@@ -828,15 +801,6 @@
         "desc": ""
     },
     {
-        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
-        "start": "2016-04-25 20:00",
-        "end": "2016-04-25 21:00",
-        "title": "Monday's Trance Session With J.A.Z.P.",
-        "host": "Janne S.",
-        "prod": "Markka",
-        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
-    },
-    {
         "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
         "start": "2016-04-22 20:00",
         "end": "2016-04-22 22:00",
@@ -943,5 +907,41 @@
         "host": "Donaldi, Hiihu",
         "prod": "manty",
         "desc": "Ilta tummuu ja saapuu y\u00f6. Vaan mit\u00e4 saapuu y\u00f6n tummuessa? Monen muistikuvat voivat olla hataria tai kenties niit\u00e4 ei halua muistaakkaan... Tummuvassa y\u00f6ss\u00e4 pyrit\u00e4\u00e4n selvitt\u00e4m\u00e4\u00e4n mit\u00e4 merkillisyyksi\u00e4 l\u00f6ytyy y\u00f6n tuolla puolen... My\u00f6s musiikin puolella"
+    },
+    {
+        "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
+        "start": "2016-04-20 09:00",
+        "end": "2016-04-20 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4)."
+    },
+    {
+        "id": "66f76f1a-f176-481e-acf6-8e6b13eada35",
+        "start": "2016-04-21 09:00",
+        "end": "2016-04-21 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4)."
+    },
+    {
+        "id": "73c0b6c6-b32e-41e8-aeb7-8d7d9752526e",
+        "start": "2016-04-22 09:00",
+        "end": "2016-04-22 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4)."
+    },
+    {
+        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
+        "start": "2016-04-25 20:00",
+        "end": "2016-04-25 21:00",
+        "title": "Monday's Trance Session With J.A.Z.P.",
+        "host": "Janne S.",
+        "prod": "Veli-V",
+        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
     }
 ]
