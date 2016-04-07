@@ -774,15 +774,6 @@
         "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
     },
     {
-        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
-        "start": "2016-04-25 21:00",
-        "end": "2016-04-26 00:00",
-        "title": "Suomen soramontut v\u00e4rikuvina",
-        "host": "S\u00e4kkinen",
-        "prod": "Markka",
-        "desc": ""
-    },
-    {
         "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
         "start": "2016-04-22 20:00",
         "end": "2016-04-22 22:00",
@@ -943,5 +934,14 @@
         "host": "Solidi Romantikko",
         "prod": "Rakkauden Nallekarhu",
         "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu takoo rintaa kuin viidakkorumpu? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista Tarzaneista tai hemaisevimmista Janeista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuiston auringonnousua. "
+    },
+    {
+        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
+        "start": "2016-04-25 21:00",
+        "end": "2016-04-26 00:00",
+        "title": "Suomen soramontut v\u00e4rikuvina",
+        "host": "S\u00e4kkinen",
+        "prod": "Markka",
+        "desc": "Ohjelman aikana piiloudumme luolaan turvaan koneilta ja poraamme yst\u00e4viimme reiki\u00e4. Putoamme pois ajasta, siirr\u00e4mme katseen t\u00e4htiin ja saavumme kotiin. Volat t\u00e4ysille kun kuuntelette."
     }
 ]
