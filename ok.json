@@ -342,15 +342,6 @@
         "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     },
     {
-        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
-        "start": "2016-04-23 22:00",
-        "end": "2016-04-24 00:00",
-        "title": "Sceneradio",
-        "host": "Vuokko, Exca, Poro, Spiikki",
-        "prod": "Vuokko",
-        "desc": "<a href=\u201dhttp:\/\/www.wappuradio.fi\/sceneradio\u201d>Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\u201dhttp:\/\/soundcloud.com\/oskill8-1\u201d>Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>."
-    },
-    {
         "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
         "start": "2016-04-21 20:00",
         "end": "2016-04-21 22:00",
@@ -619,15 +610,6 @@
         "host": "June, Otto",
         "prod": "Vuokko",
         "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera.<a href=\u201dhttp:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\u201d>Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
-    },
-    {
-        "id": "ea348754-750b-4799-9182-b479aa8b9572",
-        "start": "2016-04-26 20:00",
-        "end": "2016-04-26 22:00",
-        "title": "Pelit ja vehkeet",
-        "host": "Eric, ninnnu, zordiack, zzif, vuokko",
-        "prod": "dregu",
-        "desc": "Teknist\u00e4 radiota radion tekniikalta."
     },
     {
         "id": "d03554db-f384-4eb6-886c-ad89338956f6",
@@ -943,5 +925,23 @@
         "host": "Teppo, Helge",
         "prod": "Jaketus",
         "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
+    },
+    {
+        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
+        "start": "2016-04-23 22:00",
+        "end": "2016-04-24 00:00",
+        "title": "Sceneradio",
+        "host": "Vuokko, Exca, Poro, Spiikki",
+        "prod": "Vuokko",
+        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\">Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\"http:\/\/soundcloud.com\/oskill8-1\">Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>."
+    },
+    {
+        "id": "ea348754-750b-4799-9182-b479aa8b9572",
+        "start": "2016-04-26 20:00",
+        "end": "2016-04-26 22:00",
+        "title": "Pelit ja vehkeet",
+        "host": "Eric, ninnnu, zordiack, zzif, vuokko",
+        "prod": "",
+        "desc": "Teknist\u00e4 radiota radion tekniikalta."
     }
 ]
