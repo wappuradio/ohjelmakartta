@@ -171,33 +171,6 @@
         "desc": ""
     },
     {
-        "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
-        "start": "2016-04-25 16:00",
-        "end": "2016-04-25 18:00",
-        "title": "Ihmeelliset elokuvat",
-        "host": "Teppo, Helge",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "52e54871-2f72-4b38-9f77-2bb1ceb63e4f",
-        "start": "2016-04-27 16:00",
-        "end": "2016-04-27 18:00",
-        "title": "Ihmeelliset elokuvat",
-        "host": "Teppo, Helge",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "18207eb2-799d-40c3-939e-92b1dcdceb01",
-        "start": "2016-04-29 16:00",
-        "end": "2016-04-29 18:00",
-        "title": "Ihmeelliset elokuvat",
-        "host": "Teppo, Helge",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -943,5 +916,32 @@
         "host": "KukaKumma, Veli-V",
         "prod": "Lorens",
         "desc": "Mist\u00e4 on radion tuottajat tehty - sokerista, sammakoista, jinkuista vaiko paniikkinappuloista? Laitamme tekniikan ep\u00e4siki\u00f6n tuottamaan el\u00e4m\u00e4ns\u00e4 ensimm\u00e4ist\u00e4 kertaa suorassa radiol\u00e4hetyksess\u00e4 ja te, armaat kuulijat, olette tervetulleita mukaan n\u00f6yr... koulutukseen!"
+    },
+    {
+        "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
+        "start": "2016-04-25 16:00",
+        "end": "2016-04-25 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
+    },
+    {
+        "id": "52e54871-2f72-4b38-9f77-2bb1ceb63e4f",
+        "start": "2016-04-27 16:00",
+        "end": "2016-04-27 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
+    },
+    {
+        "id": "18207eb2-799d-40c3-939e-92b1dcdceb01",
+        "start": "2016-04-29 16:00",
+        "end": "2016-04-29 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
     }
 ]
