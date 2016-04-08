@@ -117,15 +117,6 @@
         "desc": ""
     },
     {
-        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
-        "start": "2016-04-20 16:00",
-        "end": "2016-04-20 18:00",
-        "title": "Internationals",
-        "host": "Albert, Elsa, Markus",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
         "start": "2016-04-21 18:00",
         "end": "2016-04-21 20:00",
@@ -943,5 +934,14 @@
         "host": "Keba, PunaJussi, Helge",
         "prod": "KukaKumma",
         "desc": "Onko t\u00e4m\u00e4 edes todellista!?! \r\nNyt n\u00e4ytt\u00e4\u00e4 nimitt\u00e4in silt\u00e4, ett\u00e4 l\u00e4hd\u00f6ss\u00e4 on paras Wappu ja Radio IKIN\u00c4! Kannattaa olla heti hereill\u00e4 ja wiritt\u00e4yty\u00e4 TAMPPIN paljastuksen j\u00e4lkeen taajuudelle. Studiossa aiwan liian innostuneita Wapun weteraaneja ja ankaraa HYPETYST\u00c4. Paras Wappu on wain kerran el\u00e4m\u00e4ss\u00e4!!!"
+    },
+    {
+        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
+        "start": "2016-04-20 16:00",
+        "end": "2016-04-20 18:00",
+        "title": "????",
+        "host": "",
+        "prod": "",
+        "desc": ""
     }
 ]
