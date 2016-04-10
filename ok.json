@@ -18,69 +18,6 @@
         "desc": ""
     },
     {
-        "id": "597e10fc-d715-416a-8d40-d3a9b042e636",
-        "start": "2016-04-21 11:00",
-        "end": "2016-04-21 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "5d8944cf-b89b-49f1-afed-d6807f8c2b95",
-        "start": "2016-04-22 11:00",
-        "end": "2016-04-22 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "d44fb38d-af0e-4cd8-b5f1-97992aff4888",
-        "start": "2016-04-25 11:00",
-        "end": "2016-04-25 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "643f4e87-ebdd-4fb8-9cd3-f72e406f5e0c",
-        "start": "2016-04-26 11:00",
-        "end": "2016-04-26 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "1173cc33-80a2-4880-a8bc-dee4fd66b19c",
-        "start": "2016-04-27 11:00",
-        "end": "2016-04-27 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "70878488-939d-4c45-a113-e0825879d307",
-        "start": "2016-04-28 11:00",
-        "end": "2016-04-28 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "ab964652-2666-4082-ad87-92379cdd082a",
-        "start": "2016-04-29 11:00",
-        "end": "2016-04-29 13:00",
-        "title": "Kenveskip\u00e4iv\u00e4",
-        "host": "Tebo, Helky, Mutsku",
-        "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
         "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
         "start": "2016-04-21 18:00",
         "end": "2016-04-21 20:00",
@@ -936,12 +873,75 @@
         "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera."
     },
     {
-        "id": "2a5c9c33-a6a8-4f8f-be2e-c3f536ddb02e",
+        "id": "06fe3d8e-45f4-4752-9a26-4e0211962f89",
         "start": "2016-04-20 11:00",
         "end": "2016-04-20 13:00",
         "title": "Keskip\u00e4iv\u00e4n tasoitus",
         "host": "Tebo, Helky, Mutsku",
         "prod": "delta_cephei",
-        "desc": ""
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "77fa0e27-6b23-4e36-84bd-21c87f2a1964",
+        "start": "2016-04-21 11:00",
+        "end": "2016-04-21 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "c3d7cafd-5430-4e6d-899e-9ca351840940",
+        "start": "2016-04-22 11:00",
+        "end": "2016-04-22 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "d9024843-ab17-4398-aac0-1b9f5ad327f1",
+        "start": "2016-04-25 11:00",
+        "end": "2016-04-25 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "056297ad-8cb1-476b-87a7-af7b515dc756",
+        "start": "2016-04-26 11:00",
+        "end": "2016-04-26 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "0840f8d4-8ac2-4750-963f-82761076582a",
+        "start": "2016-04-27 11:00",
+        "end": "2016-04-27 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "4a98b65f-b60a-4a90-af39-bc2f9f5754f7",
+        "start": "2016-04-28 11:00",
+        "end": "2016-04-28 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "e7193f0c-64b8-4976-93e0-9508bcb4c98d",
+        "start": "2016-04-29 11:00",
+        "end": "2016-04-29 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
     }
 ]
