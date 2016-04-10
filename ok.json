@@ -18,39 +18,12 @@
         "desc": ""
     },
     {
-        "id": "c97c483e-7101-4f93-adf6-c36b93eca1f5",
-        "start": "2016-04-20 07:00",
-        "end": "2016-04-20 09:00",
-        "title": "Tuorepuristettu kaurapuuro",
-        "host": "Rocka, Ketku",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
         "id": "2a5c9c33-a6a8-4f8f-be2e-c3f536ddb02e",
         "start": "2016-04-20 11:00",
         "end": "2016-04-20 13:00",
         "title": "Kenveskip\u00e4iv\u00e4",
         "host": "Tebo, Helky, Mutsku",
         "prod": "delta_cephei",
-        "desc": ""
-    },
-    {
-        "id": "f2b681e6-9841-47a0-acb1-ce54332cf2e5",
-        "start": "2016-04-21 07:00",
-        "end": "2016-04-21 09:00",
-        "title": "Tuorepuristettu kaurapuuro",
-        "host": "Rocka, Ketku",
-        "prod": "Jaketus",
-        "desc": ""
-    },
-    {
-        "id": "1b6056f9-1c25-4f83-ae6f-ee73b9da4eea",
-        "start": "2016-04-22 07:00",
-        "end": "2016-04-22 09:00",
-        "title": "Tuorepuristettu kaurapuuro",
-        "host": "Rocka, Ketku",
-        "prod": "Jaketus",
         "desc": ""
     },
     {
@@ -846,15 +819,6 @@
         "desc": "Onko t\u00e4m\u00e4 edes todellista!?! \r\nNyt n\u00e4ytt\u00e4\u00e4 nimitt\u00e4in silt\u00e4, ett\u00e4 l\u00e4hd\u00f6ss\u00e4 on paras Wappu ja Radio IKIN\u00c4! Kannattaa olla heti hereill\u00e4 ja wiritt\u00e4yty\u00e4 TAMPPIN paljastuksen j\u00e4lkeen taajuudelle. Studiossa aiwan liian innostuneita Wapun weteraaneja ja ankaraa HYPETYST\u00c4. Paras Wappu on wain kerran el\u00e4m\u00e4ss\u00e4!!!"
     },
     {
-        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
-        "start": "2016-04-20 16:00",
-        "end": "2016-04-20 18:00",
-        "title": "Tuottajakoulu",
-        "host": "KukaKumma, Veli-V",
-        "prod": "Lorens",
-        "desc": "Mist\u00e4 on radion tuottajat tehty - sokerista, sammakoista, jinkuista vaiko paniikkinappuloista? Laitamme tekniikan ep\u00e4siki\u00f6n tuottamaan el\u00e4m\u00e4ns\u00e4 ensimm\u00e4ist\u00e4 kertaa suorassa radiol\u00e4hetyksess\u00e4 ja te, armaat kuulijat, olette tervetulleita mukaan n\u00f6yr... koulutukseen!"
-    },
-    {
         "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
         "start": "2016-04-25 16:00",
         "end": "2016-04-25 18:00",
@@ -943,5 +907,41 @@
         "host": "Puh, delic",
         "prod": "KukaKumma",
         "desc": "Puhin kanssa her\u00e4ttelyhommissa delic."
+    },
+    {
+        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
+        "start": "2016-04-20 16:00",
+        "end": "2016-04-20 18:00",
+        "title": "Tuottajakoulu",
+        "host": "KukaKumma, Veli-V",
+        "prod": "Lorens",
+        "desc": "Mist\u00e4 on radion tuottajat tehty - sokerista, sammakoista, jinkuista vaiko paniikkinappuloista? Laitamme tekniikan ep\u00e4siki\u00f6n tuottamaan el\u00e4m\u00e4ns\u00e4 ensimm\u00e4ist\u00e4 kertaa suorassa radiol\u00e4hetyksess\u00e4 ja te, armaat kuulijat, olette tervetulleita mukaan n\u00f6yr... koulutukseen! Samalla kuullaan tuottajakonkarien muisteloita vuosien varrelta."
+    },
+    {
+        "id": "c97c483e-7101-4f93-adf6-c36b93eca1f5",
+        "start": "2016-04-20 07:00",
+        "end": "2016-04-20 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera."
+    },
+    {
+        "id": "f2b681e6-9841-47a0-acb1-ce54332cf2e5",
+        "start": "2016-04-21 07:00",
+        "end": "2016-04-21 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera."
+    },
+    {
+        "id": "1b6056f9-1c25-4f83-ae6f-ee73b9da4eea",
+        "start": "2016-04-22 07:00",
+        "end": "2016-04-22 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera."
     }
 ]
