@@ -18,15 +18,6 @@
         "desc": ""
     },
     {
-        "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
-        "start": "2016-04-21 18:00",
-        "end": "2016-04-21 20:00",
-        "title": "DDR:n Naisvoimistelijoiden Totuusradio",
-        "host": "Arttu, Tuomas",
-        "prod": "Lasse T.",
-        "desc": ""
-    },
-    {
         "id": "73a5417d-0a70-4111-ae4d-ed30f0918e87",
         "start": "2016-04-23 09:00",
         "end": "2016-04-23 11:00",
@@ -78,60 +69,6 @@
         "title": "Elokuvien B-puoli",
         "host": "Olli E, Tuomas K",
         "prod": "",
-        "desc": ""
-    },
-    {
-        "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
-        "start": "2016-04-22 13:00",
-        "end": "2016-04-22 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
-        "start": "2016-04-28 13:00",
-        "end": "2016-04-28 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
-        "start": "2016-04-25 13:00",
-        "end": "2016-04-25 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
-        "start": "2016-04-26 13:00",
-        "end": "2016-04-26 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
-        "start": "2016-04-27 13:00",
-        "end": "2016-04-27 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "maketzu, SoliDi",
-        "prod": "zar",
-        "desc": ""
-    },
-    {
-        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
-        "start": "2016-04-29 13:00",
-        "end": "2016-04-29 14:00",
-        "title": "P\u00e4iv\u00e4n lafka",
-        "host": "maketzu, SoliDi",
-        "prod": "zar",
         "desc": ""
     },
     {
@@ -943,5 +880,68 @@
         "host": "Lorens, Bjanze",
         "prod": "Jaketus",
         "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
+    },
+    {
+        "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
+        "start": "2016-04-21 18:00",
+        "end": "2016-04-21 20:00",
+        "title": "DDR:n Naisvoimistelijoiden Totuusradio",
+        "host": "Arttu, Tuomas",
+        "prod": "Lasse T.",
+        "desc": "Oletko v\u00e4synyt ainaiseen kapitalismiin, kulutusjuhlien uuvuttama tai muuten vaan kyll\u00e4stynyt l\u00e4nsimaiseen hapatukseen? DDR:n Naisvoimistelijoiden Totuusradio on ohjelma juuri sinulle. Me autamme sinua l\u00f6yt\u00e4m\u00e4\u00e4n el\u00e4m\u00e4\u00e4si ryhdin It\u00e4-Saksalaiseen tapaan! Urheilussakin menestyneet DDRNV:n tyt\u00f6t pohtivat studiossa ratkaisuja nykyp\u00e4iv\u00e4n ongelmiin, ja miettiv\u00e4t miten asiat oli hoidettu valtioista parhaassa, eli DDR:ss\u00e4. V\u00e4lill\u00e4 kevennet\u00e4\u00e4n tunnelmaa soittamalla musiikkia ajalta, jolloin muuri oli viel\u00e4 pystyss\u00e4, ja kaikki oli muutenkin paremmin. Mielipiteit\u00e4 on monia, mutta on vain yksi totuus. Sen kertoo DDR:n Naisvoimistelijoiden Totuusradio!"
+    },
+    {
+        "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
+        "start": "2016-04-22 13:00",
+        "end": "2016-04-22 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
+        "start": "2016-04-25 13:00",
+        "end": "2016-04-25 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
+        "start": "2016-04-26 13:00",
+        "end": "2016-04-26 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
+        "start": "2016-04-27 13:00",
+        "end": "2016-04-27 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
+        "start": "2016-04-28 13:00",
+        "end": "2016-04-28 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
+        "start": "2016-04-29 13:00",
+        "end": "2016-04-29 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "maketzu, SoliDi",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
     }
 ]
