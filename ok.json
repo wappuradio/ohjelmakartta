@@ -54,15 +54,6 @@
         "desc": ""
     },
     {
-        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
-        "start": "2016-04-24 21:00",
-        "end": "2016-04-24 23:00",
-        "title": "Kallen ja Tomin oma ohjelma",
-        "host": "Tuomola, Miikkulainen",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -943,5 +934,14 @@
         "host": "maketzu, SoliDi",
         "prod": "zar",
         "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
+    },
+    {
+        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
+        "start": "2016-04-24 21:00",
+        "end": "2016-04-24 23:00",
+        "title": "Sunnuntaimayhem",
+        "host": "Tuomola, Vanhanen",
+        "prod": "",
+        "desc": "Sunnuntai-intaa jatketaan rytmik\u00e4\u00e4n ja mukaansatempaavan musiikin soidessa taustalla. Tuomas ja Kalle soittavat sunnuntai-illan vietteeksi riehakasta musiikkia ja laittavat sukat py\u00f6rim\u00e4\u00e4n viel\u00e4 kerran ennen maanantaina alkavaa ty\u00f6viikkoa. Viel\u00e4 ei tarvitse mietti\u00e4 huomista , vaan voi riehaantua hyv\u00e4st\u00e4 musiikista ja meiningist\u00e4."
     }
 ]
