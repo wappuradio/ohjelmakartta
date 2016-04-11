@@ -423,24 +423,6 @@
         "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  "
     },
     {
-        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
-        "start": "2016-04-23 11:00",
-        "end": "2016-04-23 13:00",
-        "title": "Jannen ja Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
-    },
-    {
-        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
-        "start": "2016-04-24 11:00",
-        "end": "2016-04-24 13:00",
-        "title": "Jannen ja Tulkin TOP 5",
-        "host": "Teemu, Lasse",
-        "prod": "",
-        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
-    },
-    {
         "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
         "start": "2016-04-20 13:00",
         "end": "2016-04-20 14:00",
@@ -943,5 +925,23 @@
         "host": "Tuomola, Vanhanen",
         "prod": "",
         "desc": "Sunnuntai-iltaa jatketaan rytmik\u00e4\u00e4n ja mukaansatempaavan musiikin soidessa taustalla. Tuomas ja Kalle soittavat sunnuntai-illan vietteeksi riehakasta musiikkia ja laittavat sukat py\u00f6rim\u00e4\u00e4n viel\u00e4 kerran ennen maanantaina alkavaa ty\u00f6viikkoa. Viel\u00e4 ei tarvitse mietti\u00e4 huomista, vaan voi riehaantua hyv\u00e4st\u00e4 musiikista ja meiningist\u00e4."
+    },
+    {
+        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
+        "start": "2016-04-23 11:00",
+        "end": "2016-04-23 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "rocka",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
+    },
+    {
+        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
+        "start": "2016-04-24 11:00",
+        "end": "2016-04-24 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "rocka",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
     }
 ]
