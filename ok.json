@@ -531,24 +531,6 @@
         "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
     },
     {
-        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
-        "start": "2016-04-25 18:00",
-        "end": "2016-04-25 20:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "Lorens, TosiPaha-Janne",
-        "prod": "Jaketus",
-        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
-    },
-    {
-        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
-        "start": "2016-04-27 18:00",
-        "end": "2016-04-27 20:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "Lorens, TosiPaha-Janne",
-        "prod": "Jaketus",
-        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
-    },
-    {
         "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
         "start": "2016-04-20 13:00",
         "end": "2016-04-20 14:00",
@@ -943,5 +925,23 @@
         "host": "Tebo, Helky, Mutsku",
         "prod": "delta_cephei",
         "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! "
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
+    },
+    {
+        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
     }
 ]
