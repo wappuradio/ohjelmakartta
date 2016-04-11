@@ -306,15 +306,6 @@
         "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
     },
     {
-        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
-        "start": "2016-04-24 13:00",
-        "end": "2016-04-24 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "Lorens, Tuomo, Kultsi",
-        "prod": "Jaketus",
-        "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock "
-    },
-    {
         "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
         "start": "2016-04-22 00:00",
         "end": "2016-04-22 07:00",
@@ -943,5 +934,14 @@
         "host": "Noora, Veera",
         "prod": "PunaJussi",
         "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten."
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens, Tuomo, Kultsi, Tirkkonen",
+        "prod": "Jaketus",
+        "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock "
     }
 ]
