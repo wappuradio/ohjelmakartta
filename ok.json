@@ -81,15 +81,6 @@
         "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla"
     },
     {
-        "id": "e2616329-9d5e-447a-adea-60b36c803803",
-        "start": "2016-04-19 20:00",
-        "end": "2016-04-19 22:00",
-        "title": "Syv\u00e4 purppura",
-        "host": "Noora, Veera",
-        "prod": "PunaJussi",
-        "desc": ""
-    },
-    {
         "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
         "start": "2016-04-20 22:00",
         "end": "2016-04-21 00:00",
@@ -115,15 +106,6 @@
         "host": "Eku, KukaKumma",
         "prod": "shiona",
         "desc": "Wappuradion lauantai-illan rauhan keskeytt\u00e4\u00e4 aina ajankohtainen ys\u00e4ridance EkuDancen muodossa, jee!\r\nLuvassa on viilt\u00e4v\u00e4\u00e4 analyysi\u00e4 ja trivia(ali)tietoa erin\u00e4isist\u00e4 90-luvun  \"artisteista\", j\u00e4\u00e4t\u00e4vi\u00e4 aasinsiltoja sek\u00e4 laadukkaita laukkakomppeja, unohtamatta valelopetuksia, omituista huumoria sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4. Ohjelman juontaa Johannes \"Eku\" Komulainen ja apupoikana kiekkoja py\u00f6rittelee Joni \"Kukis\" V\u00e4is\u00e4nen.\r\n"
-    },
-    {
-        "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
-        "start": "2016-04-27 20:00",
-        "end": "2016-04-27 22:00",
-        "title": "Syv\u00e4 purppura",
-        "host": "Noora, Veera",
-        "prod": "PunaJussi",
-        "desc": ""
     },
     {
         "id": "c5a8a4d9-bfc1-4080-9266-c2b4688f4fcc",
@@ -943,5 +925,23 @@
         "host": "Teemu, Lasse",
         "prod": "rocka",
         "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
+    },
+    {
+        "id": "e2616329-9d5e-447a-adea-60b36c803803",
+        "start": "2016-04-19 20:00",
+        "end": "2016-04-19 22:00",
+        "title": "Syv\u00e4 purppura",
+        "host": "Noora, Veera",
+        "prod": "PunaJussi",
+        "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten."
+    },
+    {
+        "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
+        "start": "2016-04-27 20:00",
+        "end": "2016-04-27 22:00",
+        "title": "Syv\u00e4 purppura",
+        "host": "Noora, Veera",
+        "prod": "PunaJussi",
+        "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten."
     }
 ]
