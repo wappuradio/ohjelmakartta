@@ -909,15 +909,6 @@
         "desc": "Teknist\u00e4 radiota radion tekniikalta."
     },
     {
-        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
-        "start": "2016-04-27 00:00",
-        "end": "2016-04-27 07:00",
-        "title": "\u25b2",
-        "host": "mutsku ja tumut",
-        "prod": "ehk\u00e4 rahikainen",
-        "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla"
-    },
-    {
         "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
         "start": "2016-04-29 18:00",
         "end": "2016-04-29 20:00",
@@ -943,5 +934,14 @@
         "host": "Vuokko, Exca, Poro, Spiikki",
         "prod": "Vuokko",
         "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\"http:\/\/soundcloud.com\/oskill8-1\" target=\"_blank\">Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>."
+    },
+    {
+        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
+        "start": "2016-04-27 00:00",
+        "end": "2016-04-27 07:00",
+        "title": "\u25b2",
+        "host": "aadee, arthos, Jebus ja mutsku",
+        "prod": "ehk\u00e4 rahikainen",
+        "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla"
     }
 ]
