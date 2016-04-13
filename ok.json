@@ -27,15 +27,6 @@
         "desc": ""
     },
     {
-        "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
-        "start": "2016-04-24 23:00",
-        "end": "2016-04-25 00:00",
-        "title": "Hiukkasviihdytin",
-        "host": "Jaakko S",
-        "prod": "",
-        "desc": ""
-    },
-    {
         "id": "16e78623-07cf-408a-b990-02d2e94c9352",
         "start": "2016-04-20 18:00",
         "end": "2016-04-20 20:00",
@@ -477,15 +468,6 @@
         "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!"
     },
     {
-        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
-        "start": "2016-04-24 18:00",
-        "end": "2016-04-24 21:00",
-        "title": "Kolmen soinnun t\u00e4hteet",
-        "host": "Kurkku, Teemu, Koskenranta",
-        "prod": "",
-        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja."
-    },
-    {
         "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
         "start": "2016-04-20 00:00",
         "end": "2016-04-20 07:00",
@@ -774,15 +756,6 @@
         "desc": "Soitetaan raskasta ja todella raskasta musiikkia Headbanger's Ballin hengess\u00e4."
     },
     {
-        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
-        "start": "2016-04-24 21:00",
-        "end": "2016-04-24 23:00",
-        "title": "Sunnuntaimayhem",
-        "host": "Tuomola, Vanhanen",
-        "prod": "",
-        "desc": "Sunnuntai-iltaa jatketaan rytmik\u00e4\u00e4n ja mukaansatempaavan musiikin soidessa taustalla. Tuomas ja Kalle soittavat sunnuntai-illan vietteeksi riehakasta musiikkia ja laittavat sukat py\u00f6rim\u00e4\u00e4n viel\u00e4 kerran ennen maanantaina alkavaa ty\u00f6viikkoa. Viel\u00e4 ei tarvitse mietti\u00e4 huomista, vaan voi riehaantua hyv\u00e4st\u00e4 musiikista ja meiningist\u00e4."
-    },
-    {
         "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
         "start": "2016-04-23 11:00",
         "end": "2016-04-23 13:00",
@@ -891,15 +864,6 @@
         "desc": "Tutustumme Hervannan valoisaan ja ihmismielen pime\u00e4\u00e4n puoleen. Studioon ei kannata soittaa, koska puhelimeen ei vastata; toivebiisej\u00e4 ei kannata esitt\u00e4\u00e4, koska niit\u00e4 ei soiteta!"
     },
     {
-        "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
-        "start": "2016-04-29 22:00",
-        "end": "2016-04-30 00:00",
-        "title": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli",
-        "host": "Olli E, Tuomas K",
-        "prod": "",
-        "desc": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli pureutuu elokuvien sek\u00e4 pelien musiikkip\u00e4tkiin, joita ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 saata tunnistaa tai yhdist\u00e4\u00e4 kyseiseen teokseen. Kuuntele ja h\u00e4mmenny!"
-    },
-    {
         "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
         "start": "2016-04-22 20:00",
         "end": "2016-04-22 22:00",
@@ -943,5 +907,41 @@
         "host": "Ilkka, Jaakko, Henkka, Arttu jne",
         "prod": "mutsku",
         "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta."
+    },
+    {
+        "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
+        "start": "2016-04-24 23:00",
+        "end": "2016-04-25 00:00",
+        "title": "Hiukkasviihdytin",
+        "host": "Jaakko S",
+        "prod": "mutsku",
+        "desc": "Suomessa on yli viisi miljoonaa lupaavaa muusikkoa. Useimmat heist\u00e4 juuttuvat kuitenkin urallaan per\u00e4kyl\u00e4n ainoan pubin dj-koppiin, risteilypaatin keulabaarin karaokelavalle tai pime\u00e4\u00e4n kadunkulmaan hattu haarojen v\u00e4liss\u00e4. Hiukkasviihdytin tarjoaa n\u00e4ille lahjakkuuksille tasan tunnin verran plutoniuminarvoista radioaikaa maailman suosituimmalla radiokanavalla, Rakkauden Wappuradiossa. Tiedossa on t\u00e4ysin puskista pomppaavaa suomalaista musiikkiosaamista. Maaseudulla r\u00e4pp\u00e4\u00e4v\u00e4st\u00e4 Reinosta tulee vihdoin Nuuskija-Dogg ja Stadissa nelosl\u00e4mpp\u00e4rin\u00e4 keikkuvasta J\u00f6rgenist\u00e4 uusi Daavid Ghetto."
+    },
+    {
+        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
+        "start": "2016-04-24 21:00",
+        "end": "2016-04-24 23:00",
+        "title": "Sunnuntaimayhem",
+        "host": "Tuomola, Vanhanen",
+        "prod": "MiRa",
+        "desc": "Sunnuntai-iltaa jatketaan rytmik\u00e4\u00e4n ja mukaansatempaavan musiikin soidessa taustalla. Tuomas ja Kalle soittavat sunnuntai-illan vietteeksi riehakasta musiikkia ja laittavat sukat py\u00f6rim\u00e4\u00e4n viel\u00e4 kerran ennen maanantaina alkavaa ty\u00f6viikkoa. Viel\u00e4 ei tarvitse mietti\u00e4 huomista, vaan voi riehaantua hyv\u00e4st\u00e4 musiikista ja meiningist\u00e4."
+    },
+    {
+        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 21:00",
+        "title": "Kolmen soinnun t\u00e4hteet",
+        "host": "Kurkku, Teemu, Koskenranta",
+        "prod": "Jaketus",
+        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja."
+    },
+    {
+        "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
+        "start": "2016-04-29 22:00",
+        "end": "2016-04-30 00:00",
+        "title": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli",
+        "host": "Olli E, Tuomas K",
+        "prod": "mutsku",
+        "desc": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli pureutuu elokuvien sek\u00e4 pelien musiikkip\u00e4tkiin, joita ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 saata tunnistaa tai yhdist\u00e4\u00e4 kyseiseen teokseen. Kuuntele ja h\u00e4mmenny!"
     }
 ]
