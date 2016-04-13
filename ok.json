@@ -72,15 +72,6 @@
         "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvantitatiivinen annos suomir\u00e4ppilevyj\u00e4 ja taatusti kvalitatiivista analyysi\u00e4."
     },
     {
-        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
-        "start": "2016-04-20 22:00",
-        "end": "2016-04-21 00:00",
-        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6t",
-        "host": "Lauhanen",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
         "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
         "start": "2016-04-23 19:00",
         "end": "2016-04-23 22:00",
@@ -943,5 +934,14 @@
         "host": "aadee, arthos, Jebus ja mutsku",
         "prod": "ehk\u00e4 rahikainen",
         "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla"
+    },
+    {
+        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
+        "start": "2016-04-20 22:00",
+        "end": "2016-04-21 00:00",
+        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6it\u00e4",
+        "host": "Lauhanen",
+        "prod": "Vuokko",
+        "desc": "Tutustumme Hervannan valoisaan ja ihmismielen pime\u00e4\u00e4n puoleen. Studioon ei kannata soittaa, koska puhelimeen ei vastata; toivebiisej\u00e4 ei kannata esitt\u00e4\u00e4, koska niit\u00e4 ei soiteta!"
     }
 ]
