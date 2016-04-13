@@ -315,15 +315,6 @@
         "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!"
     },
     {
-        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
-        "start": "2016-04-22 22:00",
-        "end": "2016-04-23 00:00",
-        "title": "Historian musiikki",
-        "host": "Tuomo, Jesse",
-        "prod": "fransmanni",
-        "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!"
-    },
-    {
         "id": "d5ab779c-5db6-479c-8682-dfd746881daa",
         "start": "2016-04-19 22:00",
         "end": "2016-04-20 00:00",
@@ -943,5 +934,14 @@
         "host": "Julle, Jarno",
         "prod": "Vuokko",
         "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa."
+    },
+    {
+        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
+        "start": "2016-04-22 22:00",
+        "end": "2016-04-23 00:00",
+        "title": "Historian musiikki",
+        "host": "Tuomo, Jesse",
+        "prod": "Julle",
+        "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!"
     }
 ]
