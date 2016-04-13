@@ -1,23 +1,5 @@
 [
     {
-        "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
-        "start": "2016-04-19 18:00",
-        "end": "2016-04-19 20:00",
-        "title": "Ty\u00e4miessh\u00f6y",
-        "host": "Julle, Jarno",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
-        "id": "e15a823f-e436-4648-bc1b-49b0f7eda6a0",
-        "start": "2016-04-22 18:00",
-        "end": "2016-04-22 20:00",
-        "title": "Ty\u00e4miessh\u00f6y",
-        "host": "Julle, Jarno",
-        "prod": "Vuokko",
-        "desc": ""
-    },
-    {
         "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
         "start": "2016-04-24 09:00",
         "end": "2016-04-24 11:00",
@@ -513,42 +495,6 @@
         "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
     },
     {
-        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
-        "start": "2016-04-26 07:00",
-        "end": "2016-04-26 09:00",
-        "title": "Sadan eekkerin mets\u00e4",
-        "host": "Puh, Jenna",
-        "prod": "KukaKumma",
-        "desc": "Puhin aamuvieraana kansalaisia her\u00e4ttelem\u00e4ss\u00e4 Ihaa. Kunhan virkoamme tutustumme goottigenren ominaispiirteisiin."
-    },
-    {
-        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
-        "start": "2016-04-27 07:00",
-        "end": "2016-04-27 09:00",
-        "title": "Sadan eekkerin mets\u00e4",
-        "host": "Puh, Jaska",
-        "prod": "KukaKumma",
-        "desc": "Puhin aamuvieraana Tikru, jolle ominainen genre on ska."
-    },
-    {
-        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
-        "start": "2016-04-28 07:00",
-        "end": "2016-04-28 09:00",
-        "title": "Sadan eekkerin mets\u00e4",
-        "host": "Puh, Aittapelto",
-        "prod": "KukaKumma",
-        "desc": "Puhin aamuvieraana Risto Reipas, jonka lempigenre on indie."
-    },
-    {
-        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
-        "start": "2016-04-29 07:00",
-        "end": "2016-04-29 09:00",
-        "title": "Sadan eekkerin mets\u00e4",
-        "host": "Puh, delic",
-        "prod": "KukaKumma",
-        "desc": "Puhin kanssa her\u00e4ttelyhommissa delic."
-    },
-    {
         "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
         "start": "2016-04-20 16:00",
         "end": "2016-04-20 18:00",
@@ -943,5 +889,59 @@
         "host": "Olli E, Tuomas K",
         "prod": "mutsku",
         "desc": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli pureutuu elokuvien sek\u00e4 pelien musiikkip\u00e4tkiin, joita ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 saata tunnistaa tai yhdist\u00e4\u00e4 kyseiseen teokseen. Kuuntele ja h\u00e4mmenny!"
+    },
+    {
+        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
+        "start": "2016-04-26 07:00",
+        "end": "2016-04-26 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen."
+    },
+    {
+        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
+        "start": "2016-04-27 07:00",
+        "end": "2016-04-27 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen."
+    },
+    {
+        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
+        "start": "2016-04-28 07:00",
+        "end": "2016-04-28 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen."
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen."
+    },
+    {
+        "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
+        "start": "2016-04-19 18:00",
+        "end": "2016-04-19 20:00",
+        "title": "TY\u00c4 MI\u00c4STEN TURPO TUAKIO",
+        "host": "Julle, Jarno",
+        "prod": "Vuokko",
+        "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa."
+    },
+    {
+        "id": "e15a823f-e436-4648-bc1b-49b0f7eda6a0",
+        "start": "2016-04-22 18:00",
+        "end": "2016-04-22 20:00",
+        "title": "TY\u00c4 MI\u00c4STEN TURPO TUAKIO",
+        "host": "Julle, Jarno",
+        "prod": "Vuokko",
+        "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa."
     }
 ]
