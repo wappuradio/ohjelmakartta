@@ -81,15 +81,6 @@
         "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun lauantaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesWappuMeditaation\u2122 tahdissa, kun aurinko nousee kirkastamaan niin risukasan kuin Wappukansan olemuksenkin."
     },
     {
-        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
-        "start": "2016-04-24 07:00",
-        "end": "2016-04-24 09:00",
-        "title": "NeoTampere 2097",
-        "host": "sateenropinaa, Akseli L",
-        "prod": "Vuokko",
-        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
-    },
-    {
         "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
         "start": "2016-04-21 20:00",
         "end": "2016-04-21 22:00",
@@ -259,15 +250,6 @@
         "host": "Lahis, Delta102, FireFlower",
         "prod": "Wunderkind",
         "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle."
-    },
-    {
-        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
-        "start": "2016-04-22 00:00",
-        "end": "2016-04-22 07:00",
-        "title": "Ompeluseura",
-        "host": "Ilkka, Jaakko, Henkka, Arttu jne",
-        "prod": "mutsku",
-        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille."
     },
     {
         "id": "de60f89c-e923-474d-ada6-a935beceadf0",
@@ -943,5 +925,23 @@
         "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
         "prod": "KukaKumma",
         "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen."
+    },
+    {
+        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "NeoTampere 2097",
+        "host": "sateenropinaa, Kaennijaebae",
+        "prod": "Vuokko",
+        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "Ilkka, Jaakko, Henkka, Arttu jne",
+        "prod": "mutsku",
+        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta."
     }
 ]
