@@ -837,15 +837,6 @@
         "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia."
     },
     {
-        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
-        "start": "2016-04-22 00:00",
-        "end": "2016-04-22 07:00",
-        "title": "Ompeluseura",
-        "host": "Ilkka, Jaakko, Henkka, Arttu jne",
-        "prod": "mutsku",
-        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta."
-    },
-    {
         "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
         "start": "2016-04-24 23:00",
         "end": "2016-04-25 00:00",
@@ -943,5 +934,14 @@
         "host": "Tuomo, Jesse",
         "prod": "Julle",
         "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!"
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "gEiffari, wormi, Jake Otter, henG",
+        "prod": "mutsku",
+        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta."
     }
 ]
