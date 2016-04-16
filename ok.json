@@ -1,14 +1,5 @@
 [
     {
-        "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
-        "start": "2016-04-24 09:00",
-        "end": "2016-04-24 11:00",
-        "title": "Kaksi mielt\u00e4",
-        "host": "Matzi, Lorenz0",
-        "prod": "Veli-V",
-        "desc": ""
-    },
-    {
         "id": "16e78623-07cf-408a-b990-02d2e94c9352",
         "start": "2016-04-20 18:00",
         "end": "2016-04-20 20:00",
@@ -943,5 +934,14 @@
         "host": "gEiffari, wormi, Jake Otter, henG",
         "prod": "mutsku",
         "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta."
+    },
+    {
+        "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
+        "start": "2016-04-24 09:00",
+        "end": "2016-04-24 11:00",
+        "title": "Kaksi mielt\u00e4",
+        "host": "Matzi, Lorenz0",
+        "prod": "Veli-V",
+        "desc": "Monesti kuullaan mainittavan kaksimielisyydest\u00e4, mutta muka aina ensimm\u00e4inen mielikuva on triviaalina sivuutettavissa ja toista korostetaan. Esimerkiksi sanonta \"Voisin heitt\u00e4\u00e4 uistimeni sinun kaislikkoosi\" on hyvin mielenkiintoinen, sill\u00e4 monesti vesialueita ei edes tontin omistaja itse asiassa omista, joten kenelle se kaislikko sitten kuuluu. Ylip\u00e4\u00e4t\u00e4\u00e4n, miksi uistinta kaislikkoon heittelisi, kun se j\u00e4\u00e4 niin helposti kiinni ja sitten ollaankin jo sotkeuduttu vaikeuksiin."
     }
 ]
