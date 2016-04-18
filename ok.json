@@ -756,15 +756,6 @@
         "desc": "Se erilainen toivekonsertti, jossa jokaisella kappaleella on tarina ja jokainen biisi on toivojalleen erityinen. Kertomuksia ihmisi\u00e4 liikuttaneiden, ilahduttaneiden ja lohduttaneiden kappaleiden takaa sek\u00e4 pohdintaa siit, mik\u00e4 tekee musiikista niin erityist\u00e4 ja tunteisiin vetoavaa.\r\n\r\nVoit j\u00e4tt\u00e4\u00e4 oman toiveesi ja tarinasi ohjelmaan osoitteessa <a href=\"http:\/\/goo.gl\/forms\/LIuugHe9fr\" target=\"_blank\">http:\/\/goo.gl\/forms\/LIuugHe9fr<\/a>"
     },
     {
-        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
-        "start": "2016-04-24 00:00",
-        "end": "2016-04-24 07:00",
-        "title": "Showroom Dummies + Y\u00f6aalto",
-        "host": "June, Otto",
-        "prod": "Vuokko",
-        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera. <a href=\"http:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\" target=\"_blank\">Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
-    },
-    {
         "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
         "start": "2016-04-23 22:00",
         "end": "2016-04-24 00:00",
@@ -943,5 +934,14 @@
         "host": "Matzi, Lorenz0",
         "prod": "Veli-V",
         "desc": "Monesti kuullaan mainittavan kaksimielisyydest\u00e4, mutta muka aina ensimm\u00e4inen mielikuva on triviaalina sivuutettavissa ja toista korostetaan. Esimerkiksi sanonta \"Voisin heitt\u00e4\u00e4 uistimeni sinun kaislikkoosi\" on hyvin mielenkiintoinen, sill\u00e4 monesti vesialueita ei edes tontin omistaja itse asiassa omista, joten kenelle se kaislikko sitten kuuluu. Ylip\u00e4\u00e4t\u00e4\u00e4n, miksi uistinta kaislikkoon heittelisi, kun se j\u00e4\u00e4 niin helposti kiinni ja sitten ollaankin jo sotkeuduttu vaikeuksiin."
+    },
+    {
+        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
+        "start": "2016-04-24 00:00",
+        "end": "2016-04-24 07:00",
+        "title": "Showroom Dummies + Y\u00f6aalto",
+        "host": "June, Otto",
+        "prod": "Vuokko",
+        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellakaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain aivan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruus musiikki pioneerien kera. <a href=\"http:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\" target=\"_blank\">Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest."
     }
 ]
