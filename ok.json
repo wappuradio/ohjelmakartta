@@ -360,15 +360,6 @@
         "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!\r\n\r\nPe 22.4. klo 22-00."
     },
     {
-        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
-        "start": "2016-04-22 00:00",
-        "end": "2016-04-22 07:00",
-        "title": "Ompeluseura",
-        "host": "gEiffari, wormi, Jake Otter, henG",
-        "prod": "mutsku",
-        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyylihetkest\u00e4 ja mystisest\u00e4 Late Night Showsta.\r\n\r\nTo-pe y\u00f6n\u00e4 22.4. klo 00-07."
-    },
-    {
         "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
         "start": "2016-04-23 00:00",
         "end": "2016-04-23 07:00",
@@ -943,5 +934,14 @@
         "host": "Noora, Veera, Anton",
         "prod": "PunaJussi",
         "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten.\r\n\r\nTi 19.4. ja ke 27.4. klo 20-22."
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "gEiffari, wormi, Jake Otter, henG",
+        "prod": "mutsku",
+        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyyleist\u00e4 ja mystisest\u00e4 Late Night Showsta. \r\nOsallistu k\u00e4sity\u00f6kisaan, postaa Facebooktapahtumaamme kuva ennen aamukuutta ja voita kivoja palkintoja! http:\/\/tinyurl.com\/tvikmafia \r\n\r\nTo-pe y\u00f6n\u00e4 22.4. klo 00-07."
     }
 ]
