@@ -747,15 +747,6 @@
         "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvantitatiivinen annos suomir\u00e4ppilevyj\u00e4 ja taatusti kvalitatiivista analyysi\u00e4.\r\n\r\nTo 28.4. klo 22-00."
     },
     {
-        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
-        "start": "2016-04-29 20:00",
-        "end": "2016-04-29 22:00",
-        "title": "Musiikin Kuuntelu Ohjelma",
-        "host": "Lauri, Henna, MiRa",
-        "prod": "Jaketus",
-        "desc": "Ohjelman tekij\u00e4t kuuntelevat studiossa musiikkia ja keskustelevat kuulemastaan. Radion kuuntelijat kuuntelevat keskustelua ja miettiv\u00e4t, ett\u00e4 mist\u00e4 ihmeest\u00e4 nuo toimittajat oikein keskustelevat.\r\n\r\nPe 29.4. klo 20-22."
-    },
-    {
         "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
         "start": "2016-04-29 22:00",
         "end": "2016-04-30 00:00",
@@ -943,5 +934,14 @@
         "host": "Marjaana, Viivi",
         "prod": "PunaJussi",
         "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja to 21.4. klo 22-00."
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Lauri, Henna, MiRa",
+        "prod": "Jaketus",
+        "desc": "Ohjelman tekij\u00e4t kuuntelevat studiossa musiikkia ja keskustelevat kuulemastaan. Radion kuuntelijat kuuntelevat keskustelua ja miettiv\u00e4t, ett\u00e4 mist\u00e4 ihmeest\u00e4 nuo toimittajat oikein keskustelevat.\r\n\r\nKoska t\u00e4m\u00e4 ohjelma on tuutissa parhaaseen toiveradioaikaan, niin annamme teille mahdollisuuden p\u00e4\u00e4st\u00e4 puhelimitse l\u00e4hetykseen toivomaan! Voit j\u00e4tt\u00e4\u00e4 toiveesi jo etuk\u00e4teen ohjelman Facebook-tapahtumassa https:\/\/www.facebook.com\/events\/1014287768657937\/\r\n\r\nPe 29.4. klo 20-22."
     }
 ]
