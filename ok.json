@@ -99,15 +99,6 @@
         "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa.\r\n\r\nTi 19.4. ja pe 22.4. klo 18-20."
     },
     {
-        "id": "df49c01e-74df-4fc1-92c6-025b947902ff",
-        "start": "2016-04-21 22:00",
-        "end": "2016-04-22 00:00",
-        "title": "Hyv\u00e4n mielen hoitoradio",
-        "host": "Marjaana, Viivi",
-        "prod": "PunaJussi",
-        "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja ke 21.4. klo 22-00."
-    },
-    {
         "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
         "start": "2016-04-20 00:00",
         "end": "2016-04-20 07:00",
@@ -943,5 +934,14 @@
         "host": "gEiffari, wormi, Jake Otter, henG",
         "prod": "mutsku",
         "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyyleist\u00e4 ja mystisest\u00e4 Late Night Showsta. \r\nOsallistu k\u00e4sity\u00f6kisaan, postaa Facebooktapahtumaamme kuva ennen aamukuutta ja voita kivoja palkintoja! http:\/\/tinyurl.com\/tvikmafia \r\n\r\nTo-pe y\u00f6n\u00e4 22.4. klo 00-07."
+    },
+    {
+        "id": "df49c01e-74df-4fc1-92c6-025b947902ff",
+        "start": "2016-04-21 22:00",
+        "end": "2016-04-22 00:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana, Viivi",
+        "prod": "PunaJussi",
+        "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja to 21.4. klo 22-00."
     }
 ]
