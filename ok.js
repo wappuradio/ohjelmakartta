@@ -15,7 +15,7 @@ $(function() {
                 className: 'google'
             }
         ],
-        defaultDate: '2016-04-18',
+        defaultDate: '2017-04-19',
         defaultView: 'agendaWeek',
         header: {
             left: 'prev,next today',
