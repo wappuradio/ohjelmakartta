@@ -129,7 +129,7 @@ jQuery(function() {
         if(fail) return false;
         jQuery('#ohjelmakartta [name=start]').val(parseStart.format('YYYY-MM-DD HH:mm'));
         jQuery('#ohjelmakartta [name=end]').val(parseEnd.format('YYYY-MM-DD HH:mm'));
-        $.post('/okdb/ok.php', jQuery('#lisaa').serialize(), function(data) {
+        jQuery.post('/okdb/ok.php', jQuery('#lisaa').serialize(), function(data) {
             jQuery('#calendar').fullCalendar('unselect');
             jQuery('#calendar').fullCalendar('refetchEvents');
         });
@@ -153,7 +153,7 @@ jQuery(function() {
     });
     jQuery('#lista').on('click', '.delete', function(e) {
         e.preventDefault();
-        $.post('/okdb/ok.php', { delete: jQuery(this).data('id') }, function(data) {
+        jQuery.post('/okdb/ok.php', { delete: jQuery(this).data('id') }, function(data) {
             jQuery('#calendar').fullCalendar('refetchEvents');
         });
     });

@@ -1,8 +1,11 @@
 <?php
+error_reporting(E_ALL ^ E_NOTICE);
 session_name('DokuWiki');
 session_start();
 $user = $_SESSION[array_keys($_SESSION)[0]];
+//error_log(print_r($user, true));
 if(!$user['auth']) exit;
+$name = $user['auth']['user'];
 if(!in_array('toimitus', $user['auth']['info']['grps'])) exit;
 $data = json_decode(file_get_contents('ok.json'));
 if(!$data) $data = array();
@@ -18,6 +21,9 @@ if($_POST['id']) {
 $data = json_encode($data, JSON_PRETTY_PRINT);
 $fp = fopen('ok.json', 'w+');
 fwrite($fp, $data);
+fclose($fp);
+$fp = fopen('.blame', 'w+');
+fwrite($fp, $name);
 fclose($fp);
 header('Content-type: application/json');
 print $data;
