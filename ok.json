@@ -1,1 +1,947 @@
-[]
+[
+    {
+        "id": "b415594f-748e-4d25-b08e-66f2136a1f42",
+        "start": "2016-04-28 16:00",
+        "end": "2016-04-28 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 sek\u00e4 wapun kovin soundtrack!"
+    },
+    {
+        "id": "2f2185c5-ce63-4e54-a886-b9a64b773824",
+        "start": "2016-04-22 16:00",
+        "end": "2016-04-22 18:00",
+        "title": "Mustia kukkia ja kielimoukareita",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  "
+    },
+    {
+        "id": "527d22a5-7459-4ba0-aba2-320ac3f0c200",
+        "start": "2016-04-28 18:00",
+        "end": "2016-04-28 20:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": "Viime vuodelta tunnettu klassisen rockin erikoisohjelma palaa entist\u00e4 pidemp\u00e4n\u00e4. Soitamme suosikkisi 60- ja 70-luvuilta sek\u00e4 ehk\u00e4 l\u00e4hemp\u00e4\u00e4kin."
+    },
+    {
+        "id": "52e54871-2f72-4b38-9f77-2bb1ceb63e4f",
+        "start": "2016-04-27 16:00",
+        "end": "2016-04-27 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
+    },
+    {
+        "id": "18207eb2-799d-40c3-939e-92b1dcdceb01",
+        "start": "2016-04-29 16:00",
+        "end": "2016-04-29 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n"
+    },
+    {
+        "id": "f76c7827-216c-47b3-8746-f35e9730f0ea",
+        "start": "2016-04-27 18:00",
+        "end": "2016-04-27 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
+    },
+    {
+        "id": "39435363-3bdc-42d4-83fe-d03700b86bde",
+        "start": "2016-04-24 11:00",
+        "end": "2016-04-24 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "rocka",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa."
+    },
+    {
+        "id": "0c8be5b5-6c60-438f-88c4-e9db7b43ccb7",
+        "start": "2016-04-19 14:00",
+        "end": "2016-04-19 16:00",
+        "title": "HYPE!",
+        "host": "Keba, PunaJussi, Helge",
+        "prod": "KukaKumma",
+        "desc": "Onko t\u00e4m\u00e4 edes todellista!?! \r\nNyt n\u00e4ytt\u00e4\u00e4 nimitt\u00e4in silt\u00e4, ett\u00e4 l\u00e4hd\u00f6ss\u00e4 on paras Wappu ja Radio IKIN\u00c4! Kannattaa olla heti hereill\u00e4 ja wiritt\u00e4yty\u00e4 TAMPPIN paljastuksen j\u00e4lkeen taajuudelle. Studiossa aiwan liian innostuneita Wapun weteraaneja ja ankaraa HYPETYST\u00c4. Paras Wappu on wain kerran el\u00e4m\u00e4ss\u00e4!!!\r\n\r\nTi 19.4. klo 14-16"
+    },
+    {
+        "id": "56e42acb-dc3f-4ca9-bf23-0c59cb7d79f5",
+        "start": "2016-04-19 16:00",
+        "end": "2016-04-19 18:00",
+        "title": "Puolitotuuksia rockista",
+        "host": "Matti Moottori, Arttu",
+        "prod": "roope",
+        "desc": "Kuka on s\u00e4velt\u00e4nyt, sanoittanut ja sovittanut kaikki Iron Maidenin kappaleet? Kuinka ihmeess\u00e4 Ozzy Osbourne on viel\u00e4 hengiss\u00e4? Mist\u00e4 tiet\u00e4\u00e4 ett\u00e4 Metallican Lars on ovella? Matti Moottori ja Arttu k\u00e4yv\u00e4t l\u00e4pi rock-maailman ihmeellisimpi\u00e4 tarinoita, joiden totuusarvoa ei taata miss\u00e4\u00e4n m\u00e4\u00e4rin.\r\n\r\nTi 19.4. klo 16-18."
+    },
+    {
+        "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
+        "start": "2016-04-19 18:00",
+        "end": "2016-04-19 20:00",
+        "title": "TY\u00c4 MI\u00c4STEN TURPO TUAKIO",
+        "host": "Julle, Jarno",
+        "prod": "Vuokko",
+        "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa.\r\n\r\nTi 19.4. ja pe 22.4. klo 18-20."
+    },
+    {
+        "id": "e15a823f-e436-4648-bc1b-49b0f7eda6a0",
+        "start": "2016-04-22 18:00",
+        "end": "2016-04-22 20:00",
+        "title": "TY\u00c4 MI\u00c4STEN TURPO TUAKIO",
+        "host": "Julle, Jarno",
+        "prod": "Vuokko",
+        "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa.\r\n\r\nTi 19.4. ja pe 22.4. klo 18-20."
+    },
+    {
+        "id": "cb2065f1-954b-4f40-b613-4ca36fc006b5",
+        "start": "2016-04-20 00:00",
+        "end": "2016-04-20 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "Solidi Romantikko",
+        "prod": "Rakkauden Nallekarhu",
+        "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu takoo rintaa kuin viidakkorumpu? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista Tarzaneista tai hemaisevimmista Janeista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuiston auringonnousua. \r\n\r\nTi-ke y\u00f6n\u00e4 20.4. klo 00-07."
+    },
+    {
+        "id": "c97c483e-7101-4f93-adf6-c36b93eca1f5",
+        "start": "2016-04-20 07:00",
+        "end": "2016-04-20 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera.\r\n\r\n20.4.-22.4. klo 7-9."
+    },
+    {
+        "id": "f2b681e6-9841-47a0-acb1-ce54332cf2e5",
+        "start": "2016-04-21 07:00",
+        "end": "2016-04-21 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera.\r\n\r\n20.4.-22.4. klo 7-9."
+    },
+    {
+        "id": "1b6056f9-1c25-4f83-ae6f-ee73b9da4eea",
+        "start": "2016-04-22 07:00",
+        "end": "2016-04-22 09:00",
+        "title": "Tuorepuristettu aamupuuro",
+        "host": "Rocka, Ketku",
+        "prod": "Jaketus",
+        "desc": "Menik\u00f6 kahvinpurut kattilaan ja kauraryynit kahvinkeittimeen? Ei h\u00e4t\u00e4\u00e4, sit\u00e4 sattuu itse kullekin. Starttaa aamu Rockan ja Ketkun tahdeilla rennosti aamukahvia nauttiskellen aamuauringon kera.\r\n\r\n20.4.-22.4. klo 7-9."
+    },
+    {
+        "id": "5f319dbf-c7fd-4874-b497-0f427338594b",
+        "start": "2016-04-20 09:00",
+        "end": "2016-04-20 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4).\r\n\r\n20.4.-22.4. klo 9-11."
+    },
+    {
+        "id": "66f76f1a-f176-481e-acf6-8e6b13eada35",
+        "start": "2016-04-21 09:00",
+        "end": "2016-04-21 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4).\r\n\r\n20.4.-22.4. klo 9-11."
+    },
+    {
+        "id": "73c0b6c6-b32e-41e8-aeb7-8d7d9752526e",
+        "start": "2016-04-22 09:00",
+        "end": "2016-04-22 11:00",
+        "title": "Wake Up With SS",
+        "host": "Sonia, Sannis",
+        "prod": "keba",
+        "desc": "Pirskahtelevaa ja sokeroitua musiikkia. Pinta-alaltaan massiivia keskusteluita. S\u00e4ngyn pohjalta nostattavaa, tanssijalkaa vipattavaa buugia yhdistettyn\u00e4 konstailemattomiin ja k\u00e4rkk\u00e4isiin kommentointeihin. Team SS tarjoaa glamor\u00f6\u00f6sin ja pomp\u00f6\u00f6sin atmosf\u00e4\u00e4rin alkuWhapun aamup\u00e4iviin (turhia p\u00f6yhkeilem\u00e4tt\u00e4).\r\n\r\n20.4.-22.4. klo 9-11."
+    },
+    {
+        "id": "b56d4d59-9c57-4a18-838a-dc6076f19353",
+        "start": "2016-04-20 14:00",
+        "end": "2016-04-20 16:00",
+        "title": "Spinni Radio Lab",
+        "host": "Ville H, Joel K, Juha, Mikko, Valtteri",
+        "prod": "PunaJussi",
+        "desc": "Leppoisa iltap\u00e4iv\u00e4hetki musiikin, kahvin, Panama-papersien, Tampereen klubihistorian ja basson merkeiss\u00e4 Spinnin poikkojen toimittamana. Elektronista musiikkia kahdenkymmenen vuoden skaalalla, my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4 aiheuttavia juontoja, pohjattomaan genresuohon uppoamista ja skenepisteit\u00e4 - Spinni Radio Lab on t\u00e4t\u00e4 kaikkea.\r\n\r\n20.4.-22.4. klo 14-16."
+    },
+    {
+        "id": "8a182815-1e66-4cf8-b649-2bfa9368afe6",
+        "start": "2016-04-21 14:00",
+        "end": "2016-04-21 16:00",
+        "title": "Spinni Radio Lab",
+        "host": "Ville H, Joel K, Juha, Mikko, Valtteri",
+        "prod": "PunaJussi",
+        "desc": "Leppoisa iltap\u00e4iv\u00e4hetki musiikin, kahvin, Panama-papersien, Tampereen klubihistorian ja basson merkeiss\u00e4 Spinnin poikkojen toimittamana. Elektronista musiikkia kahdenkymmenen vuoden skaalalla, my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4 aiheuttavia juontoja, pohjattomaan genresuohon uppoamista ja skenepisteit\u00e4 - Spinni Radio Lab on t\u00e4t\u00e4 kaikkea.\r\n\r\n20.4.-22.4. klo 14-16."
+    },
+    {
+        "id": "2ecfd734-1af2-4755-87c9-a09e01a3c4e1",
+        "start": "2016-04-22 14:00",
+        "end": "2016-04-22 16:00",
+        "title": "Spinni Radio Lab",
+        "host": "Ville H, Joel K, Juha, Mikko, Valtteri",
+        "prod": "PunaJussi",
+        "desc": "Leppoisa iltap\u00e4iv\u00e4hetki musiikin, kahvin, Panama-papersien, Tampereen klubihistorian ja basson merkeiss\u00e4 Spinnin poikkojen toimittamana. Elektronista musiikkia kahdenkymmenen vuoden skaalalla, my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4 aiheuttavia juontoja, pohjattomaan genresuohon uppoamista ja skenepisteit\u00e4 - Spinni Radio Lab on t\u00e4t\u00e4 kaikkea.\r\n\r\n20.4.-22.4. klo 14-16."
+    },
+    {
+        "id": "06fe3d8e-45f4-4752-9a26-4e0211962f89",
+        "start": "2016-04-20 11:00",
+        "end": "2016-04-20 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "77fa0e27-6b23-4e36-84bd-21c87f2a1964",
+        "start": "2016-04-21 11:00",
+        "end": "2016-04-21 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "c3d7cafd-5430-4e6d-899e-9ca351840940",
+        "start": "2016-04-22 11:00",
+        "end": "2016-04-22 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "e7193f0c-64b8-4976-93e0-9508bcb4c98d",
+        "start": "2016-04-29 11:00",
+        "end": "2016-04-29 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "4a98b65f-b60a-4a90-af39-bc2f9f5754f7",
+        "start": "2016-04-28 11:00",
+        "end": "2016-04-28 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "0840f8d4-8ac2-4750-963f-82761076582a",
+        "start": "2016-04-27 11:00",
+        "end": "2016-04-27 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "056297ad-8cb1-476b-87a7-af7b515dc756",
+        "start": "2016-04-26 11:00",
+        "end": "2016-04-26 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "d9024843-ab17-4398-aac0-1b9f5ad327f1",
+        "start": "2016-04-25 11:00",
+        "end": "2016-04-25 13:00",
+        "title": "Keskip\u00e4iv\u00e4n tasoitus",
+        "host": "Tebo, Helky, Mutsku",
+        "prod": "delta_cephei",
+        "desc": "Olet sitten krapulassa, ty\u00f6el\u00e4m\u00e4n oravanpy\u00f6r\u00e4ss\u00e4 tai iloisesti uudessa nousussa, Keskip\u00e4iv\u00e4n tasoitus tarjoaa sekalaisen selke\u00e4\u00e4 radio-ohjelmaa p\u00e4iv\u00e4si piristykseksi. P\u00e4ivitt\u00e4in vaihtuva teemat antavat juontajille mahdollisuuden puhua niin naamakarvoituksestaan kuin lemmikkikanistaankin, mutta sopivissa rajoissa. Yll\u00e4tysvierailijoita, ei-niin-yll\u00e4tt\u00e4vi\u00e4-vierailijoita, monipuolisia kilpailuja ja sit\u00e4kin monipuolisempia palkintoja, sek\u00e4 tietenkin hyv\u00e4\u00e4 musiikkia. Tee mit\u00e4 teet, mutta \u00e4l\u00e4 ainakaan nuku Tasoituksen ohi! \r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 11-13."
+    },
+    {
+        "id": "3deb5e28-b843-4a7e-9678-d6822b0289f8",
+        "start": "2016-04-20 16:00",
+        "end": "2016-04-20 18:00",
+        "title": "Tuottajakoulu",
+        "host": "KukaKumma, Veli-V",
+        "prod": "Lorens",
+        "desc": "Mist\u00e4 on radion tuottajat tehty - sokerista, sammakoista, jinkuista vaiko paniikkinappuloista? Laitamme tekniikan ep\u00e4siki\u00f6n tuottamaan el\u00e4m\u00e4ns\u00e4 ensimm\u00e4ist\u00e4 kertaa suorassa radiol\u00e4hetyksess\u00e4 ja te, armaat kuulijat, olette tervetulleita mukaan n\u00f6yr... koulutukseen! Samalla kuullaan tuottajakonkarien muisteloita vuosien varrelta.\r\n\r\nKe 20.4. klo 16-18."
+    },
+    {
+        "id": "16e78623-07cf-408a-b990-02d2e94c9352",
+        "start": "2016-04-20 18:00",
+        "end": "2016-04-20 20:00",
+        "title": "TTYkitys",
+        "host": "Ville, Juha, Joni",
+        "prod": "Juho S",
+        "desc": "Genesaretinj\u00e4rven syvyyksist\u00e4 nousee pahuuden inkarnaatio ja Suuret Muinaiset kurkistelevat ulottuvuusporteistaan, kun TTYkitys ttykittelee snadisti semikovaa tsempuraa. \u00c4l\u00e4 missaa!  \r\n\r\nKe 20.4. klo 18-20."
+    },
+    {
+        "id": "efa30aa2-20c6-46cc-a872-663c6650d380",
+        "start": "2016-04-20 20:00",
+        "end": "2016-04-20 22:00",
+        "title": "Olutradio",
+        "host": "Tommi, Kekki",
+        "prod": "Pilkki",
+        "desc": "Kaksi tuntia asiaa ja musiikkia siit\u00e4 itsest\u00e4\u00e4n \u2014 oluesta. Olutamat\u00f6\u00f6rit Tommi ja Kekki tarinoivat harrastuksestaan oluen panemisen kiehtovassa maailmassa, poimivat internetin mehevimm\u00e4t olutbloggaukset sek\u00e4 soittavat timanttisimmat olutaiheiset biisit t\u00e4lt\u00e4 ja menneelt\u00e4 vuosisadalta. Huhupuheiden mukaan paikalle saattaa eksy\u00e4 my\u00f6s panemisen ammattilaisia.\r\n\r\nKe 20.4. klo 20-22."
+    },
+    {
+        "id": "1de6b911-a4fc-431d-a4ac-40a66b33d2c6",
+        "start": "2016-04-20 22:00",
+        "end": "2016-04-21 00:00",
+        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6it\u00e4",
+        "host": "Lauhanen",
+        "prod": "Vuokko",
+        "desc": "Tutustumme Hervannan valoisaan ja ihmismielen pime\u00e4\u00e4n puoleen. Studioon ei kannata soittaa, koska puhelimeen ei vastata; toivebiisej\u00e4 ei kannata esitt\u00e4\u00e4, koska niit\u00e4 ei soiteta!\r\n\r\nKe 20.4. klo 22-00."
+    },
+    {
+        "id": "322f6a49-5781-4d47-aa7c-a7c0eb39cce6",
+        "start": "2016-04-21 00:00",
+        "end": "2016-04-21 07:00",
+        "title": "Tekniikan Mikan y\u00f6blues",
+        "host": "Mika, Jaakko",
+        "prod": "Joonas",
+        "desc": "Korvia hyv\u00e4ilev\u00e4n hell\u00e4\u00e4 baritoni\u00e4\u00e4nt\u00e4 ja tunnelman mukaista bluesmusiikkia. Radio\u00e4\u00e4nen\u00e4 ja seuranasi Mika Kuitunen, koko y\u00f6n. Himmenn\u00e4 valot, pist\u00e4 radio p\u00e4\u00e4lle ja rentoudu.\r\n\r\nKe-to y\u00f6n\u00e4 21.4. klo 00-07."
+    },
+    {
+        "id": "9b365f94-56de-464c-bd5a-70ac218b7f48",
+        "start": "2016-04-21 16:00",
+        "end": "2016-04-21 18:00",
+        "title": "Mustia kukkia ja kielimoukareita",
+        "host": "Santtu, Jaati, Lari",
+        "prod": "Keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma saa j\u00e4lleen kerran jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset. Jottei humppaveljesten touhu l\u00e4hde lapasesta, toimii iskelm\u00e4musiikin vastapainona Lari, jonka musiikkimieltymys on l\u00e4hemp\u00e4n\u00e4 mustaa raatokukkaa kuin edelweissia. Kumpi osapuoli poistuu studiosta ensimm\u00e4isen\u00e4? Saavatko pojat tehty\u00e4 ohjelman loppuun asti? L\u00f6ytyyk\u00f6 tummanpuhuvan rokettirollin ja kauniiden suomikukkien v\u00e4lille yhteinen melankolinen s\u00e4vel?  \r\n\r\nTo-pe 21.-22.4. klo 16-18."
+    },
+    {
+        "id": "73b2460c-c943-48ba-8894-af0bf1b95a08",
+        "start": "2016-04-21 18:00",
+        "end": "2016-04-21 20:00",
+        "title": "DDR:n Naisvoimistelijoiden Totuusradio",
+        "host": "Arttu, Tuomas",
+        "prod": "Lasse T.",
+        "desc": "Oletko v\u00e4synyt ainaiseen kapitalismiin, kulutusjuhlien uuvuttama tai muuten vaan kyll\u00e4stynyt l\u00e4nsimaiseen hapatukseen? DDR:n Naisvoimistelijoiden Totuusradio on ohjelma juuri sinulle. Me autamme sinua l\u00f6yt\u00e4m\u00e4\u00e4n el\u00e4m\u00e4\u00e4si ryhdin It\u00e4-Saksalaiseen tapaan! Urheilussakin menestyneet DDRNV:n tyt\u00f6t pohtivat studiossa ratkaisuja nykyp\u00e4iv\u00e4n ongelmiin, ja miettiv\u00e4t miten asiat oli hoidettu valtioista parhaassa, eli DDR:ss\u00e4. V\u00e4lill\u00e4 kevennet\u00e4\u00e4n tunnelmaa soittamalla musiikkia ajalta, jolloin muuri oli viel\u00e4 pystyss\u00e4, ja kaikki oli muutenkin paremmin. Mielipiteit\u00e4 on monia, mutta on vain yksi totuus. Sen kertoo DDR:n Naisvoimistelijoiden Totuusradio!\r\n\r\nTo 21.4. klo 18-20."
+    },
+    {
+        "id": "339f3245-5b66-4b41-8fa9-c3234f4bd806",
+        "start": "2016-04-21 20:00",
+        "end": "2016-04-21 22:00",
+        "title": "Qma latinoradio",
+        "host": "Henna, Kaisa",
+        "prod": "Ketku",
+        "desc": "\u00a1Ay caramba, mitk\u00e4 rytmit! Qma latinoradio johdattelee suomalaiseen s\u00e4\u00e4h\u00e4n ja tasapaksuun biisipoljentoon kyll\u00e4styneet kuuntelijat svengaavien lattarirytmien avulla etel\u00e4n aurinkoon. Sivussa ihmetell\u00e4\u00e4n Latinalaisen Amerikan ja Euroopan menoa ja meininki\u00e4, sek\u00e4 tutustutaan lattaritansseihin tanssija Tapion latinolantion johdolla.\r\n\r\nTo 21.4. klo 20-22."
+    },
+    {
+        "id": "26bde0f5-51b4-4b03-b184-480d874b3ba8",
+        "start": "2016-04-22 20:00",
+        "end": "2016-04-22 22:00",
+        "title": "Tintin ja maikeyn EDM kekrit",
+        "host": "maikey, Tintti",
+        "prod": "delta_cephei",
+        "desc": "Kev\u00e4\u00e4ll\u00e4 Wapun aikaan teekkarikansa kokoontuu juhlimaan kekrej\u00e4, kansanjuhlaa, joka tuttavallisemmin teknoh\u00f6ysteen sadonkorjuuseremoniana tunnetaan. Illan hostit Tintti ja maikey lupaavat letke\u00e4n parituntisen deepin dubstepin, maukkaan drum & bassin sek\u00e4 rajoja rikkovan elektronisen musiikin \u00e4\u00e4rell\u00e4. Viimeist\u00e4\u00e4n perjantaina 22.4. on aika siirt\u00e4\u00e4 radio Wappuradion taajuudelle, pois kuivista ja elottomista mainstreamkanavista. \u00c4l\u00e4 suotta pel\u00e4sty vakavaa ohjelmakuvaa vaan tule ottamaan selv\u00e4\u00e4, mit\u00e4 viime vuosina on kekritty.\r\n\r\nPe 22.4. klo 20-22."
+    },
+    {
+        "id": "339ca26c-26e0-4c2c-a548-030ec2b3e41f",
+        "start": "2016-04-22 22:00",
+        "end": "2016-04-23 00:00",
+        "title": "Historian musiikki",
+        "host": "Tuomo, Jesse",
+        "prod": "Julle",
+        "desc": "Oletko kyll\u00e4stynyt p\u00f6lyisiin historiankirjoihin ja pitk\u00e4veteisiin dokumentteihin? Ent\u00e4 kyll\u00e4stytt\u00e4\u00e4k\u00f6 j\u00e4\u00e4d\u00e4 aina kakkoseksi knoppitietokisoissa? Ei h\u00e4t\u00e4\u00e4! T\u00e4m\u00e4n kaksituntisen aikana tarkastelemme historian k\u00e4\u00e4nnekohtia ja mieleenpainuvimpia hetki\u00e4, mink\u00e4s muun kuin musiikin kautta. Luvassa korviahivelev\u00e4 kattaus aina romantiikasta nykyaikaan ja Chopinista Hasselhoffiin. Kuuntele tai nauti!\r\n\r\nPe 22.4. klo 22-00."
+    },
+    {
+        "id": "9e296cc3-1b25-40a2-9502-c360c9af6359",
+        "start": "2016-04-23 00:00",
+        "end": "2016-04-23 07:00",
+        "title": "Tummuva y\u00f6",
+        "host": "Donaldi, Hiihu",
+        "prod": "manty",
+        "desc": "Ilta tummuu ja saapuu y\u00f6. Vaan mit\u00e4 saapuu y\u00f6n tummuessa? Monen muistikuvat voivat olla hataria tai kenties niit\u00e4 ei halua muistaakkaan... Tummuvassa y\u00f6ss\u00e4 pyrit\u00e4\u00e4n selvitt\u00e4m\u00e4\u00e4n mit\u00e4 merkillisyyksi\u00e4 l\u00f6ytyy y\u00f6n tuolla puolen... My\u00f6s musiikin puolella.\r\n\r\nPe-la y\u00f6n\u00e4 22.4. klo 00-07."
+    },
+    {
+        "id": "1b294975-68a8-4c68-91f4-88d02652fab0",
+        "start": "2016-04-23 07:00",
+        "end": "2016-04-23 09:00",
+        "title": "Nousevan Auringon (Maan) Aamushow",
+        "host": "Lahis, Delta102, FireFlower",
+        "prod": "Wunderkind",
+        "desc": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059!\r\n\r\nOn aika her\u00e4t\u00e4 pitk\u00e4\u00e4n ja tapahtumarikkaaseen ensimm\u00e4iseen Wappulauantaihin, ja mik\u00e4 sen parempi tapa kuin nousta yl\u00f6s iloisen pirteiden japanilaisten s\u00e4velmien saattamana? Noh, asiasta voi toki olla montaa mielt\u00e4, mutta sit\u00e4 te nyt kuitenkin t\u00e4ll\u00e4(kin) kertaa saatte, kun HeNTAi palaa j\u00e4lleen ilostuttamaan teit\u00e4 lauantaiaamuun. Luvassa J-Poppia ja -Rockia sek\u00e4 juttua asiasta ja sen vierest\u00e4. Sopii my\u00f6s aamupiirrettyjen taustalle.\r\n\r\nLa 23.4. klo 7-9."
+    },
+    {
+        "id": "73a5417d-0a70-4111-ae4d-ed30f0918e87",
+        "start": "2016-04-23 09:00",
+        "end": "2016-04-23 11:00",
+        "title": "Tukanheiluttajain tanssigaala",
+        "host": "Tuomas, Pawes",
+        "prod": "JP",
+        "desc": "Soitetaan raskasta ja todella raskasta musiikkia Headbanger's Ballin hengess\u00e4.\r\n\r\nLa 23.4. klo 9-11 ja 30.4. klo 10-12."
+    },
+    {
+        "id": "a1a614a5-c164-4135-bf20-2ab63204d181",
+        "start": "2016-04-30 10:00",
+        "end": "2016-04-30 12:00",
+        "title": "Tukanheiluttajain tanssigaala",
+        "host": "Tuomas, Pawes",
+        "prod": "JP",
+        "desc": "Soitetaan raskasta ja todella raskasta musiikkia Headbanger's Ballin hengess\u00e4.\r\n\r\nLa 23.4. klo 9-11 ja 30.4. klo 10-12."
+    },
+    {
+        "id": "8196433f-8731-4622-9789-ac6aa285f5e4",
+        "start": "2016-04-23 11:00",
+        "end": "2016-04-23 13:00",
+        "title": "Jannen ja Tulkin TOP 5",
+        "host": "Teemu, Lasse",
+        "prod": "rocka",
+        "desc": "Janne ja Tulkki pureutuvat nyky-yhteiskunnan tilaan t\u00e4m\u00e4n ajan ihmist\u00e4 hyvin kuvaavassa listamuodossa. Kaikki listat on rajattu klassiseen TOP 5 -formaattiin, jotta h\u00e4t\u00e4isink\u00e4\u00e4n Internet-ajan ihminen ei ehdi tymp\u00e4\u00e4nty\u00e4. Tuttuun tapaan ohjelmassa on mukana ainakin Janne, Tulkki, Jukka Pojan Poika, Jeesuksen vakioveikkausvinkit, huippupalkinnoilla varustettu yleis\u00f6kilpailu ja paljon kaikkea muuta kaunista, ihanaa, kivaa sek\u00e4 hauskaa.\r\n\r\nLa-su 23.-24.4. klo 11-13."
+    },
+    {
+        "id": "d3d3fdfc-00a0-477a-aaab-1e696c53fd5e",
+        "start": "2016-04-23 13:00",
+        "end": "2016-04-23 16:00",
+        "title": "Rietasta el\u00e4m\u00e4\u00e4",
+        "host": "Pirita, Nia",
+        "prod": "JElf",
+        "desc": "Jutellaan el\u00e4m\u00e4st\u00e4 isolla kirkolla, diplomi-insin\u00f6\u00f6rin \u00e4\u00e4rellisest\u00e4 palkasta, vihersmoothiesta ja lentopelosta. Soitetaan tuttuun tapaan huonoa musiikkia hyvill\u00e4 aasinsilloilla. Tule ja tunne! \r\n\r\nLa 23.4. klo 13-16."
+    },
+    {
+        "id": "cc906e6c-21ef-4221-bd00-7c71906f5a69",
+        "start": "2016-04-23 16:00",
+        "end": "2016-04-23 19:00",
+        "title": "Suklaata & Samettia",
+        "host": "Keba, Markkeli, Murtol\u00e4rvi, Kello",
+        "prod": "keba",
+        "desc": "Ihmisten v\u00e4lisest\u00e4 yst\u00e4vyydest\u00e4.\r\n\r\nLa 23.4. klo 16-19."
+    },
+    {
+        "id": "e9af8f03-6990-4f03-b64e-e3a053bf0a01",
+        "start": "2016-04-23 19:00",
+        "end": "2016-04-23 22:00",
+        "title": "EkuDance",
+        "host": "Eku, KukaKumma",
+        "prod": "shiona",
+        "desc": "Wappuradion lauantai-illan rauhan keskeytt\u00e4\u00e4 aina ajankohtainen ys\u00e4ridance EkuDancen muodossa, jee!\r\nLuvassa on viilt\u00e4v\u00e4\u00e4 analyysi\u00e4 ja trivia(ali)tietoa erin\u00e4isist\u00e4 90-luvun  \"artisteista\", j\u00e4\u00e4t\u00e4vi\u00e4 aasinsiltoja sek\u00e4 laadukkaita laukkakomppeja, unohtamatta valelopetuksia, omituista huumoria sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4. Ohjelman juontaa Johannes \"Eku\" Komulainen ja apupoikana kiekkoja py\u00f6rittelee Joni \"Kukis\" V\u00e4is\u00e4nen.\r\n\r\nLa 23.4. klo 19-22."
+    },
+    {
+        "id": "26e2fb30-38c6-426a-8bab-dfd2ef2161ae",
+        "start": "2016-04-23 22:00",
+        "end": "2016-04-24 00:00",
+        "title": "Sceneradio",
+        "host": "Vuokko, Exca, Poro, Spiikki",
+        "prod": "Vuokko",
+        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> palaa j\u00e4lleen kerran soittamaan sidinkatkuisia demoscenesoundeja kuulijoiden iloksi. Luvassa mahtava livekeikka <a href=\"http:\/\/soundcloud.com\/oskill8-1\" target=\"_blank\">Oskill8<\/a>:lta, musiikkikilpailu demoscene-hengess\u00e4 ja p\u00e4r\u00e4ytt\u00e4vi\u00e4 visuaalisia efektej\u00e4 runsaan infopaketin p\u00e4\u00e4lle. Lis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>.\r\n\r\nLa 23.4. klo 22-00, tornihuhujen mukaan ohjelma jatkuu klo 01 asti Showroom Dummiesin kanssa!"
+    },
+    {
+        "id": "9e3c65f9-5baa-4d67-9ea9-b3ff276c7402",
+        "start": "2016-04-24 00:00",
+        "end": "2016-04-24 07:00",
+        "title": "Showroom Dummies + Y\u00f6aalto",
+        "host": "June, Otto",
+        "prod": "Vuokko",
+        "desc": "Sidinkatkut eiv\u00e4t katoa mihink\u00e4\u00e4n sceneradion loppumisen my\u00f6t\u00e4, vaan radioaallot kaappaa C64 pelimusiikin todelliset legendat. Luvassa on tykistys sideist\u00e4 sinffoniaan, sek\u00e4 yleisemminkin musiikkia pelimusiikin saralta joten nyt Quekej\u00e4 ei todellakaan heitet\u00e4 v177uun! v57 Lis\u00e4ksi luvassa on my\u00f6s kahden tunnin Y\u00f6aalto osuus jolloin saadaan vastapainoksi jotain ihan muuta kuin pelimusaa. Lopuksi kuulija yritet\u00e4\u00e4n saada uneen ambient ja avaruusmusiikin pioneerien kera. <a href=\"http:\/\/www.limuradio.fi\/ohjelmat\/showroom-dummies\/\" target=\"_blank\">Showroom Dummies<\/a> ohjelma on alunperin kotoisin Lahest.\r\n\r\n\u2661\u2661\u2661 Ohjelmassa on kilpailu, jossa voi voittaa <i><b>Quantum Break<\/b><\/i> Xbox One pelin. Pelin kannessa komeilee peliin musiikkia s\u00e4velt\u00e4neen Petri Alangon nimmari. Ohjelmassa kuullaan my\u00f6s Petrin haastattelu \u2661\u2661\u2661\r\n\r\nLa-su y\u00f6n\u00e4 24.4. klo 00-07."
+    },
+    {
+        "id": "b41bd9e7-08a7-4cd7-a91f-b11ef96eae22",
+        "start": "2016-04-24 07:00",
+        "end": "2016-04-24 09:00",
+        "title": "NeoTampere 2097",
+        "host": "sateenropinaa, Kaennijaebae",
+        "prod": "Vuokko",
+        "desc": "Unohda hetkeksi arkiset m\u00f6ngerrykset ja ota katse tulevaisuuteen! Onko tulevaisuus yht\u00e4 utopistista kuten 40-50-luvuilla luvattiin vai menn\u00e4\u00e4nk\u00f6 l\u00e4hemm\u00e4ksi synkk\u00e4\u00e4, inhorealistista cyberpunkkia? Puhetta uusista teknologioista (VR!), peleist\u00e4 ja animesta sek\u00e4 siit\u00e4 miten ne vaikuttavat n\u00e4kemykseemme tulevaisuudesta. Musiikillisesti taivutaan enemm\u00e4n Cyberpunk-NeoTokyo-akselille eli darksynthi\u00e4 ja japanilaista metallia.\r\n\r\nSu 24.4. klo 7-9."
+    },
+    {
+        "id": "ddb09cd7-c290-43cd-91ce-babce21e82e2",
+        "start": "2016-04-24 09:00",
+        "end": "2016-04-24 11:00",
+        "title": "Kaksi mielt\u00e4",
+        "host": "Matzi, Lorenz0",
+        "prod": "Veli-V",
+        "desc": "Monesti kuullaan mainittavan kaksimielisyydest\u00e4, mutta muka aina ensimm\u00e4inen mielikuva on triviaalina sivuutettavissa ja toista korostetaan. Esimerkiksi sanonta \"Voisin heitt\u00e4\u00e4 uistimeni sinun kaislikkoosi\" on hyvin mielenkiintoinen, sill\u00e4 monesti vesialueita ei edes tontin omistaja itse asiassa omista, joten kenelle se kaislikko sitten kuuluu. Ylip\u00e4\u00e4t\u00e4\u00e4n, miksi uistinta kaislikkoon heittelisi, kun se j\u00e4\u00e4 niin helposti kiinni ja sitten ollaankin jo sotkeuduttu vaikeuksiin.\r\n\r\nSu 24.4. klo 9-11."
+    },
+    {
+        "id": "adee0524-b722-4af0-8b91-f3df89d95697",
+        "start": "2016-04-24 13:00",
+        "end": "2016-04-24 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "Lorens, Tuomo, Kultsi, Tirkkonen",
+        "prod": "Jaketus",
+        "desc": "Kampukselta kajahtaa, kun Wappuradio LIVE! valtaa j\u00e4lleen TTY:n etunurtsin tuoden paikalle auringonpaistetta sek\u00e4 Wapun uljaimman artistijoukon. Tule nauttimaan festaritunnelmasta keskell\u00e4 Hervannan kauneinta kampusta ja ota yst\u00e4v\u00e4sikin mukaan - konsertti on t\u00e4ysin ilmainen ja l\u00e4hetet\u00e4\u00e4n suorana my\u00f6s radiosta!\r\n\r\nRiemurinne Areena tanssii ja soi seuraavien b\u00e4ndien tahdissa:\r\n13:00 Teekkarikuoro \r\n14:15 Mrs. Pigs\r\n15:45 Novotonik \r\n17:00 WikiRock \r\n\r\nSu 24.4. klo 13-18."
+    },
+    {
+        "id": "c491ffb4-8eec-4886-aa67-52703943ea29",
+        "start": "2016-04-24 18:00",
+        "end": "2016-04-24 21:00",
+        "title": "Kolmen soinnun t\u00e4hteet",
+        "host": "Kurkku, Teemu, Koskenranta",
+        "prod": "Jaketus",
+        "desc": "Ajankohtaisohjelma Kolmen soinnun t\u00e4hteet tuo radioaalloille muovikassillisen vanhaa ja tuoretta punkkia, skata ja reggae-saundeja.\r\n\r\nSu 24.4. klo 18-21."
+    },
+    {
+        "id": "ef4f1c99-34e6-48fa-8fce-597a6e517afd",
+        "start": "2016-04-24 21:00",
+        "end": "2016-04-24 23:00",
+        "title": "Sunnuntaimayhem",
+        "host": "Tuomola, Vanhanen",
+        "prod": "MiRa",
+        "desc": "Sunnuntai-iltaa jatketaan rytmik\u00e4\u00e4n ja mukaansatempaavan musiikin soidessa taustalla. Tuomas ja Kalle soittavat sunnuntai-illan vietteeksi riehakasta musiikkia ja laittavat sukat py\u00f6rim\u00e4\u00e4n viel\u00e4 kerran ennen maanantaina alkavaa ty\u00f6viikkoa. Viel\u00e4 ei tarvitse mietti\u00e4 huomista, vaan voi riehaantua hyv\u00e4st\u00e4 musiikista ja meiningist\u00e4.\r\n\r\nSu 24.4. klo 21-23."
+    },
+    {
+        "id": "47705627-09f9-4b08-b251-1ea35d0d66f2",
+        "start": "2016-04-24 23:00",
+        "end": "2016-04-25 00:00",
+        "title": "Hiukkasviihdytin",
+        "host": "Jaakko S",
+        "prod": "mutsku",
+        "desc": "Suomessa on yli viisi miljoonaa lupaavaa muusikkoa. Useimmat heist\u00e4 juuttuvat kuitenkin urallaan per\u00e4kyl\u00e4n ainoan pubin dj-koppiin, risteilypaatin keulabaarin karaokelavalle tai pime\u00e4\u00e4n kadunkulmaan hattu haarojen v\u00e4liss\u00e4. Hiukkasviihdytin tarjoaa n\u00e4ille lahjakkuuksille tasan tunnin verran plutoniuminarvoista radioaikaa maailman suosituimmalla radiokanavalla, Rakkauden Wappuradiossa. Tiedossa on t\u00e4ysin puskista pomppaavaa suomalaista musiikkiosaamista. Maaseudulla r\u00e4pp\u00e4\u00e4v\u00e4st\u00e4 Reinosta tulee vihdoin Nuuskija-Dogg ja Stadissa nelosl\u00e4mpp\u00e4rin\u00e4 keikkuvasta J\u00f6rgenist\u00e4 uusi Daavid Ghetto.\r\n\r\nSu 24.4. klo 23-00."
+    },
+    {
+        "id": "d03554db-f384-4eb6-886c-ad89338956f6",
+        "start": "2016-04-25 00:00",
+        "end": "2016-04-25 07:00",
+        "title": "10. piiri",
+        "host": "zordiack, H\u00f6yss\u00e4",
+        "prod": "roope",
+        "desc": "1300-luvulla er\u00e4s Dante-niminen veijari eksyi pienelle patikkaretkelle ja tutustuipa siin\u00e4 reissullansa my\u00f6s helvetin n\u00e4ht\u00e4vyyksiin. T\u00e4m\u00e4n ep\u00e4ilytt\u00e4v\u00e4n paljon Wapun j\u00e4lkeiselt\u00e4 walk-of-shamelta kuulostavan tripin innoittamana ohjelmamme tekee Danten jalanj\u00e4ljiss\u00e4 \u00f6isen musiikkimatkan helvetin piireihin. Luvassa siis y\u00f6musiikkia l\u00f6yh\u00e4sti aiheeseen liittyen tai liittym\u00e4tt\u00e4!\r\n\r\nSu-ma y\u00f6n\u00e4 25.4. klo 00-07."
+    },
+    {
+        "id": "d3cbaa35-7eea-4cdd-8f77-304f34a5ed26",
+        "start": "2016-04-25 07:00",
+        "end": "2016-04-25 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen.\r\n\r\n25.-29.4. klo 7-9."
+    },
+    {
+        "id": "fc624de4-9bb9-4c52-a8a2-4ca03ef61299",
+        "start": "2016-04-26 07:00",
+        "end": "2016-04-26 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen.\r\n\r\n25.-29.4. klo 7-9."
+    },
+    {
+        "id": "db5030b2-8088-4a4f-9a06-8bc647e9e737",
+        "start": "2016-04-27 07:00",
+        "end": "2016-04-27 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen.\r\n\r\n25.-29.4. klo 7-9."
+    },
+    {
+        "id": "5f1efd3e-da18-4178-8508-98c91b0043b1",
+        "start": "2016-04-28 07:00",
+        "end": "2016-04-28 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen.\r\n\r\n25.-29.4. klo 7-9."
+    },
+    {
+        "id": "47a27a0b-ab74-44bd-a6dd-d924fc74978d",
+        "start": "2016-04-29 07:00",
+        "end": "2016-04-29 09:00",
+        "title": "Sadan eekkerin mets\u00e4",
+        "host": "Puh, delic, Ihaa, Tikru ja RIsto Reipas",
+        "prod": "KukaKumma",
+        "desc": "Puhin kanssa her\u00e4ttelyhommissa vaihtuva vieras. Karistelemme r\u00e4hm\u00e4t silmist\u00e4 ja avaamme \u00e4\u00e4nen. Tutustumme vieraalle mieluisaan musiikkigenreen.\r\n\r\n25.-29.4. klo 7-9."
+    },
+    {
+        "id": "e42ab2b7-124c-4777-ac7c-5b398b86ad22",
+        "start": "2016-04-25 09:00",
+        "end": "2016-04-25 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\"\r\n\r\n25.-29.4. klo 9-11."
+    },
+    {
+        "id": "254e5f8a-c6c3-407b-a0b2-d97ce6d46f79",
+        "start": "2016-04-26 09:00",
+        "end": "2016-04-26 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\"\r\n\r\n25.-29.4. klo 9-11."
+    },
+    {
+        "id": "d3b70fca-202b-4160-8b61-e602acfa3ab3",
+        "start": "2016-04-27 09:00",
+        "end": "2016-04-27 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\"\r\n\r\n25.-29.4. klo 9-11."
+    },
+    {
+        "id": "f076595b-09c5-4bf1-8635-efb8a4427b1c",
+        "start": "2016-04-28 09:00",
+        "end": "2016-04-28 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\"\r\n\r\n25.-29.4. klo 9-11."
+    },
+    {
+        "id": "4ab6e563-9b59-4d9e-8bf3-52d05ebe0880",
+        "start": "2016-04-29 09:00",
+        "end": "2016-04-29 11:00",
+        "title": "Aamukahvia ananaspuusta",
+        "host": "Keba, Wenla, Henni",
+        "prod": "snottis",
+        "desc": "\"Aamuauringot ja kahvit ananasmausteilla. Teemap\u00e4iv\u00e4t siivitt\u00e4v\u00e4t Petteri Punakuonon, kyllit\u00e4din kuin buddhalaisetkin p\u00e4iv\u00e4n haasteisiin\"\r\n\r\n25.-29.4. klo 9-11."
+    },
+    {
+        "id": "3269ebea-3fbb-4c62-b1fa-ae83f8b56d7b",
+        "start": "2016-04-25 14:00",
+        "end": "2016-04-25 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4.\r\n\r\n25.-29.4. klo 14-16."
+    },
+    {
+        "id": "833655b2-a403-4dd9-8717-3384fe3fc5a0",
+        "start": "2016-04-26 14:00",
+        "end": "2016-04-26 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4.\r\n\r\n25.-29.4. klo 14-16."
+    },
+    {
+        "id": "215aea52-f3f7-4652-97c5-2449013a8dde",
+        "start": "2016-04-27 14:00",
+        "end": "2016-04-27 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4.\r\n\r\n25.-29.4. klo 14-16."
+    },
+    {
+        "id": "caf8ce0c-0783-4aa2-b0db-660caf38453e",
+        "start": "2016-04-28 14:00",
+        "end": "2016-04-28 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4.\r\n\r\n25.-29.4. klo 14-16."
+    },
+    {
+        "id": "0faaf665-a5d9-4e88-96b8-1357f9165bfe",
+        "start": "2016-04-29 14:00",
+        "end": "2016-04-29 16:00",
+        "title": "Kahvitunti",
+        "host": "Lauri, Jaketus, Aapo",
+        "prod": "JElf",
+        "desc": "Wapun vaihtoehtoisin ajankohtaisohjelma, jossa musiikki soi analogiselta alustalta ja uutiset saavat omituisia k\u00e4\u00e4nteit\u00e4.\r\n\r\n25.-29.4. klo 14-16."
+    },
+    {
+        "id": "e3ac276b-7363-4bad-bbfd-bebc81b8cca4",
+        "start": "2016-04-25 16:00",
+        "end": "2016-04-25 18:00",
+        "title": "Ihmeelliset elokuvat",
+        "host": "Teppo, Helge",
+        "prod": "Jaketus",
+        "desc": "Helgen ja Tepon Ihmeellisiss\u00e4 Elokuvissa kaksikko hypp\u00e4\u00e4 puhelinkoppiinsa matkustaakseen l\u00e4pi erilaisten universumien etsien elokuvien syvint\u00e4 olemusta. Puheenaiheina ovat niin tulevan kes\u00e4n blockbusterit, menneet timantit kuin Hollywoodin selk\u00e4\u00e4ntaputtelujuhlatkin. Lis\u00e4ksi pohditaan sit\u00e4, mik\u00e4 oikeasti tekee hyv\u00e4st\u00e4 elokuvasta hyv\u00e4n. Tarkoituksena ei ole antaa oikeita mielipiteit\u00e4 vaan tuoda esiin elokuvien monipuolisuutta ja upeutta. \r\n\r\nMa 25., ke 27. ja pe 29.4. klo 16-18."
+    },
+    {
+        "id": "e680567a-d5f0-4d3e-8fa4-0f9869ab6214",
+        "start": "2016-04-26 16:00",
+        "end": "2016-04-26 18:00",
+        "title": "Jussi Kangas goes radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Omituisia tarinoita, erikoisia sattumuksia, h\u00e4mment\u00e4vi\u00e4 n\u00e4kemyksi\u00e4, hyv\u00e4\u00e4 musiikkia, huonoa musiikkia ja kaikkea silt\u00e4 v\u00e4lilt\u00e4! Luennoitsija Jussi Kangas tekee vuoden j\u00e4lkeen comebackin radioon. Luvassa tarinoita lapsiperheen arjesta, rankasta y\u00f6el\u00e4m\u00e4st\u00e4 ja kiireisest\u00e4 opetusty\u00f6st\u00e4 sek\u00e4 wapun kovin soundtrack!\r\n\r\nMa 26.4. ja ke 28.4. klo 16-18."
+    },
+    {
+        "id": "93f326d3-766d-4363-92c6-5f713058aee6",
+        "start": "2016-04-25 18:00",
+        "end": "2016-04-25 20:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze",
+        "prod": "Jaketus",
+        "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme.\r\n\r\nMa 25.4. ja ke 27.4. klo 18-20."
+    },
+    {
+        "id": "22191ce4-4335-4102-b7d9-9182ce14efc8",
+        "start": "2016-04-26 18:00",
+        "end": "2016-04-26 20:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi, Manty",
+        "prod": "shiona",
+        "desc": "Viime vuodelta tunnettu klassisen rockin erikoisohjelma palaa entist\u00e4 pidemp\u00e4n\u00e4. Soitamme suosikkisi 60- ja 70-luvuilta sek\u00e4 ehk\u00e4 l\u00e4hemp\u00e4\u00e4kin.\r\n\r\nTi 26.4. ja to 28.4. klo 18-20."
+    },
+    {
+        "id": "0c120e85-92ac-4007-9d25-d5e95993787f",
+        "start": "2016-04-29 18:00",
+        "end": "2016-04-29 20:00",
+        "title": "Herkk\u00e4 hetki",
+        "host": "Anna, zordiack",
+        "prod": "zar",
+        "desc": "Se erilainen toivekonsertti, jossa jokaisella kappaleella on tarina ja jokainen biisi on toivojalleen erityinen. Kertomuksia ihmisi\u00e4 liikuttaneiden, ilahduttaneiden ja lohduttaneiden kappaleiden takaa sek\u00e4 pohdintaa siit, mik\u00e4 tekee musiikista niin erityist\u00e4 ja tunteisiin vetoavaa.\r\n\r\nVoit j\u00e4tt\u00e4\u00e4 oman toiveesi ja tarinasi ohjelmaan osoitteessa <a href=\"http:\/\/goo.gl\/forms\/LIuugHe9fr\" target=\"_blank\">http:\/\/goo.gl\/forms\/LIuugHe9fr<\/a>\r\n\r\nPe 29.4. klo 18-20."
+    },
+    {
+        "id": "b1883b78-f49f-48ae-9206-168a2287afdc",
+        "start": "2016-04-25 20:00",
+        "end": "2016-04-25 21:00",
+        "title": "Monday's Trance Session With J.A.Z.P.",
+        "host": "Janne S.",
+        "prod": "Veli-V",
+        "desc": "J.A.Z.P. palaa Rakkauden Wappuradioon kunniakierrokselle esittelem\u00e4\u00e4n kuluneen vuoden kiinnostavimpia progressivisia ja nostattavia trance-kappaleita. Tunnin non-stop dj-setiss\u00e4 kuullaan niin vokaalista kuin instrumentaalista trancea ymp\u00e4ri maailmaa. Ohjelmassa kurkistetaan my\u00f6s ts\u00e4\u00e4spin esikoisalbumiin Break Throughiin, joka on julkaistu t\u00e4m\u00e4n vuoden maaliskuussa.\r\n\r\nKuuntele ja nauti!\r\n\r\nMa 25.4. klo 20-21."
+    },
+    {
+        "id": "1a2d27cf-c367-4186-bf4e-bf7c45b4510c",
+        "start": "2016-04-25 21:00",
+        "end": "2016-04-26 00:00",
+        "title": "Suomen soramontut v\u00e4rikuvina",
+        "host": "VLEd, toivo",
+        "prod": "Markka",
+        "desc": "Ohjelman aikana piiloudumme luolaan turvaan koneilta ja poraamme yst\u00e4viimme reiki\u00e4. Putoamme pois ajasta, siirr\u00e4mme katseen t\u00e4htiin ja saavumme kotiin. Volat t\u00e4ysille kun kuuntelette.\r\n\r\nMa 25.4. klo 21-00."
+    },
+    {
+        "id": "ea348754-750b-4799-9182-b479aa8b9572",
+        "start": "2016-04-26 20:00",
+        "end": "2016-04-26 22:00",
+        "title": "Pelit ja vehkeet",
+        "host": "Eric, ninnnu, zordiack, zzif, vuokko",
+        "prod": "",
+        "desc": "Teknist\u00e4 radiota radion tekniikalta.\r\n\r\nTi 26.4. klo 20-22."
+    },
+    {
+        "id": "8c913259-9a42-4147-b8d7-f4e5f8737741",
+        "start": "2016-04-26 22:00",
+        "end": "2016-04-27 00:00",
+        "title": "Tuplanollat ja kadonnut vuosikymmen",
+        "host": "Lahis, Reimann",
+        "prod": "Jarno T",
+        "desc": "Kaikki tielt\u00e4v\u00e4t milt\u00e4 kasari kuullostaa, ja Eurodance tuo aina mukanaan erehtym\u00e4tt\u00f6m\u00e4n tuulahduksen ys\u00e4ri\u00e4, mutta mit\u00e4 ihmett\u00e4 soitettiin viime vuosikymmenell\u00e4? Agenttimme l\u00e4htev\u00e4t tutkimaan kadonneen vuosikymmenen tapausta ja selvitt\u00e4v\u00e4t, mit\u00e4 nykyisten teekkareiden teinivuosina oikein kuunneltiin. Ja oliko se oikeastaan mist\u00e4\u00e4n kotoisin.\r\n\r\nTi 26.4. klo 22-00."
+    },
+    {
+        "id": "a92010a0-6348-4640-9ee5-5fd672ea50bb",
+        "start": "2016-04-27 22:00",
+        "end": "2016-04-28 00:00",
+        "title": "Shove-it up your ass",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "mutsku",
+        "desc": "Grindataa dekkei ja kurbataa reilei. Ei tiedet\u00e4 skedeemisest\u00e4 mit\u00e4\u00e4, mut skedepunkista sit\u00e4kin enemm\u00e4n.\r\n\r\nKe 27.4. klo 22-00."
+    },
+    {
+        "id": "29318e76-9f5b-4678-a5dd-c3fcec6bb8d5",
+        "start": "2016-04-28 20:00",
+        "end": "2016-04-28 22:00",
+        "title": "Is\u00e4n levykaapilla",
+        "host": "Wilho, MiRa",
+        "prod": "Keba",
+        "desc": "Pitkill\u00e4 automatkoilla is\u00e4ukko p\u00e4\u00e4tti mit\u00e4 kuunnellaan ja kukaan muu ei radioon saanut koskea. Is\u00e4n mielest\u00e4 hyv\u00e4t rallatukset raastoivat omia kuulohermoja kilometri kilometrilt\u00e4. Illan polttavin kysymys onkin, onko is\u00e4n levykaapin sis\u00e4lt\u00f6 edelleen t\u00e4ytt\u00e4 sontaa, vai onko sekaan eksynyt helmi\u00e4? Aasinsiltojen v\u00e4ritt\u00e4m\u00e4ss\u00e4 ohjelmassa, me otamme t\u00e4st\u00e4 selv\u00e4n! \r\n\r\nTo 28.4. klo 20-22."
+    },
+    {
+        "id": "9da741a2-8f9a-4e50-b967-23f6cd39b2e2",
+        "start": "2016-04-28 22:00",
+        "end": "2016-04-29 00:00",
+        "title": "Koiratarha radalla",
+        "host": "Arttu, Tatu, Kalle",
+        "prod": "roope",
+        "desc": "Kauluspaidat p\u00e4\u00e4ll\u00e4 meno on aina yliasiallinen. Kvantitatiivinen annos suomir\u00e4ppilevyj\u00e4 ja taatusti kvalitatiivista analyysi\u00e4.\r\n\r\nTo 28.4. klo 22-00."
+    },
+    {
+        "id": "6149265e-0ee0-4c0e-91d3-d7af71c78e18",
+        "start": "2016-04-29 22:00",
+        "end": "2016-04-30 00:00",
+        "title": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli",
+        "host": "Olli E, Tuomas K",
+        "prod": "mutsku",
+        "desc": "Soundtrackin k\u00e4\u00e4nt\u00f6puoli pureutuu elokuvien sek\u00e4 pelien musiikkip\u00e4tkiin, joita ei v\u00e4ltt\u00e4m\u00e4tt\u00e4 saata tunnistaa tai yhdist\u00e4\u00e4 kyseiseen teokseen. Kuuntele ja h\u00e4mmenny!\r\n\r\nPe 29.4. klo 22-00."
+    },
+    {
+        "id": "c5a8a4d9-bfc1-4080-9266-c2b4688f4fcc",
+        "start": "2016-04-30 07:00",
+        "end": "2016-04-30 10:00",
+        "title": "Morning glory",
+        "host": "Lorens, AnRai, Kaisa",
+        "prod": "Markka",
+        "desc": "Ota mukava asento, hengit\u00e4 muutaman kerran syv\u00e4\u00e4n ja viritt\u00e4ydy taajuuksille, kun lauantaiaamu saapuu pyyhkim\u00e4\u00e4n Wapun taakan harteiltasi. Rentoudu hell\u00e4n eeppisten s\u00e4velten sek\u00e4 maailmanensi-iltansa saavan LesWappuMeditaation\u2122 tahdissa, kun aurinko nousee kirkastamaan niin risukasan kuin Wappukansan olemuksenkin.\r\n\r\nLa 30.4. klo 7-10."
+    },
+    {
+        "id": "de60f89c-e923-474d-ada6-a935beceadf0",
+        "start": "2016-04-30 12:00",
+        "end": "2016-04-30 15:00",
+        "title": "Loppushow",
+        "host": "Kaikki",
+        "prod": "KukaKumma",
+        "desc": "Kuuntele suora l\u00e4hetys Wappuriehan julistuksesta ja viritt\u00e4ydy viimeist\u00e4\u00e4n nyt Wapputunnelmaan! Radion l\u00e4hetys p\u00e4\u00e4ttyy huikeaan loppushow'n saattelemana, mutta palaamme aalloille taas ensi Wappuna suurempana ja kauniimpana kuin koskaan.\r\n\r\nLa 30.4. klo 12-15."
+    },
+    {
+        "id": "35d5e6e4-90f5-48aa-b5d3-28513df27b5a",
+        "start": "2016-04-26 00:00",
+        "end": "2016-04-26 07:00",
+        "title": "Set\u00e4 sen ajan maailma",
+        "host": "Veli-V, maketzu",
+        "prod": "KukaKumma",
+        "desc": "Korvak\u00e4yt\u00e4v\u00e4si on meid\u00e4n kankaamme. Kankaalle me teemme kuvan, kuvan ajasta joka oli parempi, ajasta jolloin juontajat painoivat v\u00e4hemm\u00e4n, ajasta jolloin meill\u00e4kin oli mahdollisuus maailmassa. Takana loistava tulevaisuus, edess\u00e4 uneton y\u00f6. Muistelua ja tasokasta musiikkia.\r\n\r\nMa-ti y\u00f6n\u00e4 26.4. klo 00-07."
+    },
+    {
+        "id": "e4ef074c-c39f-4f1f-9e2c-17fee5289cc6",
+        "start": "2016-04-27 00:00",
+        "end": "2016-04-27 07:00",
+        "title": "\u25b2",
+        "host": "aadee, arthos, Jebus ja mutsku",
+        "prod": "ehk\u00e4 rahikainen",
+        "desc": "Siirry sis\u00e4lle. Pysy sis\u00e4ll\u00e4. Sulje ovet, ikkunat, tuuletusaukot ja ilmanvaihto. Avaa radio ja odota rauhallisesti ohjeita. V\u00e4lt\u00e4 puhelimen k\u00e4ytt\u00f6\u00e4 etteiv\u00e4t linjat tukkeudu. \u00c4l\u00e4 poistu alueelta ilman viranomaisten kehotusta ettet joutuisi vaaraan matkalla\r\n\r\nTi-ke y\u00f6n\u00e4 27.4. klo 00-07."
+    },
+    {
+        "id": "2b7b7d3a-47ae-4a96-ac39-aecd4d8da600",
+        "start": "2016-04-28 00:00",
+        "end": "2016-04-28 07:00",
+        "title": "Rytmimuna",
+        "host": "Ilmari, Mikko",
+        "prod": "PunaJussi",
+        "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin y\u00f6radio.\r\n\r\nKe-to y\u00f6n\u00e4 28.4. klo 00-07."
+    },
+    {
+        "id": "272fc397-f0d4-426a-9a8b-97d635c16ba0",
+        "start": "2016-04-29 00:00",
+        "end": "2016-04-29 07:00",
+        "title": "Spoiler Alert!",
+        "host": "Kuisma, Vimpeli",
+        "prod": "JElf",
+        "desc": "Anna ja Maarit paljastavat enemm\u00e4n kuin haluaisit! Tuomme p\u00e4iv\u00e4nvaloon kummallisimpia opinn\u00e4ytet\u00f6it\u00e4. Spoilaamme aamun uutiset, kohul\u00f6\u00f6pit ja naistenlehtien tuoreimmat trendit. Kerromme, miten k\u00e4y Rion olympialaisissa ja ensi talven Lahden MM-kisoissa. Sukellamme spoilerien ytimeen pohtimalla kirjallisuuden ja tv-sarjojen yll\u00e4tysjuonenk\u00e4\u00e4nteit\u00e4 ja hurjimpia lopetuksia sek\u00e4 spoilerien merkityst\u00e4 luku- ja katsomiskokemukselle. \u00c4l\u00e4 yll\u00e4ty, kun spoilaamme tuoreimmat juonikuviot rakkaimmista sarjoista sek\u00e4 tarkoin varjellut k\u00e4\u00e4nteet klassikkokertomuksista.\r\n\r\nTo-pe y\u00f6n\u00e4 29.4. klo 00-07."
+    },
+    {
+        "id": "c9d02de4-ebb5-410d-be31-d0df7a2606b0",
+        "start": "2016-04-30 00:00",
+        "end": "2016-04-30 07:00",
+        "title": "Pekka Sauronin y\u00f6radio",
+        "host": "Pekka Sauron",
+        "prod": "Dildo Peppuli",
+        "desc": "Kaatuiko yhteiskuntasopimus, etk\u00e4 tied\u00e4 kenen puolella olet kaikkien sodassa kaikkia vastaan? Harmittaako ettet ole viel\u00e4k\u00e4\u00e4n ehtinyt n\u00e4hd\u00e4 Tampere2:a, vaikka Tampere3 on jo tulossa? \u00c4l\u00e4 vaivu synkkyyteen, vaan soita studioon ja kerro huolesi kaikkien alojen erikoisasiantuntijalle. Mordorin suuriruhtinas Pekka Sauron ratkaisee kuulijoiden kaikki ongelmat Wappuradion viimeisen\u00e4 y\u00f6n\u00e4. Tuottaja Dildo Peppuli tarjoilee puheluiden v\u00e4liin musiikinkaltaisia valmisteita. Ohjelma sis\u00e4lt\u00e4\u00e4 eri tuotteiden sijoittelua hassuihin paikkoihin.\r\n\r\nPe-la y\u00f6n\u00e4 30.4. klo 00-07."
+    },
+    {
+        "id": "d5ab779c-5db6-479c-8682-dfd746881daa",
+        "start": "2016-04-19 22:00",
+        "end": "2016-04-20 00:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana, Viivi",
+        "prod": "PunaJussi",
+        "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja to 21.4. klo 22-00."
+    },
+    {
+        "id": "e2616329-9d5e-447a-adea-60b36c803803",
+        "start": "2016-04-19 20:00",
+        "end": "2016-04-19 22:00",
+        "title": "Syv\u00e4 purppura",
+        "host": "Noora, Veera, Anton",
+        "prod": "PunaJussi",
+        "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten.\r\n\r\nTi 19.4. ja ke 27.4. klo 20-22."
+    },
+    {
+        "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
+        "start": "2016-04-27 20:00",
+        "end": "2016-04-27 22:00",
+        "title": "Syv\u00e4 purppura",
+        "host": "Noora, Veera, Anton",
+        "prod": "PunaJussi",
+        "desc": "Soitamme violetteja kappaleita niin progen, psykedeelisen rockin kuin hard rockinkin saralta. Ohjelman musiikkiteokset valitsemme rakkaudesta maailman parhaimpia genrej\u00e4 kohtaan \u2013 suosikkeja unohtamatta ja yll\u00e4tyksi\u00e4 tarjoten.\r\n\r\nTi 19.4. ja ke 27.4. klo 20-22."
+    },
+    {
+        "id": "063c1d69-7db0-4b68-8dd6-854352e3988f",
+        "start": "2016-04-22 00:00",
+        "end": "2016-04-22 07:00",
+        "title": "Ompeluseura",
+        "host": "gEiffari, wormi, Jake Otter, henG",
+        "prod": "mutsku",
+        "desc": "Ompeluseuran kirjava jengi viihdytt\u00e4\u00e4 teekkareita y\u00f6n yli genrerajat rikkoen ja uudelleen kokoon ommellen. Vaaleanpunaisena lankana toimivat niin ihanan junnaava elektroninen syke kuin mukavan matala puhemusiikkikin, mutta mukaan on tikattu my\u00f6s harvemmin radiossa kuultua tuotantoa. Tee sin\u00e4kin sormista sakset ja her\u00e4t\u00e4 sis\u00e4inen Cthulhusi unesta, sill\u00e4 t\u00e4t\u00e4 lainaa ei tarvitse palauttaa - t\u00e4ss\u00e4 elokuvassa pajupilli johdattaa sinut aamuksi lakeuksille. Ohjelma koostuu useammista pikkukohtauksista kuten luontoilloista, vinyyleist\u00e4 ja mystisest\u00e4 Late Night Showsta. \r\nOsallistu k\u00e4sity\u00f6kisaan, postaa Facebooktapahtumaamme kuva ennen aamukuutta ja voita kivoja palkintoja! http:\/\/tinyurl.com\/tvikmafia \r\n\r\nTo-pe y\u00f6n\u00e4 22.4. klo 00-07."
+    },
+    {
+        "id": "df49c01e-74df-4fc1-92c6-025b947902ff",
+        "start": "2016-04-21 22:00",
+        "end": "2016-04-22 00:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana, Viivi",
+        "prod": "PunaJussi",
+        "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja to 21.4. klo 22-00."
+    },
+    {
+        "id": "b1b41dd9-e82b-43fd-a005-7e4bee943c64",
+        "start": "2016-04-29 20:00",
+        "end": "2016-04-29 22:00",
+        "title": "Musiikin Kuuntelu Ohjelma",
+        "host": "Lauri, Henna, MiRa",
+        "prod": "Jaketus",
+        "desc": "Ohjelman tekij\u00e4t kuuntelevat studiossa musiikkia ja keskustelevat kuulemastaan. Radion kuuntelijat kuuntelevat keskustelua ja miettiv\u00e4t, ett\u00e4 mist\u00e4 ihmeest\u00e4 nuo toimittajat oikein keskustelevat.\r\n\r\nKoska t\u00e4m\u00e4 ohjelma on tuutissa parhaaseen toiveradioaikaan, niin annamme teille mahdollisuuden p\u00e4\u00e4st\u00e4 puhelimitse l\u00e4hetykseen toivomaan! Voit j\u00e4tt\u00e4\u00e4 toiveesi jo etuk\u00e4teen ohjelman Facebook-tapahtumassa https:\/\/www.facebook.com\/events\/1014287768657937\/\r\n\r\nPe 29.4. klo 20-22."
+    },
+    {
+        "id": "ebfe5777-7a0b-4795-8aba-666cab64014c",
+        "start": "2016-04-20 13:00",
+        "end": "2016-04-20 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Mikko ja Markus",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "ebe52f5f-ff2c-47d8-99ea-da6b9a7ce941",
+        "start": "2016-04-21 13:00",
+        "end": "2016-04-21 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Mikko ja Markus",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "8c3a8f22-e029-4f84-91cb-930e14d725c3",
+        "start": "2016-04-22 13:00",
+        "end": "2016-04-22 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Mikko ja Markus",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "0e5ddbd1-ed8e-4222-992b-8c0bdd731d98",
+        "start": "2016-04-25 13:00",
+        "end": "2016-04-25 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Markus ja Mikko",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "69952d60-87b6-4612-9de7-0cd35f3c4646",
+        "start": "2016-04-26 13:00",
+        "end": "2016-04-26 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Markus ja Mikko",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "de7a5d58-c7be-43be-8266-64e82279e6b0",
+        "start": "2016-04-27 13:00",
+        "end": "2016-04-27 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Markus ja Mikko",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "fd5b56ee-4a44-4158-85e5-929e0a774a6f",
+        "start": "2016-04-28 13:00",
+        "end": "2016-04-28 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Markus ja Mikko",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    },
+    {
+        "id": "0ad33b4d-02f9-4e3d-8c13-8b0ec68e9d16",
+        "start": "2016-04-29 13:00",
+        "end": "2016-04-29 14:00",
+        "title": "P\u00e4iv\u00e4n lafka",
+        "host": "Miika, Markus ja Mikko",
+        "prod": "zar",
+        "desc": "P\u00e4iv\u00e4n lafka tarjoilee wapun erikoisuutena raikkaan tuulahduksen yritysmaailmasta, kun kokkimme taikovat vieraista esiin yritysmaailman eleganteimmat makuvivahteet. Ty\u00f6\u00adel\u00e4\u00adm\u00e4n kuu\u00adli\u00adjoil\u00adle tun\u00adti tiuk\u00adkaa asi\u00adaa eri ty\u00f6\u00adpai\u00adkois\u00adta ja -ta\u00advois\u00adta. Kuun\u00adte\u00adle ja nappaa par\u00adhaat reseptit it\u00adsel\u00adle\u00adsi!\r\n\r\n20.4.-22.4. sek\u00e4 25.-29.4. klo 13-14.\r\n\r\n20.4. Vstore\r\n21.4. TTYY\r\n22.4. Futurice\r\n25.4. ABB\r\n26.4. TEK\r\n27.4. Tampere3\/TTY\r\n28.4. Pyynikin k\u00e4sity\u00f6l\u00e4ispanimo\r\n29.4. Gofore\r\n"
+    }
+]
