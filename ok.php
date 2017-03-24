@@ -18,13 +18,26 @@ for($i=0;$i<sizeof($data);$i++) {
 if($_POST['id']) {
   $data[] = $_POST;
 }
+$api = $data;
+for($i=0;$i<sizeof($api);$i++) {
+  $api[$i]->start = (new DateTime($api[$i]->start))->format(DateTime::ATOM);
+  $api[$i]->end = (new DateTime($api[$i]->end))->format(DateTime::ATOM);
+}
+$api = json_encode($api, JSON_PRETTY_PRINT);
+$fp = fopen('api.json', 'w+');
+fwrite($fp, $api);
+fclose($fp);
+error_log(Locale::getDefault());
+
 $data = json_encode($data, JSON_PRETTY_PRINT);
 $fp = fopen('ok.json', 'w+');
 fwrite($fp, $data);
 fclose($fp);
+
 $fp = fopen('.blame', 'w+');
 fwrite($fp, $name);
 fclose($fp);
+
 header('Content-type: application/json');
 print $data;
 ?>
