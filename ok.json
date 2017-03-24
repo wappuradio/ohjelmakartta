@@ -27,24 +27,6 @@
         "desc": "Euroviisut tulevat taas - apua?! \r\nEi h\u00e4t\u00e4\u00e4, Euroviisuspesiaali tarjoaa ensiapua niin viisukuumeeseen kuin lapsuuden traumoihinkin. Syv\u00e4luotaamme sinut l\u00e4pi irkkuballadien, balkan-kliseiden ja kiusallisten koreografioiden sateenkaarentuoksuisella \u00e4\u00e4nimatkallamme."
     },
     {
-        "id": "0c8be5b5-6c60-438f-88c4-e9db7b43ccb7",
-        "start": "2016-04-19T14:00:00+03:00",
-        "end": "2016-04-19T16:00:00+03:00",
-        "title": "HYPE!",
-        "host": "Keba, PunaJussi, Helge",
-        "prod": "KukaKumma",
-        "desc": "Onko t\u00e4m\u00e4 edes todellista!?! \r\nNyt n\u00e4ytt\u00e4\u00e4 nimitt\u00e4in silt\u00e4, ett\u00e4 l\u00e4hd\u00f6ss\u00e4 on paras Wappu ja Radio IKIN\u00c4! Kannattaa olla heti hereill\u00e4 ja wiritt\u00e4yty\u00e4 TAMPPIN paljastuksen j\u00e4lkeen taajuudelle. Studiossa aiwan liian innostuneita Wapun weteraaneja ja ankaraa HYPETYST\u00c4. Paras Wappu on wain kerran el\u00e4m\u00e4ss\u00e4!!!\r\n\r\nTi 19.4. klo 14-16"
-    },
-    {
-        "id": "943d6364-aa7a-400d-ba6a-86432d9e9429",
-        "start": "2016-04-19T18:00:00+03:00",
-        "end": "2016-04-19T20:00:00+03:00",
-        "title": "TY\u00c4 MI\u00c4STEN TURPO TUAKIO",
-        "host": "Julle, Jarno",
-        "prod": "Vuokko",
-        "desc": "Vaikka Wappu on teekkareiden juhla, on Vappu suomalaisen ty\u00f6n juhla. Sen kunniaksi Rakkauden Wappuradioon on saapunut aitoja duunareita l\u00e4hes suoraan amiksen penkilt\u00e4. Luvassa dieselin, hien ja testosteronin kyll\u00e4st\u00e4m\u00e4\u00e4 lapioon nojaamista asiaankuuluvan musiikin s\u00e4est\u00e4m\u00e4n\u00e4. T\u00e4m\u00e4n ohjelman teossa ei vahingoitettu yht\u00e4k\u00e4\u00e4n metsoa.\r\n\r\nTi 19.4. ja pe 22.4. klo 18-20."
-    },
-    {
         "id": "f2b681e6-9841-47a0-acb1-ce54332cf2e5",
         "start": "2016-04-21T07:00:00+03:00",
         "end": "2016-04-21T09:00:00+03:00",
@@ -396,15 +378,6 @@
         "desc": "Anna ja Maarit paljastavat enemm\u00e4n kuin haluaisit! Tuomme p\u00e4iv\u00e4nvaloon kummallisimpia opinn\u00e4ytet\u00f6it\u00e4. Spoilaamme aamun uutiset, kohul\u00f6\u00f6pit ja naistenlehtien tuoreimmat trendit. Kerromme, miten k\u00e4y Rion olympialaisissa ja ensi talven Lahden MM-kisoissa. Sukellamme spoilerien ytimeen pohtimalla kirjallisuuden ja tv-sarjojen yll\u00e4tysjuonenk\u00e4\u00e4nteit\u00e4 ja hurjimpia lopetuksia sek\u00e4 spoilerien merkityst\u00e4 luku- ja katsomiskokemukselle. \u00c4l\u00e4 yll\u00e4ty, kun spoilaamme tuoreimmat juonikuviot rakkaimmista sarjoista sek\u00e4 tarkoin varjellut k\u00e4\u00e4nteet klassikkokertomuksista.\r\n\r\nTo-pe y\u00f6n\u00e4 29.4. klo 00-07."
     },
     {
-        "id": "d5ab779c-5db6-479c-8682-dfd746881daa",
-        "start": "2016-04-19T22:00:00+03:00",
-        "end": "2016-04-20T00:00:00+03:00",
-        "title": "Hyv\u00e4n mielen hoitoradio",
-        "host": "Marjaana, Viivi",
-        "prod": "PunaJussi",
-        "desc": "T\u00e4n\u00e4 Wappuna Hyv\u00e4n Mielen Hoitoradio sukeltaa seksuaaliterveyden maailmaan. Luvassa on paneutumista kuulijoita askarruttaviin kysymyksiin, esileikkimielisi\u00e4 kilpailuja ja syv\u00e4luotaavia haastatteluja. Musiikki on tasoltaan vaihtelevaa kuten juontajien jututkin. Yrit\u00e4mme toki pit\u00e4\u00e4 hihittelyn minimiss\u00e4\u00e4n, sill\u00e4 onhan seksi vakava asia!\r\n\r\nTi 19.4. ja to 21.4. klo 22-00."
-    },
-    {
         "id": "ad14b89e-2031-4eb1-8f52-e243f3a88046",
         "start": "2016-04-27T20:00:00+03:00",
         "end": "2016-04-27T22:00:00+03:00",
@@ -466,24 +439,5 @@
         "host": "Solidi Romantikko",
         "prod": "Rakkauden Nallekarhu",
         "desc": "Wappu on vasta polkaistu k\u00e4yntiin, mutta heilan kaipuu takoo rintaa kuin viidakkorumpu? Oletko jo kuluttanut wappuheilaprujun puhki sen oikean toivossa, mutta et osaa valita toinen toistaan salskeammista Tarzaneista tai hemaisevimmista Janeista? Ei h\u00e4t\u00e4\u00e4, sill\u00e4 me k\u00e4ymme tuon rakkaauden ensyklopedian kimppuun kertoen samalla parhaat(?) wappuheilasteluvinkit.  \r\n\r\nAnna rakkauden h\u00f6yhensarjan piirinmestarien opastaa sinua t\u00e4ll\u00e4 lemmen matkalla kohti yhteist\u00e4 wappuaamuanne Koskipuiston auringonnousua. \r\n\r\nTi-ke y\u00f6n\u00e4 20.4. klo 00-07."
-    },
-    {
-        "id": "d4538f96-30e8-4b8f-a4e9-e2190d82b99d",
-        "start": "2016-04-30 00:00",
-        "end": "2016-04-30 07:00",
-        "title": "oispa sauron",
-        "host": "dregu",
-        "prod": "dregu",
-        "desc": "dregu"
-    },
-    {
-        "id": "ae59d52d-a3ed-4433-b202-19551283f43a",
-        "start": "2017-04-20 10:00",
-        "end": "2017-04-20 11:00",
-        "title": "foo",
-        "host": "dregu",
-        "prod": "dregu",
-        "desc": "bar asd muokkaus",
-        "timestamp": "2017-03-24T12:14:06+02:00"
     }
 ]
