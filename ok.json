@@ -28,5 +28,15 @@
         "prod": "Lahis",
         "desc": "Herwannan nykyaikain teekkareiden animaatioiltamat-kerhon vakituinen aamushow her\u00e4tys. Hyv\u00e4\u00e4 J-pop, animaatioiden tunnusmusiikkia ja tietenkin keskustelua itse japanin kulttuurista, mangasta ja animaatiosta.",
         "timestamp": "2017-03-30T20:39:19+03:00"
+    },
+    {
+        "id": "e7bc4a71-3182-4360-9ec8-5036bf5365fc",
+        "start": "2017-03-31 08:00",
+        "end": "2017-03-31 09:00",
+        "title": "testi",
+        "host": "d",
+        "prod": "",
+        "desc": "asdasd",
+        "timestamp": "2017-03-31T08:23:45+03:00"
     }
 ]
