@@ -1,15 +1,5 @@
 [
     {
-        "id": "cab6bf13-7fe2-4ce5-bcba-4361d1507f93",
-        "start": "2017-04-22 07:00",
-        "end": "2017-04-22 09:00",
-        "title": "Nousevan Auringon aamutee",
-        "host": "wunderkind, sanzennin, taQtaQ",
-        "prod": "Lahis",
-        "desc": "Herwannan nykyaikain teekkareiden animaatioiltamat-kerhon vakituinen aamushow her\u00e4tys. Hyv\u00e4\u00e4 J-pop, animaatioiden tunnusmusiikkia ja tietenkin keskustelua itse japanin kulttuurista, mangasta ja animaatiosta.",
-        "timestamp": "2017-03-30T20:39:19+03:00"
-    },
-    {
         "id": "c2e2118f-be34-4cb8-9c54-dca9ebda7f87",
         "start": "2017-04-25 00:00",
         "end": "2017-04-25 07:00",
@@ -48,5 +38,25 @@
         "prod": "delta_cephei",
         "desc": "Ja taas on koittanut aika kekrien - sadonkorjuujuhlan, jolloin kootaan yhteen elektronisen musiikin helmi\u00e4 p\u00f6rr\u00f6isess\u00e4 muodossa. Tiedossa letke\u00e4n svengaavien dj-muijien lempparijytkytyksi\u00e4 vuosien varrelta, ja koska me nautimme n\u00e4ist\u00e4, niin silloin nautitte tekin rakkaat kuulijat! Laita lauantain parhaat etkoilujatkoilumusat t\u00e4ysille, niin koko loppuwapun bilefiilis on taattu.",
         "timestamp": "2017-04-04T22:24:13+03:00"
+    },
+    {
+        "id": "cab6bf13-7fe2-4ce5-bcba-4361d1507f93",
+        "start": "2017-04-22 07:00",
+        "end": "2017-04-22 09:00",
+        "title": "Nousevan Auringon aamutee",
+        "host": "Lahis, sanzennin, taQtaQ",
+        "prod": "wunderkind",
+        "desc": "Herwannan nykyaikain teekkareiden animaatioiltamat-kerhon vakituinen aamushow her\u00e4tys. Hyv\u00e4\u00e4 J-poppia, animaatioiden tunnusmusiikkia ja tietenkin keskustelua itse japanin kulttuurista, mangasta ja animaatiosta.",
+        "timestamp": "2017-04-05T13:40:23+03:00"
+    },
+    {
+        "id": "b619f667-12c8-4da0-8c09-726390208599",
+        "start": "2017-04-29 07:00",
+        "end": "2017-04-29 09:00",
+        "title": "Suunsoittoa",
+        "host": "Reimann, Lahis",
+        "prod": "",
+        "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta. Toisinaan my\u00f6s suuta. Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
+        "timestamp": "2017-04-05T13:43:02+03:00"
     }
 ]
