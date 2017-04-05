@@ -1,15 +1,5 @@
 [
     {
-        "id": "c2e2118f-be34-4cb8-9c54-dca9ebda7f87",
-        "start": "2017-04-25 00:00",
-        "end": "2017-04-25 07:00",
-        "title": "Noin kahden viikon uutiset",
-        "host": "Kultsi & maketzu",
-        "prod": "Kebbish",
-        "desc": "Yhteiskunnallisia aiheita pienell\u00e4 ironialla, suurella ihmettelyll\u00e4 ja ket\u00e4\u00e4n kumartelematta k\u00e4sittele koko y\u00f6n uutiskatsaus. Toimittajina Maria \"kultsi\" Kultanen sek\u00e4 Markus \"maketzu\" Karppanen.",
-        "timestamp": "2017-04-02T19:10:11+03:00"
-    },
-    {
         "id": "7a6f3d7a-ba35-44f1-aee2-0ef62ad00d76",
         "start": "2017-04-21 21:00",
         "end": "2017-04-22 00:00",
@@ -58,5 +48,15 @@
         "prod": "",
         "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta. Toisinaan my\u00f6s suuta. Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
         "timestamp": "2017-04-05T13:43:02+03:00"
+    },
+    {
+        "id": "c2e2118f-be34-4cb8-9c54-dca9ebda7f87",
+        "start": "2017-04-25 00:00",
+        "end": "2017-04-25 07:00",
+        "title": "Hy\u00f6dylliset idiootit",
+        "host": "Kultsi & maketzu",
+        "prod": "Kebbish",
+        "desc": "Milt\u00e4 n\u00e4ytt\u00e4\u00e4 politiikkavuoden 2017 puoliv\u00e4likatsaus y\u00f6n h\u00e4m\u00e4r\u00e4ss\u00e4? Yhteiskunnallisia aiheita pienell\u00e4 ironialla, suurella ihmettelyll\u00e4 ja ket\u00e4\u00e4n kumartelematta k\u00e4sittelev\u00e4 koko y\u00f6n uutiskatsaus. Toimittajina Maria \"kultsi\" Kultanen sek\u00e4 Markus \"maketzu\" Karppanen.",
+        "timestamp": "2017-04-05T14:19:13+03:00"
     }
 ]
