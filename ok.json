@@ -120,16 +120,6 @@
         "timestamp": "2017-04-06T14:52:55+03:00"
     },
     {
-        "id": "366e6a82-1180-4bf3-8236-ed22cac90529",
-        "start": "2017-04-28 16:00",
-        "end": "2017-04-28 18:00",
-        "title": "Rytmimuna",
-        "host": "Mikko, Ilmari",
-        "prod": "Punajussi? Kai?",
-        "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin p\u00e4iv\u00e4ohjelma",
-        "timestamp": "2017-04-06T15:44:39+03:00"
-    },
-    {
         "id": "00330d5e-03c6-486f-8adb-4f754713b184",
         "start": "2017-04-26 00:00",
         "end": "2017-04-26 07:00",
@@ -236,17 +226,217 @@
         "title": "Koiratarha radalla",
         "host": "arttu, kalle, tatu",
         "prod": "roope",
-        "desc": "Koiratarha radalla j\u00e4lleen. Wappuradion eniten mielipiteit\u00e4 jakava ohjelma. Taakista meiningist\u00e4 vastaavat radotusputkessa olevat suomir\u00e4pin asiantuntijat Arttu, Tatu ja Kalle.",
-        "timestamp": "2017-04-06T20:16:52+03:00"
+        "desc": "Koiratarha radalla edelleen. Wappuradion eniten mielipiteit\u00e4 jakava ohjelma. Taakista meiningist\u00e4 vastaavat radotusputkessa olevat suomir\u00e4pin asiantuntijat Arttu, Tatu ja Kalle.",
+        "timestamp": "2017-04-06T20:17:22+03:00"
     },
     {
-        "id": "1dda5e12-0b53-43a4-8c38-0b1475cf2cff",
+        "id": "247eb3b3-d6d8-45d5-b790-fe3a594116ad",
+        "start": "2017-04-27 00:00",
+        "end": "2017-04-27 07:00",
+        "title": "Post-iltaradio",
+        "host": "Kalle, Arttu, Tatu, Zordiack, Mutsku, jne.",
+        "prod": "roope tai joku yht\u00e4 hyv\u00e4",
+        "desc": "Tervetuloa trippailemaan kanssamme aina savuisesta stonerista post-rockin ihmeelliseen maailmaan. Luvassa my\u00f6s sekaviin aikoihin sopivaa musiikkia ja hautojen desekraatiota bl\u00e4kkiksen rituaalien parissa. Tunnin slotti per genre. ",
+        "timestamp": "2017-04-06T20:18:23+03:00"
+    },
+    {
+        "id": "3878ff22-7614-4820-a86d-cca484b23b02",
         "start": "2017-04-24 15:00",
         "end": "2017-04-24 16:00",
-        "title": "",
-        "host": "",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Juha Tiihonen ja Sami Rissanen",
+        "prod": "LaNi",
+        "desc": "Onko ura yliopistossa sittenk\u00e4\u00e4n tyls\u00e4 ja vanhanaikainen? Eik\u00f6 jatko-opiskelijalla ole el\u00e4m\u00e4\u00e4 saati assarilla sielua? Jos N lehm\u00e4\u00e4 tuottaa P p\u00e4iv\u00e4ss\u00e4 PlogN litraa maitoa, niin paljonko kustakin tulee?\r\n\r\nJokaisen teekkarin sis\u00e4ll\u00e4 asuu pieni tutkija, mutta muutamissa meist\u00e4 pesii my\u00f6s iso akateemikko. Sen mielest\u00e4 nyt on hyv\u00e4 hetki nostaa jalat p\u00f6yd\u00e4lle, pit\u00e4\u00e4 tunnin mittainen kahvitauko ja toistaa per\u00e4ss\u00e4: olen tutkija, t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4. ",
+        "timestamp": "2017-04-06T20:20:56+03:00"
+    },
+    {
+        "id": "9789c8fd-a1e6-4285-9b13-c123f1cf6e23",
+        "start": "2017-04-22 15:00",
+        "end": "2017-04-22 16:00",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Juha Tiihonen ja Sami Rissanen",
+        "prod": "LaNi",
+        "desc": "Onko ura yliopistossa sittenk\u00e4\u00e4n tyls\u00e4 ja vanhanaikainen? Eik\u00f6 jatko-opiskelijalla ole el\u00e4m\u00e4\u00e4 saati assarilla sielua? Jos N lehm\u00e4\u00e4 tuottaa P p\u00e4iv\u00e4ss\u00e4 PlogN litraa maitoa, niin paljonko kustakin tulee?\r\n\r\nJokaisen teekkarin sis\u00e4ll\u00e4 asuu pieni tutkija, mutta muutamissa meist\u00e4 pesii my\u00f6s iso akateemikko. Sen mielest\u00e4 nyt on hyv\u00e4 hetki nostaa jalat p\u00f6yd\u00e4lle, pit\u00e4\u00e4 tunnin mittainen kahvitauko ja toistaa per\u00e4ss\u00e4: olen tutkija, t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4. ",
+        "timestamp": "2017-04-06T20:21:18+03:00"
+    },
+    {
+        "id": "9b104838-5810-4b04-b234-b38e26e81090",
+        "start": "2017-04-25 18:00",
+        "end": "2017-04-25 20:00",
+        "title": "Overdose of Finnish Pop",
+        "host": "Janne Koivisto & Tytti Jaakkola",
+        "prod": "Juha Suvanto",
+        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
+        "timestamp": "2017-04-06T20:29:10+03:00"
+    },
+    {
+        "id": "b09c3f55-8ffd-4cca-aa46-dc740c9a7c83",
+        "start": "2017-04-20 18:00",
+        "end": "2017-04-20 20:00",
+        "title": "Overdose of Finnish Pop",
+        "host": "Janne Koivisto & Tytti Jaakkola",
+        "prod": "Juha Suvanto",
+        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
+        "timestamp": "2017-04-06T20:30:16+03:00"
+    },
+    {
+        "id": "4dda658a-bbbf-4ea8-b37a-6c15e5932c17",
+        "start": "2017-04-25 14:00",
+        "end": "2017-04-25 16:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
+        "timestamp": "2017-04-06T20:33:17+03:00"
+    },
+    {
+        "id": "c5e64128-f5bf-4f81-bab0-3877f600f682",
+        "start": "2017-04-26 14:00",
+        "end": "2017-04-26 16:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
+        "timestamp": "2017-04-06T20:33:25+03:00"
+    },
+    {
+        "id": "b6ad59c0-67da-4c30-b755-9f61ca36c398",
+        "start": "2017-04-27 14:00",
+        "end": "2017-04-27 16:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
+        "timestamp": "2017-04-06T20:33:34+03:00"
+    },
+    {
+        "id": "366e6a82-1180-4bf3-8236-ed22cac90529",
+        "start": "2017-04-27 16:00",
+        "end": "2017-04-27 18:00",
+        "title": "Rytmimuna",
+        "host": "Mikko, Ilmari",
+        "prod": "Punajussi? Kai?",
+        "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin p\u00e4iv\u00e4ohjelma",
+        "timestamp": "2017-04-06T20:36:37+03:00"
+    },
+    {
+        "id": "5e25e001-f0fa-4396-854d-f3fc46a65764",
+        "start": "2017-04-28 14:00",
+        "end": "2017-04-28 18:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
+        "timestamp": "2017-04-06T20:36:44+03:00"
+    },
+    {
+        "id": "768ebb78-135c-4b0e-99e7-99bcaac88752",
+        "start": "2017-04-20 13:00",
+        "end": "2017-04-20 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
         "prod": "",
-        "desc": "",
-        "timestamp": "2017-04-06T20:16:57+03:00"
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:15+03:00"
+    },
+    {
+        "id": "529ab154-16be-49eb-84dc-dc1ef490da70",
+        "start": "2017-04-21 13:00",
+        "end": "2017-04-21 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:36+03:00"
+    },
+    {
+        "id": "8cd6be6e-2043-4500-9e04-e4d958abd648",
+        "start": "2017-04-24 13:00",
+        "end": "2017-04-24 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:44+03:00"
+    },
+    {
+        "id": "d055da42-b9f9-4cc0-a67d-a98490f55010",
+        "start": "2017-04-25 13:00",
+        "end": "2017-04-25 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:49+03:00"
+    },
+    {
+        "id": "3e84b544-247b-40f9-acdd-e65c67b8bf1b",
+        "start": "2017-04-26 13:00",
+        "end": "2017-04-26 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:52+03:00"
+    },
+    {
+        "id": "c149aacd-84e6-4cac-b88f-3224062ee49d",
+        "start": "2017-04-27 13:00",
+        "end": "2017-04-27 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:56+03:00"
+    },
+    {
+        "id": "e217d57b-3555-4d98-9bdc-744aef32ae7a",
+        "start": "2017-04-28 13:00",
+        "end": "2017-04-28 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T20:53:59+03:00"
+    },
+    {
+        "id": "4d7e06b4-221d-447d-814a-a3c36ad5aa11",
+        "start": "2017-04-24 00:00",
+        "end": "2017-04-24 07:00",
+        "title": "Liskodisko",
+        "host": "Anna Kuisma & Maarit Vimpeli",
+        "prod": "Veli-V",
+        "desc": "Keskustelemme kokemuksen syv\u00e4ll\u00e4 rinta\u00e4\u00e4nell\u00e4 pahimmista liskoista, painajaisista ja unettomuudesta. Puhumme my\u00f6s kaikesta siit\u00e4 synk\u00e4st\u00e4 ja kummasta, mik\u00e4 saattaa y\u00f6n pimein\u00e4 tunteina hiipi\u00e4 mieleen kummittelemaan. Toivomme toki my\u00f6s kuulijoiden kokemuksia ja vinkkej\u00e4 aiheeseen liittyen.",
+        "timestamp": "2017-04-06T20:59:23+03:00"
+    },
+    {
+        "id": "46bd8f4a-7063-474d-9837-7427981f9cd9",
+        "start": "2017-04-25 20:00",
+        "end": "2017-04-25 22:00",
+        "title": "Matka madonreik\u00e4\u00e4n",
+        "host": "Juha, Ville ja Joni",
+        "prod": "Juho",
+        "desc": "TTYkityksen l\u00e4hett\u00e4mien radiosignaalien v\u00e4lityksell\u00e4 sukelletaan salaisuuksien ja avaruuden m\u00e4\u00e4r\u00e4\u00e4m\u00e4tt\u00f6miin sy\u00f6vereihin. Ajanlaskumme alun auguurit kohtaavat Galileon Kefeidien tuolla puolen asuvat virvatulten vihulaiset \u2013 selvi\u00e4\u00e4k\u00f6 t\u00e4st\u00e4 matkasta yksik\u00e4\u00e4n vai onko kaikki silkkaa lumetta ja harhaa? Mitk\u00e4 olennot mellastavatkaan ulottuvuuksien ja kaiken olevaisen v\u00e4lisiss\u00e4 kuiluissa?",
+        "timestamp": "2017-04-06T20:59:55+03:00"
+    },
+    {
+        "id": "fecfe5f3-239b-472f-bbd5-26cece13a7e9",
+        "start": "2017-04-24 18:00",
+        "end": "2017-04-24 20:00",
+        "title": "Liikuntatunti",
+        "host": "Juti & Wilho",
+        "prod": "snottis",
+        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, ja sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
+        "timestamp": "2017-04-06T21:09:19+03:00"
+    },
+    {
+        "id": "86e9569e-c33b-4759-a703-eec07f71d9ff",
+        "start": "2017-04-27 18:00",
+        "end": "2017-04-27 20:00",
+        "title": "Liikuntatunti",
+        "host": "Juti & Wilho",
+        "prod": "Kebbish",
+        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, ja sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
+        "timestamp": "2017-04-06T21:09:40+03:00"
     }
 ]
