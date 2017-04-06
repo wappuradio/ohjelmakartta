@@ -330,16 +330,6 @@
         "timestamp": "2017-04-06T20:36:44+03:00"
     },
     {
-        "id": "768ebb78-135c-4b0e-99e7-99bcaac88752",
-        "start": "2017-04-20 13:00",
-        "end": "2017-04-20 14:00",
-        "title": "Business as usual",
-        "host": "Antti Vuorio & Oula Juutilainen",
-        "prod": "",
-        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
-        "timestamp": "2017-04-06T20:53:15+03:00"
-    },
-    {
         "id": "529ab154-16be-49eb-84dc-dc1ef490da70",
         "start": "2017-04-21 13:00",
         "end": "2017-04-21 14:00",
@@ -420,14 +410,44 @@
         "timestamp": "2017-04-06T20:59:55+03:00"
     },
     {
-        "id": "fecfe5f3-239b-472f-bbd5-26cece13a7e9",
-        "start": "2017-04-24 18:00",
-        "end": "2017-04-24 20:00",
-        "title": "Liikuntatunti",
-        "host": "Juti & Wilho",
-        "prod": "snottis",
-        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, ja sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
-        "timestamp": "2017-04-06T21:09:19+03:00"
+        "id": "39764df8-ca5a-4467-9bd1-94fa1cb0de82",
+        "start": "2017-04-22 21:00",
+        "end": "2017-04-22 22:00",
+        "title": "Saturday's Trance Flight With J.A.Z.P.",
+        "host": "Jaze Anti-Zucchini Production",
+        "prod": "J.A.Z.P.",
+        "desc": "On aika lent\u00e4\u00e4 kauas pois arjen \u00e4herryksest\u00e4 ja stressist\u00e4, kun J.A.Z.P. palaa Wappuradioon tarjoilemaan tunnin katsauksen kuluneen vuoden aikana julkaistuihin nostattaviin ja progressiivisiin trance-raitoihin. Ohjelman voi nauttia skumpaten, humpaten tai miten itse kukin haluaa. Varmaa on, ett\u00e4 energia ja vauhti ei t\u00e4st\u00e4 showsta lopu.\r\n\r\n\"Joo.. kerran k\u00e4vin, mutta toisella kertaa mentiin kovempaa\" - J.A.Z.P.",
+        "timestamp": "2017-04-06T21:17:02+03:00"
+    },
+    {
+        "id": "4342b747-a3e5-482d-a0fb-9cf6bc655bce",
+        "start": "2017-04-29 22:00",
+        "end": "2017-04-30 00:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana ja Viivi",
+        "prod": "Punajussi",
+        "desc": "Hyv\u00e4n mielen hoitoradio viett\u00e4\u00e4 my\u00f6h\u00e4isiltaa intiimeiss\u00e4 tunnelmissa keskustellen parisuhteista, kukista, mehil\u00e4isist\u00e4 ja viimeisimmist\u00e4 terveyshullutuksista pilke silm\u00e4kulmassa. Lauantai-illan ratoksi pelaamme my\u00f6s hupaisia seurapelej\u00e4, joihin niin tuottaja kuin rakkaat kuulijatkin p\u00e4\u00e4sev\u00e4t ottamaan osaa! Musiikin taso saattaa vaihdella, mutta seura on 5\/5; \u00e4l\u00e4 siis j\u00e4t\u00e4 n\u00e4it\u00e4 bileit\u00e4 v\u00e4liin! <3  ",
+        "timestamp": "2017-04-06T21:25:38+03:00"
+    },
+    {
+        "id": "ad0f61c0-f3e7-42dd-8309-e1d092205fd5",
+        "start": "2017-04-28 18:00",
+        "end": "2017-04-28 20:00",
+        "title": "Kivikaudesta keskiviikkoon",
+        "host": "Joona, Tytti ja Ilkka",
+        "prod": "Alexander",
+        "desc": "Milt\u00e4 betoni kuulostaa ja voiko siit\u00e4 tehd\u00e4 frisbeen? Liittyyk\u00f6 pronssiin jotain muutakin kuin Antti Ruuskanen? Mist\u00e4 purukumi on tehty ja onko se edes kumia ensink\u00e4\u00e4n? N\u00e4m\u00e4 ja paljon muuta selvitet\u00e4\u00e4n musiikkimatkalla halki genrerajojen ja historian - aina kivikaudelta keskiviikkoon asti. L\u00e4hde siis mukaamme tutkimusmatkalle musiikin ja materian risteykseen, jossa konkretia ja abstraktio ly\u00f6v\u00e4t k\u00e4tt\u00e4!",
+        "timestamp": "2017-04-06T21:25:53+03:00"
+    },
+    {
+        "id": "eaf0e224-b883-4e16-860d-322d36059ccf",
+        "start": "2017-04-26 22:00",
+        "end": "2017-04-27 00:00",
+        "title": "Jotain kosmista",
+        "host": "AnRai, Quendil, plotko, Veera",
+        "prod": "LaNi",
+        "desc": "Avaruusteemaista musiikkia ja maailmankaikkeuteen liittyvi\u00e4 keskustelunaiheita galaksiasuisten tytt\u00f6jen seurassa.   ",
+        "timestamp": "2017-04-06T21:34:13+03:00"
     },
     {
         "id": "86e9569e-c33b-4759-a703-eec07f71d9ff",
@@ -436,7 +456,67 @@
         "title": "Liikuntatunti",
         "host": "Juti & Wilho",
         "prod": "Kebbish",
-        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, ja sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
-        "timestamp": "2017-04-06T21:09:40+03:00"
+        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, tai sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
+        "timestamp": "2017-04-06T21:37:33+03:00"
+    },
+    {
+        "id": "fecfe5f3-239b-472f-bbd5-26cece13a7e9",
+        "start": "2017-04-24 18:00",
+        "end": "2017-04-24 20:00",
+        "title": "Liikuntatunti",
+        "host": "Juti & Wilho",
+        "prod": "snottis",
+        "desc": "Jos valitset Trivial Pursuitissa aina ne urheilukysymykset, tai sanat kuten paippi, tolppa, pilkku ja l\u00e4tty kolahtavat takaraivoosi kuin litran leka, on t\u00e4ss\u00e4 ohjelma juuri sinulle! Liikuntatunnilla jokaisella on lupa p\u00e4\u00e4st\u00e4\u00e4 oma sis\u00e4inen penkki- ja huippu-urheilijansa irti, sill\u00e4 Juti (l\u00e4hes Suomen mestari) ja Wilho (Suomen mestari) k\u00e4yv\u00e4t l\u00e4pi unohtumattomimmat kisamuistot ja kaiholla muistelevat kovimpia karpaaseja unohtamatta legendaarisimpia kisareissuja. Hikipanta otsalle, urheilujuoma k\u00e4teen ja radio p\u00e4\u00e4lle, sill\u00e4 nyt menn\u00e4\u00e4n!",
+        "timestamp": "2017-04-06T21:37:47+03:00"
+    },
+    {
+        "id": "768ebb78-135c-4b0e-99e7-99bcaac88752",
+        "start": "2017-04-20 13:00",
+        "end": "2017-04-20 14:00",
+        "title": "Business as usual",
+        "host": "Antti Vuorio & Oula Juutilainen",
+        "prod": "",
+        "desc": "Business as usual on l\u00e4pileikkaus teknologiateollisuuden menestystarinoihin. Kertojamme Oula ja Antti tutustuttavat kuuntelijat tarinoiden p\u00e4\u00e4henkil\u00f6ihin:\r\nTorstai 20.4. Futurice\r\nPerjantai 21.4. Vincit\r\nMaanantai 24.4. Eatech\r\nTiistai 25.4. Gofore\r\nKeskiviikko 26.4. TEK\r\nTorstai 27.4. Cinia\r\nPerjantai 28.4. Solita",
+        "timestamp": "2017-04-06T21:58:20+03:00"
+    },
+    {
+        "id": "033cb767-4c1b-4c06-b6aa-a55785173bb7",
+        "start": "2017-04-21 00:00",
+        "end": "2017-04-21 07:00",
+        "title": "TILARADIO",
+        "host": "Lotta, Cessi",
+        "prod": "Ville",
+        "desc": "Y\u00f6 t\u00e4ynn\u00e4 arkkarijuttuja.\r\n\r\nKorkkaa punaviinipullo ja anna luovuutesi virrata kanssamme.",
+        "timestamp": "2017-04-06T22:02:41+03:00"
+    },
+    {
+        "id": "e7a08364-4e2c-4442-aa2d-ac36f211b2a6",
+        "start": "2017-04-20 09:00",
+        "end": "2017-04-20 11:00",
+        "title": "Aamujamit",
+        "host": "Mika, Henna, Jarno",
+        "prod": "Tekniikan Sarppa",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa kolme muusikkoa ja yksi musiikin kuuntelija, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2017-04-06T22:12:46+03:00"
+    },
+    {
+        "id": "1e744f6c-2210-408b-8d34-59a2f4eee501",
+        "start": "2017-04-21 09:00",
+        "end": "2017-04-21 11:00",
+        "title": "Aamujamit",
+        "host": "Mika, Henna, Jarno",
+        "prod": "Tekniikan Sarppa",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa kolme muusikkoa ja yksi musiikin kuuntelija, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2017-04-06T22:14:05+03:00"
+    },
+    {
+        "id": "f140280e-775e-4f5e-bd61-1e7a8ae15692",
+        "start": "2017-04-24 09:00",
+        "end": "2017-04-24 11:00",
+        "title": "Aamujamit",
+        "host": "Mika, Henna, Jarno",
+        "prod": "Tekniikan Sarppa",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa kolme muusikkoa ja yksi musiikin kuuntelija, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2017-04-06T22:15:19+03:00"
     }
 ]
