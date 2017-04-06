@@ -228,5 +228,25 @@
         "prod": "Jaak \"ko\" Jaketus",
         "desc": "N\u00e4in Wappuradiota tehd\u00e4\u00e4n. Jokainen piirre on pilkkua my\u00f6ten suunniteltu, suunnittelulla peitetty h\u00f6lm\u00f6 tekemisen meininki. K\u00e4sikirjoitettua tavaraa, joka on k\u00e4ynyt usean hyv\u00e4ksynt\u00e4filtterin l\u00e4pi ennen kuin se on p\u00e4\u00e4stetty radioaalloille. Kannattaa olla hereill\u00e4 ajoissa, sill\u00e4 t\u00e4m\u00e4n avulla saatte p\u00e4iv\u00e4n k\u00e4yntiin! Funkkia ja muuta mukavaa luvassa lauantaiaamup\u00e4iv\u00e4\u00e4n!",
         "timestamp": "2017-04-06T19:07:56+03:00"
+    },
+    {
+        "id": "1f89cfba-bed1-48e8-a871-d80878f81917",
+        "start": "2017-04-24 22:00",
+        "end": "2017-04-25 00:00",
+        "title": "Koiratarha radalla",
+        "host": "arttu, kalle, tatu",
+        "prod": "roope",
+        "desc": "Koiratarha radalla j\u00e4lleen. Wappuradion eniten mielipiteit\u00e4 jakava ohjelma. Taakista meiningist\u00e4 vastaavat radotusputkessa olevat suomir\u00e4pin asiantuntijat Arttu, Tatu ja Kalle.",
+        "timestamp": "2017-04-06T20:16:52+03:00"
+    },
+    {
+        "id": "1dda5e12-0b53-43a4-8c38-0b1475cf2cff",
+        "start": "2017-04-24 15:00",
+        "end": "2017-04-24 16:00",
+        "title": "",
+        "host": "",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2017-04-06T20:16:57+03:00"
     }
 ]
