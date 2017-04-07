@@ -698,5 +698,15 @@
         "prod": "JSuvanto",
         "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
         "timestamp": "2017-04-07T11:30:39+03:00"
+    },
+    {
+        "id": "141608f6-5ba4-4a30-bfbb-47e8cbdd686e",
+        "start": "2017-04-28 20:00",
+        "end": "2017-04-28 22:00",
+        "title": "Ennen oli paremmin?",
+        "host": "Jarkko Kailanto ja Aleksi Kallan",
+        "prod": "JSuvanto",
+        "desc": "Tytt\u00f6jahdit. Pikahiivasahdit. Tanssin tahdit. Teekkarimahdit. Kaljarahdit. Nykyisin pelk\u00e4t lapsenvahdit. Jarkko ja Aleksi kertovat mik\u00e4 on paremmin, ja milloin.",
+        "timestamp": "2017-04-07T13:15:32+03:00"
     }
 ]
