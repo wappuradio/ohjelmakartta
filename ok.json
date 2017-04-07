@@ -40,16 +40,6 @@
         "timestamp": "2017-04-05T13:40:23+03:00"
     },
     {
-        "id": "b619f667-12c8-4da0-8c09-726390208599",
-        "start": "2017-04-29 07:00",
-        "end": "2017-04-29 09:00",
-        "title": "Suunsoittoa",
-        "host": "Reimann, Lahis",
-        "prod": "",
-        "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta. Toisinaan my\u00f6s suuta. Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
-        "timestamp": "2017-04-05T13:43:02+03:00"
-    },
-    {
         "id": "c2e2118f-be34-4cb8-9c54-dca9ebda7f87",
         "start": "2017-04-25 00:00",
         "end": "2017-04-25 07:00",
@@ -798,5 +788,25 @@
         "prod": "zar",
         "desc": "Firmat ovat saaneet suunvuoronsa, joten viimeinen tunnin tietopl\u00e4j\u00e4ys omistetaan omalle ylioppilaskunnallemme. TTYY as usual kertoo sinun tarinasi.",
         "timestamp": "2017-04-07T15:52:58+03:00"
+    },
+    {
+        "id": "b619f667-12c8-4da0-8c09-726390208599",
+        "start": "2017-04-29 07:00",
+        "end": "2017-04-29 09:00",
+        "title": "Suunsoittoa",
+        "host": "Reimann, Lahis",
+        "prod": "Alexander",
+        "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta. Toisinaan my\u00f6s suuta. Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
+        "timestamp": "2017-04-07T17:31:57+03:00"
+    },
+    {
+        "id": "bbd269ed-6e39-41cc-b227-fc7718f6f01f",
+        "start": "2017-04-22 15:00",
+        "end": "2017-04-22 17:00",
+        "title": "Tekniikan Musiikki",
+        "host": "Petteri ja Tuukka",
+        "prod": "Markka",
+        "desc": "Tekniikkaa ja musiikkia, musiikkia ja tekniikkaa, musiikkitekniikkaa. Teknist\u00e4 musiikkia, musikaalista tekniikkaa. Vieraana asian- ja muiden juttujen tuntijoita.",
+        "timestamp": "2017-04-07T18:12:12+03:00"
     }
 ]
