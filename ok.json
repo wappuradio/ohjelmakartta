@@ -690,36 +690,6 @@
         "timestamp": "2017-04-07T14:33:47+03:00"
     },
     {
-        "id": "ae5c8383-5515-4043-aa05-c7a2c6aa0158",
-        "start": "2017-04-21 11:00",
-        "end": "2017-04-21 13:00",
-        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
-        "host": "Helky & qulmis & Annika",
-        "prod": "",
-        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4 opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
-        "timestamp": "2017-04-07T14:44:30+03:00"
-    },
-    {
-        "id": "1095fe03-24fc-44fb-8b6f-f12427ca1921",
-        "start": "2017-04-20 11:00",
-        "end": "2017-04-20 13:00",
-        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
-        "host": "Helky & qulmis & Annika",
-        "prod": "",
-        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4 opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
-        "timestamp": "2017-04-07T14:45:10+03:00"
-    },
-    {
-        "id": "12e73a27-5a74-48ad-a45d-00e536ab07a3",
-        "start": "2017-04-24 11:00",
-        "end": "2017-04-24 13:00",
-        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
-        "host": "Helky & qulmis & Annika",
-        "prod": "",
-        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4n opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
-        "timestamp": "2017-04-07T14:47:29+03:00"
-    },
-    {
         "id": "8a1ef2f0-50d5-4fe9-8c2e-c7975407b31b",
         "start": "2017-04-19 16:00",
         "end": "2017-04-19 18:00",
@@ -828,5 +798,35 @@
         "prod": "Fraeon",
         "desc": "Pelimusiikin erikoisohjelma jossa tutustutaan alan todellisiin tekij\u00f6ihin. Studiossa liven\u00e4 haastattelussa s\u00e4velt\u00e4j\u00e4, muusikko ja \u00e4\u00e4nisuunnittelija Tommi Salomaa. Tommi vet\u00e4\u00e4 studiossa my\u00f6s live vedon aihealueena Final Fantasy musiikki rajattuna Uematsun s\u00e4velt\u00e4miin biiseihin, joten shoutbox ja irc kuumaksi, sill\u00e4 te rakkaat kuulijat vaikutatte mit\u00e4 musaa aihealueesta el\u00e4v\u00e4n\u00e4 soi. Mukana ohjelmassa on my\u00f6s toisen pelimusiikin todellisen expertin Mr. Ari Pulkkinen haastattelu. So stay AriTuned!!!",
         "timestamp": "2017-04-08T21:28:24+03:00"
+    },
+    {
+        "id": "1095fe03-24fc-44fb-8b6f-f12427ca1921",
+        "start": "2017-04-20 11:00",
+        "end": "2017-04-20 13:00",
+        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
+        "host": "Helky & qulmis & Annika",
+        "prod": "Veli-V",
+        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4 opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
+        "timestamp": "2017-04-08T23:40:19+03:00"
+    },
+    {
+        "id": "ae5c8383-5515-4043-aa05-c7a2c6aa0158",
+        "start": "2017-04-21 11:00",
+        "end": "2017-04-21 13:00",
+        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
+        "host": "Helky & qulmis & Annika",
+        "prod": "Veli-V",
+        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4 opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
+        "timestamp": "2017-04-08T23:40:31+03:00"
+    },
+    {
+        "id": "12e73a27-5a74-48ad-a45d-00e536ab07a3",
+        "start": "2017-04-24 11:00",
+        "end": "2017-04-24 13:00",
+        "title": "Kolmen Koon keskip\u00e4iv\u00e4",
+        "host": "Helky & qulmis & Annika",
+        "prod": "Veli-V",
+        "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4n opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
+        "timestamp": "2017-04-08T23:40:46+03:00"
     }
 ]
