@@ -808,5 +808,25 @@
         "prod": "Markka",
         "desc": "Tekniikkaa ja musiikkia, musiikkia ja tekniikkaa, musiikkitekniikkaa. Teknist\u00e4 musiikkia, musikaalista tekniikkaa. Vieraana asian- ja muiden juttujen tuntijoita.",
         "timestamp": "2017-04-07T18:12:12+03:00"
+    },
+    {
+        "id": "e3c8727b-262d-483b-b9f4-c10327b25e93",
+        "start": "2017-04-22 13:00",
+        "end": "2017-04-22 15:00",
+        "title": "Showroom Dummies",
+        "host": "June & Mari Kasurinen",
+        "prod": "Vuokko",
+        "desc": "",
+        "timestamp": "2017-04-08T19:38:35+03:00"
+    },
+    {
+        "id": "8700b1f8-af4d-4440-9c3d-3875e0c5652a",
+        "start": "2017-04-26 20:00",
+        "end": "2017-04-26 22:00",
+        "title": "Echo Show",
+        "host": "June & Tommi Salomaa",
+        "prod": "Fraeon",
+        "desc": "Pelimusiikin erikoisohjelma jossa tutustutaan alan todellisiin tekij\u00f6ihin. Studiossa liven\u00e4 haastattelussa s\u00e4velt\u00e4j\u00e4, muusikko ja \u00e4\u00e4nisuunnittelija Tommi Salomaa. Tommi vet\u00e4\u00e4 studiossa my\u00f6s live vedon aihealueena Final Fantasy musiikki, joten shoutbox ja irc kuumaksi, sill\u00e4 te rakkaat kuulijat vaikutatte mit\u00e4 musaa aihealueesta el\u00e4v\u00e4n\u00e4 soi. Mukana ohjelmassa on my\u00f6s toisen pelimusiikin todellisen expertin Mr. Ari Pulkkinen haastattelu. So stay AriTuned!!!",
+        "timestamp": "2017-04-08T20:07:53+03:00"
     }
 ]
