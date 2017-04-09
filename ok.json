@@ -730,16 +730,6 @@
         "timestamp": "2017-04-07T15:50:22+03:00"
     },
     {
-        "id": "3b8ce7e4-a701-4f29-a605-347be80fb9b3",
-        "start": "2017-04-20 14:00",
-        "end": "2017-04-20 15:00",
-        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
-        "host": "Juha Tiihonen ja Sami Rissanen",
-        "prod": "LaNi",
-        "desc": "",
-        "timestamp": "2017-04-07T15:50:38+03:00"
-    },
-    {
         "id": "f45c16bc-994b-4c3c-9230-9d191cb9475a",
         "start": "2017-04-29 13:00",
         "end": "2017-04-29 14:00",
@@ -848,5 +838,15 @@
         "prod": "Jaketus",
         "desc": "Kohta se on ohi! Viel\u00e4 on kuitenkin aikaa fiilistell\u00e4 Wappuhulinaa kaikkien Wappuradion parhaiden tyyppien seurassa ja kuulla kaikki wappuklassikkobiisit, jotka sytytt\u00e4v\u00e4t sunkin Wappus tuleen. ",
         "timestamp": "2017-04-09T19:29:34+03:00"
+    },
+    {
+        "id": "3b8ce7e4-a701-4f29-a605-347be80fb9b3",
+        "start": "2017-04-20 14:00",
+        "end": "2017-04-20 15:00",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Juha Tiihonen ja Sami Rissanen",
+        "prod": "LaNi",
+        "desc": "Onko ura yliopistossa sittenk\u00e4\u00e4n tyls\u00e4 ja vanhanaikainen? Eik\u00f6 jatko-opiskelijalla ole el\u00e4m\u00e4\u00e4 saati assarilla sielua? Jos N lehm\u00e4\u00e4 tuottaa P p\u00e4iv\u00e4ss\u00e4 PlogN litraa maitoa, niin paljonko kustakin tulee?\r\n\r\nJokaisen teekkarin sis\u00e4ll\u00e4 asuu pieni tutkija, mutta muutamissa meist\u00e4 pesii my\u00f6s iso akateemikko. Sen mielest\u00e4 nyt on hyv\u00e4 hetki nostaa jalat p\u00f6yd\u00e4lle, pit\u00e4\u00e4 tunnin mittainen kahvitauko ja toistaa per\u00e4ss\u00e4: olen tutkija, t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4. ",
+        "timestamp": "2017-04-09T21:06:35+03:00"
     }
 ]
