@@ -450,16 +450,6 @@
         "timestamp": "2017-04-06T22:46:01+03:00"
     },
     {
-        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
-        "start": "2017-04-21 19:00",
-        "end": "2017-04-21 21:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "lorens, Bjanze, tutu",
-        "prod": "Jaketus",
-        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella, musiikin, kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin, paitsi Dima Bilania emme soita, kun olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
-        "timestamp": "2017-04-06T23:05:29+03:00"
-    },
-    {
         "id": "695c62e3-9c54-4785-acbe-6ea1c8047bd2",
         "start": "2017-04-23 20:00",
         "end": "2017-04-23 22:00",
@@ -828,5 +818,25 @@
         "prod": "Veli-V",
         "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4n opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
         "timestamp": "2017-04-09T12:07:08+03:00"
+    },
+    {
+        "id": "482aee98-10a0-4101-958f-842b189c748d",
+        "start": "2017-04-30 09:00",
+        "end": "2017-04-30 11:00",
+        "title": "K\u00e4nkk\u00e4r\u00e4nkk\u00e4\u00e4 k\u00e4k\u00e4ttimeen",
+        "host": "Lorens",
+        "prod": "Jaketus",
+        "desc": "Aamukiukkuisuuden ammattilainen testaa keinoja selvit\u00e4 k\u00e4nkk\u00e4r\u00e4nk\u00e4n kourista. Keinoja emme kaihda, vaan k\u00e4nkk\u00e4r\u00e4nk\u00e4nkarkottimina kokeillaan kaikkea sovietoblasterista siperialaiseen kurkkulaulantaan ja kahvipannullisista kaikenlaiseen kevyeen musiikkiin. Kyll\u00e4 t\u00e4m\u00e4 t\u00e4st\u00e4.",
+        "timestamp": "2017-04-09T12:35:20+03:00"
+    },
+    {
+        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
+        "start": "2017-04-21 19:00",
+        "end": "2017-04-21 21:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "lorens, Bjanze, tutu",
+        "prod": "Jaketus",
+        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella musiikin, kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin - paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
+        "timestamp": "2017-04-09T12:38:30+03:00"
     }
 ]
