@@ -868,5 +868,25 @@
         "prod": "manty",
         "desc": "Yliopisto-opettaja Jussi Kangas eli DJ Jussi40 soittelee laajalla skaalalla musiikkia vuosien varrelta ja juttelee mukavia ja ep\u00e4mukavia!",
         "timestamp": "2017-04-09T23:12:39+03:00"
+    },
+    {
+        "id": "cff318ea-0752-45c9-a29a-d1cfbc1d4c92",
+        "start": "2017-04-20 20:00",
+        "end": "2017-04-20 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Syv\u00e4 Purppura tarjoilee t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit. Liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! Nooran ja Veeran vastapainoksi studiossa my\u00f6s Julle julistamassa hyv\u00e4n musiikin ilosanomaa.",
+        "timestamp": "2017-04-10T11:14:38+03:00"
+    },
+    {
+        "id": "5cc809b5-a5d3-4961-896b-9428f0e639ed",
+        "start": "2017-04-27 20:00",
+        "end": "2017-04-27 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Syv\u00e4 Purppura tarjoilee t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit. Liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! Nooran ja Veeran vastapainoksi studiossa my\u00f6s Julle julistamassa hyv\u00e4n musiikin ilosanomaa.",
+        "timestamp": "2017-04-10T11:15:25+03:00"
     }
 ]
