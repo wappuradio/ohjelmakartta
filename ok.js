@@ -93,7 +93,7 @@ jQuery(function() {
                 var list = ['title', 'host', 'prod'];
                 for(var j in list) {
                     var html = '<option value="'+events[i][list[j]]+'">';
-                    if(jQuery('datalist#'+list[j]+' option[value=\''+events[i][list[j]].replace(/'/, '\\\'')+'\']').length == 0) {
+                    if(jQuery('datalist#'+list[j]+' option[value=\''+events[i][list[j]].replace(/'/g, '\\\'')+'\']').length == 0) {
                         jQuery('datalist#'+list[j]).append(html);
                     }
                 }
