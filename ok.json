@@ -988,5 +988,25 @@
         "prod": "Ville",
         "desc": "Y\u00f6 t\u00e4ynn\u00e4 arkkarijuttuja jykevien biittien ja svengaavien soundien kera. Korkkaa punaviinipullo ja anna luovuuden virrata kanssamme.",
         "timestamp": "2017-04-12T18:39:27+03:00"
+    },
+    {
+        "id": "b0b7e9e4-6fe3-44da-ad3b-36d2deaa2dea",
+        "start": "2017-04-27 22:00",
+        "end": "2017-04-28 00:00",
+        "title": "Suklaata & Samettia",
+        "host": "keba, L\u00e4rvi, Kello, Tebo",
+        "prod": "Kebbish",
+        "desc": "Ihminen ja Intohimo",
+        "timestamp": "2017-04-12T19:32:22+03:00"
+    },
+    {
+        "id": "f01ddb59-453e-4120-9114-1f623912b05a",
+        "start": "2017-04-28 00:00",
+        "end": "2017-04-28 07:00",
+        "title": "TBD -radio",
+        "host": "TBD ja TBA",
+        "prod": "TBD",
+        "desc": "TBD! Ohjelma jossa juontajatkaan ei tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivuilla tbd.veli.vodka ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekee siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
+        "timestamp": "2017-04-12T19:50:39+03:00"
     }
 ]
