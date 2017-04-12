@@ -700,16 +700,6 @@
         "timestamp": "2017-04-07T15:00:21+03:00"
     },
     {
-        "id": "4ac88324-6c9c-4885-b9ce-7c1bc189e405",
-        "start": "2017-04-21 15:00",
-        "end": "2017-04-21 17:00",
-        "title": "Kielletty hedelm\u00e4",
-        "host": "Qike & Helky",
-        "prod": "lorens",
-        "desc": "Mit\u00e4 yhteist\u00e4 on nen\u00e4nkaivuulla, Babymetallilla ja reviriins\u00e4 merkkaamisella? Kaikki kielletty on tunnetusti kivaa, joten kurkkaa kiellettyyn radiokoppiin ja jaa synkimm\u00e4t salaisuutesi kanssamme... Kielletyn hedelm\u00e4n soittolista on t\u00e4ynn\u00e4 herkullisimpia guilty pleasureita eli kappaleita, joista harvempi kehtaa tunnustaa nauttivansa. Unohda h\u00e4pe\u00e4si, jamita Taylor Swifti\u00e4, katso maratoni Temptation Islandia, sy\u00f6 kilo suklaata - ja kuuntele Kielletty\u00e4 hedelm\u00e4\u00e4.",
-        "timestamp": "2017-04-07T15:32:52+03:00"
-    },
-    {
         "id": "3878ff22-7614-4820-a86d-cca484b23b02",
         "start": "2017-04-24 14:00",
         "end": "2017-04-24 15:00",
@@ -808,26 +798,6 @@
         "prod": "Veli-V",
         "desc": "Kylm\u00e4\u00e4 kyyti\u00e4, kohottavaa tunnelmaa ja kompaktisti kompressoitua radiosis\u00e4lt\u00f6\u00e4. Kolmen Koon keskip\u00e4iv\u00e4 tuo radioon hieman herkk\u00e4\u00e4 humanistin\u00e4k\u00f6kulmaa ja kolminkertaisen m\u00e4\u00e4r\u00e4n kilpailuita, mielipiteit\u00e4 ja kovia haastateltavia. Ohjelmassa ruoditaan suhteita, salaisuuksia ja suurimpia tunteita, sill\u00e4 studiossa on kolme viestinn\u00e4n opiskelijaa: Kulmakorpi, Kuusela & Kouri. ",
         "timestamp": "2017-04-09T12:07:08+03:00"
-    },
-    {
-        "id": "482aee98-10a0-4101-958f-842b189c748d",
-        "start": "2017-04-30 09:00",
-        "end": "2017-04-30 11:00",
-        "title": "K\u00e4nkk\u00e4r\u00e4nkk\u00e4\u00e4 k\u00e4k\u00e4ttimeen",
-        "host": "Lorens",
-        "prod": "Jaketus",
-        "desc": "Aamukiukkuisuuden ammattilainen testaa keinoja selvit\u00e4 k\u00e4nkk\u00e4r\u00e4nk\u00e4n kourista. Keinoja emme kaihda, vaan k\u00e4nkk\u00e4r\u00e4nk\u00e4nkarkottimina kokeillaan kaikkea sovietoblasterista siperialaiseen kurkkulaulantaan ja kahvipannullisista kaikenlaiseen kevyeen musiikkiin. Kyll\u00e4 t\u00e4m\u00e4 t\u00e4st\u00e4.",
-        "timestamp": "2017-04-09T12:35:20+03:00"
-    },
-    {
-        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
-        "start": "2017-04-21 19:00",
-        "end": "2017-04-21 21:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "lorens, Bjanze, tutu",
-        "prod": "Jaketus",
-        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella musiikin, kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin - paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
-        "timestamp": "2017-04-09T12:38:30+03:00"
     },
     {
         "id": "26e9a16a-347a-49a1-8260-2b48d98116e9",
@@ -968,5 +938,35 @@
         "prod": "KukaKumma",
         "desc": "Wappuradion lauantai-illassa r\u00e4j\u00e4ht\u00e4\u00e4 kun \u00e4\u00e4neen p\u00e4\u00e4see EkuDance! \r\nParin tunnin ajan kunnellaan ainoaa oikeaa musiikkia (tm) eli ys\u00e4ridancea. \r\nTiedossa siis tiukkoja laukkakomppeja, vahingoniloa sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4.\r\nOhjelman juontaa Eku ja Mypa.\r\n\r\nKuuntele, tahi olet kasari!",
         "timestamp": "2017-04-11T20:30:50+03:00"
+    },
+    {
+        "id": "4ac88324-6c9c-4885-b9ce-7c1bc189e405",
+        "start": "2017-04-21 15:00",
+        "end": "2017-04-21 17:00",
+        "title": "Kielletty hedelm\u00e4",
+        "host": "Qike & Helky",
+        "prod": "Lorens",
+        "desc": "Mit\u00e4 yhteist\u00e4 on nen\u00e4nkaivuulla, Babymetallilla ja reviriins\u00e4 merkkaamisella? Kaikki kielletty on tunnetusti kivaa, joten kurkkaa kiellettyyn radiokoppiin ja jaa synkimm\u00e4t salaisuutesi kanssamme... Kielletyn hedelm\u00e4n soittolista on t\u00e4ynn\u00e4 herkullisimpia guilty pleasureita eli kappaleita, joista harvempi kehtaa tunnustaa nauttivansa. Unohda h\u00e4pe\u00e4si, jamita Taylor Swifti\u00e4, katso maratoni Temptation Islandia, sy\u00f6 kilo suklaata - ja kuuntele Kielletty\u00e4 hedelm\u00e4\u00e4.",
+        "timestamp": "2017-04-12T12:55:13+03:00"
+    },
+    {
+        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
+        "start": "2017-04-21 19:00",
+        "end": "2017-04-21 21:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze, tutu",
+        "prod": "Jaketus",
+        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella musiikin, kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin - paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
+        "timestamp": "2017-04-12T12:55:24+03:00"
+    },
+    {
+        "id": "482aee98-10a0-4101-958f-842b189c748d",
+        "start": "2017-04-30 09:00",
+        "end": "2017-04-30 11:00",
+        "title": "K\u00e4nkk\u00e4r\u00e4nkk\u00e4\u00e4 k\u00e4k\u00e4ttimeen",
+        "host": "Lorens",
+        "prod": "Jaketus",
+        "desc": "Mit\u00e4 yhteist\u00e4 on balkan beatseilla, pannullisella kahvia, joikauksella ja yhdell\u00e4 aamukiukkuisuuden ammattilaisella? No neh\u00e4n ovat kaikki tietenkin k\u00e4nkk\u00e4r\u00e4nk\u00e4nkarkoittimia, joiden avulla n\u00e4ist\u00e4kin sunnuntaiaamuista selvit\u00e4\u00e4n. Kyll\u00e4 se siit\u00e4.",
+        "timestamp": "2017-04-12T13:16:51+03:00"
     }
 ]
