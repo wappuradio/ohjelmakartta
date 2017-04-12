@@ -380,16 +380,6 @@
         "timestamp": "2017-04-06T21:37:47+03:00"
     },
     {
-        "id": "033cb767-4c1b-4c06-b6aa-a55785173bb7",
-        "start": "2017-04-21 00:00",
-        "end": "2017-04-21 07:00",
-        "title": "TILARADIO",
-        "host": "Lotta, Cessi",
-        "prod": "Ville",
-        "desc": "Y\u00f6 t\u00e4ynn\u00e4 arkkarijuttuja.\r\n\r\nKorkkaa punaviinipullo ja anna luovuutesi virrata kanssamme.",
-        "timestamp": "2017-04-06T22:02:41+03:00"
-    },
-    {
         "id": "e7a08364-4e2c-4442-aa2d-ac36f211b2a6",
         "start": "2017-04-20 09:00",
         "end": "2017-04-20 11:00",
@@ -988,5 +978,15 @@
         "prod": "FireFlower, (lahis?)",
         "desc": "Olemme taivaallinen pora, joka porautuu t\u00e4rykalvoista aina galakseihin asti. Kuuntelee poraa, \u00e4l\u00e4 kuuntelee itse\u00e4si, vaan kuuntele meit\u00e4. Kuuntele Poraa, joka kuuntelee sinua! Soitamme PORAUTUVAA materiaalia l\u00e4pi y\u00f6n laidasta laitaan kunkin fiilikseen mukaan ja luultavasti aloitamme eeppiisen perinteen. Kuuntelija varoitus: Ei sovellu v\u00e4ltt\u00e4m\u00e4tt\u00e4 herkk\u00e4nahkaisille ja alaik\u00e4isille ilman vanhempien valvontaa.",
         "timestamp": "2017-04-12T16:36:52+03:00"
+    },
+    {
+        "id": "033cb767-4c1b-4c06-b6aa-a55785173bb7",
+        "start": "2017-04-21 00:00",
+        "end": "2017-04-21 07:00",
+        "title": "TILARADIO",
+        "host": "Lotta, Cessi",
+        "prod": "Ville",
+        "desc": "Y\u00f6 t\u00e4ynn\u00e4 arkkarijuttuja jykevien biittien ja svengaavien soundien kera. Korkkaa punaviinipullo ja anna luovuuden virrata kanssamme.",
+        "timestamp": "2017-04-12T18:39:27+03:00"
     }
 ]
