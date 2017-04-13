@@ -670,26 +670,6 @@
         "timestamp": "2017-04-07T14:33:47+03:00"
     },
     {
-        "id": "8a1ef2f0-50d5-4fe9-8c2e-c7975407b31b",
-        "start": "2017-04-19 16:00",
-        "end": "2017-04-19 18:00",
-        "title": "Iltap\u00e4iv\u00e4klassinen",
-        "host": "Masi ja Juho",
-        "prod": "",
-        "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
-        "timestamp": "2017-04-07T15:00:02+03:00"
-    },
-    {
-        "id": "7fa1ef8f-ab5e-4c24-bf36-44026d4d9031",
-        "start": "2017-04-26 16:00",
-        "end": "2017-04-26 18:00",
-        "title": "Iltap\u00e4iv\u00e4klassinen",
-        "host": "Masi ja Juho",
-        "prod": "",
-        "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
-        "timestamp": "2017-04-07T15:00:21+03:00"
-    },
-    {
         "id": "3878ff22-7614-4820-a86d-cca484b23b02",
         "start": "2017-04-24 14:00",
         "end": "2017-04-24 15:00",
@@ -1008,5 +988,25 @@
         "prod": "Jaketus",
         "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin - paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
         "timestamp": "2017-04-12T23:00:04+03:00"
+    },
+    {
+        "id": "8a1ef2f0-50d5-4fe9-8c2e-c7975407b31b",
+        "start": "2017-04-19 16:00",
+        "end": "2017-04-19 18:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi ja Juho",
+        "prod": "Jaketus",
+        "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
+        "timestamp": "2017-04-13T17:35:18+03:00"
+    },
+    {
+        "id": "7fa1ef8f-ab5e-4c24-bf36-44026d4d9031",
+        "start": "2017-04-26 16:00",
+        "end": "2017-04-26 18:00",
+        "title": "Iltap\u00e4iv\u00e4klassinen",
+        "host": "Masi ja Juho",
+        "prod": "Jaketus",
+        "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
+        "timestamp": "2017-04-13T17:35:43+03:00"
     }
 ]
