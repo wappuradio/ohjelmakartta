@@ -730,16 +730,6 @@
         "timestamp": "2017-04-14T08:39:56+03:00"
     },
     {
-        "id": "fdb4eb21-1865-4f84-adbf-8006ad89b8a6",
-        "start": "2017-04-22 09:00",
-        "end": "2017-04-22 11:00",
-        "title": "TBA",
-        "host": "TBA",
-        "prod": "TBA",
-        "desc": "TBA",
-        "timestamp": "2017-04-14T08:40:52+03:00"
-    },
-    {
         "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
         "start": "2017-04-23 07:00",
         "end": "2017-04-23 09:00",
@@ -1078,5 +1068,15 @@
         "prod": "PunaJussi",
         "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubusseaun seikkailua musiikin maailmassa.",
         "timestamp": "2017-04-14T11:41:13+03:00"
+    },
+    {
+        "id": "fdb4eb21-1865-4f84-adbf-8006ad89b8a6",
+        "start": "2017-04-22 09:00",
+        "end": "2017-04-22 11:00",
+        "title": "T\u00e4rin\u00e4radio",
+        "host": "ahvena, jerzu",
+        "prod": "TBA",
+        "desc": "Lauantaiaamuna krapula ja vapina.. eiku! Lauantain t\u00e4rin\u00e4radio t\u00e4ytt\u00e4\u00e4 aamun voimakkailla soundeilla, eik\u00e4 nyt ole lupa j\u00e4\u00e4d\u00e4 peiton alle. Tai jos j\u00e4\u00e4t niin laita edes ter\u00e4skyp\u00e4r\u00e4 p\u00e4\u00e4h\u00e4n ja k\u00e4\u00e4nn\u00e4 stereoiden nupit yhteentoista. Luvassa on tiukka kahden tunnin l\u00e4pileikkaus hevin, thrashin ja ehk\u00e4 hieman raskaammankin musiikin maailmaan. Ohjelman aikana pohditaan mik\u00e4 heviss\u00e4 vet\u00e4\u00e4 puoleensa, mist\u00e4 omat musiikkitottumukset kumpuavat ja milt\u00e4 keikoilta ne parhaat kokemukset on saatu.",
+        "timestamp": "2017-04-14T17:14:23+03:00"
     }
 ]
