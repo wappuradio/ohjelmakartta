@@ -760,16 +760,6 @@
         "timestamp": "2017-04-14T08:53:07+03:00"
     },
     {
-        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
-        "start": "2017-04-23 13:00",
-        "end": "2017-04-23 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "B\u00e4ndit & Rakkaus",
-        "prod": "Jaketus",
-        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat.",
-        "timestamp": "2017-04-14T08:57:54+03:00"
-    },
-    {
         "id": "70bf532f-246a-4ecc-a956-bb34fcefe1c5",
         "start": "2017-04-19 18:00",
         "end": "2017-04-19 20:00",
@@ -1078,5 +1068,15 @@
         "prod": "M\u00e4nty",
         "desc": "Keitti\u00f6sekoilijat Donaldi ja Kartsa jakavat mietteit\u00e4\u00e4n ruuanlaitosta, tutkivat krapula-aamiaisen kokkaamista kentt\u00e4olosuhteissa ja vertailevat chilisoosejaan. Sekaan saattaa eksy\u00e4 ripaus tai pari ihan oikeitakin vinkkej\u00e4 ruuanlaittoon. \r\n\r\nMusiikkia voi halutessaan toivoa paremmaksi ja pojat vastailevat mahdollisiin kysymyksiin.",
         "timestamp": "2017-04-14T10:08:35+03:00"
+    },
+    {
+        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
+        "start": "2017-04-23 13:00",
+        "end": "2017-04-23 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "B\u00e4ndit & Rakkaus",
+        "prod": "Jaketus",
+        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25bahttps:\/\/soundcloud.com\/ty-el-m-n-uhrit\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25bahttps:\/\/soundcloud.com\/jukkapojanpoika\r\n15:45 Elim\u00e4ki \u25ba https:\/\/soundcloud.com\/elim-ki\r\n17:00 Torvikopla \u25ba http:\/\/www.torvikopla.net\/kuuntele\/",
+        "timestamp": "2017-04-14T11:16:18+03:00"
     }
 ]
