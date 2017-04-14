@@ -40,16 +40,6 @@
         "timestamp": "2017-04-05T21:32:05+03:00"
     },
     {
-        "id": "842e773d-81c7-418d-8e05-db6e323a9019",
-        "start": "2017-04-25 16:00",
-        "end": "2017-04-25 18:00",
-        "title": "Karjapaimenten kannuksilla",
-        "host": "wtw, Pekka Hujanen",
-        "prod": "Vuokko",
-        "desc": "Karjapaimenten kannuksilla soittaa molempia musiikkityylej\u00e4, sek\u00e4 kantria ett\u00e4 westerni\u00e4. Kappaleiden lomassa pohditaan kantrin syvint\u00e4 olemusta, syntyjuuria, nykytilaa ja suomalaisia ilmentymi\u00e4. ",
-        "timestamp": "2017-04-06T13:58:14+03:00"
-    },
-    {
         "id": "1def5670-3977-454c-8f5c-790663d2d612",
         "start": "2017-04-29 16:00",
         "end": "2017-04-29 18:00",
@@ -128,16 +118,6 @@
         "prod": "zar",
         "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta:\r\nhttps:\/\/tinyurl.com\/herkkahetki2017",
         "timestamp": "2017-04-06T18:59:52+03:00"
-    },
-    {
-        "id": "25f6d383-6ca4-46bd-b7ff-a4470cefb758",
-        "start": "2017-04-22 17:00",
-        "end": "2017-04-22 19:00",
-        "title": "Herkk\u00e4 hetki",
-        "host": "AnRai, zordiack, Puh",
-        "prod": "zar",
-        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta:\r\nhttps:\/\/tinyurl.com\/herkkahetki2017",
-        "timestamp": "2017-04-06T19:00:21+03:00"
     },
     {
         "id": "c7311899-b405-4456-8596-54f74732a893",
@@ -970,16 +950,6 @@
         "timestamp": "2017-04-14T09:21:31+03:00"
     },
     {
-        "id": "f01ddb59-453e-4120-9114-1f623912b05a",
-        "start": "2017-04-28 00:00",
-        "end": "2017-04-28 07:00",
-        "title": "TBD-radio",
-        "host": "TBD ja TBA",
-        "prod": "TBD",
-        "desc": "TBD! Ohjelma jossa juontajatkaan eiv\u00e4t tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivulla tbd.veli.vodka ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekev\u00e4t siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
-        "timestamp": "2017-04-14T09:23:27+03:00"
-    },
-    {
         "id": "ad0f61c0-f3e7-42dd-8309-e1d092205fd5",
         "start": "2017-04-28 18:00",
         "end": "2017-04-28 20:00",
@@ -1078,5 +1048,35 @@
         "prod": "TBA",
         "desc": "Lauantaiaamuna krapula ja vapina.. eiku! Lauantain t\u00e4rin\u00e4radio t\u00e4ytt\u00e4\u00e4 aamun voimakkailla soundeilla, eik\u00e4 nyt ole lupa j\u00e4\u00e4d\u00e4 peiton alle. Tai jos j\u00e4\u00e4t niin laita edes ter\u00e4skyp\u00e4r\u00e4 p\u00e4\u00e4h\u00e4n ja k\u00e4\u00e4nn\u00e4 stereoiden nupit yhteentoista. Luvassa on tiukka kahden tunnin l\u00e4pileikkaus hevin, thrashin ja ehk\u00e4 hieman raskaammankin musiikin maailmaan. Ohjelman aikana pohditaan mik\u00e4 heviss\u00e4 vet\u00e4\u00e4 puoleensa, mist\u00e4 omat musiikkitottumukset kumpuavat ja milt\u00e4 keikoilta ne parhaat kokemukset on saatu.",
         "timestamp": "2017-04-14T17:14:23+03:00"
+    },
+    {
+        "id": "f01ddb59-453e-4120-9114-1f623912b05a",
+        "start": "2017-04-28 00:00",
+        "end": "2017-04-28 07:00",
+        "title": "TBD-radio",
+        "host": "TBD ja TBA",
+        "prod": "TBD",
+        "desc": "TBD! Ohjelma jossa juontajatkaan eiv\u00e4t tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivulla <a href=\"http:\/\/tbd.veli.vodka\"> tbd.veli.vodka <\/a> ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekev\u00e4t siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
+        "timestamp": "2017-04-14T19:30:29+03:00"
+    },
+    {
+        "id": "25f6d383-6ca4-46bd-b7ff-a4470cefb758",
+        "start": "2017-04-22 17:00",
+        "end": "2017-04-22 19:00",
+        "title": "Herkk\u00e4 hetki",
+        "host": "AnRai, zordiack, Puh",
+        "prod": "zar",
+        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta:\r\n<a href=\"https:\/\/tinyurl.com\/herkkahetki2017\">https:\/\/tinyurl.com\/herkkahetki2017<\/a>",
+        "timestamp": "2017-04-14T19:37:50+03:00"
+    },
+    {
+        "id": "842e773d-81c7-418d-8e05-db6e323a9019",
+        "start": "2017-04-25 16:00",
+        "end": "2017-04-25 18:00",
+        "title": "Karjapaimenten kannuksilla",
+        "host": "wtw, Pekka Hujanen",
+        "prod": "Vuokko",
+        "desc": "Karjapaimenten kannuksilla soittaa molempia musiikkityylej\u00e4: sek\u00e4 kantria ett\u00e4 westerni\u00e4. Kappaleiden lomassa pohditaan kantrin syvint\u00e4 olemusta, syntyjuuria, nykytilaa ja suomalaisia ilmentymi\u00e4. ",
+        "timestamp": "2017-04-14T19:56:26+03:00"
     }
 ]
