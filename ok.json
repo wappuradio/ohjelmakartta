@@ -40,16 +40,6 @@
         "timestamp": "2017-04-05T21:32:05+03:00"
     },
     {
-        "id": "73b0940a-cc7f-4447-afa2-fd450dc28763",
-        "start": "2017-04-30 07:00",
-        "end": "2017-04-30 09:00",
-        "title": "Donaldin ja Kartsan Wappukeiti\u00f6",
-        "host": "Donaldi & Kartsa",
-        "prod": "M\u00e4nty",
-        "desc": "Keitti\u00f6sekoilijat Donaldi ja Kartsa jakavat mietteit\u00e4\u00e4n ruuanlaitosta, tutkivat krapula-aamiaisen kokkaamista kentt\u00e4olosuhteissa ja vertailevat chilisoosejaan. Sekaan saattaa eksy\u00e4 ripaus tai pari ihan oikeitakin vinkkej\u00e4 ruuanlaittoon. \r\n\r\nMusiikkia voi halutessaan toivoa paremmaksi ja pojat vastailevat mahdollisiin kysymyksiin.",
-        "timestamp": "2017-04-06T12:03:20+03:00"
-    },
-    {
         "id": "842e773d-81c7-418d-8e05-db6e323a9019",
         "start": "2017-04-25 16:00",
         "end": "2017-04-25 18:00",
@@ -210,26 +200,6 @@
         "timestamp": "2017-04-06T20:33:17+03:00"
     },
     {
-        "id": "c5e64128-f5bf-4f81-bab0-3877f600f682",
-        "start": "2017-04-26 14:00",
-        "end": "2017-04-26 16:00",
-        "title": "Iltap\u00e4iv\u00e4veto",
-        "host": "Mikko, Valtteri, Ville",
-        "prod": "Ville",
-        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
-        "timestamp": "2017-04-06T20:33:25+03:00"
-    },
-    {
-        "id": "b6ad59c0-67da-4c30-b755-9f61ca36c398",
-        "start": "2017-04-27 14:00",
-        "end": "2017-04-27 16:00",
-        "title": "Iltap\u00e4iv\u00e4veto",
-        "host": "Mikko, Valtteri, Ville",
-        "prod": "Ville",
-        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
-        "timestamp": "2017-04-06T20:33:34+03:00"
-    },
-    {
         "id": "366e6a82-1180-4bf3-8236-ed22cac90529",
         "start": "2017-04-27 16:00",
         "end": "2017-04-27 18:00",
@@ -238,16 +208,6 @@
         "prod": "Punajussi? Kai?",
         "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin p\u00e4iv\u00e4ohjelma",
         "timestamp": "2017-04-06T20:36:37+03:00"
-    },
-    {
-        "id": "5e25e001-f0fa-4396-854d-f3fc46a65764",
-        "start": "2017-04-28 14:00",
-        "end": "2017-04-28 18:00",
-        "title": "Iltap\u00e4iv\u00e4veto",
-        "host": "Mikko, Valtteri, Ville",
-        "prod": "Ville",
-        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla wapun toisella viikolla tiistaista torstaihin klo 14-16 ja perjantaina erikoispitk\u00e4veto 14-18! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.\r\n",
-        "timestamp": "2017-04-06T20:36:44+03:00"
     },
     {
         "id": "4d7e06b4-221d-447d-814a-a3c36ad5aa11",
@@ -278,16 +238,6 @@
         "prod": "Punajussi",
         "desc": "Hyv\u00e4n mielen hoitoradio viett\u00e4\u00e4 my\u00f6h\u00e4isiltaa intiimeiss\u00e4 tunnelmissa keskustellen parisuhteista, kukista, mehil\u00e4isist\u00e4 ja viimeisimmist\u00e4 terveyshullutuksista pilke silm\u00e4kulmassa. Lauantai-illan ratoksi pelaamme my\u00f6s hupaisia seurapelej\u00e4, joihin niin tuottaja kuin rakkaat kuulijatkin p\u00e4\u00e4sev\u00e4t ottamaan osaa! Musiikin taso saattaa vaihdella, mutta seura on 5\/5; \u00e4l\u00e4 siis j\u00e4t\u00e4 n\u00e4it\u00e4 bileit\u00e4 v\u00e4liin! <3  ",
         "timestamp": "2017-04-06T21:25:38+03:00"
-    },
-    {
-        "id": "ad0f61c0-f3e7-42dd-8309-e1d092205fd5",
-        "start": "2017-04-28 18:00",
-        "end": "2017-04-28 20:00",
-        "title": "Kivikaudesta keskiviikkoon",
-        "host": "Joona, Tytti ja Ilkka",
-        "prod": "Alexander",
-        "desc": "Milt\u00e4 betoni kuulostaa ja voiko siit\u00e4 tehd\u00e4 frisbeen? Liittyyk\u00f6 pronssiin jotain muutakin kuin Antti Ruuskanen? Mist\u00e4 purukumi on tehty ja onko se edes kumia ensink\u00e4\u00e4n? N\u00e4m\u00e4 ja paljon muuta selvitet\u00e4\u00e4n musiikkimatkalla halki genrerajojen ja historian - aina kivikaudelta keskiviikkoon asti. L\u00e4hde siis mukaamme tutkimusmatkalle musiikin ja materian risteykseen, jossa konkretia ja abstraktio ly\u00f6v\u00e4t k\u00e4tt\u00e4!",
-        "timestamp": "2017-04-06T21:25:53+03:00"
     },
     {
         "id": "eaf0e224-b883-4e16-860d-322d36059ccf",
@@ -580,16 +530,6 @@
         "timestamp": "2017-04-07T13:15:32+03:00"
     },
     {
-        "id": "348c1e47-4b73-4b13-ad93-4784887c2407",
-        "start": "2017-04-26 18:00",
-        "end": "2017-04-26 20:00",
-        "title": "DDR:n Naisvoimistelijoiden Maailmankiertue",
-        "host": "Arttu O. & Tuomas H.",
-        "prod": "ketku",
-        "desc": "Koreat ja korvaamattomat urheilijaleidit, eli siis DDR:n Naisvoimistelijat, saapuvat Rakkauden Wappuradioon jo kolmatta kertaa! DDRNV:n tyt\u00f6t ovat opinto- ja urheilumatkoillaan kiert\u00e4neet maailmaa, ja n\u00e4hneet sek\u00e4 sen sosialistisen, ett\u00e4 ei-niin-sosialistisen puolen. Nyt aiommekin studiossa luuppailla n\u00e4iden reissujen her\u00e4tt\u00e4mi\u00e4 tuntemuksia ja ideoita. Saattaa jopa olla, ett\u00e4 saavumme \u00e4\u00e4relle absoluuttisten totuuksien, ja selvit\u00e4mme mink\u00e4lainen maailman pit\u00e4isi oikeasti olla. Maailmanparannuksen v\u00e4liss\u00e4 soitamme parasta it\u00e4-saksalaista musiikkia, sek\u00e4 ehk\u00e4 jotain muitakin biisej\u00e4, jos silt\u00e4 tuntuu.",
-        "timestamp": "2017-04-07T14:33:47+03:00"
-    },
-    {
         "id": "3878ff22-7614-4820-a86d-cca484b23b02",
         "start": "2017-04-24 14:00",
         "end": "2017-04-24 15:00",
@@ -610,26 +550,6 @@
         "timestamp": "2017-04-07T15:50:22+03:00"
     },
     {
-        "id": "f45c16bc-994b-4c3c-9230-9d191cb9475a",
-        "start": "2017-04-29 13:00",
-        "end": "2017-04-29 14:00",
-        "title": "TTYY as usual",
-        "host": "Helky ja plotko",
-        "prod": "zar",
-        "desc": "Firmat ovat saaneet suunvuoronsa, joten viimeinen tunnin tietopl\u00e4j\u00e4ys omistetaan omalle ylioppilaskunnallemme. TTYY as usual kertoo sinun tarinasi.",
-        "timestamp": "2017-04-07T15:52:58+03:00"
-    },
-    {
-        "id": "b619f667-12c8-4da0-8c09-726390208599",
-        "start": "2017-04-29 07:00",
-        "end": "2017-04-29 09:00",
-        "title": "Suunsoittoa",
-        "host": "Reimann, Lahis",
-        "prod": "Alexander",
-        "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta. Toisinaan my\u00f6s suuta. Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
-        "timestamp": "2017-04-07T17:31:57+03:00"
-    },
-    {
         "id": "bbd269ed-6e39-41cc-b227-fc7718f6f01f",
         "start": "2017-04-22 15:00",
         "end": "2017-04-22 17:00",
@@ -648,16 +568,6 @@
         "prod": "Vuokko",
         "desc": "",
         "timestamp": "2017-04-08T19:38:35+03:00"
-    },
-    {
-        "id": "8700b1f8-af4d-4440-9c3d-3875e0c5652a",
-        "start": "2017-04-26 20:00",
-        "end": "2017-04-26 22:00",
-        "title": "Echo Show",
-        "host": "June & Tommi Salomaa",
-        "prod": "Fraeon",
-        "desc": "Pelimusiikin erikoisohjelma jossa tutustutaan alan todellisiin tekij\u00f6ihin. Studiossa liven\u00e4 haastattelussa s\u00e4velt\u00e4j\u00e4, muusikko ja \u00e4\u00e4nisuunnittelija Tommi Salomaa. Tommi vet\u00e4\u00e4 studiossa my\u00f6s live vedon aihealueena Final Fantasy musiikki rajattuna Uematsun s\u00e4velt\u00e4miin biiseihin, joten shoutbox ja irc kuumaksi, sill\u00e4 te rakkaat kuulijat vaikutatte mit\u00e4 musaa aihealueesta el\u00e4v\u00e4n\u00e4 soi. Mukana ohjelmassa on my\u00f6s toisen pelimusiikin todellisen expertin Mr. Ari Pulkkinen haastattelu. So stay AriTuned!!!",
-        "timestamp": "2017-04-08T21:28:24+03:00"
     },
     {
         "id": "12e73a27-5a74-48ad-a45d-00e536ab07a3",
@@ -690,16 +600,6 @@
         "timestamp": "2017-04-09T12:07:08+03:00"
     },
     {
-        "id": "26e9a16a-347a-49a1-8260-2b48d98116e9",
-        "start": "2017-04-30 11:00",
-        "end": "2017-04-30 15:00",
-        "title": "Loppushow",
-        "host": "kaikki",
-        "prod": "Jaketus",
-        "desc": "Kohta se on ohi! Viel\u00e4 on kuitenkin aikaa fiilistell\u00e4 Wappuhulinaa kaikkien Wappuradion parhaiden tyyppien seurassa ja kuulla kaikki wappuklassikkobiisit, jotka sytytt\u00e4v\u00e4t sunkin Wappus tuleen. ",
-        "timestamp": "2017-04-09T19:29:34+03:00"
-    },
-    {
         "id": "3b8ce7e4-a701-4f29-a605-347be80fb9b3",
         "start": "2017-04-20 14:00",
         "end": "2017-04-20 15:00",
@@ -730,36 +630,6 @@
         "timestamp": "2017-04-09T23:12:39+03:00"
     },
     {
-        "id": "cff318ea-0752-45c9-a29a-d1cfbc1d4c92",
-        "start": "2017-04-20 20:00",
-        "end": "2017-04-20 22:00",
-        "title": "Syv\u00e4 Purppura",
-        "host": "Noora, Veera, Julle",
-        "prod": "PunaJussi",
-        "desc": "Syv\u00e4 Purppura tarjoilee t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit. Liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! Nooran ja Veeran vastapainoksi studiossa my\u00f6s Julle julistamassa hyv\u00e4n musiikin ilosanomaa.",
-        "timestamp": "2017-04-10T11:14:38+03:00"
-    },
-    {
-        "id": "5cc809b5-a5d3-4961-896b-9428f0e639ed",
-        "start": "2017-04-27 20:00",
-        "end": "2017-04-27 22:00",
-        "title": "Syv\u00e4 Purppura",
-        "host": "Noora, Veera, Julle",
-        "prod": "PunaJussi",
-        "desc": "Syv\u00e4 Purppura tarjoilee t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit. Liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! Nooran ja Veeran vastapainoksi studiossa my\u00f6s Julle julistamassa hyv\u00e4n musiikin ilosanomaa.",
-        "timestamp": "2017-04-10T11:15:25+03:00"
-    },
-    {
-        "id": "4bfe62d3-e0f4-40fb-9973-996d0981ec47",
-        "start": "2017-04-25 09:00",
-        "end": "2017-04-25 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-10T21:59:47+03:00"
-    },
-    {
         "id": "1e737ed0-fb29-4809-836a-4fa23a12a835",
         "start": "2017-04-26 09:00",
         "end": "2017-04-26 11:00",
@@ -768,26 +638,6 @@
         "prod": "Kukakumma",
         "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
         "timestamp": "2017-04-10T22:00:18+03:00"
-    },
-    {
-        "id": "2193472d-d552-4519-b2b2-4a1a86c18c9d",
-        "start": "2017-04-27 09:00",
-        "end": "2017-04-27 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-10T22:00:27+03:00"
-    },
-    {
-        "id": "149bea65-b11b-4a50-895c-a15b909643c3",
-        "start": "2017-04-28 09:00",
-        "end": "2017-04-28 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-10T22:00:35+03:00"
     },
     {
         "id": "03e56e69-8af2-4353-b645-c993472fa0f9",
@@ -858,16 +708,6 @@
         "prod": "Jaketus",
         "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
         "timestamp": "2017-04-13T17:35:43+03:00"
-    },
-    {
-        "id": "f01ddb59-453e-4120-9114-1f623912b05a",
-        "start": "2017-04-28 00:00",
-        "end": "2017-04-28 07:00",
-        "title": "TBD-radio",
-        "host": "TBD ja TBA",
-        "prod": "TBD",
-        "desc": "TBD! Ohjelma jossa juontajatkaan ei tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivuilla tbd.veli.vodka ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekee siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
-        "timestamp": "2017-04-14T02:28:28+03:00"
     },
     {
         "id": "53a19cc0-b22b-4e65-8f62-725023f42ac2",
@@ -1078,5 +918,165 @@
         "prod": "Kukakumma",
         "desc": "H\u00e4 tienaaks se oikeesti rahaa pelaamalla tietokonetta? Saako siin\u00e4 elektronisessa urheilussa s\u00e4hk\u00f6iskuja? V&V johdattavat radiokansan eSportsin virtuaaliseen maailmaan. Luvassa tiukkaa faktaa, v\u00e4hemm\u00e4n tiukkoja mielipiteit\u00e4 ja tietysti oman el\u00e4m\u00e4n GeT_RiGhT-kokemuksia aamuy\u00f6n pelisessioista.",
         "timestamp": "2017-04-14T09:14:53+03:00"
+    },
+    {
+        "id": "4bfe62d3-e0f4-40fb-9973-996d0981ec47",
+        "start": "2017-04-25 09:00",
+        "end": "2017-04-25 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "Kukakumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-14T09:18:05+03:00"
+    },
+    {
+        "id": "2193472d-d552-4519-b2b2-4a1a86c18c9d",
+        "start": "2017-04-27 09:00",
+        "end": "2017-04-27 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "Kukakumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-14T09:18:07+03:00"
+    },
+    {
+        "id": "149bea65-b11b-4a50-895c-a15b909643c3",
+        "start": "2017-04-28 09:00",
+        "end": "2017-04-28 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "Kukakumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-14T09:18:11+03:00"
+    },
+    {
+        "id": "b6ad59c0-67da-4c30-b755-9f61ca36c398",
+        "start": "2017-04-27 14:00",
+        "end": "2017-04-27 16:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla Wapun toisella viikolla tiistaista torstaihin klo 14\u201316 ja perjantaina erikoispitk\u00e4veto 14\u201318! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.",
+        "timestamp": "2017-04-14T09:19:41+03:00"
+    },
+    {
+        "id": "c5e64128-f5bf-4f81-bab0-3877f600f682",
+        "start": "2017-04-26 14:00",
+        "end": "2017-04-26 16:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla Wapun toisella viikolla tiistaista torstaihin klo 14\u201316 ja perjantaina erikoispitk\u00e4veto 14\u201318! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.",
+        "timestamp": "2017-04-14T09:19:44+03:00"
+    },
+    {
+        "id": "5e25e001-f0fa-4396-854d-f3fc46a65764",
+        "start": "2017-04-28 14:00",
+        "end": "2017-04-28 18:00",
+        "title": "Iltap\u00e4iv\u00e4veto",
+        "host": "Mikko, Valtteri, Ville",
+        "prod": "Ville",
+        "desc": "Wappuradion toisella viikolla studion ottaa haltuun Iltap\u00e4iv\u00e4veto! J\u00e4ykk\u00e4, yliasiallinen ja diplomaattisesti korrekti iltap\u00e4iv\u00e4ohjelma. Tiedossa siis kaikkea muuta kuin edell\u00e4 mainittuja asioita, mutta ainakin siit\u00e4 otetaan selv\u00e4\u00e4, mik\u00e4 on veto, onko veto kovaa ja milloin on hyv\u00e4 aika vet\u00e4\u00e4. Iltap\u00e4iv\u00e4veto radioaalloilla Wapun toisella viikolla tiistaista torstaihin klo 14\u201316 ja perjantaina erikoispitk\u00e4veto 14\u201318! Vetomiehin\u00e4 Wappuradion hikikopissa Mikko, Valtteri sek\u00e4 Ville.",
+        "timestamp": "2017-04-14T09:19:48+03:00"
+    },
+    {
+        "id": "348c1e47-4b73-4b13-ad93-4784887c2407",
+        "start": "2017-04-26 18:00",
+        "end": "2017-04-26 20:00",
+        "title": "DDR:n Naisvoimistelijoiden Maailmankiertue",
+        "host": "Arttu O. & Tuomas H.",
+        "prod": "ketku",
+        "desc": "Koreat ja korvaamattomat urheilijaleidit, eli siis DDR:n Naisvoimistelijat, saapuvat Rakkauden Wappuradioon jo kolmatta kertaa! DDRNV:n tyt\u00f6t ovat opinto- ja urheilumatkoillaan kiert\u00e4neet maailmaa, ja n\u00e4hneet sek\u00e4 sen sosialistisen, ett\u00e4 ei-niin-sosialistisen puolen. Nyt aiommekin studiossa luuppailla n\u00e4iden reissujen her\u00e4tt\u00e4mi\u00e4 tuntemuksia ja ideoita. Saattaa jopa olla, ett\u00e4 saavumme \u00e4\u00e4relle absoluuttisten totuuksien, ja selvit\u00e4mme, mink\u00e4lainen maailman pit\u00e4isi oikeasti olla. Maailmanparannuksen v\u00e4liss\u00e4 soitamme parasta it\u00e4-saksalaista musiikkia, sek\u00e4 ehk\u00e4 jotain muitakin biisej\u00e4, jos silt\u00e4 tuntuu.",
+        "timestamp": "2017-04-14T09:20:36+03:00"
+    },
+    {
+        "id": "8700b1f8-af4d-4440-9c3d-3875e0c5652a",
+        "start": "2017-04-26 20:00",
+        "end": "2017-04-26 22:00",
+        "title": "Echo Show",
+        "host": "June & Tommi Salomaa",
+        "prod": "Fraeon",
+        "desc": "Pelimusiikin erikoisohjelma, jossa tutustutaan alan todellisiin tekij\u00f6ihin. Studiossa live-haastattelussa s\u00e4velt\u00e4j\u00e4, muusikko ja \u00e4\u00e4nisuunnittelija Tommi Salomaa. Tommi vet\u00e4\u00e4 studiossa my\u00f6s livevedon aihealueena Final Fantasy -musiikki rajattuna Uematsun s\u00e4velt\u00e4miin biiseihin, joten shoutbox ja irc kuumaksi, sill\u00e4 te, rakkaat kuulijat vaikutatte siihen, mit\u00e4 musaa aihealueesta el\u00e4v\u00e4n\u00e4 soi. Mukana ohjelmassa on my\u00f6s toisen pelimusiikin todellisen expertin Mr. Ari Pulkkisen haastattelu. So stay AriTuned!!!",
+        "timestamp": "2017-04-14T09:21:31+03:00"
+    },
+    {
+        "id": "f01ddb59-453e-4120-9114-1f623912b05a",
+        "start": "2017-04-28 00:00",
+        "end": "2017-04-28 07:00",
+        "title": "TBD-radio",
+        "host": "TBD ja TBA",
+        "prod": "TBD",
+        "desc": "TBD! Ohjelma jossa juontajatkaan eiv\u00e4t tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivulla tbd.veli.vodka ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekev\u00e4t siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
+        "timestamp": "2017-04-14T09:23:27+03:00"
+    },
+    {
+        "id": "ad0f61c0-f3e7-42dd-8309-e1d092205fd5",
+        "start": "2017-04-28 18:00",
+        "end": "2017-04-28 20:00",
+        "title": "Kivikaudesta keskiviikkoon",
+        "host": "Joona, Tytti ja Ilkka",
+        "prod": "Alexander",
+        "desc": "Milt\u00e4 betoni kuulostaa ja voiko siit\u00e4 tehd\u00e4 frisbeen? Liittyyk\u00f6 pronssiin jotain muutakin kuin Antti Ruuskanen? Mist\u00e4 purukumi on tehty ja onko se edes kumia ensink\u00e4\u00e4n? N\u00e4m\u00e4 ja paljon muuta selvitet\u00e4\u00e4n musiikkimatkalla halki genrerajojen ja historian \u2013 aina kivikaudelta keskiviikkoon asti. L\u00e4hde siis mukaamme tutkimusmatkalle musiikin ja materian risteykseen, jossa konkretia ja abstraktio ly\u00f6v\u00e4t k\u00e4tt\u00e4!",
+        "timestamp": "2017-04-14T09:24:01+03:00"
+    },
+    {
+        "id": "b619f667-12c8-4da0-8c09-726390208599",
+        "start": "2017-04-29 07:00",
+        "end": "2017-04-29 09:00",
+        "title": "Suunsoittoa",
+        "host": "Reimann, Lahis",
+        "prod": "Alexander",
+        "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta? Toisinaan my\u00f6s suuta? Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
+        "timestamp": "2017-04-14T09:25:02+03:00"
+    },
+    {
+        "id": "f45c16bc-994b-4c3c-9230-9d191cb9475a",
+        "start": "2017-04-29 13:00",
+        "end": "2017-04-29 14:00",
+        "title": "TTYY as usual",
+        "host": "Helky ja plotko",
+        "prod": "zar",
+        "desc": "Firmat ovat saaneet suunvuoronsa, joten viimeinen tunnin tietopl\u00e4j\u00e4ys omistetaan omalle ylioppilaskunnallemme! TTYY as usual kertoo sinun tarinasi!",
+        "timestamp": "2017-04-14T09:26:11+03:00"
+    },
+    {
+        "id": "26e9a16a-347a-49a1-8260-2b48d98116e9",
+        "start": "2017-04-30 11:00",
+        "end": "2017-04-30 15:00",
+        "title": "Loppushow",
+        "host": "kaikki",
+        "prod": "Jaketus",
+        "desc": "Kohta se on ohi! Viel\u00e4 on kuitenkin aikaa fiilistell\u00e4 Wappuhulinaa kaikkien Wappuradion parhaiden tyyppien seurassa ja kuulla kaikki wappuklassikkobiisit, jotka sytytt\u00e4v\u00e4t sunkin Wappusi tuleen. ",
+        "timestamp": "2017-04-14T09:27:48+03:00"
+    },
+    {
+        "id": "5cc809b5-a5d3-4961-896b-9428f0e639ed",
+        "start": "2017-04-27 20:00",
+        "end": "2017-04-27 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubessaun seikkailua musiikin maailmassa.",
+        "timestamp": "2017-04-14T09:51:03+03:00"
+    },
+    {
+        "id": "cff318ea-0752-45c9-a29a-d1cfbc1d4c92",
+        "start": "2017-04-20 20:00",
+        "end": "2017-04-20 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubessaun seikkailua musiikin maailmassa.",
+        "timestamp": "2017-04-14T09:51:15+03:00"
+    },
+    {
+        "id": "73b0940a-cc7f-4447-afa2-fd450dc28763",
+        "start": "2017-04-30 07:00",
+        "end": "2017-04-30 09:00",
+        "title": "Donaldin ja Kartsan Wappukeitti\u00f6",
+        "host": "Donaldi & Kartsa",
+        "prod": "M\u00e4nty",
+        "desc": "Keitti\u00f6sekoilijat Donaldi ja Kartsa jakavat mietteit\u00e4\u00e4n ruuanlaitosta, tutkivat krapula-aamiaisen kokkaamista kentt\u00e4olosuhteissa ja vertailevat chilisoosejaan. Sekaan saattaa eksy\u00e4 ripaus tai pari ihan oikeitakin vinkkej\u00e4 ruuanlaittoon. \r\n\r\nMusiikkia voi halutessaan toivoa paremmaksi ja pojat vastailevat mahdollisiin kysymyksiin.",
+        "timestamp": "2017-04-14T10:08:35+03:00"
     }
 ]
