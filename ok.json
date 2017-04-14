@@ -1,15 +1,5 @@
 [
     {
-        "id": "7a6f3d7a-ba35-44f1-aee2-0ef62ad00d76",
-        "start": "2017-04-21 21:00",
-        "end": "2017-04-22 00:00",
-        "title": "Sceneradio",
-        "host": "Poro, Spiikki, Vuokko, Exca",
-        "prod": "Vuokko",
-        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> tarjoaa demoscenemusiikkia laidasta laitaan oikealla raudalla soitettuna. Ohjelman aikana kuullaan niin tasavallan tietokoneen sidisoundeja, gameboyn chiptune-fiilistelyj\u00e4 ja pc:n tarjoamaa modernia \u00e4\u00e4nenk\u00e4sittely\u00e4. Lis\u00e4ksi tarjolla haastatteluja, demoefektej\u00e4 ja livesoittoa. \r\n\r\nLis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>. ",
-        "timestamp": "2017-04-03T12:33:34+03:00"
-    },
-    {
         "id": "caa18a4e-9475-4055-a692-ecef63acd500",
         "start": "2017-04-22 00:00",
         "end": "2017-04-22 07:00",
@@ -20,26 +10,6 @@
         "timestamp": "2017-04-04T18:01:01+03:00"
     },
     {
-        "id": "2224463c-3917-4bb6-a5a7-0587512642e7",
-        "start": "2017-04-22 22:00",
-        "end": "2017-04-23 00:00",
-        "title": "EDM Kekrit",
-        "host": "Tintti & maikey",
-        "prod": "delta_cephei",
-        "desc": "Ja taas on koittanut aika kekrien - sadonkorjuujuhlan, jolloin kootaan yhteen elektronisen musiikin helmi\u00e4 p\u00f6rr\u00f6isess\u00e4 muodossa. Tiedossa letke\u00e4n svengaavien dj-muijien lempparijytkytyksi\u00e4 vuosien varrelta, ja koska me nautimme n\u00e4ist\u00e4, niin silloin nautitte tekin rakkaat kuulijat! Laita lauantain parhaat etkoilujatkoilumusat t\u00e4ysille, niin koko loppuwapun bilefiilis on taattu.",
-        "timestamp": "2017-04-04T22:24:13+03:00"
-    },
-    {
-        "id": "cab6bf13-7fe2-4ce5-bcba-4361d1507f93",
-        "start": "2017-04-22 07:00",
-        "end": "2017-04-22 09:00",
-        "title": "Nousevan Auringon aamutee",
-        "host": "Lahis, sanzennin, taQtaQ",
-        "prod": "wunderkind",
-        "desc": "Herwannan nykyaikain teekkareiden animaatioiltamat-kerhon vakituinen aamushow her\u00e4tys. Hyv\u00e4\u00e4 J-poppia, animaatioiden tunnusmusiikkia ja tietenkin keskustelua itse japanin kulttuurista, mangasta ja animaatiosta.",
-        "timestamp": "2017-04-05T13:40:23+03:00"
-    },
-    {
         "id": "c2e2118f-be34-4cb8-9c54-dca9ebda7f87",
         "start": "2017-04-25 00:00",
         "end": "2017-04-25 07:00",
@@ -48,16 +18,6 @@
         "prod": "Kebbish",
         "desc": "Milt\u00e4 n\u00e4ytt\u00e4\u00e4 politiikkavuoden 2017 puoliv\u00e4likatsaus y\u00f6n h\u00e4m\u00e4r\u00e4ss\u00e4? Yhteiskunnallisia aiheita pienell\u00e4 ironialla, suurella ihmettelyll\u00e4 ja ket\u00e4\u00e4n kumartelematta k\u00e4sittelev\u00e4 koko y\u00f6n uutiskatsaus. Toimittajina Maria \"kultsi\" Kultanen sek\u00e4 Markus \"maketzu\" Karppanen.",
         "timestamp": "2017-04-05T14:19:13+03:00"
-    },
-    {
-        "id": "c0f3095a-0b69-4efb-9de7-8d67585531fa",
-        "start": "2017-04-23 18:00",
-        "end": "2017-04-23 20:00",
-        "title": "Maailman pisin kalju",
-        "host": "Arttu & teBo",
-        "prod": "Jaketus",
-        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pystym\u00e4\u00e4n toteamaan, ett\u00e4 se oli jautaa.\r\n",
-        "timestamp": "2017-04-05T17:41:02+03:00"
     },
     {
         "id": "a88b66da-7efe-4bf9-a69a-44a65d3e9a05",
@@ -118,16 +78,6 @@
         "prod": "Julle",
         "desc": "Aatteet, tunteet ja j\u00e4rki. Syv\u00e4llist\u00e4 keskustelua ihmisist\u00e4, jotka ovat muuttaneet maailmaa uskonnon, yhteiskunnan ja tiedon kautta. Tiukkaa pohdintaa, tajunnanr\u00e4j\u00e4ytt\u00e4vi\u00e4 mietteit\u00e4 sek\u00e4 ajatusmaailmaa avartavia n\u00e4k\u00f6kulmia. Studiossa 3 viisasta miest\u00e4 ja aikaa koko y\u00f6.",
         "timestamp": "2017-04-06T16:01:43+03:00"
-    },
-    {
-        "id": "91846fe1-d526-4980-aa33-3a412c8cb6ca",
-        "start": "2017-04-23 22:00",
-        "end": "2017-04-24 00:00",
-        "title": "Tekniikan Mikan blues",
-        "host": "Mika",
-        "prod": "Joonas Lahti",
-        "desc": "Blues on niit\u00e4 hetki\u00e4 varten, kun el\u00e4m\u00e4ss\u00e4 menee hyvin, mutta syd\u00e4n ei ole mukana ilossa. Blues on niit\u00e4 hetki\u00e4 varten, kun tuntee olonsa maailman myyneeksi. Tekniikan Mikan Blues on heille, ja kaikille muille. Pari tuntia Bluesin historiaa, hell\u00e4sti hyv\u00e4ilev\u00e4\u00e4 basso\u00e4\u00e4nt\u00e4 ja hyv\u00e4\u00e4 musiikkia. Kuuntele ja rentoudu.",
-        "timestamp": "2017-04-06T17:22:35+03:00"
     },
     {
         "id": "a5701b1e-c8fc-4f54-8a11-abc7d20066a9",
@@ -320,16 +270,6 @@
         "timestamp": "2017-04-06T20:59:55+03:00"
     },
     {
-        "id": "39764df8-ca5a-4467-9bd1-94fa1cb0de82",
-        "start": "2017-04-22 21:00",
-        "end": "2017-04-22 22:00",
-        "title": "Saturday's Trance Flight With J.A.Z.P.",
-        "host": "Jaze Anti-Zucchini Production",
-        "prod": "J.A.Z.P.",
-        "desc": "On aika lent\u00e4\u00e4 kauas pois arjen \u00e4herryksest\u00e4 ja stressist\u00e4, kun J.A.Z.P. palaa Wappuradioon tarjoilemaan tunnin katsauksen kuluneen vuoden aikana julkaistuihin nostattaviin ja progressiivisiin trance-raitoihin. Ohjelman voi nauttia skumpaten, humpaten tai miten itse kukin haluaa. Varmaa on, ett\u00e4 energia ja vauhti ei t\u00e4st\u00e4 showsta lopu.\r\n\r\n\"Joo.. kerran k\u00e4vin, mutta toisella kertaa mentiin kovempaa\" - J.A.Z.P.",
-        "timestamp": "2017-04-06T21:17:02+03:00"
-    },
-    {
         "id": "4342b747-a3e5-482d-a0fb-9cf6bc655bce",
         "start": "2017-04-29 22:00",
         "end": "2017-04-30 00:00",
@@ -410,16 +350,6 @@
         "timestamp": "2017-04-06T22:15:19+03:00"
     },
     {
-        "id": "ecdf0957-624f-4685-925c-b4de313709ca",
-        "start": "2017-04-19 22:00",
-        "end": "2017-04-20 00:00",
-        "title": "Radio Prog",
-        "host": "Lipi & Vergi",
-        "prod": "Fisu",
-        "desc": "Kulkeeko musiikkimakusi k\u00e4si k\u00e4dess\u00e4 suosituimpien tanssilistojen kanssa? Onko wappuradion kovin biisi Dodo-Sorsa? Eik\u00f6 mies voi mielest\u00e4si pukeutua nahkahousuihin ja tuntuuko 20 minuutiset proge eepokset tekotaiteelliselta huuhaalta? T\u00e4m\u00e4 ohjelma ei ole sinulle. Progerallien ja muun pitk\u00e4tukkamusan s\u00e4est\u00e4m\u00e4n\u00e4 paneudumme mm. tulevan festarikes\u00e4n parhaaseen antiin. Soitetaan mit\u00e4 oikeasti halutaan - Radio Proooooog.",
-        "timestamp": "2017-04-06T22:24:24+03:00"
-    },
-    {
         "id": "fae67617-128b-4082-85ce-90d024df5650",
         "start": "2017-04-25 22:00",
         "end": "2017-04-26 00:00",
@@ -438,16 +368,6 @@
         "prod": "Vuokko",
         "desc": "Suomen satavuotinen taipale saavuttaa lakipisteens\u00e4 t\u00e4n\u00e4 kev\u00e4\u00e4n\u00e4, kun Suomi124 antaa \u00e4\u00e4nen unohdetuille filosofeille, oman el\u00e4m\u00e4ns\u00e4 toisinajattelijoille sek\u00e4 muillekin erikseenymm\u00e4rrett\u00e4ville. Luvassa on Suomi24:n ja muiden suominetin sakeimpien sivustojen sekavimpien tarinoiden ja kysymysten syv\u00e4luotaamista. Verkon agricolien pulmia ratkotaan kuulijoiden avustuksella enemm\u00e4n tai v\u00e4hemm\u00e4n aiheisiin liittyvien kappaleiden s\u00e4est\u00e4m\u00e4n\u00e4. Pandoran lipas aukeaa lauantain vastaisena y\u00f6n\u00e4, jolloin jokaisen itse\u00e4\u00e4n kunnioittavan kansalaisen olisi syyt\u00e4 j\u00e4tt\u00e4\u00e4 nukkuminen viisaammille.",
         "timestamp": "2017-04-06T22:46:01+03:00"
-    },
-    {
-        "id": "695c62e3-9c54-4785-acbe-6ea1c8047bd2",
-        "start": "2017-04-23 20:00",
-        "end": "2017-04-23 22:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "lorens, Bjanze, tutu",
-        "prod": "Jaketus",
-        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella, musiikin, kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin, paitsi Dima Bilania emme soita, kun olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
-        "timestamp": "2017-04-06T23:06:37+03:00"
     },
     {
         "id": "7177f9d9-8029-4119-9c8c-e798b2dba0d8",
@@ -870,36 +790,6 @@
         "timestamp": "2017-04-10T22:00:35+03:00"
     },
     {
-        "id": "3d212024-5533-4912-97b0-401bafbff47a",
-        "start": "2017-04-24 15:00",
-        "end": "2017-04-24 17:00",
-        "title": "E-Sports",
-        "host": "Ville 'Tyrde' Tyrv\u00e4inen, Janne 'Veli-V' V\u00e4is\u00e4nen",
-        "prod": "Kukakumma",
-        "desc": "H\u00e4 tienaaks se oikeesti rahaa pelaamalla tietokonetta? Saako siin\u00e4 elektronisessa urheilussa s\u00e4hk\u00f6iskuja? V&V johdattavat radiokansan eSportsin virtuaaliseen maailmaan. Luvassa tiukkaa faktaa, v\u00e4hemm\u00e4n tiukkoja mielipiteit\u00e4 ja tietysti oman el\u00e4m\u00e4n GeT_RiGhT kokemuksia aamuy\u00f6n pelisessioista.",
-        "timestamp": "2017-04-10T22:01:06+03:00"
-    },
-    {
-        "id": "bac44214-54e3-49b2-a99b-cd856f61af51",
-        "start": "2017-04-20 15:00",
-        "end": "2017-04-20 17:00",
-        "title": "E-Sports",
-        "host": "Ville 'Tyrde' Tyrv\u00e4inen, Janne 'Veli-V' V\u00e4is\u00e4nen",
-        "prod": "KukaKumma",
-        "desc": "H\u00e4 tienaaks se oikeesti rahaa pelaamalla tietokonetta? Saako siin\u00e4 elektronisessa urheilussa s\u00e4hk\u00f6iskuja? V&V johdattavat radiokansan eSportsin virtuaaliseen maailmaan. Luvassa tiukkaa faktaa, v\u00e4hemm\u00e4n tiukkoja mielipiteit\u00e4 ja tietysti oman el\u00e4m\u00e4n GeT_RiGhT kokemuksia aamuy\u00f6n pelisessioista.",
-        "timestamp": "2017-04-10T22:01:45+03:00"
-    },
-    {
-        "id": "0d4286eb-6c50-457f-9bc5-51876b1e05f9",
-        "start": "2017-04-23 11:00",
-        "end": "2017-04-23 13:00",
-        "title": "Laulun ytimess\u00e4",
-        "host": "Onnela & Miikkulainen",
-        "prod": "",
-        "desc": "Norppa ja Nestori laulun ytimess\u00e4\r\n\r\nSoitamme eri lauluyhtyeiden ja kuorojen tuotantoa. Pohdimme, mik\u00e4 ryhm\u00e4ss\u00e4 laulamisessa vieh\u00e4tt\u00e4\u00e4. Mit\u00e4 on t\u00e4m\u00e4n ajan kuoromusiikki? Studioon saapuu lauluryhm\u00e4 Dominutz.",
-        "timestamp": "2017-04-11T13:44:30+03:00"
-    },
-    {
         "id": "03e56e69-8af2-4353-b645-c993472fa0f9",
         "start": "2017-04-22 19:00",
         "end": "2017-04-22 21:00",
@@ -908,16 +798,6 @@
         "prod": "KukaKumma",
         "desc": "Wappuradion lauantai-illassa r\u00e4j\u00e4ht\u00e4\u00e4 kun \u00e4\u00e4neen p\u00e4\u00e4see EkuDance! \r\nParin tunnin ajan kunnellaan ainoaa oikeaa musiikkia (tm) eli ys\u00e4ridancea. \r\nTiedossa siis tiukkoja laukkakomppeja, vahingoniloa sek\u00e4 my\u00f6t\u00e4h\u00e4pe\u00e4\u00e4.\r\nOhjelman juontaa Eku ja Mypa.\r\n\r\nKuuntele, tahi olet kasari!",
         "timestamp": "2017-04-11T20:30:50+03:00"
-    },
-    {
-        "id": "4ac88324-6c9c-4885-b9ce-7c1bc189e405",
-        "start": "2017-04-21 15:00",
-        "end": "2017-04-21 17:00",
-        "title": "Kielletty hedelm\u00e4",
-        "host": "Qike & Helky",
-        "prod": "Lorens",
-        "desc": "Mit\u00e4 yhteist\u00e4 on nen\u00e4nkaivuulla, Babymetallilla ja reviriins\u00e4 merkkaamisella? Kaikki kielletty on tunnetusti kivaa, joten kurkkaa kiellettyyn radiokoppiin ja jaa synkimm\u00e4t salaisuutesi kanssamme... Kielletyn hedelm\u00e4n soittolista on t\u00e4ynn\u00e4 herkullisimpia guilty pleasureita eli kappaleita, joista harvempi kehtaa tunnustaa nauttivansa. Unohda h\u00e4pe\u00e4si, jamita Taylor Swifti\u00e4, katso maratoni Temptation Islandia, sy\u00f6 kilo suklaata - ja kuuntele Kielletty\u00e4 hedelm\u00e4\u00e4.",
-        "timestamp": "2017-04-12T12:55:13+03:00"
     },
     {
         "id": "482aee98-10a0-4101-958f-842b189c748d",
@@ -940,16 +820,6 @@
         "timestamp": "2017-04-12T13:17:18+03:00"
     },
     {
-        "id": "ecaf15c1-034a-49df-8b17-bde68042140c",
-        "start": "2017-04-23 00:00",
-        "end": "2017-04-23 07:00",
-        "title": "PORA",
-        "host": "wunderkind, sanzennin, darksekai, mpioin, taqtaq?",
-        "prod": "FireFlower, (lahis?)",
-        "desc": "Olemme taivaallinen pora, joka porautuu t\u00e4rykalvoista aina galakseihin asti. Kuuntelee poraa, \u00e4l\u00e4 kuuntelee itse\u00e4si, vaan kuuntele meit\u00e4. Kuuntele Poraa, joka kuuntelee sinua! Soitamme PORAUTUVAA materiaalia l\u00e4pi y\u00f6n laidasta laitaan kunkin fiilikseen mukaan ja luultavasti aloitamme eeppiisen perinteen. Kuuntelija varoitus: Ei sovellu v\u00e4ltt\u00e4m\u00e4tt\u00e4 herkk\u00e4nahkaisille ja alaik\u00e4isille ilman vanhempien valvontaa.",
-        "timestamp": "2017-04-12T16:36:52+03:00"
-    },
-    {
         "id": "033cb767-4c1b-4c06-b6aa-a55785173bb7",
         "start": "2017-04-21 00:00",
         "end": "2017-04-21 07:00",
@@ -968,16 +838,6 @@
         "prod": "Kebbish",
         "desc": "Ihminen ja Intohimo",
         "timestamp": "2017-04-12T19:32:22+03:00"
-    },
-    {
-        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
-        "start": "2017-04-21 19:00",
-        "end": "2017-04-21 21:00",
-        "title": "Euroviisuspesiaali!",
-        "host": "Lorens, Bjanze, tutu",
-        "prod": "Jaketus",
-        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin - paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
-        "timestamp": "2017-04-12T23:00:04+03:00"
     },
     {
         "id": "8a1ef2f0-50d5-4fe9-8c2e-c7975407b31b",
@@ -1000,16 +860,6 @@
         "timestamp": "2017-04-13T17:35:43+03:00"
     },
     {
-        "id": "70bf532f-246a-4ecc-a956-bb34fcefe1c5",
-        "start": "2017-04-19 18:00",
-        "end": "2017-04-19 20:00",
-        "title": "Instrumentaalipl\u00e4j\u00e4ys",
-        "host": "Joel & Julle",
-        "prod": "",
-        "desc": "\u00c4rsytt\u00e4\u00e4k\u00f6 pop-musiikin pinnalliset lyriikat? Nolottaako kavereiden naurut kun laulat v\u00e4\u00e4rin kuultuja sanoja? Onko Y\u00f6 hyv\u00e4 b\u00e4ndi, mutta Olli Lindholm pilaa senkin? Ei h\u00e4t\u00e4\u00e4, pelastuksen tuo kaksituntinen tiukkaa instrumentaalimusiikkia genret ylitt\u00e4v\u00e4sti laidasta laitaan! ",
-        "timestamp": "2017-04-14T00:24:16+03:00"
-    },
-    {
         "id": "f01ddb59-453e-4120-9114-1f623912b05a",
         "start": "2017-04-28 00:00",
         "end": "2017-04-28 07:00",
@@ -1018,5 +868,215 @@
         "prod": "TBD",
         "desc": "TBD! Ohjelma jossa juontajatkaan ei tied\u00e4 mit\u00e4 tapahtuu, mist\u00e4 puhutaan ja minne menn\u00e4\u00e4n. Kuuntelijat saavat ehdottaa ja \u00e4\u00e4nest\u00e4\u00e4 aiheita sivuilla tbd.veli.vodka ennakkoon ja ohjelman aikana. Juontajat poimivat sivuilta eniten \u00e4\u00e4ni\u00e4 saaneen aiheen ja tekee siit\u00e4 ohjelman jujun, punaisen langan ja halittavan nallen. L\u00e4hde kanssamme matkaan ja tule katsomaan miss\u00e4 on matkan p\u00e4\u00e4!",
         "timestamp": "2017-04-14T02:28:28+03:00"
+    },
+    {
+        "id": "53a19cc0-b22b-4e65-8f62-725023f42ac2",
+        "start": "2017-04-28 22:00",
+        "end": "2017-04-29 00:00",
+        "title": "TBA",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "TBA",
+        "timestamp": "2017-04-14T08:39:53+03:00"
+    },
+    {
+        "id": "5684324e-b523-47ee-a5f7-89bbbbfbf173",
+        "start": "2017-04-29 20:00",
+        "end": "2017-04-29 22:00",
+        "title": "TBA",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "TBA",
+        "timestamp": "2017-04-14T08:39:56+03:00"
+    },
+    {
+        "id": "fdb4eb21-1865-4f84-adbf-8006ad89b8a6",
+        "start": "2017-04-22 09:00",
+        "end": "2017-04-22 11:00",
+        "title": "TBA",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "TBA",
+        "timestamp": "2017-04-14T08:40:52+03:00"
+    },
+    {
+        "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
+        "start": "2017-04-23 07:00",
+        "end": "2017-04-23 09:00",
+        "title": "TBA",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "TBA",
+        "timestamp": "2017-04-14T08:41:26+03:00"
+    },
+    {
+        "id": "e4402a56-d23a-4826-af1d-bbb012cce2da",
+        "start": "2017-04-19 14:00",
+        "end": "2017-04-19 16:00",
+        "title": "HYPE!",
+        "host": "PunaJussi, Helge, Helky, Noora",
+        "prod": "",
+        "desc": "Kaksi viikkoa. HYPE! Aasinsiltoja. HYPE! Loistavaa musaa. HYPE! Live-musaa. HYPE! Simaa. HYPE! Tapahtumia. HYPE! Kaste. HYPE!\r\n\r\nMaailmassa on kaksi tahoa, jotka osaavat Hypen: ranskalainen Daft Punk ja tamperelainen Rakkauden Wappuradio. Vain toinen n\u00e4ist\u00e4 lunastaa kaikki lupauksensa! Tule siis kuulemaan, miksi tamperelainen Wappu on wapuista wapuin ja Rakkauden Wappuradio wappuradioista rakastettavin.",
+        "timestamp": "2017-04-14T08:53:07+03:00"
+    },
+    {
+        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
+        "start": "2017-04-23 13:00",
+        "end": "2017-04-23 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "B\u00e4ndit & Rakkaus",
+        "prod": "Jaketus",
+        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat.",
+        "timestamp": "2017-04-14T08:57:54+03:00"
+    },
+    {
+        "id": "70bf532f-246a-4ecc-a956-bb34fcefe1c5",
+        "start": "2017-04-19 18:00",
+        "end": "2017-04-19 20:00",
+        "title": "Instrumentaalipl\u00e4j\u00e4ys",
+        "host": "Joel & Julle",
+        "prod": "",
+        "desc": "\u00c4rsytt\u00e4\u00e4k\u00f6 pop-musiikin pinnalliset lyriikat? Nolottaako kavereiden naurut kun laulat v\u00e4\u00e4rin kuultuja sanoja? Onko Y\u00f6 hyv\u00e4 b\u00e4ndi, mutta Olli Lindholm pilaa senkin? Ei h\u00e4t\u00e4\u00e4, pelastuksen tuo kaksituntinen tiukkaa instrumentaalimusiikkia, genret ylitt\u00e4v\u00e4sti, laidasta laitaan! ",
+        "timestamp": "2017-04-14T08:58:31+03:00"
+    },
+    {
+        "id": "ecdf0957-624f-4685-925c-b4de313709ca",
+        "start": "2017-04-19 22:00",
+        "end": "2017-04-20 00:00",
+        "title": "Radio Prog",
+        "host": "Lipi & Vergi",
+        "prod": "Fisu",
+        "desc": "Kulkeeko musiikkimakusi k\u00e4si k\u00e4dess\u00e4 suosituimpien tanssilistojen kanssa? Onko Wappuradion kovin biisi Dodo-Sorsa? Eik\u00f6 mies voi mielest\u00e4si pukeutua nahkahousuihin ja tuntuvatko 20 minuuttiset proge-eepokset tekotaiteelliselta huuhaalta? T\u00e4m\u00e4 ohjelma ei ole sinulle. Progerallien ja muun pitk\u00e4tukkamusan s\u00e4est\u00e4m\u00e4n\u00e4 paneudumme mm. tulevan festarikes\u00e4n parhaaseen antiin. Soitetaan mit\u00e4 oikeasti halutaan \u2013 Radio Proooooog.",
+        "timestamp": "2017-04-14T08:59:26+03:00"
+    },
+    {
+        "id": "4ac88324-6c9c-4885-b9ce-7c1bc189e405",
+        "start": "2017-04-21 15:00",
+        "end": "2017-04-21 17:00",
+        "title": "Kielletty hedelm\u00e4",
+        "host": "Qike & Helky",
+        "prod": "Lorens",
+        "desc": "Mit\u00e4 yhteist\u00e4 on nen\u00e4nkaivuulla, Babymetallilla ja reviriins\u00e4 merkkaamisella? Kaikki kielletty on tunnetusti kivaa, joten kurkkaa kiellettyyn radiokoppiin ja jaa synkimm\u00e4t salaisuutesi kanssamme... Kielletyn hedelm\u00e4n soittolista on t\u00e4ynn\u00e4 herkullisimpia guilty pleasureita eli kappaleita, joista harvempi kehtaa tunnustaa nauttivansa. Unohda h\u00e4pe\u00e4si, jamita Taylor Swifti\u00e4, katso maratoni Temptation Islandia, sy\u00f6 kilo suklaata \u2013 ja kuuntele Kielletty\u00e4 hedelm\u00e4\u00e4.",
+        "timestamp": "2017-04-14T09:03:58+03:00"
+    },
+    {
+        "id": "4fc9a1ca-dcb8-4c1a-abaa-9f533fa12b0d",
+        "start": "2017-04-21 19:00",
+        "end": "2017-04-21 21:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Lorens, Bjanze, tutu",
+        "prod": "Jaketus",
+        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin \u2013 paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
+        "timestamp": "2017-04-14T09:05:04+03:00"
+    },
+    {
+        "id": "7a6f3d7a-ba35-44f1-aee2-0ef62ad00d76",
+        "start": "2017-04-21 21:00",
+        "end": "2017-04-22 00:00",
+        "title": "Sceneradio",
+        "host": "Poro, Spiikki, Vuokko, Exca",
+        "prod": "Vuokko",
+        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> tarjoaa demoscenemusiikkia laidasta laitaan oikealla raudalla soitettuna. Ohjelman aikana kuullaan niin tasavallan tietokoneen sidisoundeja, Game Boyn chiptune-fiilistelyj\u00e4 ja PC:n tarjoamaa modernia \u00e4\u00e4nenk\u00e4sittely\u00e4. Lis\u00e4ksi tarjolla haastatteluja, demoefektej\u00e4 ja livesoittoa. \r\n\r\nLis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>. ",
+        "timestamp": "2017-04-14T09:07:15+03:00"
+    },
+    {
+        "id": "cab6bf13-7fe2-4ce5-bcba-4361d1507f93",
+        "start": "2017-04-22 07:00",
+        "end": "2017-04-22 09:00",
+        "title": "Nousevan Auringon aamutee",
+        "host": "Lahis, sanzennin, taQtaQ",
+        "prod": "wunderkind",
+        "desc": "Herwannan nykyaikain teekkareiden animaatioiltamat -kerhon vakituinen aamushow-her\u00e4tys. Hyv\u00e4\u00e4 J-poppia, animaatioiden tunnusmusiikkia ja tietenkin keskustelua itse Japanin kulttuurista, mangasta ja animaatiosta.",
+        "timestamp": "2017-04-14T09:08:22+03:00"
+    },
+    {
+        "id": "39764df8-ca5a-4467-9bd1-94fa1cb0de82",
+        "start": "2017-04-22 21:00",
+        "end": "2017-04-22 22:00",
+        "title": "Saturday's Trance Flight With J.A.Z.P.",
+        "host": "Jaze Anti-Zucchini Production",
+        "prod": "J.A.Z.P.",
+        "desc": "On aika lent\u00e4\u00e4 kauas pois arjen \u00e4herryksest\u00e4 ja stressist\u00e4, kun J.A.Z.P. palaa Wappuradioon tarjoilemaan tunnin katsauksen kuluneen vuoden aikana julkaistuihin nostattaviin ja progressiivisiin trance-raitoihin. Ohjelman voi nauttia skumpaten, humpaten tai miten itse kukin haluaa. Varmaa on, ett\u00e4 energia ja vauhti eiv\u00e4t t\u00e4st\u00e4 showsta lopu.\r\n\r\n\"Joo.. kerran k\u00e4vin, mutta toisella kertaa mentiin kovempaa\" - J.A.Z.P.",
+        "timestamp": "2017-04-14T09:09:48+03:00"
+    },
+    {
+        "id": "2224463c-3917-4bb6-a5a7-0587512642e7",
+        "start": "2017-04-22 22:00",
+        "end": "2017-04-23 00:00",
+        "title": "EDM Kekrit",
+        "host": "Tintti & maikey",
+        "prod": "delta_cephei",
+        "desc": "Ja taas on koittanut aika kekrien \u2013 sadonkorjuujuhlan, jolloin kootaan yhteen elektronisen musiikin helmi\u00e4 p\u00f6rr\u00f6isess\u00e4 muodossa. Tiedossa letke\u00e4n svengaavien dj-muijien lempparijytkytyksi\u00e4 vuosien varrelta, ja koska me nautimme n\u00e4ist\u00e4, niin silloin nautitte tekin, rakkaat kuulijat! Laita lauantain parhaat etkoilujatkoilumusat t\u00e4ysille, niin koko loppuwapun bilefiilis on taattu.",
+        "timestamp": "2017-04-14T09:10:14+03:00"
+    },
+    {
+        "id": "ecaf15c1-034a-49df-8b17-bde68042140c",
+        "start": "2017-04-23 00:00",
+        "end": "2017-04-23 07:00",
+        "title": "PORA",
+        "host": "wunderkind, sanzennin, darksekai, mpioin, taqtaq?",
+        "prod": "FireFlower, (lahis?)",
+        "desc": "Olemme taivaallinen pora, joka porautuu t\u00e4rykalvoista aina galakseihin asti. Kuuntelee poraa, \u00e4l\u00e4 kuuntelee itse\u00e4si, vaan kuuntele meit\u00e4. Kuuntele Poraa, joka kuuntelee sinua! Soitamme PORAUTUVAA materiaalia l\u00e4pi y\u00f6n laidasta laitaan kunkin fiilikseen mukaan ja luultavasti aloitamme eeppiisen perinteen. Kuuntelijavaroitus: ei sovellu v\u00e4ltt\u00e4m\u00e4tt\u00e4 herkk\u00e4nahkaisille tai alaik\u00e4isille ilman vanhempien valvontaa.",
+        "timestamp": "2017-04-14T09:10:51+03:00"
+    },
+    {
+        "id": "0d4286eb-6c50-457f-9bc5-51876b1e05f9",
+        "start": "2017-04-23 11:00",
+        "end": "2017-04-23 13:00",
+        "title": "Laulun ytimess\u00e4",
+        "host": "Onnela & Miikkulainen",
+        "prod": "",
+        "desc": "Norppa ja Nestori laulun ytimess\u00e4.\r\n\r\nSoitamme eri lauluyhtyeiden ja kuorojen tuotantoa. Pohdimme, mik\u00e4 ryhm\u00e4ss\u00e4 laulamisessa vieh\u00e4tt\u00e4\u00e4. Mit\u00e4 on t\u00e4m\u00e4n ajan kuoromusiikki? Studioon saapuu lauluryhm\u00e4 Dominutz.",
+        "timestamp": "2017-04-14T09:11:33+03:00"
+    },
+    {
+        "id": "c0f3095a-0b69-4efb-9de7-8d67585531fa",
+        "start": "2017-04-23 18:00",
+        "end": "2017-04-23 20:00",
+        "title": "Maailman pisin kalju",
+        "host": "Arttu & teBo",
+        "prod": "Jaketus",
+        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pystym\u00e4\u00e4n toteamaan, ett\u00e4 se oli jautaa.",
+        "timestamp": "2017-04-14T09:12:31+03:00"
+    },
+    {
+        "id": "695c62e3-9c54-4785-acbe-6ea1c8047bd2",
+        "start": "2017-04-23 20:00",
+        "end": "2017-04-23 22:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "lorens, Bjanze, tutu",
+        "prod": "Jaketus",
+        "desc": "Euroviisuspesiaalimme vie sinut j\u00e4lleen makumatkalle modulaatioiden, tuulikoneiden ja paljaiden rintakehien maailmaan, josta ei ole paluuta. Aina ajankohtainen katsauksemme viisup\u00f6hin\u00f6ihin t\u00e4ytt\u00e4\u00e4 korvasi sateenkaarioksennuksella kielten ja tyylien vaihdellessa laidasta toiseen ja v\u00e4h\u00e4n laidan ylikin \u2013 paitsi Dima Bilania emme taaskaan soita, koska olemme v\u00e4h\u00e4n sill\u00e4 tavalla rajoittuneita.",
+        "timestamp": "2017-04-14T09:13:16+03:00"
+    },
+    {
+        "id": "91846fe1-d526-4980-aa33-3a412c8cb6ca",
+        "start": "2017-04-23 22:00",
+        "end": "2017-04-24 00:00",
+        "title": "Tekniikan Mikan blues",
+        "host": "Mika",
+        "prod": "Joonas Lahti",
+        "desc": "Blues on niit\u00e4 hetki\u00e4 varten, kun el\u00e4m\u00e4ss\u00e4 menee hyvin, mutta syd\u00e4n ei ole mukana ilossa. Blues on niit\u00e4 hetki\u00e4 varten, kun tuntee olonsa maailman myyneeksi. Tekniikan Mikan blues on heille, ja kaikille muille. Pari tuntia bluesin historiaa, hell\u00e4sti hyv\u00e4ilev\u00e4\u00e4 basso\u00e4\u00e4nt\u00e4 ja hyv\u00e4\u00e4 musiikkia. Kuuntele ja rentoudu.",
+        "timestamp": "2017-04-14T09:13:55+03:00"
+    },
+    {
+        "id": "bac44214-54e3-49b2-a99b-cd856f61af51",
+        "start": "2017-04-20 15:00",
+        "end": "2017-04-20 17:00",
+        "title": "E-Sports",
+        "host": "Ville 'Tyrde' Tyrv\u00e4inen, Janne 'Veli-V' V\u00e4is\u00e4nen",
+        "prod": "KukaKumma",
+        "desc": "H\u00e4 tienaaks se oikeesti rahaa pelaamalla tietokonetta? Saako siin\u00e4 elektronisessa urheilussa s\u00e4hk\u00f6iskuja? V&V johdattavat radiokansan eSportsin virtuaaliseen maailmaan. Luvassa tiukkaa faktaa, v\u00e4hemm\u00e4n tiukkoja mielipiteit\u00e4 ja tietysti oman el\u00e4m\u00e4n GeT_RiGhT-kokemuksia aamuy\u00f6n pelisessioista.",
+        "timestamp": "2017-04-14T09:14:44+03:00"
+    },
+    {
+        "id": "3d212024-5533-4912-97b0-401bafbff47a",
+        "start": "2017-04-24 15:00",
+        "end": "2017-04-24 17:00",
+        "title": "E-Sports",
+        "host": "Ville 'Tyrde' Tyrv\u00e4inen, Janne 'Veli-V' V\u00e4is\u00e4nen",
+        "prod": "Kukakumma",
+        "desc": "H\u00e4 tienaaks se oikeesti rahaa pelaamalla tietokonetta? Saako siin\u00e4 elektronisessa urheilussa s\u00e4hk\u00f6iskuja? V&V johdattavat radiokansan eSportsin virtuaaliseen maailmaan. Luvassa tiukkaa faktaa, v\u00e4hemm\u00e4n tiukkoja mielipiteit\u00e4 ja tietysti oman el\u00e4m\u00e4n GeT_RiGhT-kokemuksia aamuy\u00f6n pelisessioista.",
+        "timestamp": "2017-04-14T09:14:53+03:00"
     }
 ]
