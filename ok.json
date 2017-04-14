@@ -800,16 +800,6 @@
         "timestamp": "2017-04-14T09:05:04+03:00"
     },
     {
-        "id": "7a6f3d7a-ba35-44f1-aee2-0ef62ad00d76",
-        "start": "2017-04-21 21:00",
-        "end": "2017-04-22 00:00",
-        "title": "Sceneradio",
-        "host": "Poro, Spiikki, Vuokko, Exca",
-        "prod": "Vuokko",
-        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> tarjoaa demoscenemusiikkia laidasta laitaan oikealla raudalla soitettuna. Ohjelman aikana kuullaan niin tasavallan tietokoneen sidisoundeja, Game Boyn chiptune-fiilistelyj\u00e4 ja PC:n tarjoamaa modernia \u00e4\u00e4nenk\u00e4sittely\u00e4. Lis\u00e4ksi tarjolla haastatteluja, demoefektej\u00e4 ja livesoittoa. \r\n\r\nLis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">http:\/\/www.wappuradio.fi\/sceneradio<\/a>. ",
-        "timestamp": "2017-04-14T09:07:15+03:00"
-    },
-    {
         "id": "cab6bf13-7fe2-4ce5-bcba-4361d1507f93",
         "start": "2017-04-22 07:00",
         "end": "2017-04-22 09:00",
@@ -1040,26 +1030,6 @@
         "timestamp": "2017-04-14T09:27:48+03:00"
     },
     {
-        "id": "5cc809b5-a5d3-4961-896b-9428f0e639ed",
-        "start": "2017-04-27 20:00",
-        "end": "2017-04-27 22:00",
-        "title": "Syv\u00e4 Purppura",
-        "host": "Noora, Veera, Julle",
-        "prod": "PunaJussi",
-        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubessaun seikkailua musiikin maailmassa.",
-        "timestamp": "2017-04-14T09:51:03+03:00"
-    },
-    {
-        "id": "cff318ea-0752-45c9-a29a-d1cfbc1d4c92",
-        "start": "2017-04-20 20:00",
-        "end": "2017-04-20 22:00",
-        "title": "Syv\u00e4 Purppura",
-        "host": "Noora, Veera, Julle",
-        "prod": "PunaJussi",
-        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubessaun seikkailua musiikin maailmassa.",
-        "timestamp": "2017-04-14T09:51:15+03:00"
-    },
-    {
         "id": "73b0940a-cc7f-4447-afa2-fd450dc28763",
         "start": "2017-04-30 07:00",
         "end": "2017-04-30 09:00",
@@ -1078,5 +1048,35 @@
         "prod": "Jaketus",
         "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25bahttps:\/\/soundcloud.com\/ty-el-m-n-uhrit\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25bahttps:\/\/soundcloud.com\/jukkapojanpoika\r\n15:45 Elim\u00e4ki \u25ba https:\/\/soundcloud.com\/elim-ki\r\n17:00 Torvikopla \u25ba http:\/\/www.torvikopla.net\/kuuntele\/",
         "timestamp": "2017-04-14T11:16:18+03:00"
+    },
+    {
+        "id": "7a6f3d7a-ba35-44f1-aee2-0ef62ad00d76",
+        "start": "2017-04-21 21:00",
+        "end": "2017-04-22 00:00",
+        "title": "Sceneradio",
+        "host": "Poro, Spiikki, Vuokko, Exca",
+        "prod": "Vuokko",
+        "desc": "<a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">Sceneradio<\/a> tarjoaa demoscenemusiikkia laidasta laitaan oikealla raudalla soitettuna. Ohjelman aikana kuullaan niin tasavallan tietokoneen sidisoundeja, Game Boyn chiptune-fiilistelyj\u00e4 ja PC:n tarjoamaa modernia \u00e4\u00e4nenk\u00e4sittely\u00e4. Lis\u00e4ksi tarjolla haastatteluja, demoefektej\u00e4 ja livesoittoa. \r\n\r\nLis\u00e4tietoja ohjelmasta <a href=\"http:\/\/www.wappuradio.fi\/sceneradio\" target=\"_blank\">www.wappuradio.fi\/sceneradio<\/a>. ",
+        "timestamp": "2017-04-14T11:20:59+03:00"
+    },
+    {
+        "id": "cff318ea-0752-45c9-a29a-d1cfbc1d4c92",
+        "start": "2017-04-20 20:00",
+        "end": "2017-04-20 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubusseaun seikkailua musiikin maailmassa.",
+        "timestamp": "2017-04-14T11:41:05+03:00"
+    },
+    {
+        "id": "5cc809b5-a5d3-4961-896b-9428f0e639ed",
+        "start": "2017-04-27 20:00",
+        "end": "2017-04-27 22:00",
+        "title": "Syv\u00e4 Purppura",
+        "host": "Noora, Veera, Julle",
+        "prod": "PunaJussi",
+        "desc": "Sen mit\u00e4 Deep Purple teki musiikille, Syv\u00e4 Purppura tekee Wappuradiolle! Tarjoilemme t\u00e4n\u00e4kin vuonna radioaalloilla progeimmat tripit ja rockeimmat riffit, joten liity seuraamme aikamatkalle kultaiselta 60-luvulta karvaiseen kasariin! T\u00e4ss\u00e4p\u00e4 erinomainen mahdollisuus p\u00e4\u00e4st\u00e4 seuraamaan matkanjohtajien Noora \"plotko\" Pirttilahden, Veera \"Veera\" Pirttilahden ja Julien \"Liikutan ihmisi\u00e4 ty\u00f6kseni\" Gaubusseaun seikkailua musiikin maailmassa.",
+        "timestamp": "2017-04-14T11:41:13+03:00"
     }
 ]
