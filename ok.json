@@ -620,16 +620,6 @@
         "timestamp": "2017-04-13T17:35:43+03:00"
     },
     {
-        "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
-        "start": "2017-04-23 07:00",
-        "end": "2017-04-23 09:00",
-        "title": "TBA",
-        "host": "TBA",
-        "prod": "TBA",
-        "desc": "TBA",
-        "timestamp": "2017-04-14T08:41:26+03:00"
-    },
-    {
         "id": "70bf532f-246a-4ecc-a956-bb34fcefe1c5",
         "start": "2017-04-19 18:00",
         "end": "2017-04-19 20:00",
@@ -1078,5 +1068,15 @@
         "prod": "Fisu",
         "desc": "Kulkeeko musiikkimakusi k\u00e4si k\u00e4dess\u00e4 suosituimpien tanssilistojen kanssa? Onko wappuradion kovin biisi Dodo-Sorsa? Eik\u00f6 mies voi mielest\u00e4si pukeutua nahkahousuihin ja tuntuuko 20 minuutiset proge-eepokset tekotaiteelliselta huuhaalta? T\u00e4m\u00e4 ohjelma ei ole sinulle. Progerallien ja muun pitk\u00e4tukkamusan s\u00e4est\u00e4m\u00e4n\u00e4 paneudumme mm. tulevan festarikes\u00e4n parhaaseen antiin. Soitetaan mit\u00e4 oikeasti halutaan - Radio Proooooog.",
         "timestamp": "2017-04-18T11:02:45+03:00"
+    },
+    {
+        "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
+        "start": "2017-04-23 07:00",
+        "end": "2017-04-23 09:00",
+        "title": "TBA",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "TBA",
+        "timestamp": "2017-04-18T12:54:19+03:00"
     }
 ]
