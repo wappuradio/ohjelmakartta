@@ -20,16 +20,6 @@
         "timestamp": "2017-04-05T14:19:13+03:00"
     },
     {
-        "id": "a88b66da-7efe-4bf9-a69a-44a65d3e9a05",
-        "start": "2017-04-29 18:00",
-        "end": "2017-04-29 20:00",
-        "title": "Maailman pisin kalju",
-        "host": "Arttu & teBo",
-        "prod": "Jaketus",
-        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pystym\u00e4\u00e4n toteamaan, ett\u00e4 se oli jautaa.\r\n",
-        "timestamp": "2017-04-05T17:42:07+03:00"
-    },
-    {
         "id": "f0d8f8c1-3bd4-41f3-83f3-be6d6d5d1d93",
         "start": "2017-04-20 00:00",
         "end": "2017-04-20 07:00",
@@ -640,16 +630,6 @@
         "timestamp": "2017-04-12T18:39:27+03:00"
     },
     {
-        "id": "b0b7e9e4-6fe3-44da-ad3b-36d2deaa2dea",
-        "start": "2017-04-27 22:00",
-        "end": "2017-04-28 00:00",
-        "title": "Suklaata & Samettia",
-        "host": "keba, L\u00e4rvi, Kello, Tebo",
-        "prod": "Kebbish",
-        "desc": "Ihminen ja Intohimo",
-        "timestamp": "2017-04-12T19:32:22+03:00"
-    },
-    {
         "id": "8a1ef2f0-50d5-4fe9-8c2e-c7975407b31b",
         "start": "2017-04-19 16:00",
         "end": "2017-04-19 18:00",
@@ -778,16 +758,6 @@
         "prod": "",
         "desc": "Norppa ja Nestori laulun ytimess\u00e4.\r\n\r\nSoitamme eri lauluyhtyeiden ja kuorojen tuotantoa. Pohdimme, mik\u00e4 ryhm\u00e4ss\u00e4 laulamisessa vieh\u00e4tt\u00e4\u00e4. Mit\u00e4 on t\u00e4m\u00e4n ajan kuoromusiikki? Studioon saapuu lauluryhm\u00e4 Dominutz.",
         "timestamp": "2017-04-14T09:11:33+03:00"
-    },
-    {
-        "id": "c0f3095a-0b69-4efb-9de7-8d67585531fa",
-        "start": "2017-04-23 18:00",
-        "end": "2017-04-23 20:00",
-        "title": "Maailman pisin kalju",
-        "host": "Arttu & teBo",
-        "prod": "Jaketus",
-        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pystym\u00e4\u00e4n toteamaan, ett\u00e4 se oli jautaa.",
-        "timestamp": "2017-04-14T09:12:31+03:00"
     },
     {
         "id": "695c62e3-9c54-4785-acbe-6ea1c8047bd2",
@@ -1078,5 +1048,35 @@
         "prod": "PunaJussi",
         "desc": "Kaksi viikkoa. HYPE! Aasinsiltoja. HYPE! Loistavaa musaa. HYPE! Live-musaa. HYPE! Simaa. HYPE! Tapahtumia. HYPE! Kaste. HYPE!\r\n\r\nMaailmassa on kaksi tahoa, jotka osaavat Hypen: ranskalainen Daft Punk ja tamperelainen Rakkauden Wappuradio. Vain toinen n\u00e4ist\u00e4 lunastaa kaikki lupauksensa! Tule siis kuulemaan, miksi tamperelainen Wappu on wapuista wapuin ja Rakkauden Wappuradio wappuradioista rakastettavin.",
         "timestamp": "2017-04-18T04:56:05+03:00"
+    },
+    {
+        "id": "c0f3095a-0b69-4efb-9de7-8d67585531fa",
+        "start": "2017-04-23 18:00",
+        "end": "2017-04-23 20:00",
+        "title": "Maailman pisin kalju",
+        "host": "Arttu & teBo",
+        "prod": "Jaketus",
+        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pysty\u00e4 toteamaan, ett\u00e4 se oli jautaa.",
+        "timestamp": "2017-04-18T09:05:56+03:00"
+    },
+    {
+        "id": "a88b66da-7efe-4bf9-a69a-44a65d3e9a05",
+        "start": "2017-04-29 18:00",
+        "end": "2017-04-29 20:00",
+        "title": "Maailman pisin kalju",
+        "host": "Arttu & teBo",
+        "prod": "Jaketus",
+        "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen\u00e4 p\u00e4\u00e4tytty\u00e4 pysty\u00e4 toteamaan, ett\u00e4 se oli jautaa.\r\n",
+        "timestamp": "2017-04-18T09:06:27+03:00"
+    },
+    {
+        "id": "b0b7e9e4-6fe3-44da-ad3b-36d2deaa2dea",
+        "start": "2017-04-27 22:00",
+        "end": "2017-04-28 00:00",
+        "title": "Suklaata & Samettia",
+        "host": "keba, L\u00e4rvi, Kello, teBo",
+        "prod": "Kebbish",
+        "desc": "Ihminen ja Intohimo",
+        "timestamp": "2017-04-18T09:06:40+03:00"
     }
 ]
