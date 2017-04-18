@@ -90,16 +90,6 @@
         "timestamp": "2017-04-06T17:57:12+03:00"
     },
     {
-        "id": "571c265a-d789-4070-9fc3-d8a28ed38ccb",
-        "start": "2017-04-21 17:00",
-        "end": "2017-04-21 19:00",
-        "title": "Pelastakaa Aasit!",
-        "host": "Helge \"tenderi\" Jalonen & Antti \"Mutanen\" mutsku",
-        "prod": "Juha Suvanto",
-        "desc": "Tarina menee n\u00e4in: alussa soitamme satunnaisen kappaleen. Toimittajien teht\u00e4v\u00e4n\u00e4 on luoda uskottava ja kantava silta sen yli seuraavaan kappaleeseen. T\u00e4h\u00e4n kappaleeseen toinen toimittaja vastaa uudella, paremmalla sillalla soittaen per\u00e4\u00e4n seuraavan kappaleen. \r\n\r\nKuinka kauas voi p\u00e4\u00e4st\u00e4 kappaleesta X? Oletteko koskaan miettineet milt\u00e4 kuulostaisi Hitchball suoritettuna peukalokyytien sis\u00e4\u00e4n aasinsiltoina kappaleiden v\u00e4lill\u00e4? Kuinka paljon mutsku soittaa musiikkia josta et todenn\u00e4k\u00f6isesti oo edes kuullut? Ent\u00e4 l\u00f6ydet\u00e4\u00e4nk\u00f6 viel\u00e4 reitti takaisin X:n? ",
-        "timestamp": "2017-04-06T18:35:28+03:00"
-    },
-    {
         "id": "620995e0-58e6-42c5-95a8-c46f19aec664",
         "start": "2017-04-29 14:00",
         "end": "2017-04-29 16:00",
@@ -138,26 +128,6 @@
         "prod": "roope tai joku yht\u00e4 hyv\u00e4",
         "desc": "Tervetuloa trippailemaan kanssamme aina savuisesta stonerista post-rockin ihmeelliseen maailmaan. Luvassa my\u00f6s sekaviin aikoihin sopivaa musiikkia ja hautojen desekraatiota bl\u00e4kkiksen rituaalien parissa. Tunnin slotti per genre. ",
         "timestamp": "2017-04-06T20:18:23+03:00"
-    },
-    {
-        "id": "9b104838-5810-4b04-b234-b38e26e81090",
-        "start": "2017-04-25 18:00",
-        "end": "2017-04-25 20:00",
-        "title": "Overdose of Finnish Pop",
-        "host": "Janne Koivisto & Tytti Jaakkola",
-        "prod": "Juha Suvanto",
-        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
-        "timestamp": "2017-04-06T20:29:10+03:00"
-    },
-    {
-        "id": "b09c3f55-8ffd-4cca-aa46-dc740c9a7c83",
-        "start": "2017-04-20 18:00",
-        "end": "2017-04-20 20:00",
-        "title": "Overdose of Finnish Pop",
-        "host": "Janne Koivisto & Tytti Jaakkola",
-        "prod": "Juha Suvanto",
-        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
-        "timestamp": "2017-04-06T20:30:16+03:00"
     },
     {
         "id": "4dda658a-bbbf-4ea8-b37a-6c15e5932c17",
@@ -560,16 +530,6 @@
         "timestamp": "2017-04-09T23:12:39+03:00"
     },
     {
-        "id": "1e737ed0-fb29-4809-836a-4fa23a12a835",
-        "start": "2017-04-26 09:00",
-        "end": "2017-04-26 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-10T22:00:18+03:00"
-    },
-    {
         "id": "03e56e69-8af2-4353-b645-c993472fa0f9",
         "start": "2017-04-22 19:00",
         "end": "2017-04-22 21:00",
@@ -750,36 +710,6 @@
         "timestamp": "2017-04-14T09:14:53+03:00"
     },
     {
-        "id": "4bfe62d3-e0f4-40fb-9973-996d0981ec47",
-        "start": "2017-04-25 09:00",
-        "end": "2017-04-25 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-14T09:18:05+03:00"
-    },
-    {
-        "id": "2193472d-d552-4519-b2b2-4a1a86c18c9d",
-        "start": "2017-04-27 09:00",
-        "end": "2017-04-27 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-14T09:18:07+03:00"
-    },
-    {
-        "id": "149bea65-b11b-4a50-895c-a15b909643c3",
-        "start": "2017-04-28 09:00",
-        "end": "2017-04-28 11:00",
-        "title": "Rakkauden Wappurappio",
-        "host": "Tutu, Ketku, Veli-V",
-        "prod": "Kukakumma",
-        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
-        "timestamp": "2017-04-14T09:18:11+03:00"
-    },
-    {
         "id": "b6ad59c0-67da-4c30-b755-9f61ca36c398",
         "start": "2017-04-27 14:00",
         "end": "2017-04-27 16:00",
@@ -940,16 +870,6 @@
         "timestamp": "2017-04-14T19:37:50+03:00"
     },
     {
-        "id": "842e773d-81c7-418d-8e05-db6e323a9019",
-        "start": "2017-04-25 16:00",
-        "end": "2017-04-25 18:00",
-        "title": "Karjapaimenten kannuksilla",
-        "host": "wtw, Pekka Hujanen",
-        "prod": "Vuokko",
-        "desc": "Karjapaimenten kannuksilla soittaa molempia musiikkityylej\u00e4: sek\u00e4 kantria ett\u00e4 westerni\u00e4. Kappaleiden lomassa pohditaan kantrin syvint\u00e4 olemusta, syntyjuuria, nykytilaa ja suomalaisia ilmentymi\u00e4. ",
-        "timestamp": "2017-04-14T19:56:26+03:00"
-    },
-    {
         "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
         "start": "2017-04-23 13:00",
         "end": "2017-04-23 18:00",
@@ -1078,5 +998,85 @@
         "prod": "TBA",
         "desc": "TBA",
         "timestamp": "2017-04-18T12:54:19+03:00"
+    },
+    {
+        "id": "b09c3f55-8ffd-4cca-aa46-dc740c9a7c83",
+        "start": "2017-04-20 18:00",
+        "end": "2017-04-20 20:00",
+        "title": "Overdose of Finnish Pop",
+        "host": "Janne Koivisto & Tytti Jaakkola",
+        "prod": "JSuvanto",
+        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
+        "timestamp": "2017-04-18T15:03:10+03:00"
+    },
+    {
+        "id": "9b104838-5810-4b04-b234-b38e26e81090",
+        "start": "2017-04-25 18:00",
+        "end": "2017-04-25 20:00",
+        "title": "Overdose of Finnish Pop",
+        "host": "Janne Koivisto & Tytti Jaakkola",
+        "prod": "JSuvanto",
+        "desc": "What is this strange country, what do people do here, what kind of music do they listen? Does Finnish taste in music differ from music in other parts of the world? Our hosts explore the core of Finnish music and wonder the cultural differences with four exotic guests.\r\n\r\nRakkauden Wappuradio, now also available in English!",
+        "timestamp": "2017-04-18T15:03:22+03:00"
+    },
+    {
+        "id": "571c265a-d789-4070-9fc3-d8a28ed38ccb",
+        "start": "2017-04-21 17:00",
+        "end": "2017-04-21 19:00",
+        "title": "Pelastakaa Aasit!",
+        "host": "Helge \"tenderi\" Jalonen & Antti \"Mutanen\" mutsku",
+        "prod": "JSuvanto",
+        "desc": "Tarina menee n\u00e4in: alussa soitamme satunnaisen kappaleen. Toimittajien teht\u00e4v\u00e4n\u00e4 on luoda uskottava ja kantava silta sen yli seuraavaan kappaleeseen. T\u00e4h\u00e4n kappaleeseen toinen toimittaja vastaa uudella, paremmalla sillalla soittaen per\u00e4\u00e4n seuraavan kappaleen. \r\n\r\nKuinka kauas voi p\u00e4\u00e4st\u00e4 kappaleesta X? Oletteko koskaan miettineet milt\u00e4 kuulostaisi Hitchball suoritettuna peukalokyytien sis\u00e4\u00e4n aasinsiltoina kappaleiden v\u00e4lill\u00e4? Kuinka paljon mutsku soittaa musiikkia josta et todenn\u00e4k\u00f6isesti oo edes kuullut? Ent\u00e4 l\u00f6ydet\u00e4\u00e4nk\u00f6 viel\u00e4 reitti takaisin X:n? ",
+        "timestamp": "2017-04-18T15:03:40+03:00"
+    },
+    {
+        "id": "4bfe62d3-e0f4-40fb-9973-996d0981ec47",
+        "start": "2017-04-25 09:00",
+        "end": "2017-04-25 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "KukaKumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-18T15:04:41+03:00"
+    },
+    {
+        "id": "1e737ed0-fb29-4809-836a-4fa23a12a835",
+        "start": "2017-04-26 09:00",
+        "end": "2017-04-26 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "KukaKumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4. Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4, mik\u00e4 on hyvin. Ja miten tilannetta voisi parantaa. Mukana mukavaa musiikkia, viereita, kilpailuita, totuus fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-18T15:04:49+03:00"
+    },
+    {
+        "id": "2193472d-d552-4519-b2b2-4a1a86c18c9d",
+        "start": "2017-04-27 09:00",
+        "end": "2017-04-27 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "KukaKumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-18T15:04:53+03:00"
+    },
+    {
+        "id": "149bea65-b11b-4a50-895c-a15b909643c3",
+        "start": "2017-04-28 09:00",
+        "end": "2017-04-28 11:00",
+        "title": "Rakkauden Wappurappio",
+        "host": "Tutu, Ketku, Veli-V",
+        "prod": "KukaKumma",
+        "desc": "Vaikea aamu? Liian aikainen her\u00e4tys? Eilinen painaa? Kahvi on pahaa? Milt\u00e4 aamu teill\u00e4 n\u00e4ytt\u00e4\u00e4? Tule jakamaan aamusi kanssamme, k\u00e4yd\u00e4\u00e4n l\u00e4pi mik\u00e4 siin\u00e4 m\u00e4tt\u00e4\u00e4 ja mik\u00e4 on hyvin \u2013 ja miten tilannetta voisi parantaa! Mukana mukavaa musiikkia, vieraita, kilpailuja, totuus Fingerporista ja tottakai, jokaisen aamun ammattilaiset juontajina!",
+        "timestamp": "2017-04-18T15:04:58+03:00"
+    },
+    {
+        "id": "842e773d-81c7-418d-8e05-db6e323a9019",
+        "start": "2017-04-25 16:00",
+        "end": "2017-04-25 18:00",
+        "title": "Karjapaimenten kannuksilla",
+        "host": "Vesa Ahola, Pekka Hujanen",
+        "prod": "Vuokko",
+        "desc": "Karjapaimenten kannuksilla soittaa molempia musiikkityylej\u00e4: sek\u00e4 kantria ett\u00e4 westerni\u00e4. Kappaleiden lomassa pohditaan kantrin syvint\u00e4 olemusta, syntyjuuria, nykytilaa ja suomalaisia ilmentymi\u00e4. ",
+        "timestamp": "2017-04-18T15:05:18+03:00"
     }
 ]
