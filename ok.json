@@ -690,16 +690,6 @@
         "timestamp": "2017-04-14T08:41:26+03:00"
     },
     {
-        "id": "e4402a56-d23a-4826-af1d-bbb012cce2da",
-        "start": "2017-04-19 14:00",
-        "end": "2017-04-19 16:00",
-        "title": "HYPE!",
-        "host": "PunaJussi, Helge, Helky, Noora",
-        "prod": "",
-        "desc": "Kaksi viikkoa. HYPE! Aasinsiltoja. HYPE! Loistavaa musaa. HYPE! Live-musaa. HYPE! Simaa. HYPE! Tapahtumia. HYPE! Kaste. HYPE!\r\n\r\nMaailmassa on kaksi tahoa, jotka osaavat Hypen: ranskalainen Daft Punk ja tamperelainen Rakkauden Wappuradio. Vain toinen n\u00e4ist\u00e4 lunastaa kaikki lupauksensa! Tule siis kuulemaan, miksi tamperelainen Wappu on wapuista wapuin ja Rakkauden Wappuradio wappuradioista rakastettavin.",
-        "timestamp": "2017-04-14T08:53:07+03:00"
-    },
-    {
         "id": "70bf532f-246a-4ecc-a956-bb34fcefe1c5",
         "start": "2017-04-19 18:00",
         "end": "2017-04-19 20:00",
@@ -1078,5 +1068,15 @@
         "prod": "Ketku, Jaketus",
         "desc": "Mit\u00e4 yhteist\u00e4 on balkan beatseilla, pannullisella kahvia, joikauksella ja yhdell\u00e4 aamukiukkuisuuden ammattilaisella? No neh\u00e4n ovat kaikki tietenkin k\u00e4nkk\u00e4r\u00e4nk\u00e4nkarkoittimia, joiden avulla n\u00e4ist\u00e4kin sunnuntaiaamuista selvit\u00e4\u00e4n. Kyll\u00e4 se siit\u00e4.",
         "timestamp": "2017-04-17T18:24:19+03:00"
+    },
+    {
+        "id": "e4402a56-d23a-4826-af1d-bbb012cce2da",
+        "start": "2017-04-19 14:00",
+        "end": "2017-04-19 16:00",
+        "title": "HYPE!",
+        "host": "PunaJussi, Helge, Helky, Noora",
+        "prod": "PunaJussi",
+        "desc": "Kaksi viikkoa. HYPE! Aasinsiltoja. HYPE! Loistavaa musaa. HYPE! Live-musaa. HYPE! Simaa. HYPE! Tapahtumia. HYPE! Kaste. HYPE!\r\n\r\nMaailmassa on kaksi tahoa, jotka osaavat Hypen: ranskalainen Daft Punk ja tamperelainen Rakkauden Wappuradio. Vain toinen n\u00e4ist\u00e4 lunastaa kaikki lupauksensa! Tule siis kuulemaan, miksi tamperelainen Wappu on wapuista wapuin ja Rakkauden Wappuradio wappuradioista rakastettavin.",
+        "timestamp": "2017-04-18T04:56:05+03:00"
     }
 ]
