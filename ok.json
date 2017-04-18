@@ -270,16 +270,6 @@
         "timestamp": "2017-04-06T22:15:19+03:00"
     },
     {
-        "id": "fae67617-128b-4082-85ce-90d024df5650",
-        "start": "2017-04-25 22:00",
-        "end": "2017-04-26 00:00",
-        "title": "Radio Prog",
-        "host": "Lipi & Vergi",
-        "prod": "Fisu",
-        "desc": "Kulkeeko musiikkimakusi k\u00e4si k\u00e4dess\u00e4 suosituimpien tanssilistojen kanssa? Onko wappuradion kovin biisi Dodo-Sorsa? Eik\u00f6 mies voi mielest\u00e4si pukeutua nahkahousuihin ja tuntuuko 20 minuutiset proge eepokset tekotaiteelliselta huuhaalta? T\u00e4m\u00e4 ohjelma ei ole sinulle. Progerallien ja muun pitk\u00e4tukkamusan s\u00e4est\u00e4m\u00e4n\u00e4 paneudumme mm. tulevan festarikes\u00e4n parhaaseen antiin. Soitetaan mit\u00e4 oikeasti halutaan - Radio Proooooog.",
-        "timestamp": "2017-04-06T22:24:51+03:00"
-    },
-    {
         "id": "cb13eaed-1f86-4a80-a543-9c85a6db3bb3",
         "start": "2017-04-29 00:00",
         "end": "2017-04-29 07:00",
@@ -470,26 +460,6 @@
         "timestamp": "2017-04-07T11:18:26+03:00"
     },
     {
-        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
-        "start": "2017-04-20 17:00",
-        "end": "2017-04-20 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
-        "timestamp": "2017-04-07T11:30:12+03:00"
-    },
-    {
-        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
-        "start": "2017-04-24 17:00",
-        "end": "2017-04-24 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
-        "timestamp": "2017-04-07T11:30:39+03:00"
-    },
-    {
         "id": "141608f6-5ba4-4a30-bfbb-47e8cbdd686e",
         "start": "2017-04-28 20:00",
         "end": "2017-04-28 22:00",
@@ -648,16 +618,6 @@
         "prod": "Jaketus",
         "desc": "Klassisen rokin erikoisohjelma palaa j\u00e4lleen viihdytt\u00e4m\u00e4\u00e4n iltap\u00e4iv\u00e4\u00e4nne",
         "timestamp": "2017-04-13T17:35:43+03:00"
-    },
-    {
-        "id": "5684324e-b523-47ee-a5f7-89bbbbfbf173",
-        "start": "2017-04-29 20:00",
-        "end": "2017-04-29 22:00",
-        "title": "TBA",
-        "host": "TBA",
-        "prod": "TBA",
-        "desc": "TBA",
-        "timestamp": "2017-04-14T08:39:56+03:00"
     },
     {
         "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
@@ -1078,5 +1038,45 @@
         "prod": "Kebbish",
         "desc": "Ihminen ja Intohimo",
         "timestamp": "2017-04-18T09:06:40+03:00"
+    },
+    {
+        "id": "5684324e-b523-47ee-a5f7-89bbbbfbf173",
+        "start": "2017-04-29 20:00",
+        "end": "2017-04-29 22:00",
+        "title": "Kolmen soinnun t\u00e4hteet",
+        "host": "kurkku & Teemu",
+        "prod": "Jaketus",
+        "desc": "Kolmen soinnun t\u00e4hteen t\u00e4r\u00e4ytt\u00e4\u00e4 radioaalloille Wapun parhaat punk- ja skarytmit! Ved\u00e4 tennarit jalkaan, kirist\u00e4 henkselit ja l\u00e4hde musiikkimatkalle kurkun ja Teemun kanssa!",
+        "timestamp": "2017-04-18T10:45:06+03:00"
+    },
+    {
+        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
+        "start": "2017-04-20 17:00",
+        "end": "2017-04-20 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
+        "timestamp": "2017-04-18T11:02:06+03:00"
+    },
+    {
+        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
+        "start": "2017-04-24 17:00",
+        "end": "2017-04-24 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
+        "timestamp": "2017-04-18T11:02:26+03:00"
+    },
+    {
+        "id": "fae67617-128b-4082-85ce-90d024df5650",
+        "start": "2017-04-25 22:00",
+        "end": "2017-04-26 00:00",
+        "title": "Radio Prog",
+        "host": "Lipi & Vergi",
+        "prod": "Fisu",
+        "desc": "Kulkeeko musiikkimakusi k\u00e4si k\u00e4dess\u00e4 suosituimpien tanssilistojen kanssa? Onko wappuradion kovin biisi Dodo-Sorsa? Eik\u00f6 mies voi mielest\u00e4si pukeutua nahkahousuihin ja tuntuuko 20 minuutiset proge-eepokset tekotaiteelliselta huuhaalta? T\u00e4m\u00e4 ohjelma ei ole sinulle. Progerallien ja muun pitk\u00e4tukkamusan s\u00e4est\u00e4m\u00e4n\u00e4 paneudumme mm. tulevan festarikes\u00e4n parhaaseen antiin. Soitetaan mit\u00e4 oikeasti halutaan - Radio Proooooog.",
+        "timestamp": "2017-04-18T11:02:45+03:00"
     }
 ]
