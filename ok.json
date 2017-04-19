@@ -930,26 +930,6 @@
         "timestamp": "2017-04-18T10:45:06+03:00"
     },
     {
-        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
-        "start": "2017-04-20 17:00",
-        "end": "2017-04-20 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
-        "timestamp": "2017-04-18T11:02:06+03:00"
-    },
-    {
-        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
-        "start": "2017-04-24 17:00",
-        "end": "2017-04-24 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta!",
-        "timestamp": "2017-04-18T11:02:26+03:00"
-    },
-    {
         "id": "fae67617-128b-4082-85ce-90d024df5650",
         "start": "2017-04-25 22:00",
         "end": "2017-04-26 00:00",
@@ -1078,5 +1058,25 @@
         "prod": "Allu",
         "desc": "J\u00e4\u00e4k\u00f6 oma musiikillinen osaamisesi siihen, ett\u00e4 osaat soittaa ovikelloa ja puhelinta? Toisinaan my\u00f6s suuta? Suunsoittoa ohjelman tutkivat juontajat ovat etsineet kappaleita ja artisteja, joille t\u00e4rkeimp\u00e4n\u00e4 instrumenttina on suu. Anna soittimien lev\u00e4t\u00e4 hetken aikaa ja anna suun k\u00e4yd\u00e4.",
         "timestamp": "2017-04-18T20:33:03+03:00"
+    },
+    {
+        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
+        "start": "2017-04-20 17:00",
+        "end": "2017-04-20 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen ville@korpiluoto.fi kautta.",
+        "timestamp": "2017-04-19T11:09:10+03:00"
+    },
+    {
+        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
+        "start": "2017-04-24 17:00",
+        "end": "2017-04-24 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen ville@korpiluoto.fi kautta.",
+        "timestamp": "2017-04-19T11:09:17+03:00"
     }
 ]
