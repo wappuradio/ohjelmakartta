@@ -330,16 +330,6 @@
         "timestamp": "2017-04-07T00:57:53+03:00"
     },
     {
-        "id": "c35dd5b5-9c30-46c4-a04d-c9bd102a437f",
-        "start": "2017-04-30 00:00",
-        "end": "2017-04-30 07:00",
-        "title": "100 maan sammuttavat s\u00e4keet",
-        "host": "BTR",
-        "prod": "Jarno Tuokkola (jos ehtii), varalla Dregu",
-        "desc": "Unirytmins\u00e4 ja suuntavaistonsa kadottaneiden wapunviett\u00e4jien nokturnaalinen napanderiretki halki k\u00e4ym\u00e4l\u00e4tt\u00f6mien cocktailbaarien. Ep\u00e4ortodoksisten \u00e4\u00e4nimaisemien \u00e4imistelyn ohessa luvassa hortoilua horrostilan rajoja uhmaten sadan suvereenin valtion vaikutuspiiriss\u00e4.",
-        "timestamp": "2017-04-07T01:41:24+03:00"
-    },
-    {
         "id": "afa4594e-34e3-44a7-84cb-796774b93193",
         "start": "2017-04-20 22:00",
         "end": "2017-04-21 00:00",
@@ -1078,5 +1068,15 @@
         "prod": "JSuvanto",
         "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen ville@korpiluoto.fi kautta.",
         "timestamp": "2017-04-19T11:09:17+03:00"
+    },
+    {
+        "id": "c35dd5b5-9c30-46c4-a04d-c9bd102a437f",
+        "start": "2017-04-30 00:00",
+        "end": "2017-04-30 07:00",
+        "title": "100 maan sammuttavat s\u00e4keet",
+        "host": "BTR",
+        "prod": "Dregu",
+        "desc": "Unirytmins\u00e4 ja suuntavaistonsa kadottaneiden wapunviett\u00e4jien nokturnaalinen napanderiretki halki k\u00e4ym\u00e4l\u00e4tt\u00f6mien cocktailbaarien. Ep\u00e4ortodoksisten \u00e4\u00e4nimaisemien \u00e4imistelyn ohessa luvassa hortoilua horrostilan rajoja uhmaten sadan suvereenin valtion vaikutuspiiriss\u00e4.",
+        "timestamp": "2017-04-19T16:22:00+03:00"
     }
 ]
