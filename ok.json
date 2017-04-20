@@ -900,16 +900,6 @@
         "timestamp": "2017-04-18T11:02:45+03:00"
     },
     {
-        "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
-        "start": "2017-04-23 07:00",
-        "end": "2017-04-23 09:00",
-        "title": "TBA",
-        "host": "TBA",
-        "prod": "TBA",
-        "desc": "TBA",
-        "timestamp": "2017-04-18T12:54:19+03:00"
-    },
-    {
         "id": "b09c3f55-8ffd-4cca-aa46-dc740c9a7c83",
         "start": "2017-04-20 18:00",
         "end": "2017-04-20 20:00",
@@ -1078,5 +1068,15 @@
         "prod": "Jaketus",
         "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat ja studiotrubaduuriduo Sipil\u00e4n Serkut.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25ba<a href=\"https:\/\/soundcloud.com\/ty-el-m-n-uhrit\">https:\/\/soundcloud.com\/ty-el-m-n-uhrit<\/a>\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25ba<a href=\"https:\/\/soundcloud.com\/jukkapojanpoika\">https:\/\/soundcloud.com\/jukkapojanpoika<\/a>\r\n15:45 Elim\u00e4ki \u25ba <a href=\"https:\/\/soundcloud.com\/elim-ki\">https:\/\/soundcloud.com\/elim-ki<\/a>\r\n17:00 Torvikopla \u25ba <a href=\"http:\/\/www.torvikopla.net\/kuuntele\/\">http:\/\/www.torvikopla.net\/kuuntele\/<\/a>",
         "timestamp": "2017-04-20T14:02:40+03:00"
+    },
+    {
+        "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
+        "start": "2017-04-23 07:00",
+        "end": "2017-04-23 09:00",
+        "title": "Eteerinen eetteri",
+        "host": "Ketku",
+        "prod": "Jarno",
+        "desc": "Pyyd\u00e4n: kuulkaa,\r\npyh\u00e4t heimot,\r\nHeimdallrin ylemm\u00e4t \r\nja alemmat pojat,\r\nsin\u00e4 tahdot, Valf\u00f6dr,\r\nett\u00e4 tulkitsen taiten\r\nmit\u00e4 ihmisten muinais-\r\nvaiheista muistan.\r\n\r\n",
+        "timestamp": "2017-04-20T21:12:34+03:00"
     }
 ]
