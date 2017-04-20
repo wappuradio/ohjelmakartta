@@ -810,16 +810,6 @@
         "timestamp": "2017-04-14T19:37:50+03:00"
     },
     {
-        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
-        "start": "2017-04-23 13:00",
-        "end": "2017-04-23 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "B\u00e4ndit & Rakkaus",
-        "prod": "Jaketus",
-        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat ja studiotrubaduuriduo Sipil\u00e4n Serkut.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25bahttps:\/\/soundcloud.com\/ty-el-m-n-uhrit\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25bahttps:\/\/soundcloud.com\/jukkapojanpoika\r\n15:45 Elim\u00e4ki \u25ba https:\/\/soundcloud.com\/elim-ki\r\n17:00 Torvikopla \u25ba http:\/\/www.torvikopla.net\/kuuntele\/",
-        "timestamp": "2017-04-14T23:21:52+03:00"
-    },
-    {
         "id": "e3c8727b-262d-483b-b9f4-c10327b25e93",
         "start": "2017-04-22 13:00",
         "end": "2017-04-22 15:00",
@@ -940,16 +930,6 @@
         "timestamp": "2017-04-18T15:03:22+03:00"
     },
     {
-        "id": "571c265a-d789-4070-9fc3-d8a28ed38ccb",
-        "start": "2017-04-21 17:00",
-        "end": "2017-04-21 19:00",
-        "title": "Pelastakaa Aasit!",
-        "host": "Helge \"tenderi\" Jalonen & Antti \"Mutanen\" mutsku",
-        "prod": "JSuvanto",
-        "desc": "Tarina menee n\u00e4in: alussa soitamme satunnaisen kappaleen. Toimittajien teht\u00e4v\u00e4n\u00e4 on luoda uskottava ja kantava silta sen yli seuraavaan kappaleeseen. T\u00e4h\u00e4n kappaleeseen toinen toimittaja vastaa uudella, paremmalla sillalla soittaen per\u00e4\u00e4n seuraavan kappaleen. \r\n\r\nKuinka kauas voi p\u00e4\u00e4st\u00e4 kappaleesta X? Oletteko koskaan miettineet milt\u00e4 kuulostaisi Hitchball suoritettuna peukalokyytien sis\u00e4\u00e4n aasinsiltoina kappaleiden v\u00e4lill\u00e4? Kuinka paljon mutsku soittaa musiikkia josta et todenn\u00e4k\u00f6isesti oo edes kuullut? Ent\u00e4 l\u00f6ydet\u00e4\u00e4nk\u00f6 viel\u00e4 reitti takaisin X:n? ",
-        "timestamp": "2017-04-18T15:03:40+03:00"
-    },
-    {
         "id": "4bfe62d3-e0f4-40fb-9973-996d0981ec47",
         "start": "2017-04-25 09:00",
         "end": "2017-04-25 11:00",
@@ -1030,26 +1010,6 @@
         "timestamp": "2017-04-18T20:33:03+03:00"
     },
     {
-        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
-        "start": "2017-04-20 17:00",
-        "end": "2017-04-20 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen ville@korpiluoto.fi kautta.",
-        "timestamp": "2017-04-19T11:09:10+03:00"
-    },
-    {
-        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
-        "start": "2017-04-24 17:00",
-        "end": "2017-04-24 18:00",
-        "title": "Kysy Luojalta",
-        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
-        "prod": "JSuvanto",
-        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen ville@korpiluoto.fi kautta.",
-        "timestamp": "2017-04-19T11:09:17+03:00"
-    },
-    {
         "id": "c35dd5b5-9c30-46c4-a04d-c9bd102a437f",
         "start": "2017-04-30 00:00",
         "end": "2017-04-30 07:00",
@@ -1076,7 +1036,47 @@
         "title": "Herkk\u00e4 hetki",
         "host": "AnRai, zordiack, Puh",
         "prod": "zar",
-        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta: \r\n<a href=\"http:\/\/tinyurl.com\/herkkahetki2017\">http:\/\/tinyurl.com\/herkkahetki2017<\/a>",
-        "timestamp": "2017-04-20T12:41:06+03:00"
+        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta: \r\n<a href=\"https:\/\/tinyurl.com\/herkkahetki2017\">https:\/\/tinyurl.com\/herkkahetki2017<\/a>",
+        "timestamp": "2017-04-20T13:35:22+03:00"
+    },
+    {
+        "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
+        "start": "2017-04-20 17:00",
+        "end": "2017-04-20 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen <a href=\"mailto:ville@korpiluoto.fi\">ville@korpiluoto.fi<\/a> kautta.",
+        "timestamp": "2017-04-20T13:52:38+03:00"
+    },
+    {
+        "id": "0407fb17-634e-49da-8da3-bfc8de079fcf",
+        "start": "2017-04-24 17:00",
+        "end": "2017-04-24 18:00",
+        "title": "Kysy Luojalta",
+        "host": "Janne Eskola, Ville Korpiluoto, Luoja",
+        "prod": "JSuvanto",
+        "desc": "Oletko sin\u00e4kin toisinaan yritt\u00e4nyt etsi\u00e4 vastauksia, jotka Luoja yksin tiet\u00e4\u00e4 \u2013 ja h\u00e4nk\u00e4\u00e4n ei kerro? No nyt kertoo! Kysy Luojalta on Wappuradion asiantuntijaohjelma, jossa Luoja vastaa kuuntelijoiden kysymyksiin. \u00c4l\u00e4 en\u00e4\u00e4 j\u00e4\u00e4 ep\u00e4tietoisuuteen, vaan kuuntele Wappuradiota ja Kysy Luojalta! Kysymykset Luojalle osoitteen <a href=\"mailto:ville@korpiluoto.fi\">ville@korpiluoto.fi<\/a> kautta.",
+        "timestamp": "2017-04-20T13:52:50+03:00"
+    },
+    {
+        "id": "571c265a-d789-4070-9fc3-d8a28ed38ccb",
+        "start": "2017-04-21 17:00",
+        "end": "2017-04-21 19:00",
+        "title": "Pelastakaa Aasit!",
+        "host": "Helge \"tenderi\" Jalonen & Antti \"Mutanen\" mutsku",
+        "prod": "JSuvanto",
+        "desc": "Tarina menee n\u00e4in: alussa soitamme satunnaisen kappaleen. Toimittajien teht\u00e4v\u00e4n\u00e4 on luoda uskottava ja kantava silta sen yli seuraavaan kappaleeseen. T\u00e4h\u00e4n kappaleeseen toinen toimittaja vastaa uudella, paremmalla sillalla soittaen per\u00e4\u00e4n seuraavan kappaleen. \r\n\r\nKuinka kauas voi p\u00e4\u00e4st\u00e4 kappaleesta X? Oletteko koskaan miettineet milt\u00e4 kuulostaisi Hitchball suoritettuna peukalokyytien sis\u00e4\u00e4n aasinsiltoina kappaleiden v\u00e4lill\u00e4? Kuinka paljon mutsku soittaa musiikkia josta et todenn\u00e4k\u00f6isesti oo edes kuullut? Ent\u00e4 l\u00f6ydet\u00e4\u00e4nk\u00f6 viel\u00e4 reitti takaisin X:\u00e4\u00e4n? ",
+        "timestamp": "2017-04-20T13:57:52+03:00"
+    },
+    {
+        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
+        "start": "2017-04-23 13:00",
+        "end": "2017-04-23 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "B\u00e4ndit & Rakkaus",
+        "prod": "Jaketus",
+        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat ja studiotrubaduuriduo Sipil\u00e4n Serkut.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25ba<a href=\"https:\/\/soundcloud.com\/ty-el-m-n-uhrit\">https:\/\/soundcloud.com\/ty-el-m-n-uhrit<\/a>\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25ba<a href=\"https:\/\/soundcloud.com\/jukkapojanpoika\">https:\/\/soundcloud.com\/jukkapojanpoika<\/a>\r\n15:45 Elim\u00e4ki \u25ba <a href=\"https:\/\/soundcloud.com\/elim-ki\">https:\/\/soundcloud.com\/elim-ki<\/a>\r\n17:00 Torvikopla \u25ba <a href=\"http:\/\/www.torvikopla.net\/kuuntele\/\">http:\/\/www.torvikopla.net\/kuuntele\/<\/a>",
+        "timestamp": "2017-04-20T14:02:40+03:00"
     }
 ]
