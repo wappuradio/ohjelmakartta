@@ -70,16 +70,6 @@
         "timestamp": "2017-04-06T17:57:12+03:00"
     },
     {
-        "id": "620995e0-58e6-42c5-95a8-c46f19aec664",
-        "start": "2017-04-29 14:00",
-        "end": "2017-04-29 16:00",
-        "title": "Herkk\u00e4 hetki",
-        "host": "AnRai, zordiack, Puh",
-        "prod": "zar",
-        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta:\r\nhttps:\/\/tinyurl.com\/herkkahetki2017",
-        "timestamp": "2017-04-06T18:59:52+03:00"
-    },
-    {
         "id": "c7311899-b405-4456-8596-54f74732a893",
         "start": "2017-04-29 11:00",
         "end": "2017-04-29 13:00",
@@ -1078,5 +1068,15 @@
         "prod": "Arttu",
         "desc": "Om\u00adpe\u00adluseu\u00adran kirjava jen\u00adgi viih\u00addyt\u00adt\u00e4\u00e4 radiokansaa y\u00f6n yli niin genrerajat kuin perinteiset puheenaiheetkin rikkoen ja taas uudelleen kokoon parsien. Hyvinkin satunnaiset ja potentiaalisesti satumaiset puheenaiheet saavat kenet vain n\u00e4kem\u00e4\u00e4n maailman vaaleanpunaisempana kuin koskaan ennen. Tuuttaa mukiisi sopiva annos ydinmehua ja surffaa kanssamme aurinkoon, sill\u00e4 me tahdomme olla sinulle helli\u00e4.\r\n\r\nOsallistu k\u00e4sity\u00f6kisaan tai soita meille ja osallistu keskusteluun!",
         "timestamp": "2017-04-19T17:24:03+03:00"
+    },
+    {
+        "id": "620995e0-58e6-42c5-95a8-c46f19aec664",
+        "start": "2017-04-29 14:00",
+        "end": "2017-04-29 16:00",
+        "title": "Herkk\u00e4 hetki",
+        "host": "AnRai, zordiack, Puh",
+        "prod": "zar",
+        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta: \r\n<a href=\"http:\/\/tinyurl.com\/herkkahetki2017\">http:\/\/tinyurl.com\/herkkahetki2017<\/a>",
+        "timestamp": "2017-04-20T12:41:06+03:00"
     }
 ]
