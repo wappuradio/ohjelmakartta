@@ -580,16 +580,6 @@
         "timestamp": "2017-04-14T09:08:22+03:00"
     },
     {
-        "id": "39764df8-ca5a-4467-9bd1-94fa1cb0de82",
-        "start": "2017-04-22 21:00",
-        "end": "2017-04-22 22:00",
-        "title": "Saturday's Trance Flight With J.A.Z.P.",
-        "host": "Jaze Anti-Zucchini Production",
-        "prod": "J.A.Z.P.",
-        "desc": "On aika lent\u00e4\u00e4 kauas pois arjen \u00e4herryksest\u00e4 ja stressist\u00e4, kun J.A.Z.P. palaa Wappuradioon tarjoilemaan tunnin katsauksen kuluneen vuoden aikana julkaistuihin nostattaviin ja progressiivisiin trance-raitoihin. Ohjelman voi nauttia skumpaten, humpaten tai miten itse kukin haluaa. Varmaa on, ett\u00e4 energia ja vauhti eiv\u00e4t t\u00e4st\u00e4 showsta lopu.\r\n\r\n\"Joo.. kerran k\u00e4vin, mutta toisella kertaa mentiin kovempaa\" - J.A.Z.P.",
-        "timestamp": "2017-04-14T09:09:48+03:00"
-    },
-    {
         "id": "2224463c-3917-4bb6-a5a7-0587512642e7",
         "start": "2017-04-22 22:00",
         "end": "2017-04-23 00:00",
@@ -1078,5 +1068,15 @@
         "prod": "LaNi",
         "desc": "Avaruusteemaista musiikkia ja maailmankaikkeuteen liittyvi\u00e4 keskustelunaiheita galaksiasuisten tytt\u00f6jen seurassa.   ",
         "timestamp": "2017-04-21T20:32:06+03:00"
+    },
+    {
+        "id": "39764df8-ca5a-4467-9bd1-94fa1cb0de82",
+        "start": "2017-04-22 21:00",
+        "end": "2017-04-22 22:00",
+        "title": "Saturday's Trance Flight With J.A.Z.P.",
+        "host": "Jaze Anti-Zucchini Production",
+        "prod": "Fisu",
+        "desc": "On aika lent\u00e4\u00e4 kauas pois arjen \u00e4herryksest\u00e4 ja stressist\u00e4, kun J.A.Z.P. palaa Wappuradioon tarjoilemaan tunnin katsauksen kuluneen vuoden aikana julkaistuihin nostattaviin ja progressiivisiin trance-raitoihin. Ohjelman voi nauttia skumpaten, humpaten tai miten itse kukin haluaa. Varmaa on, ett\u00e4 energia ja vauhti eiv\u00e4t t\u00e4st\u00e4 showsta lopu.\r\n\r\n\"Joo.. kerran k\u00e4vin, mutta toisella kertaa mentiin kovempaa\" - J.A.Z.P.",
+        "timestamp": "2017-04-21T22:27:54+03:00"
     }
 ]
