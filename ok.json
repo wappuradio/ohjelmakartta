@@ -810,16 +810,6 @@
         "timestamp": "2017-04-14T19:37:50+03:00"
     },
     {
-        "id": "e3c8727b-262d-483b-b9f4-c10327b25e93",
-        "start": "2017-04-22 13:00",
-        "end": "2017-04-22 15:00",
-        "title": "Showroom Dummies",
-        "host": "June",
-        "prod": "Vuokko",
-        "desc": "TBA",
-        "timestamp": "2017-04-15T14:32:51+03:00"
-    },
-    {
         "id": "53a19cc0-b22b-4e65-8f62-725023f42ac2",
         "start": "2017-04-28 22:00",
         "end": "2017-04-29 00:00",
@@ -1078,5 +1068,15 @@
         "prod": "Jaketus",
         "desc": "Kolmen soinnun t\u00e4hteet t\u00e4r\u00e4ytt\u00e4\u00e4 radioaalloille Wapun parhaat punk- ja skarytmit! Ved\u00e4 tennarit jalkaan, kirist\u00e4 henkselit ja l\u00e4hde musiikkimatkalle kurkun ja Teemun kanssa!",
         "timestamp": "2017-04-21T10:59:24+03:00"
+    },
+    {
+        "id": "e3c8727b-262d-483b-b9f4-c10327b25e93",
+        "start": "2017-04-22 13:00",
+        "end": "2017-04-22 15:00",
+        "title": "Making of Wappuradio",
+        "host": "Zordiack, Zeppe",
+        "prod": "Vuokko",
+        "desc": "Askarruttaako mielt\u00e4si Wappuradion tekniset yksityiskohdat? Nyt on oikea aika kysy\u00e4 mit\u00e4 vaan, toimitus vastaa mit\u00e4 vaan. Radion tekniikan m\u00f6r\u00f6k\u00f6llit on p\u00e4\u00e4stetty studion puolelle soittelemaan sekalaista musiikkia.",
+        "timestamp": "2017-04-21T16:08:01+03:00"
     }
 ]
