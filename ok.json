@@ -150,16 +150,6 @@
         "timestamp": "2017-04-06T21:25:38+03:00"
     },
     {
-        "id": "eaf0e224-b883-4e16-860d-322d36059ccf",
-        "start": "2017-04-26 22:00",
-        "end": "2017-04-27 00:00",
-        "title": "Jotain kosmista",
-        "host": "AnRai, Quendil, plotko, Veera",
-        "prod": "LaNi",
-        "desc": "Avaruusteemaista musiikkia ja maailmankaikkeuteen liittyvi\u00e4 keskustelunaiheita galaksiasuisten tytt\u00f6jen seurassa.   ",
-        "timestamp": "2017-04-06T21:34:13+03:00"
-    },
-    {
         "id": "86e9569e-c33b-4759-a703-eec07f71d9ff",
         "start": "2017-04-27 18:00",
         "end": "2017-04-27 20:00",
@@ -1078,5 +1068,15 @@
         "prod": "Vuokko",
         "desc": "Askarruttaako mielt\u00e4si Wappuradion tekniset yksityiskohdat? Nyt on oikea aika kysy\u00e4 mit\u00e4 vaan, toimitus vastaa mit\u00e4 vaan. Radion tekniikan m\u00f6r\u00f6k\u00f6llit on p\u00e4\u00e4stetty studion puolelle soittelemaan sekalaista musiikkia.",
         "timestamp": "2017-04-21T16:08:01+03:00"
+    },
+    {
+        "id": "eaf0e224-b883-4e16-860d-322d36059ccf",
+        "start": "2017-04-26 22:00",
+        "end": "2017-04-27 00:00",
+        "title": "Jotain kosmista",
+        "host": "Quendil, plotko, Veera, AnRai",
+        "prod": "LaNi",
+        "desc": "Avaruusteemaista musiikkia ja maailmankaikkeuteen liittyvi\u00e4 keskustelunaiheita galaksiasuisten tytt\u00f6jen seurassa.   ",
+        "timestamp": "2017-04-21T20:32:06+03:00"
     }
 ]
