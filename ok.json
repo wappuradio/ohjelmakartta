@@ -1020,16 +1020,6 @@
         "timestamp": "2017-04-20T13:57:52+03:00"
     },
     {
-        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
-        "start": "2017-04-23 13:00",
-        "end": "2017-04-23 18:00",
-        "title": "Wappuradio LIVE!",
-        "host": "B\u00e4ndit & Rakkaus",
-        "prod": "Jaketus",
-        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat ja studiotrubaduuriduo Sipil\u00e4n Serkut.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25ba<a href=\"https:\/\/soundcloud.com\/ty-el-m-n-uhrit\">https:\/\/soundcloud.com\/ty-el-m-n-uhrit<\/a>\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25ba<a href=\"https:\/\/soundcloud.com\/jukkapojanpoika\">https:\/\/soundcloud.com\/jukkapojanpoika<\/a>\r\n15:45 Elim\u00e4ki \u25ba <a href=\"https:\/\/soundcloud.com\/elim-ki\">https:\/\/soundcloud.com\/elim-ki<\/a>\r\n17:00 Torvikopla \u25ba <a href=\"http:\/\/www.torvikopla.net\/kuuntele\/\">http:\/\/www.torvikopla.net\/kuuntele\/<\/a>",
-        "timestamp": "2017-04-20T14:02:40+03:00"
-    },
-    {
         "id": "d3b4be8a-22ad-42c5-a5e4-70def67180dc",
         "start": "2017-04-23 07:00",
         "end": "2017-04-23 09:00",
@@ -1078,5 +1068,15 @@
         "prod": "LaNi",
         "desc": "Avaruusteemaista musiikkia ja maailmankaikkeuteen liittyvi\u00e4 keskustelunaiheita galaksiasuisten tytt\u00f6jen seurassa.   \r\n\r\nHaastattelussa avaruustutkija Riku J\u00e4rvinen Ilmatieteen laitokselta!",
         "timestamp": "2017-04-22T12:33:57+03:00"
+    },
+    {
+        "id": "04c906ab-43ec-48fe-ac75-e376a84dd35b",
+        "start": "2017-04-23 13:00",
+        "end": "2017-04-23 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "B\u00e4ndit & Rakkaus",
+        "prod": "Jaketus",
+        "desc": "Wappuradio soittaa mit\u00e4 parhainta, oudointa ja kiehtovinta musiikkia kaksi viikkoa levyilt\u00e4 Wapun aikana. Nyt on kuitenkin taas ekstraherkkua tarjolla! Levyjen sijaan sunnuntaina radion musiikki soitetaan liven\u00e4 TTY:n etunurtsilla, Riemurinne-areenalla. Viritt\u00e4ydy siis vastaanottimesi \u00e4\u00e4reen koko p\u00e4iv\u00e4ksi nauttimaan Suomen parhaiden b\u00e4ndien joukosta kootusta kattauksesta! Tai viel\u00e4 parempaa, ota kaverit mukaan ja tule Hervantaan viett\u00e4m\u00e4\u00e4n piknik-p\u00e4iv\u00e4\u00e4! Keikat alkavat kello 13 ja jatkuvat aina 18 asti. Paikalla my\u00f6s liuta huikeita ruokakojuja, wappuradio, aurinko, wappukansa! B\u00e4ndien v\u00e4liss\u00e4 kuuntelijoita viihdytt\u00e4\u00e4 Suomen parhaan Rakkauden Wappuradion juontajat ja studiotrubaduuriduo Sipil\u00e4n Serkut.\r\n\r\n13:00 Ty\u00f6el\u00e4m\u00e4n uhrit \u25ba<a href=\"https:\/\/soundcloud.com\/ty-el-m-n-uhrit\">https:\/\/soundcloud.com\/ty-el-m-n-uhrit<\/a>\r\n14:15 Jukka Pojan Poika ja The Roopesalmiset \u25ba<a href=\"https:\/\/soundcloud.com\/jukkapojanpoika\">https:\/\/soundcloud.com\/jukkapojanpoika<\/a>\r\n15:45 Elim\u00e4ki \u25ba <a href=\"https:\/\/open.spotify.com\/artist\/0pQNkZLHlXdX2frvMi6ohK\">https:\/\/open.spotify.com\/artist\/0pQNkZLHlXdX2frvMi6ohK<\/a>\r\n17:00 Torvikopla \u25ba <a href=\"http:\/\/www.torvikopla.net\/kuuntele\/\">http:\/\/www.torvikopla.net\/kuuntele\/<\/a>",
+        "timestamp": "2017-04-22T16:49:49+03:00"
     }
 ]
