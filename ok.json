@@ -960,16 +960,6 @@
         "timestamp": "2017-04-19T17:24:03+03:00"
     },
     {
-        "id": "620995e0-58e6-42c5-95a8-c46f19aec664",
-        "start": "2017-04-29 14:00",
-        "end": "2017-04-29 16:00",
-        "title": "Herkk\u00e4 hetki",
-        "host": "AnRai, zordiack, Puh",
-        "prod": "zar",
-        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta: \r\n<a href=\"https:\/\/tinyurl.com\/herkkahetki2017\">https:\/\/tinyurl.com\/herkkahetki2017<\/a>",
-        "timestamp": "2017-04-20T13:35:22+03:00"
-    },
-    {
         "id": "f2bc354a-f5e1-4f22-92e0-6e6ee5276bf1",
         "start": "2017-04-20 17:00",
         "end": "2017-04-20 18:00",
@@ -1078,5 +1068,15 @@
         "prod": "Jaketus",
         "desc": "Aiheet, joista Juicen mukaan oli mielek\u00e4st\u00e4 tehd\u00e4 sanoituksia: ihminen, ihminen ja toinen ihminen, ihminen ja yhteiskunta sek\u00e4 ihminen ja uskonto.\r\n\r\nSuomenkielisen rap-musiikin erikoisohjelmat Wappuradiossa aloittanut Pikku Huopalahden kirjallisuusseura sukeltaa t\u00e4ll\u00e4 kerralla ehk\u00e4 suomirockin legendaarisimman sanoittajan, Juice Leskisen, tuotantoon. Kaksi kertaa kaksituntinen ohjelma raottaa suomirockin syntyhistorian verhoa, sukeltaa syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n ja ilottelee kevyemm\u00e4n tuotannon kanssa.\r\n\r\nOhjelma ei ole harvinaisimpien b-puolien soittamista, mutta studioon otetaan mukaan my\u00f6s muutakin kuin vain Kautta aikain. Kaiken kaikkiaan tavoitteena on toisen l\u00e4hetyksen p\u00e4\u00e4tytty\u00e4 pysty\u00e4 toteamaan, ett\u00e4 se oli jautaa.",
         "timestamp": "2017-04-23T19:09:43+03:00"
+    },
+    {
+        "id": "620995e0-58e6-42c5-95a8-c46f19aec664",
+        "start": "2017-04-29 14:00",
+        "end": "2017-04-29 16:00",
+        "title": "Herkk\u00e4 hetki",
+        "host": "AnRai, zordiack, Puh",
+        "prod": "zar",
+        "desc": "Herkk\u00e4 Hetki haluaa tiet\u00e4\u00e4 mik\u00e4 biisi on juuri Sinulle t\u00e4rke\u00e4 ja miksi!\r\nTuoko Pink Floyd el\u00e4v\u00e4sti mieleen suurimman teinirakkautesi tai lohduttaako Popeda surun hetkell\u00e4?\r\nKerro meille, mik\u00e4 kappale on sinulle tavalla tai toisella erityinen sek\u00e4 biisiin liittyv\u00e4 tarina lomakkeemme kautta: \r\n<a href=\"https:\/\/tinyurl.com\/herkkahetki2017\" target=\"_blank\">https:\/\/tinyurl.com\/herkkahetki2017<\/a>",
+        "timestamp": "2017-04-24T07:05:40+03:00"
     }
 ]
