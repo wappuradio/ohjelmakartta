@@ -1,17 +1,5 @@
 [
     {
-        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
-        "start": "2018-04-17T14:00:00+03:00",
-        "end": "2018-04-17T18:00:00+03:00",
-        "title": "Alkushow",
-        "host": "Veli-V, Rocka",
-        "prod": "zeppe",
-        "desc": "",
-        "timestamp": "2018-03-05T11:10:19+02:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow-fs8.png"
-    },
-    {
         "id": "c18c8f1c-ac76-4d9a-97f9-3fb8d2fdd1e6",
         "start": "2018-04-20T19:00:00+03:00",
         "end": "2018-04-20T21:00:00+03:00",
@@ -22,5 +10,77 @@
         "timestamp": "2018-03-29T00:43:19+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/echoshow-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/echoshow-fs8.png"
+    },
+    {
+        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
+        "start": "2018-04-17T14:00:00+03:00",
+        "end": "2018-04-17T18:00:00+03:00",
+        "title": "Alkushow",
+        "host": "Veli-V, Rocka",
+        "prod": "zeppe",
+        "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
+        "timestamp": "2018-03-31T20:23:11+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow-fs8.png"
+    },
+    {
+        "id": "9499dcb1-90f4-46df-a40d-0ae771a18a39",
+        "start": "2018-04-17T22:00:00+03:00",
+        "end": "2018-04-18T00:00:00+03:00",
+        "title": "SAMPLERADIO",
+        "host": "Ilkka, Antti",
+        "prod": "Alexander",
+        "desc": "Sampleradio pureutuu samplaukseen ja n\u00e4ytt\u00e4\u00e4 miten musiikki taipuu tuottajan k\u00e4siss\u00e4 aivan uuteen muotoon sopivalla leikkelyll\u00e4. Ohjelma kaivautuu hittibiisien, elektronisen musiikin ja suomir\u00e4pin taustoihin paljastaen niiden kauneimmat ja j\u00e4m\u00e4kimm\u00e4t samplet, ja saattaa muuttaa k\u00e4sityksesi musiikista j\u00e4rk\u00e4lesm\u00e4isesti.",
+        "timestamp": "2018-03-31T20:49:01+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio-fs8.png"
+    },
+    {
+        "id": "1cc81805-4291-4182-9f16-f04a0e989e02",
+        "start": "2018-04-19T22:00:00+03:00",
+        "end": "2018-04-20T00:00:00+03:00",
+        "title": "SAMPLERADIO",
+        "host": "Ilkka, Antti",
+        "prod": "Alexander",
+        "desc": "Sampleradio pureutuu samplaukseen ja n\u00e4ytt\u00e4\u00e4 miten musiikki taipuu tuottajan k\u00e4siss\u00e4 aivan uuteen muotoon sopivalla leikkelyll\u00e4. Ohjelma kaivautuu hittibiisien, elektronisen musiikin ja suomir\u00e4pin taustoihin paljastaen niiden kauneimmat ja j\u00e4m\u00e4kimm\u00e4t samplet, ja saattaa muuttaa k\u00e4sityksesi musiikista j\u00e4rk\u00e4lesm\u00e4isesti.",
+        "timestamp": "2018-03-31T20:49:48+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio-fs8.png"
+    },
+    {
+        "id": "bec1cefb-4f8c-4626-a8f9-31e9e75c2fb6",
+        "start": "2018-04-28T00:00:00+03:00",
+        "end": "2018-04-28T07:00:00+03:00",
+        "title": "Ompeluseura",
+        "host": "Ilkka, Aleksi, Lauri, Henri, Jaakko",
+        "prod": "Arttu ja mutsku",
+        "desc": "Ep\u00e4viralliset painin Euroopan-mestaruuskilpailut 1902 pidettiin Haagissa, Alankomaissa. Voittajaksi selviytyi Tanskan Hans Heinrich Egeberg. T\u00e4ll\u00e4 tiedolla ei ole mit\u00e4\u00e4n tekemist\u00e4 Ompeluseuran y\u00f6radion kanssa. Ompeluseuran kirjava porukka nimitt\u00e4in viihdytt\u00e4\u00e4 radiokansaa y\u00f6n yli niin genrerajat kuin perinteiset puheenaiheetkin rikkoen ja ne taas uudelleen kokoon parsien. Pakkaa ulottuvuutesi, heit\u00e4 rinkkasi ikkunasta ja asettaudu kuuntelemaan.",
+        "timestamp": "2018-03-31T21:04:00+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ompeluseura-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ompeluseura-fs8.png"
+    },
+    {
+        "id": "c30b0251-ce3c-4eda-b251-b261b92d2d48",
+        "start": "2018-04-21T07:00:00+03:00",
+        "end": "2018-04-21T09:00:00+03:00",
+        "title": "Alkulukupiiri",
+        "host": "Kouri + kouri",
+        "prod": "",
+        "desc": "Luonnollinen lukuel\u00e4mys aamun kahtena kummallisimpana tuntina. Irtaudu kehostasi, sukella irrationaalisen lukupiirin syvyyksiin ja opi uusia asioita itsest\u00e4si, maailmankaikkeudesta ja ruoanlaitosta.  Lukupiiriss\u00e4 perehdymme yhdess\u00e4 monipuolisiin teksteihin, kuten kirjallisuuden merkkiteoksiin, erotiikkaan ja kuvakirjoihin. Luvassa on my\u00f6s lukemattomia musiikkikappaleita. ",
+        "timestamp": "2018-03-31T21:09:05+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkulukupiiri-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkulukupiiri-fs8.png"
+    },
+    {
+        "id": "45f0185f-bd93-4a10-8620-26dd8af8e35a",
+        "start": "2018-04-20T21:00:00+03:00",
+        "end": "2018-04-21T00:00:00+03:00",
+        "title": "Sceneradio",
+        "host": "Spiikki, Poro, Exca",
+        "prod": "Vuokko",
+        "desc": "Sceneradio soittaa j\u00e4lleen kerran sidinsekaisia sointuja perjantai-illan ratoksi. Luvassa vauhdikasta musiikkia vanhalla ja hieman uudemmallakin raudalla menneen vuoden scenekatsauksen lis\u00e4ksi. Lis\u00e4tietoja osoitteessa <a href=\"https:\/\/wappuradio.fi\/sceneradio\">wappuradio.fi\/sceneradio<\/a>",
+        "timestamp": "2018-03-31T21:16:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sceneradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sceneradio-fs8.png"
     }
 ]
