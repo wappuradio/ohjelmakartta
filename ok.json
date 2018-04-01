@@ -68,5 +68,15 @@
         "prod": "Vuokko",
         "desc": "Sceneradio soittaa j\u00e4lleen kerran sidinsekaisia sointuja perjantai-illan ratoksi. Luvassa vauhdikasta musiikkia vanhalla ja hieman uudemmallakin raudalla menneen vuoden scenekatsauksen lis\u00e4ksi. Lis\u00e4tietoja osoitteessa <a href=\"https:\/\/wappuradio.fi\/sceneradio\">wappuradio.fi\/sceneradio<\/a>",
         "timestamp": "2018-03-31T21:16:23+03:00"
+    },
+    {
+        "id": "39eda505-76fc-4903-9092-63da4c47dc19",
+        "start": "2018-04-24 20:00",
+        "end": "2018-04-25 00:00",
+        "title": "Rytmimuna 5v Juhlal\u00e4hetys",
+        "host": "Mikko, Ilmari",
+        "prod": "PunaJussi",
+        "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin erityisohjelma on saavuttanut kyps\u00e4n 5 vuoden i\u00e4n. T\u00e4ll\u00e4 kertaa k\u00e4yd\u00e4\u00e4n l\u00e4pi mm. syv\u00e4 luotaus Pietarin hardbass-skeneen ja muistellaan mit\u00e4 siell\u00e4 Pietarissa tapahtuikaan.",
+        "timestamp": "2018-04-01T11:29:20+03:00"
     }
 ]
