@@ -94,5 +94,29 @@
         "timestamp": "2018-04-01T11:29:20+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/rytmimuna5vjuhlalahetys-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rytmimuna5vjuhlalahetys-fs8.png"
+    },
+    {
+        "id": "cec7c669-cec9-4806-88e8-3aac790c602b",
+        "start": "2018-04-26T14:00:00+03:00",
+        "end": "2018-04-26T16:00:00+03:00",
+        "title": "Arvostelutoimisto",
+        "host": "Pyry, Janne, Patrik",
+        "prod": "Tuulia",
+        "desc": "Arvioinnin asiantuntijoiden Pyryn, Jannen ja Patrikin k\u00e4siss\u00e4 mik\u00e4\u00e4n ei ole arviointiasteikon ulottumattomissa. Kahden tunnin ajan Arvostelutoimisto arvostelee mit\u00e4 vain, sill\u00e4 kaikki on arvioitavissa. ",
+        "timestamp": "2018-04-01T22:01:24+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto-fs8.png"
+    },
+    {
+        "id": "d437b470-96b8-4fb6-b858-3cf0c6f8a506",
+        "start": "2018-04-27T14:00:00+03:00",
+        "end": "2018-04-27T16:00:00+03:00",
+        "title": "Arvostelutoimisto",
+        "host": "Pyry, Janne, Patrik",
+        "prod": "Tuulia",
+        "desc": "Arvioinnin asiantuntijoiden Pyryn, Jannen ja Patrikin k\u00e4siss\u00e4 mik\u00e4\u00e4n ei ole arviointiasteikon ulottumattomissa. Kahden tunnin ajan Arvostelutoimisto arvostelee mit\u00e4 vain, sill\u00e4 kaikki on arvioitavissa. ",
+        "timestamp": "2018-04-01T22:01:48+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto-fs8.png"
     }
 ]
