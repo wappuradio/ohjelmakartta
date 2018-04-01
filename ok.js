@@ -41,7 +41,8 @@ jQuery(function() {
         editable: true,
         selectable: true,
         selectHelper: true,
-        unselectAuto: false,
+        unselectAuto: true,
+        unselectCancel: 'input, textarea',
         select: function (start, end, jsEvent, view) {
             jQuery('#lisaa')[0].reset();
             jQuery('#ohjelmakartta [name=start]').val(moment(start).format('YYYY-MM-DD HH:mm'));
