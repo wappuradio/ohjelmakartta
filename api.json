@@ -142,5 +142,17 @@
         "timestamp": "2018-04-02T17:00:16+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/nykyaikaonpilannuthistorianluddiittienyoradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nykyaikaonpilannuthistorianluddiittienyoradio-fs8.png"
+    },
+    {
+        "id": "ac3f1871-c008-4c36-b9a1-312c11946c99",
+        "start": "2018-04-29T09:00:00+03:00",
+        "end": "2018-04-29T11:00:00+03:00",
+        "title": "Sana-analyysi",
+        "host": "Saze & Miikmii",
+        "prod": "Alexander",
+        "desc": "Millainen on ananas sanana?\r\nT\u00e4h\u00e4n ja moneen muuhun suomen kielen mielenkiintoiseen koukeroon l\u00f6yd\u00e4t vastauksia, tai v\u00e4hint\u00e4\u00e4n pohdintaa kahden asiaan perehtym\u00e4tt\u00f6m\u00e4n teekkarin suusta. Korvat h\u00f6r\u00f6lle ja miettim\u00e4\u00e4n mik\u00e4\/kuka on h\u00f6r\u00f6.\r\nSoitamme genreen katsomatta musiikkia, jonka sanat tai sanoitukset ovat ohjelman teemaan sopivia.",
+        "timestamp": "2018-04-02T17:57:11+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sana-analyysi-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sana-analyysi-fs8.png"
     }
 ]
