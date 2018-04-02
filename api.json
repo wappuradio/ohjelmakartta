@@ -118,5 +118,29 @@
         "timestamp": "2018-04-01T22:01:48+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto-fs8.png"
+    },
+    {
+        "id": "d1cbed81-8e16-4ad8-b5fe-364010593e46",
+        "start": "2018-04-29T07:00:00+03:00",
+        "end": "2018-04-29T09:00:00+03:00",
+        "title": "Nousukiito",
+        "host": "Ilmailukerho Albatross, Severi M\u00e4kel\u00e4",
+        "prod": "Jarno Tuokkola",
+        "desc": "Rankan y\u00f6n j\u00e4lkeen aloitetaan aamu l\u00e4htem\u00e4ll\u00e4 nousukiitoon Albatrossin siivitt\u00e4m\u00e4n\u00e4. Ensimm\u00e4ist\u00e4 kertaa Teekkarien Ilmailukerho Albatross on laskeutunut Wappuradion ohjelmakartalle tekem\u00e4\u00e4n omaa asiapitoista ohjelmaa. Kuunnellaan ilmailuaiheista musiikkia, v\u00e4itell\u00e4\u00e4n Hornettien seuraajasta ja tulevaisuuden lentolaitteista sek\u00e4 muistellaan menneit\u00e4 vuosisatoja kun miehet oli rautaa ja lentokoneet laivantekoaineesta tehty.",
+        "timestamp": "2018-04-02T16:55:01+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousukiito-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousukiito-fs8.png"
+    },
+    {
+        "id": "97fe510a-4136-401b-b942-8a92e53aa73a",
+        "start": "2018-04-20T00:00:00+03:00",
+        "end": "2018-04-20T07:00:00+03:00",
+        "title": "Nykyaika on pilannut historian: Luddiittien y\u00f6radio",
+        "host": "Juho Aarikka, Max Liikka, Lauri Ikola, Tapio Aropaltio",
+        "prod": "Jaakko Airasmaa",
+        "desc": "Nykyaika on pilannut maailman. Ennen kaikki oli paremmin ja nykyajassa hyv\u00e4\u00e4 on p\u00e4\u00e4osin ei mik\u00e4\u00e4n.\r\nKoska n\u00e4m\u00e4 vanhat hyv\u00e4t ajat sitten olivat ja miten ne olivat parempia kuin mik\u00e4\u00e4n nyky\u00e4\u00e4n aikaansaatu r\u00e4pelt\u00e4minen? T\u00e4h\u00e4n polttavaan kysymykseen vastaa Tampereen yliopiston historian opiskelijat, jotka ovat ovat el\u00e4m\u00e4ns\u00e4 pyhitt\u00e4neet menneisyyden hekumoimiselle ja nykyajan parjaamiselle. Onko meill\u00e4 siis mit\u00e4\u00e4n toivoa? T\u00e4h\u00e4n ja moneen muuhun kysymykseen vastataan Luddiittien y\u00f6radiossa.",
+        "timestamp": "2018-04-02T17:00:16+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nykyaikaonpilannuthistorianluddiittienyoradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nykyaikaonpilannuthistorianluddiittienyoradio-fs8.png"
     }
 ]
