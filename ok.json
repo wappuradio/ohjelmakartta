@@ -138,5 +138,25 @@
         "prod": "Teemu Nuorteva",
         "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska tieto on valtaa. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
         "timestamp": "2018-04-03T17:08:55+03:00"
+    },
+    {
+        "id": "eb12d636-ac40-46c2-8793-0f560e69b82d",
+        "start": "2018-04-17 20:00",
+        "end": "2018-04-17 22:00",
+        "title": "Jussi Kangas goes Radio",
+        "host": "Jussi Kangas",
+        "prod": "Manty",
+        "desc": "Vuosittainen erikoisl\u00e4hetys. Yliopisto-opettaja horisee ja soittaa nuorisomusiikkia...tai siis entisten nuorten nuorisomusiikkia.",
+        "timestamp": "2018-04-04T18:44:21+03:00"
+    },
+    {
+        "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
+        "start": "2018-04-21 20:00",
+        "end": "2018-04-21 22:00",
+        "title": "Jussi ja humanisti",
+        "host": "Jussi & Camilla",
+        "prod": "Manty",
+        "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 22. ",
+        "timestamp": "2018-04-04T18:48:31+03:00"
     }
 ]
