@@ -298,5 +298,17 @@
         "timestamp": "2018-04-05T10:30:57+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
+    },
+    {
+        "id": "8fa46798-468d-43b8-ae69-edcb46729853",
+        "start": "2018-04-30T09:00:00+03:00",
+        "end": "2018-04-30T11:00:00+03:00",
+        "title": "Kyseess\u00e4 on teekkarij\u00e4yn\u00e4",
+        "host": "reimann",
+        "prod": "Lahis???",
+        "desc": "Yli 50 vuotta sitten nostetiin esiin Wasa-laiva koristeenaan Paavo Nurmi. Kuitenkin j\u00e4yni\u00e4 on olemassa monen monta erilaista viel\u00e4 lis\u00e4\u00e4, aina Tampereen sukellusveneeseen asti. Tutustu, mit\u00e4 j\u00e4yni\u00e4 teekkarit ovat ehtineet tehd\u00e4 vuosien saatossa, olivat ne sitten kyseess\u00e4 hyvi\u00e4 tai huonoja. Miten j\u00e4yn\u00e4\u00e4minen on vaikuttanut teekkarikulttuuriin ja sen muotoutumiseen?",
+        "timestamp": "2018-04-05T11:27:13+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kyseessaonteekkarijayna-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kyseessaonteekkarijayna-fs8.png"
     }
 ]
