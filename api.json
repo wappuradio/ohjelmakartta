@@ -264,42 +264,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kvanttipuu5-pelinjohtajalakkoileetakaisin-fs8.png"
     },
     {
-        "id": "9682607c-3b79-45e5-b967-45101b1c4e98",
-        "start": "2018-04-21T09:00:00+03:00",
-        "end": "2018-04-21T11:00:00+03:00",
-        "title": "AamuTilaRadio",
-        "host": "Lotta ja Cecilia",
-        "prod": "????",
-        "desc": "",
-        "timestamp": "2018-04-05T10:29:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
-    },
-    {
-        "id": "2d53eb52-72f2-40c6-99f0-535cde0ef233",
-        "start": "2018-04-22T09:00:00+03:00",
-        "end": "2018-04-22T11:00:00+03:00",
-        "title": "AamuTilaRadio",
-        "host": "Lotta ja Cecilia",
-        "prod": "????",
-        "desc": "",
-        "timestamp": "2018-04-05T10:30:35+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
-    },
-    {
-        "id": "a95ce34c-ab22-4056-969b-b5b089ddcc8c",
-        "start": "2018-04-28T09:00:00+03:00",
-        "end": "2018-04-28T11:00:00+03:00",
-        "title": "AamuTilaRadio",
-        "host": "Lotta ja Cecilia",
-        "prod": "????",
-        "desc": "",
-        "timestamp": "2018-04-05T10:30:57+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
-    },
-    {
         "id": "8fa46798-468d-43b8-ae69-edcb46729853",
         "start": "2018-04-30T09:00:00+03:00",
         "end": "2018-04-30T11:00:00+03:00",
@@ -334,5 +298,41 @@
         "timestamp": "2018-04-05T18:36:49+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessions-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessions-fs8.png"
+    },
+    {
+        "id": "9682607c-3b79-45e5-b967-45101b1c4e98",
+        "start": "2018-04-21T09:00:00+03:00",
+        "end": "2018-04-21T11:00:00+03:00",
+        "title": "AamuTilaRadio",
+        "host": "Lotta ja Cecilia",
+        "prod": "Alexander Lindholm",
+        "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
+        "timestamp": "2018-04-05T21:03:41+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
+    },
+    {
+        "id": "2d53eb52-72f2-40c6-99f0-535cde0ef233",
+        "start": "2018-04-22T09:00:00+03:00",
+        "end": "2018-04-22T11:00:00+03:00",
+        "title": "AamuTilaRadio",
+        "host": "Lotta ja Cecilia",
+        "prod": "Alexander Lindholm",
+        "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
+        "timestamp": "2018-04-05T21:03:45+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
+    },
+    {
+        "id": "a95ce34c-ab22-4056-969b-b5b089ddcc8c",
+        "start": "2018-04-28T09:00:00+03:00",
+        "end": "2018-04-28T11:00:00+03:00",
+        "title": "AamuTilaRadio",
+        "host": "Lotta ja Cecilia",
+        "prod": "Alexander Lindholm",
+        "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
+        "timestamp": "2018-04-05T21:03:51+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio-fs8.png"
     }
 ]
