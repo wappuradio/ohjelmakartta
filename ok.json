@@ -180,36 +180,6 @@
         "timestamp": "2018-04-04T20:42:04+03:00"
     },
     {
-        "id": "0176e5a5-d3cf-4677-96e1-ddd93e094f1e",
-        "start": "2018-04-23 14:00",
-        "end": "2018-04-23 16:00",
-        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
-        "host": "Sami Rissanen ja Juha Tiihonen",
-        "prod": "",
-        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
-        "timestamp": "2018-04-04T23:13:57+03:00"
-    },
-    {
-        "id": "c8d08932-0982-4d9c-a114-562d0a3dec69",
-        "start": "2018-04-24 14:00",
-        "end": "2018-04-24 16:00",
-        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
-        "host": "Sami Rissanen ja Juha Tiihonen",
-        "prod": "",
-        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
-        "timestamp": "2018-04-04T23:14:03+03:00"
-    },
-    {
-        "id": "0c874821-b4ad-4bf9-acf5-544adf225f24",
-        "start": "2018-04-25 14:00",
-        "end": "2018-04-25 16:00",
-        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
-        "host": "Sami Rissanen ja Juha Tiihonen",
-        "prod": "",
-        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
-        "timestamp": "2018-04-04T23:14:16+03:00"
-    },
-    {
         "id": "f9e8355d-cc8c-4786-8318-ae21c49e539d",
         "start": "2018-04-23 00:00",
         "end": "2018-04-23 07:00",
@@ -278,5 +248,35 @@
         "prod": "Alexander Lindholm",
         "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
         "timestamp": "2018-04-05T21:03:51+03:00"
+    },
+    {
+        "id": "0176e5a5-d3cf-4677-96e1-ddd93e094f1e",
+        "start": "2018-04-23 14:00",
+        "end": "2018-04-23 16:00",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Sami Rissanen ja Juha Tiihonen",
+        "prod": "Sarppa",
+        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
+        "timestamp": "2018-04-05T22:56:33+03:00"
+    },
+    {
+        "id": "c8d08932-0982-4d9c-a114-562d0a3dec69",
+        "start": "2018-04-24 14:00",
+        "end": "2018-04-24 16:00",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Sami Rissanen ja Juha Tiihonen",
+        "prod": "Sarppa",
+        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
+        "timestamp": "2018-04-05T22:56:33+03:00"
+    },
+    {
+        "id": "0c874821-b4ad-4bf9-acf5-544adf225f24",
+        "start": "2018-04-25 14:00",
+        "end": "2018-04-25 16:00",
+        "title": "T\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tutkija",
+        "host": "Sami Rissanen ja Juha Tiihonen",
+        "prod": "Sarppa",
+        "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
+        "timestamp": "2018-04-05T22:56:35+03:00"
     }
 ]
