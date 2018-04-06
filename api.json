@@ -454,5 +454,53 @@
         "timestamp": "2018-04-06T16:57:33+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit-fs8.png"
+    },
+    {
+        "id": "7faa4f7d-5471-410d-8aa3-24c7ca17ca4b",
+        "start": "2018-04-18T15:00:00+03:00",
+        "end": "2018-04-18T17:00:00+03:00",
+        "title": "Feel Good Radio",
+        "host": "Tytti, Janne, Birhanu",
+        "prod": "JSuvanto",
+        "desc": "Are you feeling blue?\r\nHaven't found the wappu spirit yet?\r\nWe'll bring the sunshine and make you FEEL GOOD. Just float on our warm radio waves and immerse yourself into the music, culture and relaxing atmosphere with our hosts Tytti (Yl\u00f6j\u00e4rvi), Janne (Tampere) and Birhanu (Addis Abeba).",
+        "timestamp": "2018-04-06T17:37:21+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradio-fs8.png"
+    },
+    {
+        "id": "073bb09c-12d4-4f18-a363-bd6c4eb24a4e",
+        "start": "2018-04-21T11:00:00+03:00",
+        "end": "2018-04-21T13:00:00+03:00",
+        "title": "Feel Good Radio",
+        "host": "Tytti, Janne, Birhanu",
+        "prod": "Joona",
+        "desc": "Are you feeling blue?\r\nHaven't found the wappu spirit yet?\r\nWe'll bring the sunshine and make you FEEL GOOD. Just float on our warm radio waves and immerse yourself into the music, culture and relaxing atmosphere with our hosts Tytti (Yl\u00f6j\u00e4rvi), Janne (Tampere) and Birhanu (Addis Abeba).",
+        "timestamp": "2018-04-06T17:40:09+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradio-fs8.png"
+    },
+    {
+        "id": "c6d48b0f-242c-47e1-904c-2215a5131570",
+        "start": "2018-04-24T00:00:00+03:00",
+        "end": "2018-04-24T07:00:00+03:00",
+        "title": "Yksi n\u00e4ist\u00e4",
+        "host": "Timo Virtanen",
+        "prod": "KukaKumma",
+        "desc": "Asiaa yksin\u00e4isyydest\u00e4. Tulkittua tiedett\u00e4, merkitsev\u00e4\u00e4 musiikkia ja avartavia anekdootteja. Ohjelman p\u00e4\u00e4tytty\u00e4 hiljainen tovi yksin\u00e4isyydess\u00e4 tuntuukin hetken ihan hyv\u00e4lt\u00e4.",
+        "timestamp": "2018-04-06T17:50:10+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/yksinaista-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yksinaista-fs8.png"
+    },
+    {
+        "id": "5219ab70-2ebe-4661-babe-efe4ce0cfa91",
+        "start": "2018-04-23T22:00:00+03:00",
+        "end": "2018-04-24T00:00:00+03:00",
+        "title": "Jumipuisto",
+        "host": "Ansse",
+        "prod": "",
+        "desc": "Huminaa, kuminaa ja jumitusta. Wapun wuoristoradan jarrumies tarjoilee annoksen rauhoittavia s\u00e4hk\u00f6isi\u00e4 \u00e4\u00e4ni\u00e4 vastal\u00e4\u00e4kkeeksi vauhdikkaalle juhlinnalle.",
+        "timestamp": "2018-04-06T18:11:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jumipuisto-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jumipuisto-fs8.png"
     }
 ]
