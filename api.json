@@ -826,5 +826,29 @@
         "timestamp": "2018-04-06T23:12:53+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio-fs8.png"
+    },
+    {
+        "id": "5fe524d4-0ea7-4b50-b08d-80fa71c2be12",
+        "start": "2018-04-26T22:00:00+03:00",
+        "end": "2018-04-27T00:00:00+03:00",
+        "title": "Sinkkumutsin p\u00e4iv\u00e4kirjat",
+        "host": "Petra",
+        "prod": "Veli-V",
+        "desc": "Suoraa puhetta suhteista ja niiden puutteesta.",
+        "timestamp": "2018-04-06T23:30:44+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sinkkumutsinpaivakirjat-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sinkkumutsinpaivakirjat-fs8.png"
+    },
+    {
+        "id": "a3647b95-ceb6-4856-9993-1a305f4a918e",
+        "start": "2018-04-29T22:00:00+03:00",
+        "end": "2018-04-30T00:00:00+03:00",
+        "title": "Lopunajan vinyyliklubi",
+        "host": "Juha, Ville ja Joni",
+        "prod": "Juho",
+        "desc": "K\u00e4\u00e4nteentekev\u00e4n melankolahtava \u2013 joskin puolihuolimattoman lopullinen \u2013 my\u00f6h\u00e4isillan teehetki.",
+        "timestamp": "2018-04-06T23:52:01+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lopunajanvinyyliklubi-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lopunajanvinyyliklubi-fs8.png"
     }
 ]
