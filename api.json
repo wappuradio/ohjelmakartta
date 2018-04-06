@@ -370,5 +370,17 @@
         "timestamp": "2018-04-06T13:45:50+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/howtoenglish-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/howtoenglish-fs8.png"
+    },
+    {
+        "id": "22709966-5c05-464f-ad7d-5fbbb1d26a84",
+        "start": "2018-04-25T16:00:00+03:00",
+        "end": "2018-04-25T18:00:00+03:00",
+        "title": "Yhteiskunnallisen musiikin eritt\u00e4in lyhyt historia",
+        "host": "Hanne & Ilmo",
+        "prod": "dodo",
+        "desc": "Keskustelemme ja analysoimme tapoja, joilla anglo-amerikkalainen musiikki on ottanut kantaa yhteiskunnallisiin tapahtumiin mm. Vietnamin sodasta, Watergatesta, Nelson Mandelasta ja kaupunkien ongelmista. Sis\u00e4lt\u00e4\u00e4 Meanwhile in Finland -osion, joka k\u00e4sittelee Suomen tilannetta ja sen innoittamaa musiikkia.",
+        "timestamp": "2018-04-06T15:15:16+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/yhteiskunnallisenmusiikinerittainlyhythistoria-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yhteiskunnallisenmusiikinerittainlyhythistoria-fs8.png"
     }
 ]
