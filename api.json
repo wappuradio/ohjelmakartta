@@ -622,5 +622,41 @@
         "timestamp": "2018-04-06T20:12:27+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus-fs8.png"
+    },
+    {
+        "id": "dd5608c8-3a1f-4040-aab3-3d386b56cd01",
+        "start": "2018-04-29T13:00:00+03:00",
+        "end": "2018-04-29T15:00:00+03:00",
+        "title": "Wappuraatio",
+        "host": "Ruut",
+        "prod": "Jippu",
+        "desc": "Wappuraatiossa tutustutaan ker\u00e4ttyjen haastatteluiden kautta vapun kaltaisiin muihin kev\u00e4\u00e4n korvilla vietettyihin puistokesteihin muualla Euroopassa.",
+        "timestamp": "2018-04-06T20:24:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuraatio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuraatio-fs8.png"
+    },
+    {
+        "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
+        "start": "2018-04-18T17:00:00+03:00",
+        "end": "2018-04-18T19:00:00+03:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Jaakko Airasmaa",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-06T20:32:22+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
+    },
+    {
+        "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
+        "start": "2018-04-25T18:00:00+03:00",
+        "end": "2018-04-25T20:00:00+03:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Jaakko Airasmaa",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-06T20:34:12+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
     }
 ]
