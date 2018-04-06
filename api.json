@@ -156,18 +156,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sana-analyysi-fs8.png"
     },
     {
-        "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
-        "start": "2018-04-21T20:00:00+03:00",
-        "end": "2018-04-21T22:00:00+03:00",
-        "title": "Jussi ja humanisti",
-        "host": "Jussi & Camilla",
-        "prod": "Manty",
-        "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 22. ",
-        "timestamp": "2018-04-04T18:48:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti-fs8.png"
-    },
-    {
         "id": "f9e8355d-cc8c-4786-8318-ae21c49e539d",
         "start": "2018-04-23T00:00:00+03:00",
         "end": "2018-04-23T07:00:00+03:00",
@@ -850,5 +838,41 @@
         "timestamp": "2018-04-06T23:52:01+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/lopunajanvinyyliklubi-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lopunajanvinyyliklubi-fs8.png"
+    },
+    {
+        "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
+        "start": "2018-04-21T18:00:00+03:00",
+        "end": "2018-04-21T20:00:00+03:00",
+        "title": "Jussi ja humanisti",
+        "host": "Jussi & Camilla",
+        "prod": "Manty",
+        "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 20. ",
+        "timestamp": "2018-04-07T00:42:26+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti-fs8.png"
+    },
+    {
+        "id": "07137425-578e-4231-a603-207dd11942d4",
+        "start": "2018-04-18T13:00:00+03:00",
+        "end": "2018-04-18T15:00:00+03:00",
+        "title": "Euroopan myytinmurtajat",
+        "host": "Lauri Ikola, Henna Levova, Aleksi Kivimaa ja Laura Saarinen",
+        "prod": "Teemu Nuorteva",
+        "desc": "Suomen ainoa EU-myytinmurtajaradio, jota kuullaan keskiviikkona 18.4 klo 13-15. Tampereen Eurooppanuoret murtavat EU:hun liittyvi\u00e4 harhaluuloja, soittavat enemm\u00e4n tai v\u00e4hemm\u00e4n Eurooppa-aiheisia biisej\u00e4 ja kisailevat myyttien parissa kahden tunnin ajan. T\u00e4t\u00e4 et halua missata!  ",
+        "timestamp": "2018-04-07T00:55:36+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroopanmyytinmurtajat-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroopanmyytinmurtajat-fs8.png"
+    },
+    {
+        "id": "6fd7b4fc-2918-471b-bcf5-6ff28e8b5d72",
+        "start": "2018-04-28T11:00:00+03:00",
+        "end": "2018-04-28T13:00:00+03:00",
+        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
+        "host": "Lorens",
+        "prod": "Jaketus",
+        "desc": "Kun iskelm\u00e4n aiheuttamista lapsuustraumoista on kulunut tarpeeksi kauan, on aika palata niihin kahden tunnin terapiasession verran. Laita turvavy\u00f6 kiinni, pist\u00e4 korvalappustereot t\u00e4ysille ja vaivu takaisin takapenkin turvaistuimelle. T\u00e4m\u00e4 on aikamatka kappaleeseen kauheinta Suomea.",
+        "timestamp": "2018-04-07T00:59:15+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa-fs8.png"
     }
 ]
