@@ -382,5 +382,29 @@
         "timestamp": "2018-04-06T15:15:16+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/yhteiskunnallisenmusiikinerittainlyhythistoria-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yhteiskunnallisenmusiikinerittainlyhythistoria-fs8.png"
+    },
+    {
+        "id": "50ebccdb-960e-419e-8b43-8b05d034423f",
+        "start": "2018-04-28T13:00:00+03:00",
+        "end": "2018-04-28T15:00:00+03:00",
+        "title": "Contains Strong Language: Englannin kielen ruokottomien ilmaisujen historiaa",
+        "host": "Hanne & Ilmo",
+        "prod": "dodo",
+        "desc": "K\u00e4sittelemme englannin kielen rumia, alatyylisi\u00e4 ja h\u00e4rskej\u00e4 sanoja ja sanontoja. Esittelemme niiden historiaa ja k\u00e4ytt\u00f6\u00e4 ja yleisesti kiroilemme radiossa kolmannella kotimaisella.",
+        "timestamp": "2018-04-06T15:17:18+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaa-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaa-fs8.png"
+    },
+    {
+        "id": "bed9c238-641b-4f0f-864a-dc02f0567a74",
+        "start": "2018-04-28T07:00:00+03:00",
+        "end": "2018-04-28T09:00:00+03:00",
+        "title": "Nousevan auringon maan aamu",
+        "host": "taQtaQ, mPioin, FireFlower, Lahis",
+        "prod": "FireFlower",
+        "desc": "Katseiden k\u00e4\u00e4ntyess\u00e4 auringonnousuun tulee TTY:n anime- ja mangakerho HeNTAi taas pirist\u00e4m\u00e4\u00e4n Wappuviikon lauantaiaamuanne. Tarjolla on menev\u00e4\u00e4 japanilaista populaarimusiikkia ja keskustelua japanilaisen animation syvimm\u00e4st\u00e4 olemuksesta.",
+        "timestamp": "2018-04-06T16:07:09+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousevanauringonmaanaamu-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousevanauringonmaanaamu-fs8.png"
     }
 ]
