@@ -418,5 +418,105 @@
         "prod": "",
         "desc": "Huminaa, kuminaa ja jumitusta. Wapun wuoristoradan jarrumies tarjoilee annoksen rauhoittavia s\u00e4hk\u00f6isi\u00e4 \u00e4\u00e4ni\u00e4 vastal\u00e4\u00e4kkeeksi vauhdikkaalle juhlinnalle.",
         "timestamp": "2018-04-06T18:11:23+03:00"
+    },
+    {
+        "id": "0831ce76-afe4-4506-9f71-33bde00f683f",
+        "start": "2018-04-18 07:00",
+        "end": "2018-04-18 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:50:18+03:00"
+    },
+    {
+        "id": "fcac3fbb-15a1-4a14-9d04-a59b35e4a5e8",
+        "start": "2018-04-19 07:00",
+        "end": "2018-04-19 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:50:44+03:00"
+    },
+    {
+        "id": "3170aa49-0e51-486e-aa89-ffc2fb24021e",
+        "start": "2018-04-20 07:00",
+        "end": "2018-04-20 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:50:50+03:00"
+    },
+    {
+        "id": "e66bce5c-e2d9-4146-97be-cce5f013350e",
+        "start": "2018-04-23 07:00",
+        "end": "2018-04-23 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:51:18+03:00"
+    },
+    {
+        "id": "151a8166-dba0-4b62-a84e-f8e5ab2b817b",
+        "start": "2018-04-24 07:00",
+        "end": "2018-04-24 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:51:24+03:00"
+    },
+    {
+        "id": "ddbce056-344e-47eb-ac49-af9cf8ac29db",
+        "start": "2018-04-25 07:00",
+        "end": "2018-04-25 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:51:27+03:00"
+    },
+    {
+        "id": "6361b404-96cd-456b-b19b-e639a0cb6a97",
+        "start": "2018-04-26 07:00",
+        "end": "2018-04-26 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:51:30+03:00"
+    },
+    {
+        "id": "30f9d209-61a7-4a7b-a83c-323a61a78324",
+        "start": "2018-04-27 07:00",
+        "end": "2018-04-27 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Minna, Ruut, Antti, Antti",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2018-04-06T18:51:59+03:00"
+    },
+    {
+        "id": "a79673f0-ced9-4f7e-bb22-5666ba49cb6c",
+        "start": "2018-05-22 00:00",
+        "end": "2018-05-22 07:00",
+        "title": "Synteettinen aallonpituus",
+        "host": "Tuomas ja Antti",
+        "prod": "",
+        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
+        "timestamp": "2018-04-06T19:08:23+03:00"
+    },
+    {
+        "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
+        "start": "2018-04-22 00:00",
+        "end": "2018-04-22 07:00",
+        "title": "Synteettinen aallonpituus",
+        "host": "Tuomas ja Antti",
+        "prod": "",
+        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
+        "timestamp": "2018-04-06T19:09:05+03:00"
     }
 ]
