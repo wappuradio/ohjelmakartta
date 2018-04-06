@@ -346,5 +346,29 @@
         "timestamp": "2018-04-06T10:37:48+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/jotainkosmista-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jotainkosmista-fs8.png"
+    },
+    {
+        "id": "1a02a812-3a70-42d0-aaca-5ffb54dc9ec8",
+        "start": "2018-04-27T16:00:00+03:00",
+        "end": "2018-04-27T18:00:00+03:00",
+        "title": "Puolitotuuksia Rockista",
+        "host": "Matti Moottori, Arttu Apupy\u00f6r\u00e4",
+        "prod": "zeppe",
+        "desc": "Mit\u00e4 Metallican Lars tilasi nakkikioskilla? Miksi Iron Maidenin Dave rakensi aikakoneen? Vastaus n\u00e4ihinkin kysymyksiin saattaa j\u00e4\u00e4d\u00e4 pime\u00e4n peittoon, kun Matti Moottori ja Arttu Apupy\u00f6r\u00e4 matkaavat kolmatta kertaa rockin ei-niin-faktuaaliseen maailmaan.",
+        "timestamp": "2018-04-06T13:43:38+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/puolitotuuksiarockista-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/puolitotuuksiarockista-fs8.png"
+    },
+    {
+        "id": "45cf59ef-8ac1-4604-bbf2-8b3a239094bb",
+        "start": "2018-04-29T18:00:00+03:00",
+        "end": "2018-04-29T20:00:00+03:00",
+        "title": "How to English",
+        "host": "Matrick & Patthew",
+        "prod": "zeppe",
+        "desc": "Takelteleeko kolmas kotimainen? Sunnuntai-iltap\u00e4iv\u00e4n opetusradiossa perehdyt\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6n englantiin musiikin ja havainnollistavien esimerkkien avulla. Kahden tunnin intensiivikurssin j\u00e4lkeen englanti on sinullekin easy nack! Tuutoreinasi toimivat Matti ja Petri, eli Matrick ja Patthew!",
+        "timestamp": "2018-04-06T13:45:50+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/howtoenglish-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/howtoenglish-fs8.png"
     }
 ]
