@@ -130,16 +130,6 @@
         "timestamp": "2018-04-02T17:57:11+03:00"
     },
     {
-        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
-        "start": "2018-04-23 16:00",
-        "end": "2018-04-23 18:00",
-        "title": "Wikiwappu",
-        "host": "William Lindbeg, Werneri Lindberg,Tuomas Tiainen",
-        "prod": "Teemu Nuorteva",
-        "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska tieto on valtaa. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
-        "timestamp": "2018-04-03T17:08:55+03:00"
-    },
-    {
         "id": "eb12d636-ac40-46c2-8793-0f560e69b82d",
         "start": "2018-04-17 20:00",
         "end": "2018-04-17 22:00",
@@ -548,5 +538,45 @@
         "prod": "Jaakko Airasmaa",
         "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
         "timestamp": "2018-04-06T20:34:12+03:00"
+    },
+    {
+        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
+        "start": "2018-04-23 16:00",
+        "end": "2018-04-23 18:00",
+        "title": "Wikiwappu",
+        "host": "William Lindbeg, Werneri Lindberg,Tuomas Tiainen",
+        "prod": "Teemu Nuorteva",
+        "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
+        "timestamp": "2018-04-06T21:38:40+03:00"
+    },
+    {
+        "id": "b2b8c027-d27b-4774-99b0-bed4fdfdf9cf",
+        "start": "2018-04-20 16:00",
+        "end": "2018-04-20 18:00",
+        "title": "Hyv\u00e4t uutiset ja s\u00e4\u00e4",
+        "host": "Petra & Jesse",
+        "prod": "m4rkka",
+        "desc": "Ei niin ajankohtainen keskusteluohjelma meit\u00e4 askarruttavista uutisista. Ylittyik\u00f6 uutiskynnys vai laskettiinko rimaa j\u00e4lleen? Kuuntele ja ota selv\u00e4\u00e4!",
+        "timestamp": "2018-04-06T21:52:46+03:00"
+    },
+    {
+        "id": "a45844eb-4ec8-4233-851c-5e7a72f80156",
+        "start": "2018-04-26 18:00",
+        "end": "2018-04-26 20:00",
+        "title": "Jonnet voi muistaa",
+        "host": "Lauri Mannila ja Aapo Honkakunnas",
+        "prod": "Alexander Lindholm",
+        "desc": "Muistatko viel\u00e4 millaista oli olla 12? Ei h\u00e4t\u00e4\u00e4, niin mekin! T\u00e4ss\u00e4 ohjelmassa kaksi post-jonnea johdattaa kuulijat takaisin noihin p\u00e4iviin loistavan 2000-luvun lopun musiikin tahdein. Luvassa nostalgiatrippej\u00e4 ja ebin tarinoita nuoruuden kunnian p\u00e4ivist\u00e4. Haastamme my\u00f6s kuulijamme muistelemaan omia jonnevuosiaan.",
+        "timestamp": "2018-04-06T21:59:59+03:00"
+    },
+    {
+        "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
+        "start": "2018-04-19 00:00",
+        "end": "2018-04-19 07:00",
+        "title": "Are you Sirius",
+        "host": "Poksa, Mertsa",
+        "prod": "Alexander",
+        "desc": "Jos viel\u00e4kin pohdit, ett\u00e4 miksei vaan hoidettu kotkien kaa sormuksen vieminen Mordoriin, vaan laitettii muutama hobitti hoitaa, tai jos joku muu fantasiamaailmaan liittyv\u00e4 mysteeri vaivaa p\u00e4\u00e4t\u00e4si, niin t\u00e4m\u00e4 ohjelma auttaa, sill\u00e4 pari h\u00e4mmennysloitsun vallassa olevaa dalekkia k\u00e4y mysteereit\u00e4 ja melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
+        "timestamp": "2018-04-06T22:16:47+03:00"
     }
 ]
