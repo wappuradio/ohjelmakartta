@@ -334,5 +334,17 @@
         "timestamp": "2018-04-05T22:56:35+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkija-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkija-fs8.png"
+    },
+    {
+        "id": "3de35497-6a31-4c5b-ad3f-3d9f45fc3c59",
+        "start": "2018-04-18T22:00:00+03:00",
+        "end": "2018-04-19T00:00:00+03:00",
+        "title": "Jotain kosmista",
+        "host": "Plotko & Quendil",
+        "prod": "LaNi_1",
+        "desc": "Jotain kosmista palaa radioaalloille wapun ensimm\u00e4isen\u00e4 keskiviikkona. Sukella kanssamme mustien aukkojen sy\u00f6vereihin, saatamme n\u00e4hd\u00e4 vilauksen sinisest\u00e4 poliisipuhelinkioskista. Lis\u00e4ksi yrit\u00e4mme Marsin valloitusta illan aikana, sill\u00e4 olemme saaneet tiedon er\u00e4\u00e4st\u00e4 Maata l\u00e4hestyv\u00e4st\u00e4, kahvinhimoisesta ulkoavaruuden asukkaasta. ",
+        "timestamp": "2018-04-06T10:37:48+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jotainkosmista-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jotainkosmista-fs8.png"
     }
 ]
