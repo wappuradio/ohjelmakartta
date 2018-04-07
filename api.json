@@ -886,5 +886,17 @@
         "timestamp": "2018-04-07T10:35:16+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvanmielenhoitoradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvanmielenhoitoradio-fs8.png"
+    },
+    {
+        "id": "842fbdc9-b7fd-4bf5-b330-5d21beea2f87",
+        "start": "2018-04-18T00:00:00+03:00",
+        "end": "2018-04-18T07:00:00+03:00",
+        "title": "Matkustusradio",
+        "host": "Atte&Miska",
+        "prod": "Ville Rautalahti",
+        "desc": "Ohjelmanumero matkustamisesta. Luvassa tips&tricks -osio, on-air -puheluita ymp\u00e4ri maailmaa sek\u00e4 pari hauskaa stoorii omilt reissuilta.",
+        "timestamp": "2018-04-07T20:26:29+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/matkustusradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matkustusradio-fs8.png"
     }
 ]
