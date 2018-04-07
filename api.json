@@ -874,5 +874,17 @@
         "timestamp": "2018-04-07T00:59:15+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa-fs8.png"
+    },
+    {
+        "id": "8484bc23-9013-4454-a3cc-604d3ecc7afd",
+        "start": "2018-04-25T22:00:00+03:00",
+        "end": "2018-04-26T00:00:00+03:00",
+        "title": "Hyv\u00e4n mielen hoitoradio",
+        "host": "Marjaana ja Viivi",
+        "prod": "PunaJussi",
+        "desc": "Hy\u00adv\u00e4n mie\u00adlen hoi\u00adto\u00adra\u00addio viet\u00adt\u00e4\u00e4 my\u00f6\u00adh\u00e4i\u00adsil\u00adtaa in\u00adtii\u00admeis\u00ads\u00e4 tun\u00adnel\u00admis\u00adsa kes\u00adkus\u00adtel\u00adlen terveyteen ja hyvinvointiin ainakin l\u00f6yh\u00e4sti liittyvist\u00e4 teemoista pil\u00adke sil\u00adm\u00e4\u00adkul\u00admas\u00adsa. Keskiviikkoil\u00adlan ra\u00adtok\u00adsi pe\u00adlaam\u00adme my\u00f6s hu\u00adpai\u00adsia seu\u00adra\u00adpe\u00adle\u00adj\u00e4, joi\u00adhin niin tuot\u00adta\u00adja kuin rak\u00adkaat kuu\u00adli\u00adjat\u00adkin p\u00e4\u00e4\u00adse\u00adv\u00e4t ot\u00adta\u00admaan osaa! Musii\u00adkin taso saat\u00adtaa vaih\u00addel\u00adla, mut\u00adta seu\u00adra on 5\/\u200b5; \u00e4l\u00e4 siis j\u00e4t\u00e4 n\u00e4i\u00adt\u00e4 bi\u00adlei\u00adt\u00e4 v\u00e4\u00adliin!",
+        "timestamp": "2018-04-07T10:35:16+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvanmielenhoitoradio-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvanmielenhoitoradio-fs8.png"
     }
 ]
