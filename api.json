@@ -600,30 +600,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuraatio-fs8.png"
     },
     {
-        "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
-        "start": "2018-04-18T17:00:00+03:00",
-        "end": "2018-04-18T19:00:00+03:00",
-        "title": "Deittikoutsit",
-        "host": "Minna ja Henriikka",
-        "prod": "Jaakko Airasmaa",
-        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
-        "timestamp": "2018-04-06T20:32:22+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
-    },
-    {
-        "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
-        "start": "2018-04-25T18:00:00+03:00",
-        "end": "2018-04-25T20:00:00+03:00",
-        "title": "Deittikoutsit",
-        "host": "Minna ja Henriikka",
-        "prod": "Jaakko Airasmaa",
-        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
-        "timestamp": "2018-04-06T20:34:12+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
-    },
-    {
         "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
         "start": "2018-04-23T16:00:00+03:00",
         "end": "2018-04-23T18:00:00+03:00",
@@ -898,5 +874,29 @@
         "timestamp": "2018-04-07T20:26:29+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/matkustusradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matkustusradio-fs8.png"
+    },
+    {
+        "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
+        "start": "2018-04-18T17:00:00+03:00",
+        "end": "2018-04-18T19:00:00+03:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Juha Suvanto",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-08T09:00:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
+    },
+    {
+        "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
+        "start": "2018-04-25T18:00:00+03:00",
+        "end": "2018-04-25T20:00:00+03:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Juha Suvanto",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-08T09:00:35+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit-fs8.png"
     }
 ]

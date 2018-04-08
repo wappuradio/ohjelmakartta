@@ -500,26 +500,6 @@
         "timestamp": "2018-04-06T20:24:23+03:00"
     },
     {
-        "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
-        "start": "2018-04-18 17:00",
-        "end": "2018-04-18 19:00",
-        "title": "Deittikoutsit",
-        "host": "Minna ja Henriikka",
-        "prod": "Jaakko Airasmaa",
-        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
-        "timestamp": "2018-04-06T20:32:22+03:00"
-    },
-    {
-        "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
-        "start": "2018-04-25 18:00",
-        "end": "2018-04-25 20:00",
-        "title": "Deittikoutsit",
-        "host": "Minna ja Henriikka",
-        "prod": "Jaakko Airasmaa",
-        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
-        "timestamp": "2018-04-06T20:34:12+03:00"
-    },
-    {
         "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
         "start": "2018-04-23 16:00",
         "end": "2018-04-23 18:00",
@@ -748,5 +728,25 @@
         "prod": "Ville Rautalahti",
         "desc": "Ohjelmanumero matkustamisesta. Luvassa tips&tricks -osio, on-air -puheluita ymp\u00e4ri maailmaa sek\u00e4 pari hauskaa stoorii omilt reissuilta.",
         "timestamp": "2018-04-07T20:26:29+03:00"
+    },
+    {
+        "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
+        "start": "2018-04-18 17:00",
+        "end": "2018-04-18 19:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Juha Suvanto",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-08T09:00:23+03:00"
+    },
+    {
+        "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
+        "start": "2018-04-25 18:00",
+        "end": "2018-04-25 20:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Juha Suvanto",
+        "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
+        "timestamp": "2018-04-08T09:00:35+03:00"
     }
 ]
