@@ -792,18 +792,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/peikkojentanssitunti-fs8.png"
     },
     {
-        "id": "f5f242c6-a002-4ece-9935-ec14ef5d8776",
-        "start": "2018-04-22T20:00:00+03:00",
-        "end": "2018-04-22T22:00:00+03:00",
-        "title": "Tein itse ja s\u00e4\u00e4stin",
-        "host": "Mutsku",
-        "prod": "Mutsku",
-        "desc": "",
-        "timestamp": "2018-04-08T11:41:09+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/teinitsejasaastin-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/teinitsejasaastin-fs8.png"
-    },
-    {
         "id": "97fe510a-4136-401b-b942-8a92e53aa73a",
         "start": "2018-04-20T00:00:00+03:00",
         "end": "2018-04-20T07:00:00+03:00",
@@ -826,18 +814,6 @@
         "timestamp": "2018-04-08T11:57:32+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/herkkahetki-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/herkkahetki-fs8.png"
-    },
-    {
-        "id": "7796819c-8042-407a-84eb-dddc898a3332",
-        "start": "2018-04-28T22:00:00+03:00",
-        "end": "2018-04-29T01:00:00+03:00",
-        "title": "Tuomittu, kivitetty, psykoosissa",
-        "host": "Tatu, Mutsku, (Kalle)",
-        "prod": "Mutsku",
-        "desc": "Doom metalin, tuon genreist\u00e4 jaloimman ja v\u00e4hiten radiosoittoa ker\u00e4nneen ajankohtais-ohjelma vihdoin Wappuradiossa.",
-        "timestamp": "2018-04-08T12:18:58+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tuomittukivitettypsykoosissa-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tuomittukivitettypsykoosissa-fs8.png"
     },
     {
         "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
@@ -1138,5 +1114,65 @@
         "timestamp": "2018-04-08T22:14:21+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/kukkiajakielimoukkuja-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kukkiajakielimoukkuja-fs8.png"
+    },
+    {
+        "id": "0de9796c-4381-4c46-af0c-cbe1cd215b98",
+        "start": "2018-04-29T11:00:00+03:00",
+        "end": "2018-04-29T13:00:00+03:00",
+        "title": "Lainasto",
+        "host": "Jarno, prime",
+        "prod": "Lorens",
+        "desc": "Lainasto soittaa edellisen vuoden tapaan uusia ja oivaltavia n\u00e4kemyksi\u00e4 tutuista kappaleista.",
+        "timestamp": "2018-04-08T22:26:42+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lainasto-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lainasto-fs8.png"
+    },
+    {
+        "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
+        "start": "2018-04-26T11:00:00+03:00",
+        "end": "2018-04-26T13:00:00+03:00",
+        "title": "Wapputiimin puuhatunti",
+        "host": "Atzu, cirrus~, sahrami, Siku",
+        "prod": "Veli-V",
+        "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
+        "timestamp": "2018-04-08T22:32:12+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wapputiiminpuuhatunti-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wapputiiminpuuhatunti-fs8.png"
+    },
+    {
+        "id": "e7db7ed1-4720-45c9-a3e1-ee7a9ae40368",
+        "start": "2018-04-22T22:00:00+03:00",
+        "end": "2018-04-23T00:00:00+03:00",
+        "title": "Musiikin rajamailla",
+        "host": "prime",
+        "prod": "Jaketus",
+        "desc": "Sunnuntai-ilta lopetetaan Musiikin rajamailla, miss\u00e4 tutustutaan musiikin monimuotoisuuteen ja kyseenalaistetaan musiikin ja melun ero. Ohjelmassa kuunnellaan my\u00f6s perinteisemp\u00e4\u00e4 poppia, mutta tietyn pisteen j\u00e4lkeen unohdetaan skaalat, s\u00e4\u00e4nn\u00f6lliset rytmit ja lopulta itse soittimet.",
+        "timestamp": "2018-04-08T22:43:55+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/musiikinrajamailla-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/musiikinrajamailla-fs8.png"
+    },
+    {
+        "id": "f5f242c6-a002-4ece-9935-ec14ef5d8776",
+        "start": "2018-04-22T20:00:00+03:00",
+        "end": "2018-04-22T22:00:00+03:00",
+        "title": "Tein itse ja s\u00e4\u00e4stin",
+        "host": "Mutsku",
+        "prod": "Mutsku",
+        "desc": "Ihmiskoe, jossa diplomi-insin\u00f6\u00f6ri suljetaan studiokoppiin ja katsotaan mit\u00e4 tapahtuu. Musiikkivalinnat genrerajoista piittaamatta sellaisia, jotka sopivat erityisen hyvin yksin kuunneltaviksi. Luvassa on siis teatraalisuutta, synkkyytt\u00e4 ja paljon valtaosan mielest\u00e4 hyv\u00e4n maun rajan ylitt\u00e4v\u00e4\u00e4 vokalisointia. Yksinpuhelussa keskityt\u00e4\u00e4n kuuntelukokemukseen ja musiikin vaikutukseen ihmisen mielialoissa. Sis\u00e4lt\u00e4\u00e4 varmasti ylim\u00e4\u00e4rin tietoa biiseist\u00e4 ja artisteista, saattaa sis\u00e4lt\u00e4\u00e4 my\u00f6s keitti\u00f6psykologian j\u00e4mi\u00e4. Virheet radiolaitteiston k\u00e4yt\u00f6ss\u00e4 todenn\u00e4k\u00f6isi\u00e4 ja niist\u00e4 studioon ilmoittaminen eritt\u00e4in suotavaa.",
+        "timestamp": "2018-04-08T22:44:46+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/teinitsejasaastin-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/teinitsejasaastin-fs8.png"
+    },
+    {
+        "id": "7796819c-8042-407a-84eb-dddc898a3332",
+        "start": "2018-04-28T22:00:00+03:00",
+        "end": "2018-04-29T01:00:00+03:00",
+        "title": "Tuomittu, kivitetty, psykoosissa",
+        "host": "Tatu, Mutsku, (Kalle)",
+        "prod": "Mutsku",
+        "desc": "Doom, stoner & psykedeelisvaikutteisen metallin ajankohtaisohjelma vihdoin wappuradiossa. Saattaa aiheuttaa huimausta ja irtautumista yhteiskunnasta. Maximum volume yields maximum results.",
+        "timestamp": "2018-04-08T22:48:29+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tuomittukivitettypsykoosissa-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tuomittukivitettypsykoosissa-fs8.png"
     }
 ]
