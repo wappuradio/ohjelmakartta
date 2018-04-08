@@ -6,7 +6,7 @@ $user = $_SESSION[array_keys($_SESSION)[0]];
 //error_log(print_r($user, true));
 if(!$user['auth']) exit;
 $name = $user['auth']['user'];
-if(!in_array('toimitus', $user['auth']['info']['grps'])) exit;
+//if(!in_array('toimitus', $user['auth']['info']['grps'])) exit;
 $data = json_decode(file_get_contents('ok.json'), true);
 if(!$data) $data = array();
 for($i=0;$i<sizeof($data);$i++) {
