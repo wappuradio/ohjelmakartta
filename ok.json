@@ -798,5 +798,15 @@
         "prod": "Mutsku",
         "desc": "Doom metalin, tuon genreist\u00e4 jaloimman ja v\u00e4hiten radiosoittoa ker\u00e4nneen ajankohtais-ohjelma vihdoin Wappuradiossa.",
         "timestamp": "2018-04-08T12:18:58+03:00"
+    },
+    {
+        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
+        "start": "2018-04-22 11:00",
+        "end": "2018-04-22 13:00",
+        "title": "Toivomuskaivon tyhjennys",
+        "host": "zordiack, JSuvanto",
+        "prod": "",
+        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
+        "timestamp": "2018-04-08T15:36:28+03:00"
     }
 ]
