@@ -564,18 +564,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradio-fs8.png"
     },
     {
-        "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
-        "start": "2018-04-29T00:00:00+03:00",
-        "end": "2018-04-29T07:00:00+03:00",
-        "title": "Synteettinen aallonpituus",
-        "host": "Tuomas ja Antti",
-        "prod": "",
-        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
-        "timestamp": "2018-04-06T20:12:27+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus-fs8.png"
-    },
-    {
         "id": "dd5608c8-3a1f-4040-aab3-3d386b56cd01",
         "start": "2018-04-29T13:00:00+03:00",
         "end": "2018-04-29T15:00:00+03:00",
@@ -960,18 +948,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tuomittukivitettypsykoosissa-fs8.png"
     },
     {
-        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
-        "start": "2018-04-22T11:00:00+03:00",
-        "end": "2018-04-22T13:00:00+03:00",
-        "title": "Toivomuskaivon tyhjennys",
-        "host": "zordiack, JSuvanto",
-        "prod": "",
-        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
-        "timestamp": "2018-04-08T15:36:28+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennys-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennys-fs8.png"
-    },
-    {
         "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
         "start": "2018-04-25T00:00:00+03:00",
         "end": "2018-04-25T07:00:00+03:00",
@@ -994,5 +970,29 @@
         "timestamp": "2018-04-08T17:07:08+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pitsausradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pitsausradio-fs8.png"
+    },
+    {
+        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
+        "start": "2018-04-22T11:00:00+03:00",
+        "end": "2018-04-22T13:00:00+03:00",
+        "title": "Toivomuskaivon tyhjennys",
+        "host": "zordiack, JSuvanto",
+        "prod": "Jippu",
+        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
+        "timestamp": "2018-04-08T17:20:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennys-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennys-fs8.png"
+    },
+    {
+        "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
+        "start": "2018-04-30T00:00:00+03:00",
+        "end": "2018-04-30T07:00:00+03:00",
+        "title": "Synteettinen aallonpituus",
+        "host": "Tuomas ja Antti",
+        "prod": "",
+        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
+        "timestamp": "2018-04-08T18:07:27+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus-fs8.png"
     }
 ]

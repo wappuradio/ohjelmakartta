@@ -470,16 +470,6 @@
         "timestamp": "2018-04-06T20:06:09+03:00"
     },
     {
-        "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
-        "start": "2018-04-29 00:00",
-        "end": "2018-04-29 07:00",
-        "title": "Synteettinen aallonpituus",
-        "host": "Tuomas ja Antti",
-        "prod": "",
-        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
-        "timestamp": "2018-04-06T20:12:27+03:00"
-    },
-    {
         "id": "dd5608c8-3a1f-4040-aab3-3d386b56cd01",
         "start": "2018-04-29 13:00",
         "end": "2018-04-29 15:00",
@@ -800,16 +790,6 @@
         "timestamp": "2018-04-08T12:18:58+03:00"
     },
     {
-        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
-        "start": "2018-04-22 11:00",
-        "end": "2018-04-22 13:00",
-        "title": "Toivomuskaivon tyhjennys",
-        "host": "zordiack, JSuvanto",
-        "prod": "",
-        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
-        "timestamp": "2018-04-08T15:36:28+03:00"
-    },
-    {
         "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
         "start": "2018-04-25 00:00",
         "end": "2018-04-25 07:00",
@@ -828,5 +808,25 @@
         "prod": "?",
         "desc": "Jaa miksik\u00f6 \"pitsausradio\"? Koska aika on rahaa, eik\u00e4 meill\u00e4 ole aikaa oikeinkirjoitukselle! T\u00e4n\u00e4 vuonna maanantain prime-timessa sukelletaan syv\u00e4lle busineksen sy\u00f6vereihin. Liity siis seuraan kun listaamme kaikkien aikojen surkeimmat startup -ideat ja haastattelemme asiantuntijoita, jotka antavat oman n\u00e4kemyksens\u00e4 yritt\u00e4jyyteen ja startup skeneen. Ja mik\u00e4 parasta, ohjelmamme on my\u00f6s interaktiivinen! Vaikkei leijonan luolassa t\u00e4rp\u00e4nnytk\u00e4\u00e4n, ei h\u00e4t\u00e4 ole t\u00e4m\u00e4n n\u00e4k\u00f6inen! Voit soittaa studioon ja \"pitsata\" meille liikeideasi. Arvovaltainen studioraatimme antaa ideastasi v\u00e4litt\u00f6m\u00e4n palautteen ja ohjelman lopuksi palkitsemme parhaan liikeidean huikeilla palkinnoilla. My\u00f6s huonoin liikeidea palkitaan ns. tsempparipalkinnolla, joten \u00e4l\u00e4 ep\u00e4r\u00f6i soittaa ja pitsata!\r\nLaita siis ykk\u00f6set ylle, ved\u00e4 kravatti suoraan, laita radio p\u00e4\u00e4lle, poimi luuri kouraan ja pitsaa kuin henkesi riippuisi siit\u00e4!",
         "timestamp": "2018-04-08T17:07:08+03:00"
+    },
+    {
+        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
+        "start": "2018-04-22 11:00",
+        "end": "2018-04-22 13:00",
+        "title": "Toivomuskaivon tyhjennys",
+        "host": "zordiack, JSuvanto",
+        "prod": "Jippu",
+        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
+        "timestamp": "2018-04-08T17:20:23+03:00"
+    },
+    {
+        "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
+        "start": "2018-04-30 00:00",
+        "end": "2018-04-30 07:00",
+        "title": "Synteettinen aallonpituus",
+        "host": "Tuomas ja Antti",
+        "prod": "",
+        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
+        "timestamp": "2018-04-08T18:07:27+03:00"
     }
 ]
