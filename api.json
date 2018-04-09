@@ -1198,5 +1198,17 @@
         "timestamp": "2018-04-09T10:26:53+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/syvapurppura-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/syvapurppura-fs8.png"
+    },
+    {
+        "id": "bd567707-8404-41fe-8010-5b8e7df5d27f",
+        "start": "2018-04-21T00:00:00+03:00",
+        "end": "2018-04-21T07:00:00+03:00",
+        "title": "Spinni Radio Nightshift",
+        "host": "Spinni DJ's",
+        "prod": "Arttu Lepist\u00f6, Ville Tyrv\u00e4inen",
+        "desc": "Spinnin uuden ja vanhemman polven DJ:t soittavat elektronista musiikkia l\u00e4pi y\u00f6n. Luvassa miksattuja settej\u00e4, eli enemm\u00e4n musiikkia ja v\u00e4hemm\u00e4n juontoja. Genrejen puolesta voidaan odottaa ainkain diskoa, housea, teknoa, trancea ja drum'n'bassia.",
+        "timestamp": "2018-04-09T12:16:14+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinniradionightshift-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinniradionightshift-fs8.png"
     }
 ]
