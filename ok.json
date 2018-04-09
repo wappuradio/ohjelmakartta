@@ -1030,16 +1030,6 @@
         "timestamp": "2018-04-09T14:52:23+03:00"
     },
     {
-        "id": "38f84827-1df8-4adb-a32c-a07a79d1fd3a",
-        "start": "2018-04-22 00:00",
-        "end": "2018-04-22 07:00",
-        "title": "El\u00e4m\u00e4 sellaisena kuin se on",
-        "host": "Ammi ja Beebu",
-        "prod": "Paavo Tawast",
-        "desc": "",
-        "timestamp": "2018-04-09T15:56:34+03:00"
-    },
-    {
         "id": "99c04e34-d03f-4b38-8cf7-e06663d33806",
         "start": "2018-04-18 11:00",
         "end": "2018-04-18 13:00",
@@ -1078,5 +1068,15 @@
         "prod": "Jaketus",
         "desc": "Kun kolme osaa ei riit\u00e4 t\u00e4ydellisen tarinan kertomiseen. Neliosainen trilogia viihdytt\u00e4\u00e4 t\u00e4ydellisell\u00e4 draaman kaarella k\u00e4yden l\u00e4pi p\u00e4iv\u00e4n polttavat aiheet sek\u00e4 teemoja yksin\u00e4isyydest\u00e4 aina alpakka-agilityyn. Ohjelmasta voi my\u00f6s voittaa asioita, kuten Wappurekkalippuja, Mysteeripalkinnon tai hyv\u00e4n mielen. ",
         "timestamp": "2018-04-09T19:27:36+03:00"
+    },
+    {
+        "id": "38f84827-1df8-4adb-a32c-a07a79d1fd3a",
+        "start": "2018-04-22 00:00",
+        "end": "2018-04-22 07:00",
+        "title": "El\u00e4m\u00e4 sellaisena kuin se on",
+        "host": "Ammi ja Beebu",
+        "prod": "Paavo Tawast",
+        "desc": "Keskustelua el\u00e4m\u00e4\u00e4 kuvaavista malleista kuten horoskoopeista ja persoonallisuustesteist\u00e4. Y\u00f6n aikana tutustutaan tarkemmin ihmisluontoon ja sen sielunel\u00e4m\u00e4\u00e4n, sek\u00e4 ennustetaan tulevaisuutta erilaisten netist\u00e4 l\u00f6ytyvien ja alkuper\u00e4lt\u00e4\u00e4n v\u00e4hint\u00e4\u00e4nkin arveluttavien sivustojen kautta. L\u00e4hetyksess\u00e4 etsit\u00e4\u00e4n vastauksia my\u00f6s kuulijoiden kysymyksiin ja peilataan l\u00f6yd\u00f6ksi\u00e4 juontajien omiin kokemuksiin, terveeseen j\u00e4rkeen ja kansantaruihin. Ohjelman kruunaa teemaan sopiva tai sopimaton musiikki. ",
+        "timestamp": "2018-04-09T22:54:09+03:00"
     }
 ]
