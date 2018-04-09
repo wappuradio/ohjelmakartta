@@ -1210,5 +1210,17 @@
         "timestamp": "2018-04-09T12:16:14+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/spinniradionightshift-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinniradionightshift-fs8.png"
+    },
+    {
+        "id": "08875f41-df8b-4c66-8402-bac805b9496b",
+        "start": "2018-04-22T18:00:00+03:00",
+        "end": "2018-04-22T20:00:00+03:00",
+        "title": "Spinnin LIVE-jatkot",
+        "host": "Spinni DJ's",
+        "prod": "Arttu Lepist\u00f6",
+        "desc": "Spinni jatkaa siit\u00e4 mihin Wappuradio LIVE p\u00e4\u00e4ttyy, ja bileet jatkuu Spinnin tiskijukkien tahdittamana.",
+        "timestamp": "2018-04-09T12:19:01+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinninlive-jatkot-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinninlive-jatkot-fs8.png"
     }
 ]
