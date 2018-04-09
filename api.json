@@ -1234,5 +1234,17 @@
         "timestamp": "2018-04-09T14:52:23+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pekkajapikaratikka-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pekkajapikaratikka-fs8.png"
+    },
+    {
+        "id": "38f84827-1df8-4adb-a32c-a07a79d1fd3a",
+        "start": "2018-04-22T00:00:00+03:00",
+        "end": "2018-04-22T07:00:00+03:00",
+        "title": "El\u00e4m\u00e4 sellaisena kuin se on",
+        "host": "Ammi ja Beebu",
+        "prod": "Paavo Tawast",
+        "desc": "",
+        "timestamp": "2018-04-09T15:56:34+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/elamasellaisenakuinseon-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/elamasellaisenakuinseon-fs8.png"
     }
 ]
