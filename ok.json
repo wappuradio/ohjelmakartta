@@ -1018,5 +1018,15 @@
         "prod": "Arttu Lepist\u00f6",
         "desc": "Spinni jatkaa siit\u00e4 mihin Wappuradio LIVE p\u00e4\u00e4ttyy, ja bileet jatkuu Spinnin tiskijukkien tahdittamana.",
         "timestamp": "2018-04-09T12:19:01+03:00"
+    },
+    {
+        "id": "3057156e-3046-46f0-9b8d-23990fccc32f",
+        "start": "2018-04-19 17:00",
+        "end": "2018-04-19 19:00",
+        "title": "Pekka ja pikaratikka",
+        "host": "BTR",
+        "prod": "Dregu",
+        "desc": "Pubirundin piinaama pennit\u00f6n perusteekkari taivaltaa Tampereen taianomaisten kaakkoisten kaupunginosien halki Hervantaan \"Pekka ja susi\" -musiikkisadun modernisoidussa mukaelmassa, jossa kiskot kirskuvat ja kebablastut koristavat kitalakea. Satupekkana kymmenen kilometrin kest\u00e4vyysmatkalla kohti katarsista kr\u00f6hii BTR.",
+        "timestamp": "2018-04-09T14:52:23+03:00"
     }
 ]

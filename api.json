@@ -1222,5 +1222,17 @@
         "timestamp": "2018-04-09T12:19:01+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/spinninlive-jatkot-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinninlive-jatkot-fs8.png"
+    },
+    {
+        "id": "3057156e-3046-46f0-9b8d-23990fccc32f",
+        "start": "2018-04-19T17:00:00+03:00",
+        "end": "2018-04-19T19:00:00+03:00",
+        "title": "Pekka ja pikaratikka",
+        "host": "BTR",
+        "prod": "Dregu",
+        "desc": "Pubirundin piinaama pennit\u00f6n perusteekkari taivaltaa Tampereen taianomaisten kaakkoisten kaupunginosien halki Hervantaan \"Pekka ja susi\" -musiikkisadun modernisoidussa mukaelmassa, jossa kiskot kirskuvat ja kebablastut koristavat kitalakea. Satupekkana kymmenen kilometrin kest\u00e4vyysmatkalla kohti katarsista kr\u00f6hii BTR.",
+        "timestamp": "2018-04-09T14:52:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pekkajapikaratikka-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pekkajapikaratikka-fs8.png"
     }
 ]
