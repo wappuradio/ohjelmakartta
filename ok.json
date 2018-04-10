@@ -930,16 +930,6 @@
         "timestamp": "2018-04-08T22:26:42+03:00"
     },
     {
-        "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
-        "start": "2018-04-26 11:00",
-        "end": "2018-04-26 13:00",
-        "title": "Wapputiimin puuhatunti",
-        "host": "Atzu, cirrus~, sahrami, Siku",
-        "prod": "Veli-V",
-        "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
-        "timestamp": "2018-04-08T22:32:12+03:00"
-    },
-    {
         "id": "e7db7ed1-4720-45c9-a3e1-ee7a9ae40368",
         "start": "2018-04-22 22:00",
         "end": "2018-04-23 00:00",
@@ -1118,5 +1108,15 @@
         "prod": "Alexander",
         "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
         "timestamp": "2018-04-10T13:32:31+03:00"
+    },
+    {
+        "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
+        "start": "2018-04-24 11:00",
+        "end": "2018-04-24 13:00",
+        "title": "Wapputiimin puuhatunti",
+        "host": "Atzu, cirrus~, sahrami, Siku",
+        "prod": "Veli-V",
+        "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
+        "timestamp": "2018-04-10T17:33:56+03:00"
     }
 ]

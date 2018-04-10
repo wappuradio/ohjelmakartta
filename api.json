@@ -1116,18 +1116,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lainasto-fs8.png"
     },
     {
-        "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
-        "start": "2018-04-26T11:00:00+03:00",
-        "end": "2018-04-26T13:00:00+03:00",
-        "title": "Wapputiimin puuhatunti",
-        "host": "Atzu, cirrus~, sahrami, Siku",
-        "prod": "Veli-V",
-        "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
-        "timestamp": "2018-04-08T22:32:12+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/wapputiiminpuuhatunti-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wapputiiminpuuhatunti-fs8.png"
-    },
-    {
         "id": "e7db7ed1-4720-45c9-a3e1-ee7a9ae40368",
         "start": "2018-04-22T22:00:00+03:00",
         "end": "2018-04-23T00:00:00+03:00",
@@ -1342,5 +1330,17 @@
         "timestamp": "2018-04-10T13:32:31+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/areyousirius-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/areyousirius-fs8.png"
+    },
+    {
+        "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
+        "start": "2018-04-24T11:00:00+03:00",
+        "end": "2018-04-24T13:00:00+03:00",
+        "title": "Wapputiimin puuhatunti",
+        "host": "Atzu, cirrus~, sahrami, Siku",
+        "prod": "Veli-V",
+        "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
+        "timestamp": "2018-04-10T17:33:56+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wapputiiminpuuhatunti-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wapputiiminpuuhatunti-fs8.png"
     }
 ]
