@@ -1078,5 +1078,45 @@
         "prod": "Paavo Tawast",
         "desc": "Keskustelua el\u00e4m\u00e4\u00e4 kuvaavista malleista kuten horoskoopeista ja persoonallisuustesteist\u00e4. Y\u00f6n aikana tutustutaan tarkemmin ihmisluontoon ja sen sielunel\u00e4m\u00e4\u00e4n, sek\u00e4 ennustetaan tulevaisuutta erilaisten netist\u00e4 l\u00f6ytyvien ja alkuper\u00e4lt\u00e4\u00e4n v\u00e4hint\u00e4\u00e4nkin arveluttavien sivustojen kautta. L\u00e4hetyksess\u00e4 etsit\u00e4\u00e4n vastauksia my\u00f6s kuulijoiden kysymyksiin ja peilataan l\u00f6yd\u00f6ksi\u00e4 juontajien omiin kokemuksiin, terveeseen j\u00e4rkeen ja kansantaruihin. Ohjelman kruunaa teemaan sopiva tai sopimaton musiikki. ",
         "timestamp": "2018-04-09T22:54:09+03:00"
+    },
+    {
+        "id": "78fd379b-dbb3-4ddf-91c1-bf2dc14d5fd8",
+        "start": "2018-04-21 13:00",
+        "end": "2018-04-21 14:00",
+        "title": "To Hell And Back",
+        "host": "Veli-V, Kukakumma",
+        "prod": "KukaKumma",
+        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
+        "timestamp": "2018-04-10T12:46:41+03:00"
+    },
+    {
+        "id": "767143eb-8666-4696-ac22-c2d433091f25",
+        "start": "2018-04-29 01:00",
+        "end": "2018-04-29 07:00",
+        "title": "TBD",
+        "host": "TBA",
+        "prod": "TBA",
+        "desc": "\u00c4rsytt\u00e4\u00e4k\u00f6 radion aiheet? Puuttuuko sinun suosikkiaiheeltasi oma foorumi? Hukkuuko mielipiteesi kaikkien muiden jalkoihin? Milt\u00e4 radio kuulostaa kun kuuntelijat p\u00e4\u00e4tt\u00e4v\u00e4t aiheen?\r\n\r\nYhden y\u00f6n ajan kuuntelijoilla on t\u00e4ysi valta aiheista! TBD radio puhuu juuri siit\u00e4, mist\u00e4 kuuntelijat haluavat. \u00c4\u00e4nest\u00e4 lempiaiheesi k\u00e4rkeen osoitteessa tbd.veliv.ee",
+        "timestamp": "2018-04-10T12:51:27+03:00"
+    },
+    {
+        "id": "acdc394b-b09b-43ed-9a5a-1f6dc8915fbf",
+        "start": "2018-04-24 16:00",
+        "end": "2018-04-24 18:00",
+        "title": "ATK-peli radio",
+        "host": "[GG-TE]Tyrde 'headshotteja mariossa' Tyrv\u00e4inen, [GG-TE]Janne 'Always heroic, never useful' V\u00e4is\u00e4nen",
+        "prod": "[T-BAD]Kuka 'Panssarivaunulla parkanoon' Kumma",
+        "desc": "Muistatko kuinka Contra maksoi kontrorllerin? Onko sinulla viel\u00e4kin k\u00e4ns\u00e4t peukaloissa ys\u00e4rilt\u00e4? Lensik\u00f6 hiiri sein\u00e4\u00e4n kyn\u00e4riss\u00e4? Hajottiko linko rushi n\u00e4ytt\u00f6si? \u00c4rsytt\u00e4\u00e4k\u00f6 freemium pelit?\r\n\r\nJos vastasit edes yhteen kysymykseen, studion videopelisankarit tulevat vastaamaan n\u00e4ihin ja muihin turhiin kysymyksiin. Sukelletaan siis automaattisen tietojenk\u00e4sittelyn pelipuolelle jutuilla ja musalla! Studiossa ehk\u00e4 Tampereen kovin striimaaja ja ehdottomasti Tampereen kovin striimin katsoja! Virpin kannustusjoukkuja onohtamatta.",
+        "timestamp": "2018-04-10T13:06:36+03:00"
+    },
+    {
+        "id": "89da43f3-9790-441c-8bbb-eff90c6f8939",
+        "start": "2018-04-26 16:00",
+        "end": "2018-04-26 18:00",
+        "title": "ATK-peli radio",
+        "host": "[GG-TE]Tyrde 'headshotteja mariossa' Tyrv\u00e4inen, [GG-TE]Janne 'Always heroic, never useful' V\u00e4is\u00e4nen",
+        "prod": "[T-BAD]Kuka 'Panssarivaunulla parkanoon' Kumma",
+        "desc": "Muistatko kuinka Contra maksoi kontrorllerin? Onko sinulla viel\u00e4kin k\u00e4ns\u00e4t peukaloissa ys\u00e4rilt\u00e4? Lensik\u00f6 hiiri sein\u00e4\u00e4n kyn\u00e4riss\u00e4? Hajottiko linko rushi n\u00e4ytt\u00f6si? \u00c4rsytt\u00e4\u00e4k\u00f6 freemium pelit?\r\n\r\nJos vastasit edes yhteen kysymykseen, studion videopelisankarit tulevat vastaamaan n\u00e4ihin ja muihin turhiin kysymyksiin. Sukelletaan siis automaattisen tietojenk\u00e4sittelyn pelipuolelle jutuilla ja musalla! Studiossa ehk\u00e4 Tampereen kovin striimaaja ja ehdottomasti Tampereen kovin striimin katsoja! Virpin kannustusjoukkuja onohtamatta.",
+        "timestamp": "2018-04-10T13:06:44+03:00"
     }
 ]
