@@ -588,18 +588,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/havujahevia-fs8.png"
     },
     {
-        "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
-        "start": "2018-04-19T00:00:00+03:00",
-        "end": "2018-04-19T07:00:00+03:00",
-        "title": "Are you Sirius",
-        "host": "Poksa, Mertsa",
-        "prod": "Alexander",
-        "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
-        "timestamp": "2018-04-06T22:51:20+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/areyousirius-fs8.png",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/areyousirius-fs8.png"
-    },
-    {
         "id": "84d377b4-251b-4c40-bbcd-7a261dc16971",
         "start": "2018-04-24T09:00:00+03:00",
         "end": "2018-04-24T11:00:00+03:00",
@@ -1342,5 +1330,17 @@
         "timestamp": "2018-04-10T13:06:44+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/atk-peliradio-fs8.png",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/atk-peliradio-fs8.png"
+    },
+    {
+        "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
+        "start": "2018-04-19T00:00:00+03:00",
+        "end": "2018-04-19T07:00:00+03:00",
+        "title": "Are you Sirius?",
+        "host": "Poksa, Mertsa",
+        "prod": "Alexander",
+        "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
+        "timestamp": "2018-04-10T13:32:31+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/areyousirius-fs8.png",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/areyousirius-fs8.png"
     }
 ]

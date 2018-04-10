@@ -490,16 +490,6 @@
         "timestamp": "2018-04-06T22:44:34+03:00"
     },
     {
-        "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
-        "start": "2018-04-19 00:00",
-        "end": "2018-04-19 07:00",
-        "title": "Are you Sirius",
-        "host": "Poksa, Mertsa",
-        "prod": "Alexander",
-        "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
-        "timestamp": "2018-04-06T22:51:20+03:00"
-    },
-    {
         "id": "84d377b4-251b-4c40-bbcd-7a261dc16971",
         "start": "2018-04-24 09:00",
         "end": "2018-04-24 11:00",
@@ -1118,5 +1108,15 @@
         "prod": "[T-BAD]Kuka 'Panssarivaunulla parkanoon' Kumma",
         "desc": "Muistatko kuinka Contra maksoi kontrorllerin? Onko sinulla viel\u00e4kin k\u00e4ns\u00e4t peukaloissa ys\u00e4rilt\u00e4? Lensik\u00f6 hiiri sein\u00e4\u00e4n kyn\u00e4riss\u00e4? Hajottiko linko rushi n\u00e4ytt\u00f6si? \u00c4rsytt\u00e4\u00e4k\u00f6 freemium pelit?\r\n\r\nJos vastasit edes yhteen kysymykseen, studion videopelisankarit tulevat vastaamaan n\u00e4ihin ja muihin turhiin kysymyksiin. Sukelletaan siis automaattisen tietojenk\u00e4sittelyn pelipuolelle jutuilla ja musalla! Studiossa ehk\u00e4 Tampereen kovin striimaaja ja ehdottomasti Tampereen kovin striimin katsoja! Virpin kannustusjoukkuja onohtamatta.",
         "timestamp": "2018-04-10T13:06:44+03:00"
+    },
+    {
+        "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
+        "start": "2018-04-19 00:00",
+        "end": "2018-04-19 07:00",
+        "title": "Are you Sirius?",
+        "host": "Poksa, Mertsa",
+        "prod": "Alexander",
+        "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
+        "timestamp": "2018-04-10T13:32:31+03:00"
     }
 ]
