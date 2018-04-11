@@ -260,16 +260,6 @@
         "timestamp": "2018-04-06T16:07:09+03:00"
     },
     {
-        "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
-        "start": "2018-04-18 09:00",
-        "end": "2018-04-18 11:00",
-        "title": "Aamujamit",
-        "host": "Henna Gaubusseau, Mika Kuitunen",
-        "prod": "Sara Komulainen",
-        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
-        "timestamp": "2018-04-06T16:55:16+03:00"
-    },
-    {
         "id": "09a77d04-1fda-4291-98a9-6642a5f01d42",
         "start": "2018-04-19 09:00",
         "end": "2018-04-19 11:00",
@@ -1158,5 +1148,15 @@
         "prod": "zeppe",
         "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
         "timestamp": "2018-04-11T18:02:59+03:00"
+    },
+    {
+        "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
+        "start": "2018-04-18 09:00",
+        "end": "2018-04-18 11:00",
+        "title": "Aamujamit",
+        "host": "Henna, Mika",
+        "prod": "Sara",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2018-04-11T20:14:12+03:00"
     }
 ]

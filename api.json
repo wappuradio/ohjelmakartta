@@ -312,18 +312,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousevanauringonmaanaamu.jpg"
     },
     {
-        "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
-        "start": "2018-04-18T09:00:00+03:00",
-        "end": "2018-04-18T11:00:00+03:00",
-        "title": "Aamujamit",
-        "host": "Henna Gaubusseau, Mika Kuitunen",
-        "prod": "Sara Komulainen",
-        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
-        "timestamp": "2018-04-06T16:55:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
-    },
-    {
         "id": "09a77d04-1fda-4291-98a9-6642a5f01d42",
         "start": "2018-04-19T09:00:00+03:00",
         "end": "2018-04-19T11:00:00+03:00",
@@ -1390,5 +1378,17 @@
         "timestamp": "2018-04-11T18:02:59+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg"
+    },
+    {
+        "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
+        "start": "2018-04-18T09:00:00+03:00",
+        "end": "2018-04-18T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna, Mika",
+        "prod": "Sara",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2018-04-11T20:14:12+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     }
 ]
