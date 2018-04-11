@@ -780,36 +780,6 @@
         "timestamp": "2018-04-08T21:26:56+03:00"
     },
     {
-        "id": "9f18a282-64d9-43e6-9ca2-486256285c2e",
-        "start": "2018-04-18 13:00",
-        "end": "2018-04-18 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:38:39+03:00"
-    },
-    {
-        "id": "1b126873-b7fc-493b-9123-b6b75f3eda9f",
-        "start": "2018-04-19 13:00",
-        "end": "2018-04-19 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:38:52+03:00"
-    },
-    {
-        "id": "252c641e-1c14-49a9-9b82-44b2b936b250",
-        "start": "2018-04-20 13:00",
-        "end": "2018-04-20 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:38:54+03:00"
-    },
-    {
         "id": "217f0bc3-0918-44b1-af9a-40d2a198b5b4",
         "start": "2018-04-29 16:00",
         "end": "2018-04-29 18:00",
@@ -838,66 +808,6 @@
         "prod": "Vuokko",
         "desc": "Paniikki! Tekniikkakopin karvanaamat on p\u00e4\u00e4stetty v\u00e4\u00e4r\u00e4\u00e4n koppiin! Eli ilmoille kajahtaa radion tekniikanjaoston oma y\u00f6radio. Luvassa on varmasti h\u00f6pin\u00e4\u00e4 radion ja (Rakkauden Wappuradion) teknisist\u00e4 ratkaisuista, mutta my\u00f6s muista n\u00f6rtillisist\u00e4 asioista. Ohessa soitamme musiikkia tai sen kaltaisia tuotteita.",
         "timestamp": "2018-04-08T21:48:55+03:00"
-    },
-    {
-        "id": "df99fb2f-7d4f-4e96-a098-9a41519cc2be",
-        "start": "2018-04-23 13:00",
-        "end": "2018-04-23 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:50:10+03:00"
-    },
-    {
-        "id": "e8fa2a35-ec14-474f-804d-d3d144010d66",
-        "start": "2018-04-24 13:00",
-        "end": "2018-04-24 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:50:15+03:00"
-    },
-    {
-        "id": "20372adf-a672-46d3-b44a-193b003adb01",
-        "start": "2018-04-25 13:00",
-        "end": "2018-04-25 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:50:21+03:00"
-    },
-    {
-        "id": "c1c92eb6-b690-4c15-9b4b-f36e35e04699",
-        "start": "2018-04-27 13:00",
-        "end": "2018-04-27 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:50:32+03:00"
-    },
-    {
-        "id": "0f7f5848-3fa1-4db0-9adb-1e6ab6482aed",
-        "start": "2018-04-26 13:00",
-        "end": "2018-04-26 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! Listaa t\u00e4h\u00e4n mihin aikaan yritykset ovat aalloilla.",
-        "timestamp": "2018-04-08T21:50:34+03:00"
-    },
-    {
-        "id": "fae91548-5c0f-4634-a27c-db97583318ce",
-        "start": "2018-04-29 13:00",
-        "end": "2018-04-29 14:00",
-        "title": "TTYY On Air",
-        "host": "",
-        "prod": "",
-        "desc": "TTYY On Air -tunti tuo terveiset TTY:n ylioppilaskunnan johdolta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan!",
-        "timestamp": "2018-04-08T21:51:30+03:00"
     },
     {
         "id": "20ce08c1-9bc9-4581-b6b6-9efa3bd59ec4",
@@ -1118,5 +1028,105 @@
         "prod": "Veli-V",
         "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
         "timestamp": "2018-04-10T17:33:56+03:00"
+    },
+    {
+        "id": "4f2f6434-c21f-41aa-98a7-51dcd4e860d4",
+        "start": "2018-04-27 22:00",
+        "end": "2018-04-28 00:00",
+        "title": "Koiratarha radalla",
+        "host": "Arttu, Kalle, Tatu",
+        "prod": "supertuottaja roope",
+        "desc": "Wappuradion katu-uskottavin suomir\u00e4pin erikoisohjelma. Klassikot dekiss\u00e4.",
+        "timestamp": "2018-04-11T09:32:13+03:00"
+    },
+    {
+        "id": "9f18a282-64d9-43e6-9ca2-486256285c2e",
+        "start": "2018-04-18 13:00",
+        "end": "2018-04-18 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:02:15+03:00"
+    },
+    {
+        "id": "2da4a3a4-944b-4340-aa7d-bb4e47e27230",
+        "start": "2018-04-19 13:00",
+        "end": "2018-04-19 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:03:39+03:00"
+    },
+    {
+        "id": "c99da50d-c843-43cb-aab6-59eb901915fa",
+        "start": "2018-04-20 13:00",
+        "end": "2018-04-20 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:03:44+03:00"
+    },
+    {
+        "id": "0fa331e1-e0e8-4d1a-b207-7866745f9cdb",
+        "start": "2018-04-23 13:00",
+        "end": "2018-04-23 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:04:00+03:00"
+    },
+    {
+        "id": "b6fd4866-ad48-44b1-bba1-44a277eaa6cd",
+        "start": "2018-04-24 13:00",
+        "end": "2018-04-24 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:04:09+03:00"
+    },
+    {
+        "id": "41dc89ed-e99f-40ac-9b2d-d9aeb851e498",
+        "start": "2018-04-25 13:00",
+        "end": "2018-04-25 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:04:22+03:00"
+    },
+    {
+        "id": "59cdcc56-6d76-43ea-8ea3-5e1e5c43a01d",
+        "start": "2018-04-26 13:00",
+        "end": "2018-04-26 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:04:27+03:00"
+    },
+    {
+        "id": "f1565d23-306d-4948-bbe6-1c35a1f0932e",
+        "start": "2018-04-27 13:00",
+        "end": "2018-04-27 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T10:04:31+03:00"
+    },
+    {
+        "id": "fae91548-5c0f-4634-a27c-db97583318ce",
+        "start": "2018-04-29 13:00",
+        "end": "2018-04-29 14:00",
+        "title": "TTYY On Air",
+        "host": "",
+        "prod": "Zar",
+        "desc": "TTYY On Air -tunti tuo terveiset TTY:n ylioppilaskunnan johdolta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan!",
+        "timestamp": "2018-04-11T10:04:38+03:00"
     }
 ]
