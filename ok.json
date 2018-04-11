@@ -970,16 +970,6 @@
         "timestamp": "2018-04-09T22:54:09+03:00"
     },
     {
-        "id": "78fd379b-dbb3-4ddf-91c1-bf2dc14d5fd8",
-        "start": "2018-04-21 13:00",
-        "end": "2018-04-21 14:00",
-        "title": "To Hell And Back",
-        "host": "Veli-V, Kukakumma",
-        "prod": "KukaKumma",
-        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
-        "timestamp": "2018-04-10T12:46:41+03:00"
-    },
-    {
         "id": "767143eb-8666-4696-ac22-c2d433091f25",
         "start": "2018-04-29 01:00",
         "end": "2018-04-29 07:00",
@@ -1158,5 +1148,15 @@
         "prod": "Alexander",
         "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
         "timestamp": "2018-04-11T11:34:30+03:00"
+    },
+    {
+        "id": "78fd379b-dbb3-4ddf-91c1-bf2dc14d5fd8",
+        "start": "2018-04-21 13:00",
+        "end": "2018-04-21 14:00",
+        "title": "To Hell And Back",
+        "host": "Veli-V, KukaKumma",
+        "prod": "KukaKumma",
+        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
+        "timestamp": "2018-04-11T13:57:43+03:00"
     }
 ]
