@@ -1414,5 +1414,17 @@
         "timestamp": "2018-04-11T21:11:34+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/chickadouaclub.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/chickadouaclub.jpg"
+    },
+    {
+        "id": "a692e678-955d-4f99-875e-f2a9d49215f4",
+        "start": "2018-04-28T17:00:00+03:00",
+        "end": "2018-04-28T19:00:00+03:00",
+        "title": "La House",
+        "host": "Jarkko",
+        "prod": "",
+        "desc": "Viihdyt\u00e4\u00e4n parituntinen rytmikk\u00e4\u00e4n ja aurinkoisen housemusiikin tahdissa. Hytkyt\u00e4\u00e4n yhdess\u00e4 kohti wappua!",
+        "timestamp": "2018-04-11T21:47:47+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lahouse.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lahouse.jpg"
     }
 ]
