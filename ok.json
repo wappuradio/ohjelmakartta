@@ -1158,5 +1158,25 @@
         "prod": "Sara",
         "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
         "timestamp": "2018-04-11T20:14:12+03:00"
+    },
+    {
+        "id": "b9c62582-bd95-46c4-966c-b312dd6d2777",
+        "start": "2018-04-22 07:00",
+        "end": "2018-04-22 09:00",
+        "title": "Puuvillapelloilla suhisee",
+        "host": "Tapsa",
+        "prod": "",
+        "desc": "Tervetuloa aikamatkalle kultaiselle 30-luvulle ja Yhdysvaltain syv\u00e4\u00e4n etel\u00e4\u00e4n: tuulessa huojuvat appelsiini- ja magnoliapuut, p\u00e4\u00e4ttym\u00e4tt\u00f6m\u00e4t hiekkatiet, startup-yritys nimelt\u00e4 Ford Motor Company sek\u00e4 retee ja railakas rytmimusiikki - BLUES. Palaamme juurille, nimitt\u00e4in l\u00e4nsimaisen populaarimusiikin juurille, ja kuuntelemme tarkoin korvin - sill\u00e4 puuvillapelloilla suhisee...",
+        "timestamp": "2018-04-11T21:07:28+03:00"
+    },
+    {
+        "id": "6aeb9a44-58c6-4661-8e60-6fd914a0fc07",
+        "start": "2018-04-21 16:00",
+        "end": "2018-04-21 18:00",
+        "title": "Chickadoua Club",
+        "host": "Tapsa, Ruut",
+        "prod": "",
+        "desc": "Afrikka on kaunis, kaukana ja kohtalaisen kookas - mutta mit\u00e4 muuta tied\u00e4mme siit\u00e4? Chickadoua Club tarjoaa kahden tunnin kurkistuksen maanosan asioihin: uutisia afrikkalaisista l\u00e4hteist\u00e4, tiedonmurusia Tangierista Johannesburgiin sek\u00e4 mainiota musiikkia mystiselt\u00e4 mantereelta. L\u00e4hetyksen p\u00e4\u00e4tt\u00e4\u00e4 alkuillan oivallisesti k\u00e4ynnist\u00e4v\u00e4 afrobeat-amok. Chickadoua Club - paluu kehtoon. Ihmiskunnan kehtoon.",
+        "timestamp": "2018-04-11T21:11:34+03:00"
     }
 ]
