@@ -1,15 +1,5 @@
 [
     {
-        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
-        "start": "2018-04-17 14:00",
-        "end": "2018-04-17 18:00",
-        "title": "Alkushow",
-        "host": "Veli-V, Rocka",
-        "prod": "zeppe",
-        "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
-        "timestamp": "2018-03-31T20:23:11+03:00"
-    },
-    {
         "id": "9499dcb1-90f4-46df-a40d-0ae771a18a39",
         "start": "2018-04-17 22:00",
         "end": "2018-04-18 00:00",
@@ -1158,5 +1148,15 @@
         "prod": "Vuokko",
         "desc": "Pelimusiikkiin ja ihmisiin sen takana erikoistunut ohjelma. > echo Show:n toimittaa Muotsikan hipsteri\u2122 muotoilijanretku\u00ae \u25bcJune ja asiantuntija aisaparinaan h\u00e4n on onnekseen saanut Game Music Collective:n Lukas Stasevskijn. Luvassa on my\u00f6s Jonne Valtosen etuk\u00e4teishaastattelu, joten mielenkiintoista puhetta alan Suomen huipuilta on t\u00e4n\u00e4kin vuonna luvassa.",
         "timestamp": "2018-04-11T16:10:35+03:00"
+    },
+    {
+        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
+        "start": "2018-04-17 14:00",
+        "end": "2018-04-17 18:00",
+        "title": "Alkushow",
+        "host": "Veli-V, Rocka",
+        "prod": "zeppe",
+        "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
+        "timestamp": "2018-04-11T18:02:59+03:00"
     }
 ]

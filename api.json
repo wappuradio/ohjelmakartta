@@ -1,17 +1,5 @@
 [
     {
-        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
-        "start": "2018-04-17T14:00:00+03:00",
-        "end": "2018-04-17T18:00:00+03:00",
-        "title": "Alkushow",
-        "host": "Veli-V, Rocka",
-        "prod": "zeppe",
-        "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
-        "timestamp": "2018-03-31T20:23:11+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushowjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushowjpg"
-    },
-    {
         "id": "9499dcb1-90f4-46df-a40d-0ae771a18a39",
         "start": "2018-04-17T22:00:00+03:00",
         "end": "2018-04-18T00:00:00+03:00",
@@ -20,8 +8,8 @@
         "prod": "Alexander",
         "desc": "Sampleradio pureutuu samplaukseen ja n\u00e4ytt\u00e4\u00e4 miten musiikki taipuu tuottajan k\u00e4siss\u00e4 aivan uuteen muotoon sopivalla leikkelyll\u00e4. Ohjelma kaivautuu hittibiisien, elektronisen musiikin ja suomir\u00e4pin taustoihin paljastaen niiden kauneimmat ja j\u00e4m\u00e4kimm\u00e4t samplet, ja saattaa muuttaa k\u00e4sityksesi musiikista j\u00e4rk\u00e4lesm\u00e4isesti.",
         "timestamp": "2018-03-31T20:49:01+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio.jpg"
     },
     {
         "id": "1cc81805-4291-4182-9f16-f04a0e989e02",
@@ -32,8 +20,8 @@
         "prod": "Alexander",
         "desc": "Sampleradio pureutuu samplaukseen ja n\u00e4ytt\u00e4\u00e4 miten musiikki taipuu tuottajan k\u00e4siss\u00e4 aivan uuteen muotoon sopivalla leikkelyll\u00e4. Ohjelma kaivautuu hittibiisien, elektronisen musiikin ja suomir\u00e4pin taustoihin paljastaen niiden kauneimmat ja j\u00e4m\u00e4kimm\u00e4t samplet, ja saattaa muuttaa k\u00e4sityksesi musiikista j\u00e4rk\u00e4lesm\u00e4isesti.",
         "timestamp": "2018-03-31T20:49:48+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio.jpg"
     },
     {
         "id": "bec1cefb-4f8c-4626-a8f9-31e9e75c2fb6",
@@ -44,8 +32,8 @@
         "prod": "Arttu ja mutsku",
         "desc": "Ep\u00e4viralliset painin Euroopan-mestaruuskilpailut 1902 pidettiin Haagissa, Alankomaissa. Voittajaksi selviytyi Tanskan Hans Heinrich Egeberg. T\u00e4ll\u00e4 tiedolla ei ole mit\u00e4\u00e4n tekemist\u00e4 Ompeluseuran y\u00f6radion kanssa. Ompeluseuran kirjava porukka nimitt\u00e4in viihdytt\u00e4\u00e4 radiokansaa y\u00f6n yli niin genrerajat kuin perinteiset puheenaiheetkin rikkoen ja ne taas uudelleen kokoon parsien. Pakkaa ulottuvuutesi, heit\u00e4 rinkkasi ikkunasta ja asettaudu kuuntelemaan.",
         "timestamp": "2018-03-31T21:04:00+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/ompeluseurajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ompeluseurajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ompeluseura.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ompeluseura.jpg"
     },
     {
         "id": "c30b0251-ce3c-4eda-b251-b261b92d2d48",
@@ -56,8 +44,8 @@
         "prod": "",
         "desc": "Luonnollinen lukuel\u00e4mys aamun kahtena kummallisimpana tuntina. Irtaudu kehostasi, sukella irrationaalisen lukupiirin syvyyksiin ja opi uusia asioita itsest\u00e4si, maailmankaikkeudesta ja ruoanlaitosta.  Lukupiiriss\u00e4 perehdymme yhdess\u00e4 monipuolisiin teksteihin, kuten kirjallisuuden merkkiteoksiin, erotiikkaan ja kuvakirjoihin. Luvassa on my\u00f6s lukemattomia musiikkikappaleita. ",
         "timestamp": "2018-03-31T21:09:05+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkulukupiirijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkulukupiirijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkulukupiiri.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkulukupiiri.jpg"
     },
     {
         "id": "45f0185f-bd93-4a10-8620-26dd8af8e35a",
@@ -68,8 +56,8 @@
         "prod": "Vuokko",
         "desc": "Sceneradio soittaa j\u00e4lleen kerran sidinsekaisia sointuja perjantai-illan ratoksi. Luvassa vauhdikasta musiikkia vanhalla ja hieman uudemmallakin raudalla menneen vuoden scenekatsauksen lis\u00e4ksi. Lis\u00e4tietoja osoitteessa <a href=\"https:\/\/wappuradio.fi\/sceneradio\">wappuradio.fi\/sceneradio<\/a>",
         "timestamp": "2018-03-31T21:16:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sceneradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sceneradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sceneradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sceneradio.jpg"
     },
     {
         "id": "39eda505-76fc-4903-9092-63da4c47dc19",
@@ -80,8 +68,8 @@
         "prod": "PunaJussi",
         "desc": "Hervannan nopein rakkaus- ja rauha-aatteen urbaanin rytmimusiikin erityisohjelma on saavuttanut kyps\u00e4n 5 vuoden i\u00e4n. T\u00e4ll\u00e4 kertaa k\u00e4yd\u00e4\u00e4n l\u00e4pi mm. syv\u00e4 luotaus Pietarin hardbass-skeneen ja muistellaan mit\u00e4 siell\u00e4 Pietarissa tapahtuikaan.",
         "timestamp": "2018-04-01T11:29:20+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/rytmimuna5vjuhlalahetysjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rytmimuna5vjuhlalahetysjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/rytmimuna5vjuhlalahetys.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rytmimuna5vjuhlalahetys.jpg"
     },
     {
         "id": "cec7c669-cec9-4806-88e8-3aac790c602b",
@@ -92,8 +80,8 @@
         "prod": "Tuulia",
         "desc": "Arvioinnin asiantuntijoiden Pyryn, Jannen ja Patrikin k\u00e4siss\u00e4 mik\u00e4\u00e4n ei ole arviointiasteikon ulottumattomissa. Kahden tunnin ajan Arvostelutoimisto arvostelee mit\u00e4 vain, sill\u00e4 kaikki on arvioitavissa. ",
         "timestamp": "2018-04-01T22:01:24+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimistojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimistojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto.jpg"
     },
     {
         "id": "d437b470-96b8-4fb6-b858-3cf0c6f8a506",
@@ -104,8 +92,8 @@
         "prod": "Tuulia",
         "desc": "Arvioinnin asiantuntijoiden Pyryn, Jannen ja Patrikin k\u00e4siss\u00e4 mik\u00e4\u00e4n ei ole arviointiasteikon ulottumattomissa. Kahden tunnin ajan Arvostelutoimisto arvostelee mit\u00e4 vain, sill\u00e4 kaikki on arvioitavissa. ",
         "timestamp": "2018-04-01T22:01:48+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimistojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimistojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto.jpg"
     },
     {
         "id": "d1cbed81-8e16-4ad8-b5fe-364010593e46",
@@ -116,8 +104,8 @@
         "prod": "Jarno Tuokkola",
         "desc": "Rankan y\u00f6n j\u00e4lkeen aloitetaan aamu l\u00e4htem\u00e4ll\u00e4 nousukiitoon Albatrossin siivitt\u00e4m\u00e4n\u00e4. Ensimm\u00e4ist\u00e4 kertaa Teekkarien Ilmailukerho Albatross on laskeutunut Wappuradion ohjelmakartalle tekem\u00e4\u00e4n omaa asiapitoista ohjelmaa. Kuunnellaan ilmailuaiheista musiikkia, v\u00e4itell\u00e4\u00e4n Hornettien seuraajasta ja tulevaisuuden lentolaitteista sek\u00e4 muistellaan menneit\u00e4 vuosisatoja kun miehet oli rautaa ja lentokoneet laivantekoaineesta tehty.",
         "timestamp": "2018-04-02T16:55:01+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousukiitojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousukiitojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousukiito.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousukiito.jpg"
     },
     {
         "id": "ac3f1871-c008-4c36-b9a1-312c11946c99",
@@ -128,8 +116,8 @@
         "prod": "Alexander",
         "desc": "Millainen on ananas sanana?\r\nT\u00e4h\u00e4n ja moneen muuhun suomen kielen mielenkiintoiseen koukeroon l\u00f6yd\u00e4t vastauksia, tai v\u00e4hint\u00e4\u00e4n pohdintaa kahden asiaan perehtym\u00e4tt\u00f6m\u00e4n teekkarin suusta. Korvat h\u00f6r\u00f6lle ja miettim\u00e4\u00e4n mik\u00e4\/kuka on h\u00f6r\u00f6.\r\nSoitamme genreen katsomatta musiikkia, jonka sanat tai sanoitukset ovat ohjelman teemaan sopivia.",
         "timestamp": "2018-04-02T17:57:11+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sana-analyysijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sana-analyysijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sana-analyysi.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sana-analyysi.jpg"
     },
     {
         "id": "f9e8355d-cc8c-4786-8318-ae21c49e539d",
@@ -140,8 +128,8 @@
         "prod": "Vuokko",
         "desc": "Teekkarit ja fuksit ovat taistelleet Pelinjohtajan pahoja voimia vastaan jo nelj\u00e4sti, ja edellisen kerran luultiin tuon voiman kaikonneen n\u00e4ilt\u00e4 mailta ikuisiksi ajoiksi. Yliopistov\u00e4en lakkojen my\u00f6t\u00e4 kuitenkin my\u00f6s Pelinjohtaja on lakkoillut voimansa takaisin, ja uhkaa j\u00e4lleen Erepmatin taumaturgisen yliopiston v\u00e4ke\u00e4. Y\u00f6n pimeydess\u00e4 h\u00e4n asettaa henke\u00e4salpaavia ja vertahyyt\u00e4vi\u00e4, hengenvaarallisia koettelemuksia n\u00e4iden eteen. Saadaanko Pelinjohtaja kukistettua j\u00e4lleen, vai onko vihdoin nouseva h\u00e4nen galaktinen imperiuminsa?\r\n\r\nKvanttipuu-ohjelmassa sin\u00e4, rakas kuulija, p\u00e4\u00e4set mit\u00e4 eriskummallisimpiin seikkailuihin ohjelman Pelinjohtajan luomien roolipeliskenaarioiden kautta. Jokainen skenaario on ainutlaatuinen, ja lopputulos noppien varassa. Ainoa vakio on hervoton huumori ja selitt\u00e4m\u00e4tt\u00f6m\u00e4t sankaritarinat. Oletko aina halunnut kokea kahvikupin el\u00e4m\u00e4\u00e4? Tai johtaa Austerlitzin taistelua Napoleonin saappaista? T\u00e4m\u00e4 on mahdollisuutesi: Soita studioon ja heitt\u00e4ydy y\u00f6llisen k\u00e4nn... roolipeliseikkailun sy\u00f6veriin!",
         "timestamp": "2018-04-05T08:56:03+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kvanttipuu5-pelinjohtajalakkoileetakaisinjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kvanttipuu5-pelinjohtajalakkoileetakaisinjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kvanttipuu5-pelinjohtajalakkoileetakaisin.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kvanttipuu5-pelinjohtajalakkoileetakaisin.jpg"
     },
     {
         "id": "8fa46798-468d-43b8-ae69-edcb46729853",
@@ -152,8 +140,8 @@
         "prod": "Lahis???",
         "desc": "Yli 50 vuotta sitten nostetiin esiin Wasa-laiva koristeenaan Paavo Nurmi. Kuitenkin j\u00e4yni\u00e4 on olemassa monen monta erilaista viel\u00e4 lis\u00e4\u00e4, aina Tampereen sukellusveneeseen asti. Tutustu, mit\u00e4 j\u00e4yni\u00e4 teekkarit ovat ehtineet tehd\u00e4 vuosien saatossa, olivat ne sitten kyseess\u00e4 hyvi\u00e4 tai huonoja. Miten j\u00e4yn\u00e4\u00e4minen on vaikuttanut teekkarikulttuuriin ja sen muotoutumiseen?",
         "timestamp": "2018-04-05T11:27:13+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kyseessaonteekkarijaynajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kyseessaonteekkarijaynajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kyseessaonteekkarijayna.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kyseessaonteekkarijayna.jpg"
     },
     {
         "id": "6a83bb0e-48c3-463a-9787-fc93f2cb73ae",
@@ -164,8 +152,8 @@
         "prod": "m4rkka",
         "desc": "Pepe&Traxmar: Kommuuni Sessions on ennen kaikkea hyv\u00e4nmielen iltaohjelma. Heti radion ensimm\u00e4isen\u00e4 iltana starttaamme elektronisen, upliftaavan trance-house -ohjelmamme, jonka lomassa pohditaan opiskelijael\u00e4m\u00e4n muutosta aina ensimm\u00e4isest\u00e4 p\u00e4iv\u00e4st\u00e4 viimeiseen Wappuun. Ohjelmassa jaetaan tarinoita, kokemuksia ja vinkkej\u00e4 onnistuneeseen Wappuiltaan. Oli illan agendana sitten kotona\/koululla simastelu, Wappukolmiot tai harkkaty\u00f6n raivokas ryyn\u00e4\u00e4minen, k\u00e4\u00e4nn\u00e4 anturit Wappuradion taajuudelle!",
         "timestamp": "2018-04-05T18:36:26+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessionsjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessionsjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessions.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessions.jpg"
     },
     {
         "id": "f8d41ce3-7ce8-4444-b697-7f1d04eb0cc3",
@@ -176,8 +164,8 @@
         "prod": "m4rkka",
         "desc": "Pepe&Traxmar: Kommuuni Sessions on ennen kaikkea hyv\u00e4nmielen iltaohjelma. Heti radion ensimm\u00e4isen\u00e4 iltana starttaamme elektronisen, upliftaavan trance-house -ohjelmamme, jonka lomassa pohditaan opiskelijael\u00e4m\u00e4n muutosta aina ensimm\u00e4isest\u00e4 p\u00e4iv\u00e4st\u00e4 viimeiseen Wappuun. Ohjelmassa jaetaan tarinoita, kokemuksia ja vinkkej\u00e4 onnistuneeseen Wappuiltaan. Oli illan agendana sitten kotona\/koululla simastelu, Wappukolmiot tai harkkaty\u00f6n raivokas ryyn\u00e4\u00e4minen, k\u00e4\u00e4nn\u00e4 anturit Wappuradion taajuudelle!",
         "timestamp": "2018-04-05T18:36:49+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessionsjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessionsjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessions.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessions.jpg"
     },
     {
         "id": "9682607c-3b79-45e5-b967-45101b1c4e98",
@@ -188,8 +176,8 @@
         "prod": "Alexander Lindholm",
         "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
         "timestamp": "2018-04-05T21:03:41+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio.jpg"
     },
     {
         "id": "2d53eb52-72f2-40c6-99f0-535cde0ef233",
@@ -200,8 +188,8 @@
         "prod": "Alexander Lindholm",
         "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
         "timestamp": "2018-04-05T21:03:45+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio.jpg"
     },
     {
         "id": "a95ce34c-ab22-4056-969b-b5b089ddcc8c",
@@ -212,8 +200,8 @@
         "prod": "Alexander Lindholm",
         "desc": "Viime vuoden y\u00f6radiosta tuttu Tilaradio palaa aalloille Aamutilaradiona viikonloppuisin her\u00e4ttelem\u00e4\u00e4n wappukansan uuteen p\u00e4iv\u00e4\u00e4n. Ohjelmassa puhutaan aamusta, kahvista ja aamukahvista. H\u00e4mmenn\u00e4 aamukahviisi letkeit\u00e4 soundeja ja pirist\u00e4vi\u00e4 s\u00e4veli\u00e4 ja ripaus tiloja. Aamusi on valmis.",
         "timestamp": "2018-04-05T21:03:51+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamutilaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamutilaradio.jpg"
     },
     {
         "id": "0176e5a5-d3cf-4677-96e1-ddd93e094f1e",
@@ -224,8 +212,8 @@
         "prod": "Sarppa",
         "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
         "timestamp": "2018-04-05T22:56:33+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkijajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkijajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkija.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkija.jpg"
     },
     {
         "id": "c8d08932-0982-4d9c-a114-562d0a3dec69",
@@ -236,8 +224,8 @@
         "prod": "Sarppa",
         "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
         "timestamp": "2018-04-05T22:56:33+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkijajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkijajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkija.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkija.jpg"
     },
     {
         "id": "0c874821-b4ad-4bf9-acf5-544adf225f24",
@@ -248,8 +236,8 @@
         "prod": "Sarppa",
         "desc": "Jo\u00adkai\u00adsen teek\u00adka\u00adrin si\u00ads\u00e4l\u00adl\u00e4 asuu pie\u00adni tut\u00adki\u00adja, mut\u00adta muu\u00adta\u00admis\u00adsa meis\u00adt\u00e4 pe\u00adsii my\u00f6s iso aka\u00adtee\u00admik\u00adko. Sen mie\u00adles\u00adt\u00e4 nyt on hyv\u00e4 het\u00adki nos\u00adtaa ja\u00adlat p\u00f6y\u00add\u00e4l\u00adle, pi\u00adt\u00e4\u00e4 parin tun\u00adnin mit\u00adtai\u00adnen kah\u00advi\u00adtau\u00adko ja tois\u00adtaa per\u00e4s\u00ads\u00e4: t\u00e4m\u00e4 on t\u00e4rke\u00e4\u00e4, olen tut\u00adki\u00adja.",
         "timestamp": "2018-04-05T22:56:35+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkijajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkijajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tamaontarkeaaolentutkija.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tamaontarkeaaolentutkija.jpg"
     },
     {
         "id": "3de35497-6a31-4c5b-ad3f-3d9f45fc3c59",
@@ -260,8 +248,8 @@
         "prod": "LaNi_1",
         "desc": "Jotain kosmista palaa radioaalloille wapun ensimm\u00e4isen\u00e4 keskiviikkona. Sukella kanssamme mustien aukkojen sy\u00f6vereihin, saatamme n\u00e4hd\u00e4 vilauksen sinisest\u00e4 poliisipuhelinkioskista. Lis\u00e4ksi yrit\u00e4mme Marsin valloitusta illan aikana, sill\u00e4 olemme saaneet tiedon er\u00e4\u00e4st\u00e4 Maata l\u00e4hestyv\u00e4st\u00e4, kahvinhimoisesta ulkoavaruuden asukkaasta. ",
         "timestamp": "2018-04-06T10:37:48+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jotainkosmistajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jotainkosmistajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jotainkosmista.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jotainkosmista.jpg"
     },
     {
         "id": "1a02a812-3a70-42d0-aaca-5ffb54dc9ec8",
@@ -272,8 +260,8 @@
         "prod": "zeppe",
         "desc": "Mit\u00e4 Metallican Lars tilasi nakkikioskilla? Miksi Iron Maidenin Dave rakensi aikakoneen? Vastaus n\u00e4ihinkin kysymyksiin saattaa j\u00e4\u00e4d\u00e4 pime\u00e4n peittoon, kun Matti Moottori ja Arttu Apupy\u00f6r\u00e4 matkaavat kolmatta kertaa rockin ei-niin-faktuaaliseen maailmaan.",
         "timestamp": "2018-04-06T13:43:38+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/puolitotuuksiarockistajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/puolitotuuksiarockistajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/puolitotuuksiarockista.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/puolitotuuksiarockista.jpg"
     },
     {
         "id": "45cf59ef-8ac1-4604-bbf2-8b3a239094bb",
@@ -284,8 +272,8 @@
         "prod": "zeppe",
         "desc": "Takelteleeko kolmas kotimainen? Sunnuntai-iltap\u00e4iv\u00e4n opetusradiossa perehdyt\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6n englantiin musiikin ja havainnollistavien esimerkkien avulla. Kahden tunnin intensiivikurssin j\u00e4lkeen englanti on sinullekin easy nack! Tuutoreinasi toimivat Matti ja Petri, eli Matrick ja Patthew!",
         "timestamp": "2018-04-06T13:45:50+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/howtoenglishjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/howtoenglishjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/howtoenglish.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/howtoenglish.jpg"
     },
     {
         "id": "22709966-5c05-464f-ad7d-5fbbb1d26a84",
@@ -296,8 +284,8 @@
         "prod": "dodo",
         "desc": "Keskustelemme ja analysoimme tapoja, joilla anglo-amerikkalainen musiikki on ottanut kantaa yhteiskunnallisiin tapahtumiin mm. Vietnamin sodasta, Watergatesta, Nelson Mandelasta ja kaupunkien ongelmista. Sis\u00e4lt\u00e4\u00e4 Meanwhile in Finland -osion, joka k\u00e4sittelee Suomen tilannetta ja sen innoittamaa musiikkia.",
         "timestamp": "2018-04-06T15:15:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/yhteiskunnallisenmusiikinerittainlyhythistoriajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yhteiskunnallisenmusiikinerittainlyhythistoriajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/yhteiskunnallisenmusiikinerittainlyhythistoria.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yhteiskunnallisenmusiikinerittainlyhythistoria.jpg"
     },
     {
         "id": "50ebccdb-960e-419e-8b43-8b05d034423f",
@@ -308,8 +296,8 @@
         "prod": "dodo",
         "desc": "K\u00e4sittelemme englannin kielen rumia, alatyylisi\u00e4 ja h\u00e4rskej\u00e4 sanoja ja sanontoja. Esittelemme niiden historiaa ja k\u00e4ytt\u00f6\u00e4 ja yleisesti kiroilemme radiossa kolmannella kotimaisella.",
         "timestamp": "2018-04-06T15:17:18+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/containsstronglanguageenglanninkielenruokottomienilmaisujenhistoriaa.jpg"
     },
     {
         "id": "bed9c238-641b-4f0f-864a-dc02f0567a74",
@@ -320,8 +308,8 @@
         "prod": "FireFlower",
         "desc": "Katseiden k\u00e4\u00e4ntyess\u00e4 auringonnousuun tulee TTY:n anime- ja mangakerho HeNTAi taas pirist\u00e4m\u00e4\u00e4n Wappuviikon lauantaiaamuanne. Tarjolla on menev\u00e4\u00e4 japanilaista populaarimusiikkia ja keskustelua japanilaisen animation syvimm\u00e4st\u00e4 olemuksesta.",
         "timestamp": "2018-04-06T16:07:09+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousevanauringonmaanaamujpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousevanauringonmaanaamujpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousevanauringonmaanaamu.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousevanauringonmaanaamu.jpg"
     },
     {
         "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
@@ -332,8 +320,8 @@
         "prod": "Sara Komulainen",
         "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
         "timestamp": "2018-04-06T16:55:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     },
     {
         "id": "09a77d04-1fda-4291-98a9-6642a5f01d42",
@@ -344,8 +332,8 @@
         "prod": "Sara Komulainen",
         "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
         "timestamp": "2018-04-06T16:55:21+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     },
     {
         "id": "d7ed030d-f963-4254-9753-5cd235c04d82",
@@ -356,8 +344,8 @@
         "prod": "Sara Komulainen",
         "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
         "timestamp": "2018-04-06T16:55:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     },
     {
         "id": "0e374024-b128-48c8-a67c-6127dba9f6cd",
@@ -368,8 +356,8 @@
         "prod": "Sara Komulainen",
         "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
         "timestamp": "2018-04-06T16:57:33+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     },
     {
         "id": "073bb09c-12d4-4f18-a363-bd6c4eb24a4e",
@@ -380,8 +368,8 @@
         "prod": "Joona",
         "desc": "Are you feeling blue?\r\nHaven't found the wappu spirit yet?\r\nWe'll bring the sunshine and make you FEEL GOOD. Just float on our warm radio waves and immerse yourself into the music, culture and relaxing atmosphere with our hosts Tytti (Yl\u00f6j\u00e4rvi), Janne (Tampere) and Birhanu (Addis Abeba).",
         "timestamp": "2018-04-06T17:40:09+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradio.jpg"
     },
     {
         "id": "c6d48b0f-242c-47e1-904c-2215a5131570",
@@ -392,8 +380,8 @@
         "prod": "KukaKumma",
         "desc": "Asiaa yksin\u00e4isyydest\u00e4. Tulkittua tiedett\u00e4, merkitsev\u00e4\u00e4 musiikkia ja avartavia anekdootteja. Ohjelman p\u00e4\u00e4tytty\u00e4 hiljainen tovi yksin\u00e4isyydess\u00e4 tuntuukin hetken ihan hyv\u00e4lt\u00e4.",
         "timestamp": "2018-04-06T17:50:10+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/yksinaistajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yksinaistajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/yksinaista.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yksinaista.jpg"
     },
     {
         "id": "5219ab70-2ebe-4661-babe-efe4ce0cfa91",
@@ -404,8 +392,8 @@
         "prod": "",
         "desc": "Huminaa, kuminaa ja jumitusta. Wapun wuoristoradan jarrumies tarjoilee annoksen rauhoittavia s\u00e4hk\u00f6isi\u00e4 \u00e4\u00e4ni\u00e4 vastal\u00e4\u00e4kkeeksi vauhdikkaalle juhlinnalle.",
         "timestamp": "2018-04-06T18:11:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jumipuistojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jumipuistojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jumipuisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jumipuisto.jpg"
     },
     {
         "id": "a79673f0-ced9-4f7e-bb22-5666ba49cb6c",
@@ -416,8 +404,8 @@
         "prod": "",
         "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
         "timestamp": "2018-04-06T19:08:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituusjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituusjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus.jpg"
     },
     {
         "id": "0831ce76-afe4-4506-9f71-33bde00f683f",
@@ -428,8 +416,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "fcac3fbb-15a1-4a14-9d04-a59b35e4a5e8",
@@ -440,8 +428,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:35+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "3170aa49-0e51-486e-aa89-ffc2fb24021e",
@@ -452,8 +440,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:38+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "e66bce5c-e2d9-4146-97be-cce5f013350e",
@@ -464,8 +452,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:51+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "151a8166-dba0-4b62-a84e-f8e5ab2b817b",
@@ -476,8 +464,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:54+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "ddbce056-344e-47eb-ac49-af9cf8ac29db",
@@ -488,8 +476,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:17:58+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "6361b404-96cd-456b-b19b-e639a0cb6a97",
@@ -500,8 +488,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:18:02+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "30f9d209-61a7-4a7b-a83c-323a61a78324",
@@ -512,8 +500,8 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali joka arkiaamu seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-04-06T19:18:06+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/curlingspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
         "id": "573f6bcf-47ed-4427-a41e-ec307df8adf2",
@@ -524,8 +512,8 @@
         "prod": "Tommi Mehtonen",
         "desc": "Meid\u00e4n jokaisen arkeen kuuluu kiinte\u00e4n\u00e4 osana ydinpommit, porno ja ulottuvuuksien v\u00e4liset portaalit. Selv\u00e4h\u00e4n se, mutta mit\u00e4 tekemist\u00e4 humanismilla on t\u00e4ss\u00e4 kaikessa? Jos olet aina miettinyt mit\u00e4 humanistit tekev\u00e4t ja miksi se on usein niin vieh\u00e4tt\u00e4v\u00e4n h\u00f6rh\u00f6\u00e4, on aika seurata Humanistien n\u00f6rttiradiota. Humanistien t\u00e4rkeimpiin teht\u00e4viin kuulukin vastaaminen niihin kysymyksiin, joita kukaan ei esit\u00e4!",
         "timestamp": "2018-04-06T20:06:09+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradio.jpg"
     },
     {
         "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
@@ -536,8 +524,8 @@
         "prod": "Teemu Nuorteva",
         "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
         "timestamp": "2018-04-06T21:38:40+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappujpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappujpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappu.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappu.jpg"
     },
     {
         "id": "b2b8c027-d27b-4774-99b0-bed4fdfdf9cf",
@@ -548,8 +536,8 @@
         "prod": "m4rkka",
         "desc": "Ei niin ajankohtainen keskusteluohjelma meit\u00e4 askarruttavista uutisista. Ylittyik\u00f6 uutiskynnys vai laskettiinko rimaa j\u00e4lleen? Kuuntele ja ota selv\u00e4\u00e4!",
         "timestamp": "2018-04-06T21:52:46+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvatuutisetjasaajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvatuutisetjasaajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvatuutisetjasaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvatuutisetjasaa.jpg"
     },
     {
         "id": "a45844eb-4ec8-4233-851c-5e7a72f80156",
@@ -560,8 +548,8 @@
         "prod": "Alexander Lindholm",
         "desc": "Muistatko viel\u00e4 millaista oli olla 12? Ei h\u00e4t\u00e4\u00e4, niin mekin! T\u00e4ss\u00e4 ohjelmassa kaksi post-jonnea johdattaa kuulijat takaisin noihin p\u00e4iviin loistavan 2000-luvun lopun musiikin tahdein. Luvassa nostalgiatrippej\u00e4 ja ebin tarinoita nuoruuden kunnian p\u00e4ivist\u00e4. Haastamme my\u00f6s kuulijamme muistelemaan omia jonnevuosiaan.",
         "timestamp": "2018-04-06T21:59:59+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jonnetvoimuistaajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jonnetvoimuistaajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jonnetvoimuistaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jonnetvoimuistaa.jpg"
     },
     {
         "id": "206cc809-62ff-41eb-9305-532497324c18",
@@ -572,8 +560,8 @@
         "prod": "mlane",
         "desc": "Hevi\u00e4, prk* ! Perjantai-illan metallitunnissa kuullaan sek\u00e4 kotimaista ett\u00e4 ulkomaista metallia, kenties jotain tuttua ja jotain vierasta.",
         "timestamp": "2018-04-06T22:44:34+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/havujaheviajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/havujaheviajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/havujahevia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/havujahevia.jpg"
     },
     {
         "id": "84d377b4-251b-4c40-bbcd-7a261dc16971",
@@ -584,8 +572,8 @@
         "prod": "Jaketus",
         "desc": "Onko parempaa tapaa aloittaa aamu, kuin Taktisilla punssipalleroilla? Taktiset punssipallerot sopivat  hyvin kahvin kanssa nautittavaksi ja takaavat makuel\u00e4myksen korvassasi. Lis\u00e4ksi pallerot on kuorrutettu s\u00f6p\u00f6ill\u00e4 str\u00f6sseleill\u00e4. Punssipallerot saattavat jakaa mielipiteit\u00e4, mutta kylm\u00e4ksi ne eiv\u00e4t j\u00e4t\u00e4! \r\nKilpailuita, haastatteluja ja livevieraita sek\u00e4 aiheita, joita vedet\u00e4\u00e4n kuin taikurin hatusta.",
         "timestamp": "2018-04-06T22:53:22+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerot.jpg"
     },
     {
         "id": "5ed681ed-9c9e-4e76-a2bb-1ea53c402060",
@@ -596,8 +584,8 @@
         "prod": "Jaketus",
         "desc": "Onko parempaa tapaa aloittaa aamu, kuin Taktisilla punssipalleroilla? Taktiset punssipallerot sopivat  hyvin kahvin kanssa nautittavaksi ja takaavat makuel\u00e4myksen korvassasi. Lis\u00e4ksi pallerot on kuorrutettu s\u00f6p\u00f6ill\u00e4 str\u00f6sseleill\u00e4. Punssipallerot saattavat jakaa mielipiteit\u00e4, mutta kylm\u00e4ksi ne eiv\u00e4t j\u00e4t\u00e4! \r\nKilpailuita, haastatteluja ja livevieraita sek\u00e4 aiheita, joita vedet\u00e4\u00e4n kuin taikurin hatusta.",
         "timestamp": "2018-04-06T22:53:43+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerot.jpg"
     },
     {
         "id": "8de0971c-93c4-414c-8dbf-834e69515cf5",
@@ -608,8 +596,8 @@
         "prod": "Jaketus",
         "desc": "Onko parempaa tapaa aloittaa aamu, kuin Taktisilla punssipalleroilla? Taktiset punssipallerot sopivat  hyvin kahvin kanssa nautittavaksi ja takaavat makuel\u00e4myksen korvassasi. Lis\u00e4ksi pallerot on kuorrutettu s\u00f6p\u00f6ill\u00e4 str\u00f6sseleill\u00e4. Punssipallerot saattavat jakaa mielipiteit\u00e4, mutta kylm\u00e4ksi ne eiv\u00e4t j\u00e4t\u00e4! \r\nKilpailuita, haastatteluja ja livevieraita sek\u00e4 aiheita, joita vedet\u00e4\u00e4n kuin taikurin hatusta.",
         "timestamp": "2018-04-06T22:53:48+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerot.jpg"
     },
     {
         "id": "fcf36576-2452-444e-88a5-57d6057f7578",
@@ -620,8 +608,8 @@
         "prod": "Jaketus",
         "desc": "Onko parempaa tapaa aloittaa aamu, kuin Taktisilla punssipalleroilla? Taktiset punssipallerot sopivat  hyvin kahvin kanssa nautittavaksi ja takaavat makuel\u00e4myksen korvassasi. Lis\u00e4ksi pallerot on kuorrutettu s\u00f6p\u00f6ill\u00e4 str\u00f6sseleill\u00e4. Punssipallerot saattavat jakaa mielipiteit\u00e4, mutta kylm\u00e4ksi ne eiv\u00e4t j\u00e4t\u00e4! \r\nKilpailuita, haastatteluja ja livevieraita sek\u00e4 aiheita, joita vedet\u00e4\u00e4n kuin taikurin hatusta.",
         "timestamp": "2018-04-06T22:54:10+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/taktisetpunssipallerot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/taktisetpunssipallerot.jpg"
     },
     {
         "id": "fa42b4dc-11cf-42a5-a8ad-3d153c2075fc",
@@ -632,8 +620,8 @@
         "prod": "Jaketus",
         "desc": "Vihdoinkin se on t\u00e4\u00e4ll\u00e4, l\u00e4hes vuoden piinaavan odotuksen j\u00e4lkeen euroviisumusiikin erikoisohjelma Euroviisuspesiaali! palaa Wappuradion taajuuksille!\r\n\r\nWapun viimeisen\u00e4 perjantaina k\u00e4ynnistyy ennenn\u00e4kem\u00e4tt\u00f6m\u00e4n unohtumaton \"Parti for Everibodi\", lauantaina p\u00e4iv\u00e4ll\u00e4 puolestaan katsellaan onko illan bileist\u00e4 selvitty ja loivennellaan balladien tahtiin ennen Wapun loppurutistusta.",
         "timestamp": "2018-04-06T22:59:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroviisuspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroviisuspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroviisuspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroviisuspesiaali.jpg"
     },
     {
         "id": "e60ef57d-b34a-4fe1-90bf-34c7de6bfd87",
@@ -644,8 +632,8 @@
         "prod": "Jaketus",
         "desc": "Vihdoinkin se on t\u00e4\u00e4ll\u00e4, l\u00e4hes vuoden piinaavan odotuksen j\u00e4lkeen euroviisumusiikin erikoisohjelma Euroviisuspesiaali! palaa Wappuradion taajuuksille!\r\n\r\nWapun viimeisen\u00e4 perjantaina k\u00e4ynnistyy ennenn\u00e4kem\u00e4tt\u00f6m\u00e4n unohtumaton \"Parti for Everibodi\", lauantaina p\u00e4iv\u00e4ll\u00e4 puolestaan katsellaan onko illan bileist\u00e4 selvitty ja loivennellaan balladien tahtiin ennen Wapun loppurutistusta.",
         "timestamp": "2018-04-06T23:01:54+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroviisuspesiaalijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroviisuspesiaalijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroviisuspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroviisuspesiaali.jpg"
     },
     {
         "id": "31a54366-c245-4c9e-9762-cbbdcb23f60f",
@@ -656,8 +644,8 @@
         "prod": "JSuvanto",
         "desc": "Kaksi tuntia suoraa v\u00e4kivaltaa kuuntelijoiden korviin. Tarjolla on rajumpaa musiikkia yli genrerajojen.",
         "timestamp": "2018-04-06T23:02:41+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/mattomattojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mattomattojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/mattomatto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mattomatto.jpg"
     },
     {
         "id": "eb12d636-ac40-46c2-8793-0f560e69b82d",
@@ -668,8 +656,8 @@
         "prod": "Manty",
         "desc": "Vuosittainen erikoisl\u00e4hetys. Yliopisto-opettaja horisee ja soittaa nuorisomusiikkia...tai siis entisten nuorten nuorisomusiikkia.",
         "timestamp": "2018-04-06T23:12:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg"
     },
     {
         "id": "5fe524d4-0ea7-4b50-b08d-80fa71c2be12",
@@ -680,8 +668,8 @@
         "prod": "Veli-V",
         "desc": "Suoraa puhetta suhteista ja niiden puutteesta.",
         "timestamp": "2018-04-06T23:30:44+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sinkkumutsinpaivakirjatjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sinkkumutsinpaivakirjatjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sinkkumutsinpaivakirjat.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sinkkumutsinpaivakirjat.jpg"
     },
     {
         "id": "a3647b95-ceb6-4856-9993-1a305f4a918e",
@@ -692,8 +680,8 @@
         "prod": "Juho",
         "desc": "K\u00e4\u00e4nteentekev\u00e4n melankolahtava \u2013 joskin puolihuolimattoman lopullinen \u2013 my\u00f6h\u00e4isillan teehetki.",
         "timestamp": "2018-04-06T23:52:01+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/lopunajanvinyyliklubijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lopunajanvinyyliklubijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lopunajanvinyyliklubi.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lopunajanvinyyliklubi.jpg"
     },
     {
         "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
@@ -704,8 +692,8 @@
         "prod": "Manty",
         "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 20. ",
         "timestamp": "2018-04-07T00:42:26+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanistijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanistijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti.jpg"
     },
     {
         "id": "6fd7b4fc-2918-471b-bcf5-6ff28e8b5d72",
@@ -716,8 +704,8 @@
         "prod": "Jaketus",
         "desc": "Kun iskelm\u00e4n aiheuttamista lapsuustraumoista on kulunut tarpeeksi kauan, on aika palata niihin kahden tunnin terapiasession verran. Laita turvavy\u00f6 kiinni, pist\u00e4 korvalappustereot t\u00e4ysille ja vaivu takaisin takapenkin turvaistuimelle. T\u00e4m\u00e4 on aikamatka kappaleeseen kauheinta Suomea.",
         "timestamp": "2018-04-07T00:59:15+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa.jpg"
     },
     {
         "id": "8484bc23-9013-4454-a3cc-604d3ecc7afd",
@@ -728,8 +716,8 @@
         "prod": "PunaJussi",
         "desc": "Hy\u00adv\u00e4n mie\u00adlen hoi\u00adto\u00adra\u00addio viet\u00adt\u00e4\u00e4 my\u00f6\u00adh\u00e4i\u00adsil\u00adtaa in\u00adtii\u00admeis\u00ads\u00e4 tun\u00adnel\u00admis\u00adsa kes\u00adkus\u00adtel\u00adlen terveyteen ja hyvinvointiin ainakin l\u00f6yh\u00e4sti liittyvist\u00e4 teemoista pil\u00adke sil\u00adm\u00e4\u00adkul\u00admas\u00adsa. Keskiviikkoil\u00adlan ra\u00adtok\u00adsi pe\u00adlaam\u00adme my\u00f6s hu\u00adpai\u00adsia seu\u00adra\u00adpe\u00adle\u00adj\u00e4, joi\u00adhin niin tuot\u00adta\u00adja kuin rak\u00adkaat kuu\u00adli\u00adjat\u00adkin p\u00e4\u00e4\u00adse\u00adv\u00e4t ot\u00adta\u00admaan osaa! Musii\u00adkin taso saat\u00adtaa vaih\u00addel\u00adla, mut\u00adta seu\u00adra on 5\/\u200b5; \u00e4l\u00e4 siis j\u00e4t\u00e4 n\u00e4i\u00adt\u00e4 bi\u00adlei\u00adt\u00e4 v\u00e4\u00adliin!",
         "timestamp": "2018-04-07T10:35:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvanmielenhoitoradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvanmielenhoitoradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/hyvanmielenhoitoradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hyvanmielenhoitoradio.jpg"
     },
     {
         "id": "842fbdc9-b7fd-4bf5-b330-5d21beea2f87",
@@ -740,8 +728,8 @@
         "prod": "Ville Rautalahti",
         "desc": "Ohjelmanumero matkustamisesta. Luvassa tips&tricks -osio, on-air -puheluita ymp\u00e4ri maailmaa sek\u00e4 pari hauskaa stoorii omilt reissuilta.",
         "timestamp": "2018-04-07T20:26:29+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/matkustusradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matkustusradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/matkustusradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matkustusradio.jpg"
     },
     {
         "id": "567cc7f8-5924-434f-a201-582b9c6c8462",
@@ -752,8 +740,8 @@
         "prod": "JSuvanto",
         "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
         "timestamp": "2018-04-08T11:36:58+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit.jpg"
     },
     {
         "id": "184c28ea-0ffa-4491-85a8-19e34a7a9301",
@@ -764,8 +752,8 @@
         "prod": "JSuvanto",
         "desc": "Nosta jalkaa, siit\u00e4 se alkaa! Nimitt\u00e4in peikkojen tanssitunti. Rujompaa humppaa, jonka aikana raavainkin mies herkistyy ja polvet notkeutuvat vieden kuuntelijat mukanaan nuoruuden tanssien huumaan, jossa karkeloitiin l\u00e4pi y\u00f6n v\u00e4symyst\u00e4 tuntematta.",
         "timestamp": "2018-04-08T11:40:13+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/peikkojentanssituntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/peikkojentanssituntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/peikkojentanssitunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/peikkojentanssitunti.jpg"
     },
     {
         "id": "97fe510a-4136-401b-b942-8a92e53aa73a",
@@ -776,8 +764,8 @@
         "prod": "Jaakko Airasmaa",
         "desc": "Nykyaika on pilannut maailman. Ennen kaikki oli paremmin ja nykyajassa hyv\u00e4\u00e4 on p\u00e4\u00e4osin ei mik\u00e4\u00e4n.\r\nKoska n\u00e4m\u00e4 vanhat hyv\u00e4t ajat sitten olivat ja miten ne olivat parempia kuin mik\u00e4\u00e4n nyky\u00e4\u00e4n aikaansaatu r\u00e4pelt\u00e4minen? T\u00e4h\u00e4n polttavaan kysymykseen vastaa Tampereen yliopiston historian opiskelijat, jotka ovat el\u00e4m\u00e4ns\u00e4 pyhitt\u00e4neet menneisyyden hekumoimiselle ja nykyajan parjaamiselle. Onko meill\u00e4 siis mit\u00e4\u00e4n toivoa? T\u00e4h\u00e4n ja moneen muuhun kysymykseen vastataan Luddiittien y\u00f6radiossa.",
         "timestamp": "2018-04-08T11:55:07+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/nykyaikaonpilannuthistorianluddiittienyoradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nykyaikaonpilannuthistorianluddiittienyoradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nykyaikaonpilannuthistorianluddiittienyoradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nykyaikaonpilannuthistorianluddiittienyoradio.jpg"
     },
     {
         "id": "1c6a5888-9931-40d4-b175-4887bd38b9b9",
@@ -788,8 +776,8 @@
         "prod": "zar",
         "desc": "Wapun tiimellyksen keskell\u00e4 on j\u00e4lleen aika herkisty\u00e4 hetkeksi. Soitamme j\u00e4lleen kuulijoita liikuttaneita kappaleita ja kerromme tarinat niiden taustalla. L\u00e4het\u00e4 omasi osoitteessa <a href=\"https:\/\/goo.gl\/forms\/FYHAU8ukV0g43dez1\">https:\/\/goo.gl\/forms\/FYHAU8ukV0g43dez1<\/a>. ",
         "timestamp": "2018-04-08T11:57:32+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/herkkahetkijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/herkkahetkijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/herkkahetki.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/herkkahetki.jpg"
     },
     {
         "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
@@ -800,8 +788,8 @@
         "prod": "KukaKumma",
         "desc": "Wappu on j\u00e4lleen saapunut ja sen mukana uusi mets\u00e4styskausi uusin haastein. Millaisella vieheell\u00e4 se Teemu t\u00e4ll\u00e4 kertaa naarataan? Millaiseen ansaan Tiina on helpoin houkutella? Millaiset sy\u00f6tit teekkareihin ylip\u00e4\u00e4ns\u00e4 toimivat? Miten varustautua mets\u00e4stysreissulle arvaamattomaan Herwantaan? \r\n\r\nOlit sitten teekkari, humanisti, fuksi tahi muuten vain Herwannan haastaville, mutta ah niin palkitseville mets\u00e4stysmaille eksynyt saalistaja, tullaan kysymyksiisi vastaamaan vankkumattomalla ammattitaidolla, kun kokeneet mets\u00e4miehemme avaavat sanaiset arkkunsa. Wappuheilakausi on j\u00e4lleen alkanut, ja nyt ammutaan kovilla! \r\n",
         "timestamp": "2018-04-08T16:55:37+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuheilanmetsastysjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuheilanmetsastysjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuheilanmetsastys.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuheilanmetsastys.jpg"
     },
     {
         "id": "3edcb4f6-9ff2-4058-be60-4218e12e2645",
@@ -812,8 +800,8 @@
         "prod": "?",
         "desc": "Jaa miksik\u00f6 \"pitsausradio\"? Koska aika on rahaa, eik\u00e4 meill\u00e4 ole aikaa oikeinkirjoitukselle! T\u00e4n\u00e4 vuonna maanantain prime-timessa sukelletaan syv\u00e4lle busineksen sy\u00f6vereihin. Liity siis seuraan kun listaamme kaikkien aikojen surkeimmat startup -ideat ja haastattelemme asiantuntijoita, jotka antavat oman n\u00e4kemyksens\u00e4 yritt\u00e4jyyteen ja startup skeneen. Ja mik\u00e4 parasta, ohjelmamme on my\u00f6s interaktiivinen! Vaikkei leijonan luolassa t\u00e4rp\u00e4nnytk\u00e4\u00e4n, ei h\u00e4t\u00e4 ole t\u00e4m\u00e4n n\u00e4k\u00f6inen! Voit soittaa studioon ja \"pitsata\" meille liikeideasi. Arvovaltainen studioraatimme antaa ideastasi v\u00e4litt\u00f6m\u00e4n palautteen ja ohjelman lopuksi palkitsemme parhaan liikeidean huikeilla palkinnoilla. My\u00f6s huonoin liikeidea palkitaan ns. tsempparipalkinnolla, joten \u00e4l\u00e4 ep\u00e4r\u00f6i soittaa ja pitsata!\r\nLaita siis ykk\u00f6set ylle, ved\u00e4 kravatti suoraan, laita radio p\u00e4\u00e4lle, poimi luuri kouraan ja pitsaa kuin henkesi riippuisi siit\u00e4!",
         "timestamp": "2018-04-08T17:07:08+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/pitsausradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pitsausradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pitsausradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pitsausradio.jpg"
     },
     {
         "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
@@ -824,8 +812,8 @@
         "prod": "Jippu",
         "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
         "timestamp": "2018-04-08T17:20:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennysjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennysjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennys.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennys.jpg"
     },
     {
         "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
@@ -836,8 +824,8 @@
         "prod": "",
         "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
         "timestamp": "2018-04-08T18:07:27+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituusjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituusjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus.jpg"
     },
     {
         "id": "afd14f4e-238b-4d66-92b9-4f46ba4ad8b6",
@@ -848,8 +836,8 @@
         "prod": "KukaKumma",
         "desc": "Lauantaina Rakkauden Wappuradiossa r\u00e4j\u00e4ht\u00e4\u00e4 kun aina ajankohtainen EkuDance tarttuu kiinni yhteiskuntamme olennaisimpaan musiikkigenreen eli ys\u00e4ridanceen. \r\nTiedossa on wanhoja tuttuja ja ehk\u00e4 tuntemattomampiakin kappaleita laukkakomppeineen ja mielt\u00e4 ylent\u00e4vine sanoituksineen ymp\u00e4ri Euroopan. \r\nLuonnollisesti t\u00e4rke\u00e4\u00e4 nippelitietoa eri artisteista ei ole unohdettu.\r\n\r\nKuuntele, tai olet Kasari!",
         "timestamp": "2018-04-08T18:26:51+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/ekudancejpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ekudancejpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ekudance.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ekudance.jpg"
     },
     {
         "id": "e654e593-ec08-4912-9ecb-9466b4c16686",
@@ -860,8 +848,8 @@
         "prod": "",
         "desc": "Loppushow p\u00e4\u00e4st\u00e4\u00e4 \u00e4\u00e4neen kaikki radion tekij\u00e4t eeppisess\u00e4 joutsenlaulussa radiolle 2018! Loistava nostatus rakkauden Wappuun soittaa parhaimmat ja pahimmat bilebiisit. Lis\u00e4ksi ohjelmassa kuullaan liven\u00e4 Wappuriehan julistus!",
         "timestamp": "2018-04-08T21:13:58+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/loppushowjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/loppushowjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/loppushow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/loppushow.jpg"
     },
     {
         "id": "dc738654-b8ad-4d2c-9f13-aad210fcafdc",
@@ -872,8 +860,8 @@
         "prod": "JSuvanto",
         "desc": "Jaamme ohjelmassa vinkkej\u00e4 wappuheilan hakuun, analysoimme parisuhdemarkkinoita ja arvioimme kuuntelijoiden Tinder-profiileja.",
         "timestamp": "2018-04-08T21:23:48+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit.jpg"
     },
     {
         "id": "7faa4f7d-5471-410d-8aa3-24c7ca17ca4b",
@@ -884,8 +872,8 @@
         "prod": "JSuvanto",
         "desc": "Are you feeling blue?\r\nHaven't found the wappu spirit yet?\r\nWe'll bring the sunshine and make you FEEL GOOD. Just float on our warm radio waves and immerse yourself into the music, culture and relaxing atmosphere with our hosts Tytti (Yl\u00f6j\u00e4rvi), Janne (Tampere) and Birhanu (Addis Abeba).",
         "timestamp": "2018-04-08T21:23:51+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/feelgoodradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/feelgoodradio.jpg"
     },
     {
         "id": "07137425-578e-4231-a603-207dd11942d4",
@@ -896,8 +884,8 @@
         "prod": "Teemu Nuorteva",
         "desc": "Suomen ainoa EU-myytinmurtajaradio, jota kuullaan keskiviikkona 18.4 klo 13-15. Tampereen Eurooppanuoret murtavat EU:hun liittyvi\u00e4 harhaluuloja, soittavat enemm\u00e4n tai v\u00e4hemm\u00e4n Eurooppa-aiheisia biisej\u00e4 ja kisailevat myyttien parissa kahden tunnin ajan. T\u00e4t\u00e4 et halua missata!  ",
         "timestamp": "2018-04-08T21:23:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroopanmyytinmurtajatjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroopanmyytinmurtajatjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroopanmyytinmurtajat.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroopanmyytinmurtajat.jpg"
     },
     {
         "id": "e43d8fd8-38f1-4f05-9ca9-d97beb79fe34",
@@ -908,8 +896,8 @@
         "prod": "",
         "desc": "Maailmaa n\u00e4hnyt p\u00e4\u00e4toimittaja-seikkailija Taru vie kuulijat kaksituntiselle kierroksele maailman ymp\u00e4ri, tietenkin asiaankuuluvan musiikin siivitt\u00e4m\u00e4n\u00e4. Kutsuuko t\u00e4ll\u00e4 kertaa Kuusamo vai Lontoo, se j\u00e4\u00e4 n\u00e4ht\u00e4v\u00e4ksi tai kuultavaksi!",
         "timestamp": "2018-04-08T21:24:40+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/ontullutreissattuajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ontullutreissattuajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ontullutreissattua.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ontullutreissattua.jpg"
     },
     {
         "id": "2f31ad44-40c8-40fc-bae5-be405eb20787",
@@ -920,8 +908,8 @@
         "prod": "Tommi Mehtonen",
         "desc": "Meid\u00e4n jokaisen arkeen kuuluu kiinte\u00e4n\u00e4 osana ydinpommit, porno ja ulottuvuuksien v\u00e4liset portaalit. Selv\u00e4h\u00e4n se, mutta mit\u00e4 tekemist\u00e4 humanismilla on t\u00e4ss\u00e4 kaikessa? Jos olet aina miettinyt mit\u00e4 humanistit tekev\u00e4t ja miksi se on usein niin vieh\u00e4tt\u00e4v\u00e4n h\u00f6rh\u00f6\u00e4, on aika seurata Humanistien n\u00f6rttiradiota. Humanistien t\u00e4rkeimpiin teht\u00e4viin kuulukin vastaaminen niihin kysymyksiin, joita kukaan ei esit\u00e4!",
         "timestamp": "2018-04-08T21:26:56+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradio.jpg"
     },
     {
         "id": "217f0bc3-0918-44b1-af9a-40d2a198b5b4",
@@ -932,8 +920,8 @@
         "prod": "Jaketus",
         "desc": "Vuoret her\u00e4\u00e4v\u00e4t eloon, rakkaus voittaa kaiken ja kissat kertovat tarinaa. Antakaa musiikin, sek\u00e4 tutun&Annan johdattaa teid\u00e4t toinen toistaan upeampien musikaalien maailmaan. T\u00e4m\u00e4n kahden tunnin ajan anna itsellesi lupa heitt\u00e4yty\u00e4 ja antautua tunteidesi viet\u00e4v\u00e4ksi kuten kunnon musikaaleissa kuuluukin!",
         "timestamp": "2018-04-08T21:46:42+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/rasvaakissojajahiuslakkaajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rasvaakissojajahiuslakkaajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/rasvaakissojajahiuslakkaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rasvaakissojajahiuslakkaa.jpg"
     },
     {
         "id": "dd5608c8-3a1f-4040-aab3-3d386b56cd01",
@@ -944,8 +932,8 @@
         "prod": "Jippu",
         "desc": "Wappuraatiossa tutustutaan ker\u00e4ttyjen haastatteluiden kautta vapun kaltaisiin muihin kev\u00e4\u00e4n korvilla vietettyihin puistokesteihin muualla Euroopassa.",
         "timestamp": "2018-04-08T21:46:44+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuraatiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuraatiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuraatio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuraatio.jpg"
     },
     {
         "id": "d76e33d4-2ddc-497d-aa33-60f572d887b1",
@@ -956,8 +944,8 @@
         "prod": "Vuokko",
         "desc": "Paniikki! Tekniikkakopin karvanaamat on p\u00e4\u00e4stetty v\u00e4\u00e4r\u00e4\u00e4n koppiin! Eli ilmoille kajahtaa radion tekniikanjaoston oma y\u00f6radio. Luvassa on varmasti h\u00f6pin\u00e4\u00e4 radion ja (Rakkauden Wappuradion) teknisist\u00e4 ratkaisuista, mutta my\u00f6s muista n\u00f6rtillisist\u00e4 asioista. Ohessa soitamme musiikkia tai sen kaltaisia tuotteita.",
         "timestamp": "2018-04-08T21:48:55+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tekniikanyoradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tekniikanyoradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tekniikanyoradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tekniikanyoradio.jpg"
     },
     {
         "id": "20ce08c1-9bc9-4581-b6b6-9efa3bd59ec4",
@@ -968,8 +956,8 @@
         "prod": "Ketku",
         "desc": "Wappuradion t\u00e4m\u00e4n vuoden soitetuimmat suosikkiartistit -listaohjelma. T\u00e4ss\u00e4 l\u00e4hetyksess\u00e4 emme kuitenkaan kuuntele suosikkiartisteilta niit\u00e4 kappaleita, jotka on radiossa jo t\u00e4n\u00e4 vuonna kuultu vaan niit\u00e4, jotka ovat j\u00e4\u00e4neet soittamatta.",
         "timestamp": "2018-04-08T21:57:27+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/topradiosuosikitjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/topradiosuosikitjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/topradiosuosikit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/topradiosuosikit.jpg"
     },
     {
         "id": "587ebc88-0013-4e77-8560-63360ec620ab",
@@ -980,8 +968,8 @@
         "prod": "Kukis?",
         "desc": "",
         "timestamp": "2018-04-08T22:14:21+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kukkiajakielimoukkujajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kukkiajakielimoukkujajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kukkiajakielimoukkuja.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kukkiajakielimoukkuja.jpg"
     },
     {
         "id": "0de9796c-4381-4c46-af0c-cbe1cd215b98",
@@ -992,8 +980,8 @@
         "prod": "Lorens",
         "desc": "Lainasto soittaa edellisen vuoden tapaan uusia ja oivaltavia n\u00e4kemyksi\u00e4 tutuista kappaleista.",
         "timestamp": "2018-04-08T22:26:42+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/lainastojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lainastojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lainasto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lainasto.jpg"
     },
     {
         "id": "e7db7ed1-4720-45c9-a3e1-ee7a9ae40368",
@@ -1004,8 +992,8 @@
         "prod": "Jaketus",
         "desc": "Sunnuntai-ilta lopetetaan Musiikin rajamailla, miss\u00e4 tutustutaan musiikin monimuotoisuuteen ja kyseenalaistetaan musiikin ja melun ero. Ohjelmassa kuunnellaan my\u00f6s perinteisemp\u00e4\u00e4 poppia, mutta tietyn pisteen j\u00e4lkeen unohdetaan skaalat, s\u00e4\u00e4nn\u00f6lliset rytmit ja lopulta itse soittimet.",
         "timestamp": "2018-04-08T22:43:55+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/musiikinrajamaillajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/musiikinrajamaillajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/musiikinrajamailla.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/musiikinrajamailla.jpg"
     },
     {
         "id": "f5f242c6-a002-4ece-9935-ec14ef5d8776",
@@ -1016,8 +1004,8 @@
         "prod": "Mutsku",
         "desc": "Ihmiskoe, jossa diplomi-insin\u00f6\u00f6ri suljetaan studiokoppiin ja katsotaan mit\u00e4 tapahtuu. Musiikkivalinnat genrerajoista piittaamatta sellaisia, jotka sopivat erityisen hyvin yksin kuunneltaviksi. Luvassa on siis teatraalisuutta, synkkyytt\u00e4 ja paljon valtaosan mielest\u00e4 hyv\u00e4n maun rajan ylitt\u00e4v\u00e4\u00e4 vokalisointia. Yksinpuhelussa keskityt\u00e4\u00e4n kuuntelukokemukseen ja musiikin vaikutukseen ihmisen mielialoissa. Sis\u00e4lt\u00e4\u00e4 varmasti ylim\u00e4\u00e4rin tietoa biiseist\u00e4 ja artisteista, saattaa sis\u00e4lt\u00e4\u00e4 my\u00f6s keitti\u00f6psykologian j\u00e4mi\u00e4. Virheet radiolaitteiston k\u00e4yt\u00f6ss\u00e4 todenn\u00e4k\u00f6isi\u00e4 ja niist\u00e4 studioon ilmoittaminen eritt\u00e4in suotavaa.",
         "timestamp": "2018-04-08T22:44:46+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/teinitsejasaastinjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/teinitsejasaastinjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/teinitsejasaastin.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/teinitsejasaastin.jpg"
     },
     {
         "id": "7796819c-8042-407a-84eb-dddc898a3332",
@@ -1028,8 +1016,8 @@
         "prod": "Mutsku",
         "desc": "Doom, stoner & psykedeelisvaikutteisen metallin ajankohtaisohjelma vihdoin wappuradiossa. Saattaa aiheuttaa huimausta ja irtautumista yhteiskunnasta. Maximum volume yields maximum results.",
         "timestamp": "2018-04-08T22:48:29+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tuomittukivitettypsykoosissajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tuomittukivitettypsykoosissajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tuomittukivitettypsykoosissa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tuomittukivitettypsykoosissa.jpg"
     },
     {
         "id": "87c7fd01-0217-4ec1-ab65-e320d8e5c7b8",
@@ -1040,8 +1028,8 @@
         "prod": "PunaJussi",
         "desc": "Sen mit\u00e4 Deep Purple teki musii\u00adkil\u00adle, Syv\u00e4 Purp\u00adpu\u00adra te\u00adkee Wap\u00adpu\u00adra\u00addiol\u00adle! Tar\u00adjoi\u00adlem\u00adme t\u00e4\u00adn\u00e4\u00adkin vuon\u00adna radio\u00adaal\u00adloil\u00adla pro\u00adgeim\u00admat tri\u00adpit ja roc\u00adkeim\u00admat rif\u00adfit, jo\u00adten lii\u00adty seu\u00adraam\u00adme ai\u00adka\u00admat\u00adkal\u00adle kul\u00adtai\u00adsel\u00adta 60-lu\u00advul\u00adta kar\u00advai\u00adseen ka\u00adsa\u00adriin! T\u00e4s\u00ads\u00e4\u00adp\u00e4 erin\u00adomai\u00adnen mah\u00addol\u00adli\u00adsuus p\u00e4\u00e4s\u00adt\u00e4 seu\u00adraa\u00admaan Nooran, Veeran ja Antonin seikkai\u00adlua musii\u00adkin maa\u00adil\u00admas\u00adsa.",
         "timestamp": "2018-04-09T10:26:29+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/syvapurppurajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/syvapurppurajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/syvapurppura.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/syvapurppura.jpg"
     },
     {
         "id": "b94b1b1e-300c-43fc-9832-7e806dd33fe6",
@@ -1052,8 +1040,8 @@
         "prod": "PunaJussi",
         "desc": "Sen mit\u00e4 Deep Purple teki musii\u00adkil\u00adle, Syv\u00e4 Purp\u00adpu\u00adra te\u00adkee Wap\u00adpu\u00adra\u00addiol\u00adle! Tar\u00adjoi\u00adlem\u00adme t\u00e4\u00adn\u00e4\u00adkin vuon\u00adna radio\u00adaal\u00adloil\u00adla pro\u00adgeim\u00admat tri\u00adpit ja roc\u00adkeim\u00admat rif\u00adfit, jo\u00adten lii\u00adty seu\u00adraam\u00adme ai\u00adka\u00admat\u00adkal\u00adle kul\u00adtai\u00adsel\u00adta 60-lu\u00advul\u00adta kar\u00advai\u00adseen ka\u00adsa\u00adriin! T\u00e4s\u00ads\u00e4\u00adp\u00e4 erin\u00adomai\u00adnen mah\u00addol\u00adli\u00adsuus p\u00e4\u00e4s\u00adt\u00e4 seu\u00adraa\u00admaan Nooran, Veeran ja Antonin seikkai\u00adlua musii\u00adkin maa\u00adil\u00admas\u00adsa.",
         "timestamp": "2018-04-09T10:26:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/syvapurppurajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/syvapurppurajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/syvapurppura.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/syvapurppura.jpg"
     },
     {
         "id": "bd567707-8404-41fe-8010-5b8e7df5d27f",
@@ -1064,8 +1052,8 @@
         "prod": "Arttu Lepist\u00f6, Ville Tyrv\u00e4inen",
         "desc": "Spinnin uuden ja vanhemman polven DJ:t soittavat elektronista musiikkia l\u00e4pi y\u00f6n. Luvassa miksattuja settej\u00e4, eli enemm\u00e4n musiikkia ja v\u00e4hemm\u00e4n juontoja. Genrejen puolesta voidaan odottaa ainkain diskoa, housea, teknoa, trancea ja drum'n'bassia.",
         "timestamp": "2018-04-09T12:16:14+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinniradionightshiftjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinniradionightshiftjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinniradionightshift.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinniradionightshift.jpg"
     },
     {
         "id": "08875f41-df8b-4c66-8402-bac805b9496b",
@@ -1076,8 +1064,8 @@
         "prod": "Arttu Lepist\u00f6",
         "desc": "Spinni jatkaa siit\u00e4 mihin Wappuradio LIVE p\u00e4\u00e4ttyy, ja bileet jatkuu Spinnin tiskijukkien tahdittamana.",
         "timestamp": "2018-04-09T12:19:01+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinninlive-jatkotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinninlive-jatkotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/spinninlive-jatkot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/spinninlive-jatkot.jpg"
     },
     {
         "id": "3057156e-3046-46f0-9b8d-23990fccc32f",
@@ -1088,8 +1076,8 @@
         "prod": "Dregu",
         "desc": "Pubirundin piinaama pennit\u00f6n perusteekkari taivaltaa Tampereen taianomaisten kaakkoisten kaupunginosien halki Hervantaan \"Pekka ja susi\" -musiikkisadun modernisoidussa mukaelmassa, jossa kiskot kirskuvat ja kebablastut koristavat kitalakea. Satupekkana kymmenen kilometrin kest\u00e4vyysmatkalla kohti katarsista kr\u00f6hii BTR.",
         "timestamp": "2018-04-09T14:52:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/pekkajapikaratikkajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pekkajapikaratikkajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pekkajapikaratikka.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pekkajapikaratikka.jpg"
     },
     {
         "id": "99c04e34-d03f-4b38-8cf7-e06663d33806",
@@ -1100,8 +1088,8 @@
         "prod": "Jaketus",
         "desc": "Kun kolme osaa ei riit\u00e4 t\u00e4ydellisen tarinan kertomiseen. Neliosainen trilogia viihdytt\u00e4\u00e4 t\u00e4ydellisell\u00e4 draaman kaarella k\u00e4yden l\u00e4pi p\u00e4iv\u00e4n polttavat aiheet sek\u00e4 teemoja yksin\u00e4isyydest\u00e4 aina alpakka-agilityyn. Ohjelmasta voi my\u00f6s voittaa asioita, kuten Wappurekkalippuja, Mysteeripalkinnon tai hyv\u00e4n mielen. ",
         "timestamp": "2018-04-09T19:25:36+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogiajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogiajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogia.jpg"
     },
     {
         "id": "090da8cf-fccf-49e5-af97-0123e398e302",
@@ -1112,8 +1100,8 @@
         "prod": "Jaketus",
         "desc": "Kun kolme osaa ei riit\u00e4 t\u00e4ydellisen tarinan kertomiseen. Neliosainen trilogia viihdytt\u00e4\u00e4 t\u00e4ydellisell\u00e4 draaman kaarella k\u00e4yden l\u00e4pi p\u00e4iv\u00e4n polttavat aiheet sek\u00e4 teemoja yksin\u00e4isyydest\u00e4 aina alpakka-agilityyn. Ohjelmasta voi my\u00f6s voittaa asioita, kuten Wappurekkalippuja, Mysteeripalkinnon tai hyv\u00e4n mielen. ",
         "timestamp": "2018-04-09T19:25:42+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogiajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogiajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogia.jpg"
     },
     {
         "id": "69c6f6ee-bd3d-4131-a520-20ff0191b0e5",
@@ -1124,8 +1112,8 @@
         "prod": "Jaketus",
         "desc": "Kun kolme osaa ei riit\u00e4 t\u00e4ydellisen tarinan kertomiseen. Neliosainen trilogia viihdytt\u00e4\u00e4 t\u00e4ydellisell\u00e4 draaman kaarella k\u00e4yden l\u00e4pi p\u00e4iv\u00e4n polttavat aiheet sek\u00e4 teemoja yksin\u00e4isyydest\u00e4 aina alpakka-agilityyn. Ohjelmasta voi my\u00f6s voittaa asioita, kuten Wappurekkalippuja, Mysteeripalkinnon tai hyv\u00e4n mielen. ",
         "timestamp": "2018-04-09T19:25:47+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogiajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogiajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogia.jpg"
     },
     {
         "id": "0ea66c43-0115-4867-85f3-5416b060bf21",
@@ -1136,8 +1124,8 @@
         "prod": "Jaketus",
         "desc": "Kun kolme osaa ei riit\u00e4 t\u00e4ydellisen tarinan kertomiseen. Neliosainen trilogia viihdytt\u00e4\u00e4 t\u00e4ydellisell\u00e4 draaman kaarella k\u00e4yden l\u00e4pi p\u00e4iv\u00e4n polttavat aiheet sek\u00e4 teemoja yksin\u00e4isyydest\u00e4 aina alpakka-agilityyn. Ohjelmasta voi my\u00f6s voittaa asioita, kuten Wappurekkalippuja, Mysteeripalkinnon tai hyv\u00e4n mielen. ",
         "timestamp": "2018-04-09T19:27:36+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogiajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogiajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/neliosainentrilogia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/neliosainentrilogia.jpg"
     },
     {
         "id": "38f84827-1df8-4adb-a32c-a07a79d1fd3a",
@@ -1148,8 +1136,8 @@
         "prod": "Paavo Tawast",
         "desc": "Keskustelua el\u00e4m\u00e4\u00e4 kuvaavista malleista kuten horoskoopeista ja persoonallisuustesteist\u00e4. Y\u00f6n aikana tutustutaan tarkemmin ihmisluontoon ja sen sielunel\u00e4m\u00e4\u00e4n, sek\u00e4 ennustetaan tulevaisuutta erilaisten netist\u00e4 l\u00f6ytyvien ja alkuper\u00e4lt\u00e4\u00e4n v\u00e4hint\u00e4\u00e4nkin arveluttavien sivustojen kautta. L\u00e4hetyksess\u00e4 etsit\u00e4\u00e4n vastauksia my\u00f6s kuulijoiden kysymyksiin ja peilataan l\u00f6yd\u00f6ksi\u00e4 juontajien omiin kokemuksiin, terveeseen j\u00e4rkeen ja kansantaruihin. Ohjelman kruunaa teemaan sopiva tai sopimaton musiikki. ",
         "timestamp": "2018-04-09T22:54:09+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/elamasellaisenakuinseonjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/elamasellaisenakuinseonjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/elamasellaisenakuinseon.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/elamasellaisenakuinseon.jpg"
     },
     {
         "id": "767143eb-8666-4696-ac22-c2d433091f25",
@@ -1160,8 +1148,8 @@
         "prod": "TBA",
         "desc": "\u00c4rsytt\u00e4\u00e4k\u00f6 radion aiheet? Puuttuuko sinun suosikkiaiheeltasi oma foorumi? Hukkuuko mielipiteesi kaikkien muiden jalkoihin? Milt\u00e4 radio kuulostaa kun kuuntelijat p\u00e4\u00e4tt\u00e4v\u00e4t aiheen?\r\n\r\nYhden y\u00f6n ajan kuuntelijoilla on t\u00e4ysi valta aiheista! TBD radio puhuu juuri siit\u00e4, mist\u00e4 kuuntelijat haluavat. \u00c4\u00e4nest\u00e4 lempiaiheesi k\u00e4rkeen osoitteessa tbd.veliv.ee",
         "timestamp": "2018-04-10T12:51:27+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tbdjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tbdjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tbd.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tbd.jpg"
     },
     {
         "id": "acdc394b-b09b-43ed-9a5a-1f6dc8915fbf",
@@ -1172,8 +1160,8 @@
         "prod": "[T-BAD]Kuka 'Panssarivaunulla parkanoon' Kumma",
         "desc": "Muistatko kuinka Contra maksoi kontrorllerin? Onko sinulla viel\u00e4kin k\u00e4ns\u00e4t peukaloissa ys\u00e4rilt\u00e4? Lensik\u00f6 hiiri sein\u00e4\u00e4n kyn\u00e4riss\u00e4? Hajottiko linko rushi n\u00e4ytt\u00f6si? \u00c4rsytt\u00e4\u00e4k\u00f6 freemium pelit?\r\n\r\nJos vastasit edes yhteen kysymykseen, studion videopelisankarit tulevat vastaamaan n\u00e4ihin ja muihin turhiin kysymyksiin. Sukelletaan siis automaattisen tietojenk\u00e4sittelyn pelipuolelle jutuilla ja musalla! Studiossa ehk\u00e4 Tampereen kovin striimaaja ja ehdottomasti Tampereen kovin striimin katsoja! Virpin kannustusjoukkuja onohtamatta.",
         "timestamp": "2018-04-10T13:06:36+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/atk-peliradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/atk-peliradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/atk-peliradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/atk-peliradio.jpg"
     },
     {
         "id": "89da43f3-9790-441c-8bbb-eff90c6f8939",
@@ -1184,8 +1172,8 @@
         "prod": "[T-BAD]Kuka 'Panssarivaunulla parkanoon' Kumma",
         "desc": "Muistatko kuinka Contra maksoi kontrorllerin? Onko sinulla viel\u00e4kin k\u00e4ns\u00e4t peukaloissa ys\u00e4rilt\u00e4? Lensik\u00f6 hiiri sein\u00e4\u00e4n kyn\u00e4riss\u00e4? Hajottiko linko rushi n\u00e4ytt\u00f6si? \u00c4rsytt\u00e4\u00e4k\u00f6 freemium pelit?\r\n\r\nJos vastasit edes yhteen kysymykseen, studion videopelisankarit tulevat vastaamaan n\u00e4ihin ja muihin turhiin kysymyksiin. Sukelletaan siis automaattisen tietojenk\u00e4sittelyn pelipuolelle jutuilla ja musalla! Studiossa ehk\u00e4 Tampereen kovin striimaaja ja ehdottomasti Tampereen kovin striimin katsoja! Virpin kannustusjoukkuja onohtamatta.",
         "timestamp": "2018-04-10T13:06:44+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/atk-peliradiojpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/atk-peliradiojpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/atk-peliradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/atk-peliradio.jpg"
     },
     {
         "id": "e9f35b69-915c-4ffa-8a25-b8a08d239798",
@@ -1196,8 +1184,8 @@
         "prod": "Alexander",
         "desc": "Tervetuloa Tylypahk... Eikun matkalle Mordo... Siis Westeros... \u00c4h! T\u00e4m\u00e4n ohjelman my\u00f6t\u00e4 p\u00e4\u00e4set vierailemaan n\u00e4ihin maailmoihin ja moniin muihin. Pari h\u00e4mmennysloitsun vallassa olevaa hobittia k\u00e4y l\u00e4pi mysteereit\u00e4, kuten miksei vaan hoidettu kotkien kaa sormusta Mordoriin, sek\u00e4 melkeinp\u00e4 illujen trikeilt\u00e4 tuntuvia faniteorioita kanssasi l\u00e4pi koko y\u00f6n.",
         "timestamp": "2018-04-10T13:32:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/areyousiriusjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/areyousiriusjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/areyousirius.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/areyousirius.jpg"
     },
     {
         "id": "a3f53307-4924-4b86-a83c-0457501ae8e5",
@@ -1208,8 +1196,8 @@
         "prod": "Veli-V",
         "desc": "Wapputiimin puuhatunnissa p\u00e4\u00e4set kuulemaan, miten se Wappu oikeasti rakentuu. Aiheet vaihtelevat Teemunkierroksen tapahtumista aamuy\u00f6n editointihetkiin. Tervetuloa kuuntelemaan miten Wappusihteerit tuovat Wapun luomisen l\u00e4hemm\u00e4ksi kuuntelijoita kuin koskaan ennen!",
         "timestamp": "2018-04-10T17:33:56+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/wapputiiminpuuhatuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wapputiiminpuuhatuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wapputiiminpuuhatunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wapputiiminpuuhatunti.jpg"
     },
     {
         "id": "4f2f6434-c21f-41aa-98a7-51dcd4e860d4",
@@ -1220,8 +1208,8 @@
         "prod": "supertuottaja roope",
         "desc": "Wappuradion katu-uskottavin suomir\u00e4pin erikoisohjelma. Klassikot dekiss\u00e4.",
         "timestamp": "2018-04-11T09:32:13+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/koiratarharadallajpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/koiratarharadallajpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/koiratarharadalla.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/koiratarharadalla.jpg"
     },
     {
         "id": "fae91548-5c0f-4634-a27c-db97583318ce",
@@ -1232,8 +1220,8 @@
         "prod": "Zar",
         "desc": "TTYY On Air -tunti tuo terveiset TTY:n ylioppilaskunnan johdolta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan!",
         "timestamp": "2018-04-11T10:04:38+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/ttyyonairjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ttyyonairjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ttyyonair.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ttyyonair.jpg"
     },
     {
         "id": "0a5fce8f-0c2a-4c08-8792-2762267e6d56",
@@ -1244,8 +1232,8 @@
         "prod": "Alexander",
         "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
         "timestamp": "2018-04-11T11:33:56+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytot.jpg"
     },
     {
         "id": "8e1ab473-3783-4d48-894e-402ff2aa79d4",
@@ -1256,8 +1244,8 @@
         "prod": "Alexander",
         "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
         "timestamp": "2018-04-11T11:34:24+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytot.jpg"
     },
     {
         "id": "e42c1cf1-364b-4b38-baf3-b16c703c977f",
@@ -1268,8 +1256,8 @@
         "prod": "Alexander",
         "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
         "timestamp": "2018-04-11T11:34:30+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytotjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytotjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tatijatytot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tatijatytot.jpg"
     },
     {
         "id": "78fd379b-dbb3-4ddf-91c1-bf2dc14d5fd8",
@@ -1280,8 +1268,8 @@
         "prod": "KukaKumma",
         "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
         "timestamp": "2018-04-11T13:57:43+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tohellandbackjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tohellandbackjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tohellandback.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tohellandback.jpg"
     },
     {
         "id": "9f18a282-64d9-43e6-9ca2-486256285c2e",
@@ -1292,8 +1280,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:47:37+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "2da4a3a4-944b-4340-aa7d-bb4e47e27230",
@@ -1304,8 +1292,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:47:43+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "c99da50d-c843-43cb-aab6-59eb901915fa",
@@ -1316,8 +1304,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:47:49+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "0fa331e1-e0e8-4d1a-b207-7866745f9cdb",
@@ -1328,8 +1316,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:47:58+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "b6fd4866-ad48-44b1-bba1-44a277eaa6cd",
@@ -1340,8 +1328,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:48:02+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "41dc89ed-e99f-40ac-9b2d-d9aeb851e498",
@@ -1352,8 +1340,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:48:08+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "59cdcc56-6d76-43ea-8ea3-5e1e5c43a01d",
@@ -1364,8 +1352,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:48:12+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "f1565d23-306d-4948-bbe6-1c35a1f0932e",
@@ -1376,8 +1364,8 @@
         "prod": "Zar",
         "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
         "timestamp": "2018-04-11T15:48:15+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystuntijpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystuntijpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     },
     {
         "id": "c18c8f1c-ac76-4d9a-97f9-3fb8d2fdd1e6",
@@ -1388,7 +1376,19 @@
         "prod": "Vuokko",
         "desc": "Pelimusiikkiin ja ihmisiin sen takana erikoistunut ohjelma. > echo Show:n toimittaa Muotsikan hipsteri\u2122 muotoilijanretku\u00ae \u25bcJune ja asiantuntija aisaparinaan h\u00e4n on onnekseen saanut Game Music Collective:n Lukas Stasevskijn. Luvassa on my\u00f6s Jonne Valtosen etuk\u00e4teishaastattelu, joten mielenkiintoista puhetta alan Suomen huipuilta on t\u00e4n\u00e4kin vuonna luvassa.",
         "timestamp": "2018-04-11T16:10:35+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/echoshowjpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/echoshowjpg"
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/echoshow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/echoshow.jpg"
+    },
+    {
+        "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
+        "start": "2018-04-17T14:00:00+03:00",
+        "end": "2018-04-17T18:00:00+03:00",
+        "title": "Alkushow",
+        "host": "Veli-V, Rocka",
+        "prod": "zeppe",
+        "desc": "L\u00e4hetys alkaa! P\u00e4\u00e4toimitus tervehtii wappukansaa ja laittaa kaksi viikkoa kest\u00e4v\u00e4t bileet k\u00e4yntiin! Luvassa vaikuttavia puheita, wapun hehkutusta ja tekniikan testausta. L\u00e4hetyksen aikana tullaan jokainen \u00e4\u00e4nilaite k\u00e4ym\u00e4\u00e4n l\u00e4pi, katsotaan miten juontajien ja tekniikan k\u00e4y!",
+        "timestamp": "2018-04-11T18:02:59+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg"
     }
 ]
