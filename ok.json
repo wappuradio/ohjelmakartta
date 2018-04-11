@@ -1128,5 +1128,35 @@
         "prod": "Zar",
         "desc": "TTYY On Air -tunti tuo terveiset TTY:n ylioppilaskunnan johdolta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan!",
         "timestamp": "2018-04-11T10:04:38+03:00"
+    },
+    {
+        "id": "0a5fce8f-0c2a-4c08-8792-2762267e6d56",
+        "start": "2018-04-25 11:00",
+        "end": "2018-04-25 13:00",
+        "title": "T\u00e4ti ja tyt\u00f6t",
+        "host": "Poksa",
+        "prod": "Alexander",
+        "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
+        "timestamp": "2018-04-11T11:33:56+03:00"
+    },
+    {
+        "id": "8e1ab473-3783-4d48-894e-402ff2aa79d4",
+        "start": "2018-04-26 11:00",
+        "end": "2018-04-26 13:00",
+        "title": "T\u00e4ti ja tyt\u00f6t",
+        "host": "Poksa",
+        "prod": "Alexander",
+        "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
+        "timestamp": "2018-04-11T11:34:24+03:00"
+    },
+    {
+        "id": "e42c1cf1-364b-4b38-baf3-b16c703c977f",
+        "start": "2018-04-27 11:00",
+        "end": "2018-04-27 13:00",
+        "title": "T\u00e4ti ja tyt\u00f6t",
+        "host": "Poksa",
+        "prod": "Alexander",
+        "desc": "Miten se maailmankuva muuttuukaan vuosien kuluessa? T\u00e4ss\u00e4 toisen wappuviikon vakkarissa \u00e4\u00e4neen p\u00e4\u00e4see lukematon m\u00e4\u00e4r\u00e4 fuksitytt\u00f6j\u00e4 kokeneemman t\u00e4din johdolla. Luvassa mukavaa jutustelua p\u00e4iv\u00e4n fiiliksist\u00e4, uutimista ja paljon muusta. ",
+        "timestamp": "2018-04-11T11:34:30+03:00"
     }
 ]
