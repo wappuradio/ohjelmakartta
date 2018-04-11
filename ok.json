@@ -1,15 +1,5 @@
 [
     {
-        "id": "c18c8f1c-ac76-4d9a-97f9-3fb8d2fdd1e6",
-        "start": "2018-04-20 19:00",
-        "end": "2018-04-20 21:00",
-        "title": "> echo Show",
-        "host": "\u25bcJune & Lukas",
-        "prod": "Vuokko",
-        "desc": "Pelimusiikkiin ja ihmisiin sen takana erikoistunut ohjelma. echo Show:n toimittaa Muotsikan hipsteri\u2122 muotoilijanretku\u00ae \u25bcJune ja asiantuntija aisaparinaan h\u00e4n on onnekseen saanut Game Music Collective:n Lukas Stasevskijn. Luvassa on my\u00f6s Jonne Valtosen etuk\u00e4teishaastattelu, joten mielenkiintoista puhetta alan Suomen huipuilta on t\u00e4n\u00e4kin vuonna luvassa.",
-        "timestamp": "2018-03-29T00:43:19+03:00"
-    },
-    {
         "id": "c3e46d78-9d22-4ca4-af99-f90eab5b5e01",
         "start": "2018-04-17 14:00",
         "end": "2018-04-17 18:00",
@@ -1030,86 +1020,6 @@
         "timestamp": "2018-04-11T09:32:13+03:00"
     },
     {
-        "id": "9f18a282-64d9-43e6-9ca2-486256285c2e",
-        "start": "2018-04-18 13:00",
-        "end": "2018-04-18 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:02:15+03:00"
-    },
-    {
-        "id": "2da4a3a4-944b-4340-aa7d-bb4e47e27230",
-        "start": "2018-04-19 13:00",
-        "end": "2018-04-19 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:03:39+03:00"
-    },
-    {
-        "id": "c99da50d-c843-43cb-aab6-59eb901915fa",
-        "start": "2018-04-20 13:00",
-        "end": "2018-04-20 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:03:44+03:00"
-    },
-    {
-        "id": "0fa331e1-e0e8-4d1a-b207-7866745f9cdb",
-        "start": "2018-04-23 13:00",
-        "end": "2018-04-23 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:04:00+03:00"
-    },
-    {
-        "id": "b6fd4866-ad48-44b1-bba1-44a277eaa6cd",
-        "start": "2018-04-24 13:00",
-        "end": "2018-04-24 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:04:09+03:00"
-    },
-    {
-        "id": "41dc89ed-e99f-40ac-9b2d-d9aeb851e498",
-        "start": "2018-04-25 13:00",
-        "end": "2018-04-25 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:04:22+03:00"
-    },
-    {
-        "id": "59cdcc56-6d76-43ea-8ea3-5e1e5c43a01d",
-        "start": "2018-04-26 13:00",
-        "end": "2018-04-26 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:04:27+03:00"
-    },
-    {
-        "id": "f1565d23-306d-4948-bbe6-1c35a1f0932e",
-        "start": "2018-04-27 13:00",
-        "end": "2018-04-27 14:00",
-        "title": "On Air -yritystunti",
-        "host": "",
-        "prod": "Zar",
-        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Solita\r\n To 19.4. Vincit\r\n Pe 20.4. Cybercom\r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
-        "timestamp": "2018-04-11T10:04:31+03:00"
-    },
-    {
         "id": "fae91548-5c0f-4634-a27c-db97583318ce",
         "start": "2018-04-29 13:00",
         "end": "2018-04-29 14:00",
@@ -1158,5 +1068,95 @@
         "prod": "KukaKumma",
         "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
         "timestamp": "2018-04-11T13:57:43+03:00"
+    },
+    {
+        "id": "9f18a282-64d9-43e6-9ca2-486256285c2e",
+        "start": "2018-04-18 13:00",
+        "end": "2018-04-18 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:47:37+03:00"
+    },
+    {
+        "id": "2da4a3a4-944b-4340-aa7d-bb4e47e27230",
+        "start": "2018-04-19 13:00",
+        "end": "2018-04-19 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:47:43+03:00"
+    },
+    {
+        "id": "c99da50d-c843-43cb-aab6-59eb901915fa",
+        "start": "2018-04-20 13:00",
+        "end": "2018-04-20 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:47:49+03:00"
+    },
+    {
+        "id": "0fa331e1-e0e8-4d1a-b207-7866745f9cdb",
+        "start": "2018-04-23 13:00",
+        "end": "2018-04-23 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:47:58+03:00"
+    },
+    {
+        "id": "b6fd4866-ad48-44b1-bba1-44a277eaa6cd",
+        "start": "2018-04-24 13:00",
+        "end": "2018-04-24 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:48:02+03:00"
+    },
+    {
+        "id": "41dc89ed-e99f-40ac-9b2d-d9aeb851e498",
+        "start": "2018-04-25 13:00",
+        "end": "2018-04-25 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:48:08+03:00"
+    },
+    {
+        "id": "59cdcc56-6d76-43ea-8ea3-5e1e5c43a01d",
+        "start": "2018-04-26 13:00",
+        "end": "2018-04-26 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:48:12+03:00"
+    },
+    {
+        "id": "f1565d23-306d-4948-bbe6-1c35a1f0932e",
+        "start": "2018-04-27 13:00",
+        "end": "2018-04-27 14:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. \r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-11T15:48:15+03:00"
+    },
+    {
+        "id": "c18c8f1c-ac76-4d9a-97f9-3fb8d2fdd1e6",
+        "start": "2018-04-20 19:00",
+        "end": "2018-04-20 21:00",
+        "title": "> echo Show",
+        "host": "\u25bcJune & Lukas",
+        "prod": "Vuokko",
+        "desc": "Pelimusiikkiin ja ihmisiin sen takana erikoistunut ohjelma. > echo Show:n toimittaa Muotsikan hipsteri\u2122 muotoilijanretku\u00ae \u25bcJune ja asiantuntija aisaparinaan h\u00e4n on onnekseen saanut Game Music Collective:n Lukas Stasevskijn. Luvassa on my\u00f6s Jonne Valtosen etuk\u00e4teishaastattelu, joten mielenkiintoista puhetta alan Suomen huipuilta on t\u00e4n\u00e4kin vuonna luvassa.",
+        "timestamp": "2018-04-11T16:10:35+03:00"
     }
 ]
