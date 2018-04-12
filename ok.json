@@ -1208,5 +1208,15 @@
         "prod": "KukaKumma",
         "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
         "timestamp": "2018-04-12T10:04:30+03:00"
+    },
+    {
+        "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
+        "start": "2018-04-22 13:00",
+        "end": "2018-04-22 18:00",
+        "title": "Wappuradio Live!",
+        "host": "",
+        "prod": "",
+        "desc": "Wappuradion perinteinen ulkoilmakonsertti, Wappuradio Live! valtaa taas etunurtsin! T\u00e4n\u00e4 vuonna meininki on kuumempaa ja eroottisempaa kuin koskaan, kun lavalla nousevat Eroottiset Tuliaseet, Kulahtanut Villi, Likes of Us sek\u00e4 The Skankbeat. Studiomuusikkoina kansaa viihdytt\u00e4\u00e4 Rynkky ja r\u00e4k\u00e4p\u00e4\u00e4t. Tarjolla on herkullista ruokaa, kev\u00e4ist\u00e4 s\u00e4\u00e4t\u00e4, yst\u00e4vi\u00e4 ja musiikkia. Saavu paikalle piknikviltteinesi ja koe Live! ",
+        "timestamp": "2018-04-12T10:49:51+03:00"
     }
 ]
