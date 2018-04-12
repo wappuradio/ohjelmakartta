@@ -310,16 +310,6 @@
         "timestamp": "2018-04-06T18:11:23+03:00"
     },
     {
-        "id": "a79673f0-ced9-4f7e-bb22-5666ba49cb6c",
-        "start": "2018-05-22 00:00",
-        "end": "2018-05-22 07:00",
-        "title": "Synteettinen aallonpituus",
-        "host": "Tuomas ja Antti",
-        "prod": "",
-        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
-        "timestamp": "2018-04-06T19:08:23+03:00"
-    },
-    {
         "id": "0831ce76-afe4-4506-9f71-33bde00f683f",
         "start": "2018-04-18 07:00",
         "end": "2018-04-18 09:00",
@@ -1180,16 +1170,6 @@
         "timestamp": "2018-04-12T08:48:08+03:00"
     },
     {
-        "id": "3c2a6b92-d13e-45c3-b1b0-e89b71a1a1b5",
-        "start": "2018-04-19 16:00",
-        "end": "2018-04-19 17:00",
-        "title": "To Hell And Back",
-        "host": "Veli-V, KukaKumma",
-        "prod": "KukaKumma",
-        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
-        "timestamp": "2018-04-12T10:04:30+03:00"
-    },
-    {
         "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
         "start": "2018-04-22 13:00",
         "end": "2018-04-22 18:00",
@@ -1228,5 +1208,25 @@
         "prod": "Teemu Nuorteva",
         "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
         "timestamp": "2018-04-12T17:09:19+03:00"
+    },
+    {
+        "id": "3c2a6b92-d13e-45c3-b1b0-e89b71a1a1b5",
+        "start": "2018-04-19 19:00",
+        "end": "2018-04-19 20:00",
+        "title": "To Hell And Back",
+        "host": "Veli-V, KukaKumma",
+        "prod": "KukaKumma",
+        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
+        "timestamp": "2018-04-12T17:17:34+03:00"
+    },
+    {
+        "id": "27b24ad4-c785-42a9-ae76-96ff40f1c454",
+        "start": "2018-04-19 16:00",
+        "end": "2018-04-19 17:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. Granite Devices\r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-12T17:18:14+03:00"
     }
 ]

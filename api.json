@@ -372,18 +372,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jumipuisto.jpg"
     },
     {
-        "id": "a79673f0-ced9-4f7e-bb22-5666ba49cb6c",
-        "start": "2018-05-22T00:00:00+03:00",
-        "end": "2018-05-22T07:00:00+03:00",
-        "title": "Synteettinen aallonpituus",
-        "host": "Tuomas ja Antti",
-        "prod": "",
-        "desc": "Kasaria! Syntikoita! Neonv\u00e4risi\u00e4 laseja! Eurythmicsin ja Alphavillen sijaan y\u00f6n is\u00e4nn\u00e4t viev\u00e4t teid\u00e4t synamusiikin syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. Syvennymme Synthwaven historian saloihin toimintaelokuvien ja videopelien kautta, ja p\u00e4\u00e4t\u00e4mme y\u00f6n genren uuden tulemisen juhlistamiseen. ",
-        "timestamp": "2018-04-06T19:08:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/synteettinenaallonpituus.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synteettinenaallonpituus.jpg"
-    },
-    {
         "id": "0831ce76-afe4-4506-9f71-33bde00f683f",
         "start": "2018-04-18T07:00:00+03:00",
         "end": "2018-04-18T09:00:00+03:00",
@@ -1416,18 +1404,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maxwellinepayhtalot.jpg"
     },
     {
-        "id": "3c2a6b92-d13e-45c3-b1b0-e89b71a1a1b5",
-        "start": "2018-04-19T16:00:00+03:00",
-        "end": "2018-04-19T17:00:00+03:00",
-        "title": "To Hell And Back",
-        "host": "Veli-V, KukaKumma",
-        "prod": "KukaKumma",
-        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
-        "timestamp": "2018-04-12T10:04:30+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/tohellandback.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tohellandback.jpg"
-    },
-    {
         "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
         "start": "2018-04-22T13:00:00+03:00",
         "end": "2018-04-22T18:00:00+03:00",
@@ -1474,5 +1450,29 @@
         "timestamp": "2018-04-12T17:09:19+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappu.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappu.jpg"
+    },
+    {
+        "id": "3c2a6b92-d13e-45c3-b1b0-e89b71a1a1b5",
+        "start": "2018-04-19T19:00:00+03:00",
+        "end": "2018-04-19T20:00:00+03:00",
+        "title": "To Hell And Back",
+        "host": "Veli-V, KukaKumma",
+        "prod": "KukaKumma",
+        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
+        "timestamp": "2018-04-12T17:17:34+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tohellandback.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tohellandback.jpg"
+    },
+    {
+        "id": "27b24ad4-c785-42a9-ae76-96ff40f1c454",
+        "start": "2018-04-19T16:00:00+03:00",
+        "end": "2018-04-19T17:00:00+03:00",
+        "title": "On Air -yritystunti",
+        "host": "",
+        "prod": "Zar",
+        "desc": "On Air -yritystunti tuo terveiset yritysmaailmasta sek\u00e4 soittaa musaa rennolla meiningill\u00e4. Asiaohjelmaa asialliseen aikaan! \r\n\r\n Ke 18.4. Cybercom\r\n To 19.4. Granite Devices\r\n Pe 20.4. \r\n Ma 23.4. TEK\r\n Ti 24.4. Futurice\r\n Ke 25.4. Eatech\r\n To 26.4. Gofore\r\n Pe 27.4. Cinia\r\n Su 29.4. TTYY",
+        "timestamp": "2018-04-12T17:18:14+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
     }
 ]
