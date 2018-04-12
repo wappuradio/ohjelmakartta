@@ -1438,5 +1438,17 @@
         "timestamp": "2018-04-12T08:48:08+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/maxwellinepayhtalot.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maxwellinepayhtalot.jpg"
+    },
+    {
+        "id": "3c2a6b92-d13e-45c3-b1b0-e89b71a1a1b5",
+        "start": "2018-04-19T16:00:00+03:00",
+        "end": "2018-04-19T17:00:00+03:00",
+        "title": "To Hell And Back",
+        "host": "Veli-V, KukaKumma",
+        "prod": "KukaKumma",
+        "desc": "Sabaton! Mambaton! Manowar! Sotaa, kuolemaa, metallia! Tunnin retki sotatantereille ja toivottavasti takaisin.",
+        "timestamp": "2018-04-12T10:04:30+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tohellandback.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tohellandback.jpg"
     }
 ]
