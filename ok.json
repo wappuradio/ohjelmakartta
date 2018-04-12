@@ -110,16 +110,6 @@
         "timestamp": "2018-04-05T08:56:03+03:00"
     },
     {
-        "id": "8fa46798-468d-43b8-ae69-edcb46729853",
-        "start": "2018-04-30 09:00",
-        "end": "2018-04-30 11:00",
-        "title": "Kyseess\u00e4 on teekkarij\u00e4yn\u00e4",
-        "host": "reimann",
-        "prod": "Lahis???",
-        "desc": "Yli 50 vuotta sitten nostetiin esiin Wasa-laiva koristeenaan Paavo Nurmi. Kuitenkin j\u00e4yni\u00e4 on olemassa monen monta erilaista viel\u00e4 lis\u00e4\u00e4, aina Tampereen sukellusveneeseen asti. Tutustu, mit\u00e4 j\u00e4yni\u00e4 teekkarit ovat ehtineet tehd\u00e4 vuosien saatossa, olivat ne sitten kyseess\u00e4 hyvi\u00e4 tai huonoja. Miten j\u00e4yn\u00e4\u00e4minen on vaikuttanut teekkarikulttuuriin ja sen muotoutumiseen?",
-        "timestamp": "2018-04-05T11:27:13+03:00"
-    },
-    {
         "id": "6a83bb0e-48c3-463a-9787-fc93f2cb73ae",
         "start": "2018-04-17 20:00",
         "end": "2018-04-17 22:00",
@@ -1218,5 +1208,25 @@
         "prod": "",
         "desc": "Wappuradion perinteinen ulkoilmakonsertti, Wappuradio Live! valtaa taas etunurtsin! T\u00e4n\u00e4 vuonna meininki on kuumempaa ja eroottisempaa kuin koskaan, kun lavalla nousevat Eroottiset Tuliaseet, Kulahtanut Villi, Likes of Us sek\u00e4 The Skankbeat. Studiomuusikkoina kansaa viihdytt\u00e4\u00e4 Rynkky ja r\u00e4k\u00e4p\u00e4\u00e4t. Tarjolla on herkullista ruokaa, kev\u00e4ist\u00e4 s\u00e4\u00e4t\u00e4, yst\u00e4vi\u00e4 ja musiikkia. Saavu paikalle piknikviltteinesi ja koe Live! ",
         "timestamp": "2018-04-12T10:49:51+03:00"
+    },
+    {
+        "id": "8fa46798-468d-43b8-ae69-edcb46729853",
+        "start": "2018-04-30 09:00",
+        "end": "2018-04-30 11:00",
+        "title": "Kyseess\u00e4 on teekkarij\u00e4yn\u00e4",
+        "host": "reimann",
+        "prod": "Lahis",
+        "desc": "Yli 50 vuotta sitten nostetiin esiin Vasa-laiva koristeenaan Paavo Nurmi. Kuitenkin j\u00e4yni\u00e4 on olemassa monen monta erilaista viel\u00e4 lis\u00e4\u00e4, aina Tampereen fuksisarjan p\u00e4\u00e4ttymiseen 2018 asti. Tutustu, mit\u00e4 j\u00e4yni\u00e4 teekkarit ovat ehtineet tehd\u00e4 vuosien saatossa, vaikka jotkin j\u00e4yn\u00e4t ovatkin purreeet j\u00e4yn\u00e4\u00e4j\u00e4\u00e4 omaan nilkkaan. Pikkutakki esiin, uskomaton firma pystyyn ja kertomaan miten uusi ihmeellinen asia toimii kylm\u00e4fuusion tms. avulla. Loppuhuipennuksena paljastetaan viel\u00e4, kyseess\u00e4 olevan teekkarij\u00e4yn\u00e4.",
+        "timestamp": "2018-04-12T11:59:48+03:00"
+    },
+    {
+        "id": "e8d1e5c0-0a9a-4693-9ce1-0ba7984174d4",
+        "start": "2018-04-26 00:00",
+        "end": "2018-04-26 07:00",
+        "title": "#Ennen",
+        "host": "Tyrde, Horska",
+        "prod": "",
+        "desc": "Ennen oli kaikki paremmin, vai oliko? Kampuksen nakkeisimmat sed\u00e4t Tyrde ja Horska kertovat omat el\u00e4m\u00e4n viisautensa kuulijoiden kysymyksiin sek\u00e4 jakavat ohessa parhaat opiskelumuistot ja perim\u00e4tiedot. Luvassa takuuvarmaa nostalgista musiikkia. ",
+        "timestamp": "2018-04-12T12:11:23+03:00"
     }
 ]
