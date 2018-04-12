@@ -840,18 +840,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroopanmyytinmurtajat.jpg"
     },
     {
-        "id": "e43d8fd8-38f1-4f05-9ca9-d97beb79fe34",
-        "start": "2018-04-21T14:00:00+03:00",
-        "end": "2018-04-21T16:00:00+03:00",
-        "title": "On tullut reissattua",
-        "host": "rocka",
-        "prod": "",
-        "desc": "Maailmaa n\u00e4hnyt p\u00e4\u00e4toimittaja-seikkailija Taru vie kuulijat kaksituntiselle kierroksele maailman ymp\u00e4ri, tietenkin asiaankuuluvan musiikin siivitt\u00e4m\u00e4n\u00e4. Kutsuuko t\u00e4ll\u00e4 kertaa Kuusamo vai Lontoo, se j\u00e4\u00e4 n\u00e4ht\u00e4v\u00e4ksi tai kuultavaksi!",
-        "timestamp": "2018-04-08T21:24:40+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/ontullutreissattua.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ontullutreissattua.jpg"
-    },
-    {
         "id": "2f31ad44-40c8-40fc-bae5-be405eb20787",
         "start": "2018-04-19T14:00:00+03:00",
         "end": "2018-04-19T16:00:00+03:00",
@@ -1474,5 +1462,17 @@
         "timestamp": "2018-04-12T17:18:14+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/onair-yritystunti.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/onair-yritystunti.jpg"
+    },
+    {
+        "id": "e43d8fd8-38f1-4f05-9ca9-d97beb79fe34",
+        "start": "2018-04-21T14:00:00+03:00",
+        "end": "2018-04-21T16:00:00+03:00",
+        "title": "On tullut reissattua",
+        "host": "rocka",
+        "prod": "reimann",
+        "desc": "Maailmaa n\u00e4hnyt p\u00e4\u00e4toimittaja-seikkailija Taru vie kuulijat kaksituntiselle kierroksele maailman ymp\u00e4ri, tietenkin asiaankuuluvan musiikin siivitt\u00e4m\u00e4n\u00e4. Kutsuuko t\u00e4ll\u00e4 kertaa Kuusamo vai Lontoo, se j\u00e4\u00e4 n\u00e4ht\u00e4v\u00e4ksi tai kuultavaksi!",
+        "timestamp": "2018-04-12T23:08:31+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ontullutreissattua.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ontullutreissattua.jpg"
     }
 ]
