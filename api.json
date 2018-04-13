@@ -1380,18 +1380,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lahouse.jpg"
     },
     {
-        "id": "0fd7e185-92c4-4f3c-b37b-1fdff4a0d7e4",
-        "start": "2018-04-21T20:00:00+03:00",
-        "end": "2018-04-21T22:00:00+03:00",
-        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6t",
-        "host": "Lauhanen",
-        "prod": "Tuottaja haussa, hau!",
-        "desc": "Laulu- ja tanssiorgasteri \"Maxwellin ep\u00e4yht\u00e4l\u00f6t\" esiintyy soitellen sotaa, eioota ja progressiivista 9\/8-rytmimusiikkia. Toivemusiikkiasi ei soiteta eik\u00e4 puhelimeen vastata. Ajatustesi p\u00e4\u00e4lle kyll\u00e4 puhutaan..",
-        "timestamp": "2018-04-12T08:48:08+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/maxwellinepayhtalot.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maxwellinepayhtalot.jpg"
-    },
-    {
         "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
         "start": "2018-04-22T13:00:00+03:00",
         "end": "2018-04-22T18:00:00+03:00",
@@ -1474,5 +1462,17 @@
         "timestamp": "2018-04-12T23:08:31+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/ontullutreissattua.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ontullutreissattua.jpg"
+    },
+    {
+        "id": "0fd7e185-92c4-4f3c-b37b-1fdff4a0d7e4",
+        "start": "2018-04-21T20:00:00+03:00",
+        "end": "2018-04-21T22:00:00+03:00",
+        "title": "Maxwellin ep\u00e4yht\u00e4l\u00f6t",
+        "host": "Lauhanen",
+        "prod": "reimann",
+        "desc": "Laulu- ja tanssiorgasteri \"Maxwellin ep\u00e4yht\u00e4l\u00f6t\" esiintyy soitellen sotaa, eioota ja progressiivista 9\/8-rytmimusiikkia. Toivemusiikkiasi ei soiteta eik\u00e4 puhelimeen vastata. Ajatustesi p\u00e4\u00e4lle kyll\u00e4 puhutaan..",
+        "timestamp": "2018-04-13T14:43:53+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/maxwellinepayhtalot.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maxwellinepayhtalot.jpg"
     }
 ]
