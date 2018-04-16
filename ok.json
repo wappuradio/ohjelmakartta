@@ -630,16 +630,6 @@
         "timestamp": "2018-04-08T17:07:08+03:00"
     },
     {
-        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
-        "start": "2018-04-22 11:00",
-        "end": "2018-04-22 13:00",
-        "title": "Toivomuskaivon tyhjennys",
-        "host": "zordiack, JSuvanto",
-        "prod": "Jippu",
-        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nJuha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
-        "timestamp": "2018-04-08T17:20:23+03:00"
-    },
-    {
         "id": "b42098bb-09a9-4ea3-b251-b28ef74753ac",
         "start": "2018-04-30 00:00",
         "end": "2018-04-30 07:00",
@@ -1228,5 +1218,15 @@
         "prod": "reimann",
         "desc": "Laulu- ja tanssiorgasteri \"Maxwellin ep\u00e4yht\u00e4l\u00f6t\" esiintyy soitellen sotaa, eioota ja progressiivista 9\/8-rytmimusiikkia. Toivemusiikkiasi ei soiteta eik\u00e4 puhelimeen vastata. Ajatustesi p\u00e4\u00e4lle kyll\u00e4 puhutaan..",
         "timestamp": "2018-04-13T14:43:53+03:00"
+    },
+    {
+        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
+        "start": "2018-04-22 11:00",
+        "end": "2018-04-22 13:00",
+        "title": "Toivomuskaivon tyhjennys",
+        "host": "zordiack, JSuvanto",
+        "prod": "Jippu",
+        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nToiveita voi esitt\u00e4\u00e4 irkiss\u00e4, telegramissa tai shoutboxissa kirjoittamalla \"!toive <em>esiintyj\u00e4n nimi<\/em> - <em>biisin nimi<\/em>\". Juha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
+        "timestamp": "2018-04-16T09:29:31+03:00"
     }
 ]
