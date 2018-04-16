@@ -1120,16 +1120,6 @@
         "timestamp": "2018-04-16T14:30:52+03:00"
     },
     {
-        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
-        "start": "2018-04-23 17:00",
-        "end": "2018-04-23 19:00",
-        "title": "Wikiwappu",
-        "host": "William Lindbeg, Werneri Lindberg ja Tuomas Tiainen",
-        "prod": "Teemu Nuorteva",
-        "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
-        "timestamp": "2018-04-16T14:47:59+03:00"
-    },
-    {
         "id": "0fa331e1-e0e8-4d1a-b207-7866745f9cdb",
         "start": "2018-04-23 13:00",
         "end": "2018-04-23 14:00",
@@ -1248,5 +1238,15 @@
         "prod": "reimann",
         "desc": "Oman el\u00e4m\u00e4ns\u00e4 ty\u00f6ukot- ja akat tiet\u00e4v\u00e4t kaikesta kaiken my\u00f6s ty\u00f6aikojen ulkopuolella ja ovat valmiina auttamaan kuulijoita kiperimmiss\u00e4kin kysymyksiss\u00e4. Hyvien neuvojen lis\u00e4ksi luvassa menev\u00e4\u00e4 lauantai-illan musiikkia ja totuuksia el\u00e4m\u00e4st\u00e4.",
         "timestamp": "2018-04-16T20:46:27+03:00"
+    },
+    {
+        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
+        "start": "2018-04-23 17:00",
+        "end": "2018-04-23 19:00",
+        "title": "Wikiwappu",
+        "host": "William Lindberg, Werneri Lindberg ja Tuomas Tiainen",
+        "prod": "Teemu Nuorteva",
+        "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
+        "timestamp": "2018-04-16T23:16:59+03:00"
     }
 ]
