@@ -740,16 +740,6 @@
         "timestamp": "2018-04-08T21:57:27+03:00"
     },
     {
-        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
-        "start": "2018-04-29 20:00",
-        "end": "2018-04-29 22:00",
-        "title": "Kukkia ja kielimoukkuja",
-        "host": "Santtu ja jaati",
-        "prod": "Kukis?",
-        "desc": "",
-        "timestamp": "2018-04-08T22:14:21+03:00"
-    },
-    {
         "id": "0de9796c-4381-4c46-af0c-cbe1cd215b98",
         "start": "2018-04-29 11:00",
         "end": "2018-04-29 13:00",
@@ -1238,5 +1228,15 @@
         "prod": "Alexander",
         "desc": "",
         "timestamp": "2018-04-16T15:24:26+03:00"
+    },
+    {
+        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
+        "start": "2018-04-29 20:00",
+        "end": "2018-04-29 22:00",
+        "title": "Kukkia ja kielimoukkuja",
+        "host": "Santtu ja jaati",
+        "prod": "Kukis?",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
+        "timestamp": "2018-04-16T18:17:12+03:00"
     }
 ]
