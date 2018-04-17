@@ -600,18 +600,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mattomatto.jpg"
     },
     {
-        "id": "eb12d636-ac40-46c2-8793-0f560e69b82d",
-        "start": "2018-04-17T18:00:00+03:00",
-        "end": "2018-04-17T20:00:00+03:00",
-        "title": "Jussi Kangas goes Radio",
-        "host": "Jussi Kangas",
-        "prod": "Manty",
-        "desc": "Vuosittainen erikoisl\u00e4hetys. Yliopisto-opettaja horisee ja soittaa nuorisomusiikkia...tai siis entisten nuorten nuorisomusiikkia.",
-        "timestamp": "2018-04-06T23:12:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg"
-    },
-    {
         "id": "5fe524d4-0ea7-4b50-b08d-80fa71c2be12",
         "start": "2018-04-26T22:00:00+03:00",
         "end": "2018-04-27T00:00:00+03:00",
@@ -634,18 +622,6 @@
         "timestamp": "2018-04-06T23:52:01+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/lopunajanvinyyliklubi.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lopunajanvinyyliklubi.jpg"
-    },
-    {
-        "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
-        "start": "2018-04-21T18:00:00+03:00",
-        "end": "2018-04-21T20:00:00+03:00",
-        "title": "Jussi ja humanisti",
-        "host": "Jussi & Camilla",
-        "prod": "Manty",
-        "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 20. ",
-        "timestamp": "2018-04-07T00:42:26+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti.jpg"
     },
     {
         "id": "6fd7b4fc-2918-471b-bcf5-6ff28e8b5d72",
@@ -1498,5 +1474,29 @@
         "timestamp": "2018-04-17T17:41:17+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/echoshow.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/echoshow.jpg"
+    },
+    {
+        "id": "eb12d636-ac40-46c2-8793-0f560e69b82d",
+        "start": "2018-04-17T18:00:00+03:00",
+        "end": "2018-04-17T20:00:00+03:00",
+        "title": "Jussi Kangas goes Radio",
+        "host": "Jussi Kangas, OBD",
+        "prod": "Veli-V",
+        "desc": "Vuosittainen erikoisl\u00e4hetys. Yliopisto-opettaja horisee ja soittaa nuorisomusiikkia...tai siis entisten nuorten nuorisomusiikkia.",
+        "timestamp": "2018-04-17T18:22:40+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg"
+    },
+    {
+        "id": "79bca95e-3727-4f46-ac87-a0d9e6e43c36",
+        "start": "2018-04-21T18:00:00+03:00",
+        "end": "2018-04-21T20:00:00+03:00",
+        "title": "Jussi ja humanisti",
+        "host": "Jussi & Camilla",
+        "prod": "Veli-V",
+        "desc": "Jussi Kangas h\u00f6p\u00f6ttelee humanistin kanssa Tampere 3:n hengess\u00e4. Millaisin ajatuksin yhteiskuntatieteilij\u00e4 saapuu Hervantaan? Mill\u00e4 mielin matemaatikko jalkautuu keskustaan? Mik\u00e4 on el\u00e4m\u00e4n tarkoitus? Ohjelman viralliset jatkot starttaa liikkeelle radiokopeilta kello 20. ",
+        "timestamp": "2018-04-17T18:22:50+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti.jpg"
     }
 ]
