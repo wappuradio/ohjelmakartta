@@ -1224,18 +1224,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/puuvillapelloillasuhisee.jpg"
     },
     {
-        "id": "6aeb9a44-58c6-4661-8e60-6fd914a0fc07",
-        "start": "2018-04-21T16:00:00+03:00",
-        "end": "2018-04-21T18:00:00+03:00",
-        "title": "Chickadoua Club",
-        "host": "Tapsa, Ruut",
-        "prod": "",
-        "desc": "Afrikka on kaunis, kaukana ja kohtalaisen kookas - mutta mit\u00e4 muuta tied\u00e4mme siit\u00e4? Chickadoua Club tarjoaa kahden tunnin kurkistuksen maanosan asioihin: uutisia afrikkalaisista l\u00e4hteist\u00e4, tiedonmurusia Tangierista Johannesburgiin sek\u00e4 mainiota musiikkia mystiselt\u00e4 mantereelta. L\u00e4hetyksen p\u00e4\u00e4tt\u00e4\u00e4 alkuillan oivallisesti k\u00e4ynnist\u00e4v\u00e4 afrobeat-amok. Chickadoua Club - paluu kehtoon. Ihmiskunnan kehtoon.",
-        "timestamp": "2018-04-11T21:11:34+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/chickadouaclub.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/chickadouaclub.jpg"
-    },
-    {
         "id": "a692e678-955d-4f99-875e-f2a9d49215f4",
         "start": "2018-04-28T17:00:00+03:00",
         "end": "2018-04-28T19:00:00+03:00",
@@ -1498,5 +1486,17 @@
         "timestamp": "2018-04-16T23:16:59+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappu.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappu.jpg"
+    },
+    {
+        "id": "6aeb9a44-58c6-4661-8e60-6fd914a0fc07",
+        "start": "2018-04-21T16:00:00+03:00",
+        "end": "2018-04-21T18:00:00+03:00",
+        "title": "Chickadoua Club",
+        "host": "Tapsa",
+        "prod": "",
+        "desc": "Afrikka on kaunis, kaukana ja kohtalaisen kookas - mutta mit\u00e4 muuta tied\u00e4mme siit\u00e4? Chickadoua Club tarjoaa kahden tunnin kurkistuksen maanosan asioihin: uutisia afrikkalaisista l\u00e4hteist\u00e4, tiedonmurusia Tangierista Johannesburgiin sek\u00e4 mainiota musiikkia mystiselt\u00e4 mantereelta. L\u00e4hetyksen p\u00e4\u00e4tt\u00e4\u00e4 alkuillan oivallisesti k\u00e4ynnist\u00e4v\u00e4 afrobeat-amok. Chickadoua Club - paluu kehtoon. Ihmiskunnan kehtoon.",
+        "timestamp": "2018-04-17T14:24:12+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/chickadouaclub.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/chickadouaclub.jpg"
     }
 ]
