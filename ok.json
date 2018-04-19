@@ -1180,16 +1180,6 @@
         "timestamp": "2018-04-16T15:24:26+03:00"
     },
     {
-        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
-        "start": "2018-04-29 20:00",
-        "end": "2018-04-29 22:00",
-        "title": "Kukkia ja kielimoukkuja",
-        "host": "Santtu ja jaati",
-        "prod": "Kukis?",
-        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
-        "timestamp": "2018-04-16T18:17:12+03:00"
-    },
-    {
         "id": "0ba732a7-4544-4a2c-b08d-ecc71976dcac",
         "start": "2018-04-21 22:00",
         "end": "2018-04-22 00:00",
@@ -1258,5 +1248,15 @@
         "prod": "shiona_",
         "desc": "Pullan ja Palleron nostalgiatuokio tarjoaa tunnin mittaisen rentoutumishetken maanantaiseen alkuiltaan. \r\nMuistellaan hauskoja sattumuksia ja t\u00e4htihetki\u00e4 meid\u00e4n nelj\u00e4nnesvuosisadan mittaiselta yhteiselt\u00e4 matkalta. \r\nMusiikki on tietenkin sopivan nostalgista. Tule kanssamme irrottautumaan hektisest\u00e4 arjesta, \r\nja muistelemaan menneit\u00e4 aikoja, joita nyky\u00e4\u00e4n tulee tarkasteltua sopivan vaaleanpunaisten lasien l\u00e4pi.",
         "timestamp": "2018-04-19T10:20:10+03:00"
+    },
+    {
+        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
+        "start": "2018-04-29 20:00",
+        "end": "2018-04-29 22:00",
+        "title": "Kukkia ja kielimoukkuja",
+        "host": "Santtu ja jaati",
+        "prod": "keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
+        "timestamp": "2018-04-19T12:48:41+03:00"
     }
 ]

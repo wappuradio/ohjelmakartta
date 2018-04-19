@@ -1416,18 +1416,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/samplesampleradio.jpg"
     },
     {
-        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
-        "start": "2018-04-29T20:00:00+03:00",
-        "end": "2018-04-29T22:00:00+03:00",
-        "title": "Kukkia ja kielimoukkuja",
-        "host": "Santtu ja jaati",
-        "prod": "Kukis?",
-        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
-        "timestamp": "2018-04-16T18:17:12+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kukkiajakielimoukkuja.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kukkiajakielimoukkuja.jpg"
-    },
-    {
         "id": "0ba732a7-4544-4a2c-b08d-ecc71976dcac",
         "start": "2018-04-21T22:00:00+03:00",
         "end": "2018-04-22T00:00:00+03:00",
@@ -1510,5 +1498,17 @@
         "timestamp": "2018-04-19T10:20:10+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pullanjapalleronnostalgiatuokio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pullanjapalleronnostalgiatuokio.jpg"
+    },
+    {
+        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
+        "start": "2018-04-29T20:00:00+03:00",
+        "end": "2018-04-29T22:00:00+03:00",
+        "title": "Kukkia ja kielimoukkuja",
+        "host": "Santtu ja jaati",
+        "prod": "keba",
+        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
+        "timestamp": "2018-04-19T12:48:41+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kukkiajakielimoukkuja.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kukkiajakielimoukkuja.jpg"
     }
 ]
