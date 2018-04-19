@@ -1498,5 +1498,17 @@
         "timestamp": "2018-04-17T18:22:50+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/jussijahumanisti.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussijahumanisti.jpg"
+    },
+    {
+        "id": "e898ced0-032d-4497-b85b-f58693e184df",
+        "start": "2018-04-23T19:00:00+03:00",
+        "end": "2018-04-23T20:00:00+03:00",
+        "title": "Pullan ja Palleron nostalgiatuokio",
+        "host": "Quendil & tinsku",
+        "prod": "shiona_",
+        "desc": "Pullan ja Palleron nostalgiatuokio tarjoaa tunnin mittaisen rentoutumishetken maanantaiseen alkuiltaan. \r\nMuistellaan hauskoja sattumuksia ja t\u00e4htihetki\u00e4 meid\u00e4n nelj\u00e4nnesvuosisadan mittaiselta yhteiselt\u00e4 matkalta. \r\nMusiikki on tietenkin sopivan nostalgista. Tule kanssamme irrottautumaan hektisest\u00e4 arjesta, \r\nja muistelemaan menneit\u00e4 aikoja, joita nyky\u00e4\u00e4n tulee tarkasteltua sopivan vaaleanpunaisten lasien l\u00e4pi.",
+        "timestamp": "2018-04-19T10:20:10+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pullanjapalleronnostalgiatuokio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pullanjapalleronnostalgiatuokio.jpg"
     }
 ]
