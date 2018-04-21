@@ -1190,16 +1190,6 @@
         "timestamp": "2018-04-16T20:46:27+03:00"
     },
     {
-        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
-        "start": "2018-04-23 17:00",
-        "end": "2018-04-23 19:00",
-        "title": "Wikiwappu",
-        "host": "William Lindberg, Werneri Lindberg ja Tuomas Tiainen",
-        "prod": "Teemu Nuorteva",
-        "desc": "H\u00e4iritseek\u00f6, ett\u00e4 saatat tiet\u00e4\u00e4 etuk\u00e4teen mik\u00e4 biisi radiosta soi seuraavaksi? Meill\u00e4 ei ole ennalta suunniteltua soittolistaa vaan laitamme satunnaisvaihteen p\u00e4\u00e4lle. Musiikkia sataa 1900-luvun tyylien runsaasta kirjosta nykyp\u00e4iv\u00e4n ketkuihin metkuihin.\r\n\r\nV\u00e4liajoilla viihdyt\u00e4mme teit\u00e4 l\u00f6yt\u00e4m\u00e4ll\u00e4mme satunnaisella wikill\u00e4, koska TIETO ON VALTAA. Toisaalta jos olet aina halunnut jakaa, enemm\u00e4n tai v\u00e4hemm\u00e4n, j\u00e4rkev\u00e4\u00e4 tai hupaisaa tietoa rakkaille kuulijoille, niin nyt on mahdollisuutesi! Kytt\u00e4\u00e4mme silm\u00e4 kovana Wappuradion telegram-ryhm\u00e4\u00e4, IRC:i\u00e4 ja shoutboxia, jotta saisitte tiedont\u00e4yteiset \u00e4\u00e4nenne kuuluviin.",
-        "timestamp": "2018-04-16T23:16:59+03:00"
-    },
-    {
         "id": "6aeb9a44-58c6-4661-8e60-6fd914a0fc07",
         "start": "2018-04-21 16:00",
         "end": "2018-04-21 18:00",
@@ -1258,5 +1248,15 @@
         "prod": "keba",
         "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
         "timestamp": "2018-04-19T12:48:41+03:00"
+    },
+    {
+        "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
+        "start": "2018-04-23 17:00",
+        "end": "2018-04-23 19:00",
+        "title": "Wikiwappu",
+        "host": "William Lindberg, Werneri Lindberg ja Tuomas Tiainen",
+        "prod": "Teemu Nuorteva",
+        "desc": "Satunnaista musiikkia, wiki\u00e4 ja hyv\u00e4ntuulista keskustelua.",
+        "timestamp": "2018-04-21T09:21:56+03:00"
     }
 ]
