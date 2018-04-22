@@ -1272,18 +1272,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maxwellinepayhtalot.jpg"
     },
     {
-        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
-        "start": "2018-04-22T11:00:00+03:00",
-        "end": "2018-04-22T13:00:00+03:00",
-        "title": "Toivomuskaivon tyhjennys",
-        "host": "zordiack, JSuvanto",
-        "prod": "Jippu",
-        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nToiveita voi esitt\u00e4\u00e4 irkiss\u00e4, telegramissa tai shoutboxissa kirjoittamalla \"!toive <em>esiintyj\u00e4n nimi<\/em> - <em>biisin nimi<\/em>\". Juha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
-        "timestamp": "2018-04-16T09:29:31+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennys.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennys.jpg"
-    },
-    {
         "id": "38f84827-1df8-4adb-a32c-a07a79d1fd3a",
         "start": "2018-04-22T00:00:00+03:00",
         "end": "2018-04-22T07:00:00+03:00",
@@ -1510,5 +1498,17 @@
         "timestamp": "2018-04-21T09:21:56+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappu.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappu.jpg"
+    },
+    {
+        "id": "56426bc6-a4a9-40da-8374-17712f89c99e",
+        "start": "2018-04-22T11:00:00+03:00",
+        "end": "2018-04-22T13:00:00+03:00",
+        "title": "Toivomuskaivon tyhjennys",
+        "host": "zordiack, JSuvanto",
+        "prod": "Jippu",
+        "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nToiveita voi esitt\u00e4\u00e4 irkiss\u00e4 ta telegramissa kirjoittamalla \"!toive <em>esiintyj\u00e4n nimi<\/em> - <em>biisin nimi<\/em>\". Juha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
+        "timestamp": "2018-04-22T06:49:52+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/toivomuskaivontyhjennys.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/toivomuskaivontyhjennys.jpg"
     }
 ]
