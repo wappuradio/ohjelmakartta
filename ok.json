@@ -1000,16 +1000,6 @@
         "timestamp": "2018-04-11T23:10:40+03:00"
     },
     {
-        "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
-        "start": "2018-04-22 13:00",
-        "end": "2018-04-22 18:00",
-        "title": "Wappuradio Live!",
-        "host": "",
-        "prod": "",
-        "desc": "Wappuradion perinteinen ulkoilmakonsertti, Wappuradio Live! valtaa taas etunurtsin! T\u00e4n\u00e4 vuonna meininki on kuumempaa ja eroottisempaa kuin koskaan, kun lavalla nousevat Eroottiset Tuliaseet, Kulahtanut Villi, Likes of Us sek\u00e4 The Skankbeat. Studiomuusikkoina kansaa viihdytt\u00e4\u00e4 Rynkky ja r\u00e4k\u00e4p\u00e4\u00e4t. Tarjolla on herkullista ruokaa, kev\u00e4ist\u00e4 s\u00e4\u00e4t\u00e4, yst\u00e4vi\u00e4 ja musiikkia. Saavu paikalle piknikviltteinesi ja koe Live! ",
-        "timestamp": "2018-04-12T10:49:51+03:00"
-    },
-    {
         "id": "8fa46798-468d-43b8-ae69-edcb46729853",
         "start": "2018-04-30 09:00",
         "end": "2018-04-30 11:00",
@@ -1258,5 +1248,15 @@
         "prod": "Jippu",
         "desc": "Toivomuskaivo on vesitiivis yksi- tai useampiosainen musiikkitoiveiden mekaaninen esik\u00e4sittelylaite. Laite erottelee musiikkitoiveiden ainesosia: musiikkitoiveen virratessa laitteen l\u00e4pi raskas musiikki laskeutuu kaivon pohjalle ja poppia kevyemm\u00e4t ainesosat nousevat pintaan.\r\n\r\nToiveita voi esitt\u00e4\u00e4 irkiss\u00e4 ta telegramissa kirjoittamalla \"!toive <em>esiintyj\u00e4n nimi<\/em> - <em>biisin nimi<\/em>\". Juha ja Pekka tyhjent\u00e4v\u00e4t toivomuskaivoa pohjalta alkaen Wappuradio LIVE\u00e4 odotellessa.",
         "timestamp": "2018-04-22T06:49:52+03:00"
+    },
+    {
+        "id": "3495c8ae-a050-4dcb-8b43-58fafba118a8",
+        "start": "2018-04-22 13:00",
+        "end": "2018-04-22 18:00",
+        "title": "Wappuradio Live!",
+        "host": "",
+        "prod": "",
+        "desc": "Wappuradion perinteinen ulkoilmakonsertti, Wappuradio Live! valtaa taas etunurtsin! T\u00e4n\u00e4 vuonna meininki on kuumempaa ja eroottisempaa kuin koskaan, kun lavalla nousevat Eroottiset Tuliaseet, Kulahtanut Villi, Likes of Us sek\u00e4 The Skankbeat. Studiomuusikkoina kansaa viihdytt\u00e4\u00e4 Rynkky ja r\u00e4k\u00e4p\u00e4\u00e4t. Tarjolla on herkullista ruokaa, kev\u00e4ist\u00e4 s\u00e4\u00e4t\u00e4, yst\u00e4vi\u00e4 ja musiikkia. Saavu paikalle piknikviltteinesi ja koe Live! \r\n\r\n\r\n13.05-13.50 Kulahtanut Villi\r\n14.20-15.05 Likes of Us\r\n15.45-16.30 Eroottiset Tuliaseet\r\n17.00-17.45 The Skankbeat\r\n\r\n",
+        "timestamp": "2018-04-22T12:16:53+03:00"
     }
 ]
