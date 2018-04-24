@@ -590,16 +590,6 @@
         "timestamp": "2018-04-08T11:57:32+03:00"
     },
     {
-        "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
-        "start": "2018-04-25 00:00",
-        "end": "2018-04-25 07:00",
-        "title": "Wappuheilan mets\u00e4stys",
-        "host": "SoliDi",
-        "prod": "KukaKumma",
-        "desc": "Wappu on j\u00e4lleen saapunut ja sen mukana uusi mets\u00e4styskausi uusin haastein. Millaisella vieheell\u00e4 se Teemu t\u00e4ll\u00e4 kertaa naarataan? Millaiseen ansaan Tiina on helpoin houkutella? Millaiset sy\u00f6tit teekkareihin ylip\u00e4\u00e4ns\u00e4 toimivat? Miten varustautua mets\u00e4stysreissulle arvaamattomaan Herwantaan? \r\n\r\nOlit sitten teekkari, humanisti, fuksi tahi muuten vain Herwannan haastaville, mutta ah niin palkitseville mets\u00e4stysmaille eksynyt saalistaja, tullaan kysymyksiisi vastaamaan vankkumattomalla ammattitaidolla, kun kokeneet mets\u00e4miehemme avaavat sanaiset arkkunsa. Wappuheilakausi on j\u00e4lleen alkanut, ja nyt ammutaan kovilla! \r\n",
-        "timestamp": "2018-04-08T16:55:37+03:00"
-    },
-    {
         "id": "3edcb4f6-9ff2-4058-be60-4218e12e2645",
         "start": "2018-04-23 20:00",
         "end": "2018-04-23 22:00",
@@ -1258,5 +1248,15 @@
         "prod": "",
         "desc": "Wappuradion perinteinen ulkoilmakonsertti, Wappuradio Live! valtaa taas etunurtsin! T\u00e4n\u00e4 vuonna meininki on kuumempaa ja eroottisempaa kuin koskaan, kun lavalla nousevat Eroottiset Tuliaseet, Kulahtanut Villi, Likes of Us sek\u00e4 The Skankbeat. Studiomuusikkoina kansaa viihdytt\u00e4\u00e4 Rynkky ja r\u00e4k\u00e4p\u00e4\u00e4t. Tarjolla on herkullista ruokaa, kev\u00e4ist\u00e4 s\u00e4\u00e4t\u00e4, yst\u00e4vi\u00e4 ja musiikkia. Saavu paikalle piknikviltteinesi ja koe Live! \r\n\r\n\r\n13.05-13.50 Kulahtanut Villi\r\n14.20-15.05 Likes of Us\r\n15.45-16.30 Eroottiset Tuliaseet\r\n17.00-17.45 The Skankbeat\r\n\r\n",
         "timestamp": "2018-04-22T12:16:53+03:00"
+    },
+    {
+        "id": "82912193-0deb-4d53-bbb6-56cfcc96e8d5",
+        "start": "2018-04-25 00:00",
+        "end": "2018-04-25 07:00",
+        "title": "Wappuheilan mets\u00e4stys",
+        "host": "SoliDi",
+        "prod": "KukaKumma",
+        "desc": "Wappu on j\u00e4lleen saapunut ja sen mukana uusi mets\u00e4styskausi uusin haastein. Millaisella vieheell\u00e4 se Teemu t\u00e4ll\u00e4 kertaa naarataan? Millaiseen ansaan Tiina on helpoin houkutella? Millaiset sy\u00f6tit teekkareihin ylip\u00e4\u00e4ns\u00e4 toimivat? Miten varustautua mets\u00e4stysreissulle arvaamattomaan Herwantaan? \r\n\r\nOlit sitten teekkari, humanisti, fuksi tahi muuten vain Herwannan haastaville, mutta ah niin palkitseville mets\u00e4stysmaille eksynyt saalistaja, tullaan kysymyksiisi vastaamaan vankkumattomalla ammattitaidolla, kun kokeneet mets\u00e4miehemme avaavat sanaiset arkkunsa. Wappuheilakausi on j\u00e4lleen alkanut, ja nyt ammutaan kovilla! \r\n\r\nKerro meille mehukkaimet mets\u00e4stystarinasi tai hae heilaa kanssamme!  <a href=\"https:\/\/tiny.cc\/wappuheila\"<\/a>\r\n",
+        "timestamp": "2018-04-24T15:31:01+03:00"
     }
 ]
