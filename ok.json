@@ -1210,16 +1210,6 @@
         "timestamp": "2018-04-19T10:20:10+03:00"
     },
     {
-        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
-        "start": "2018-04-29 20:00",
-        "end": "2018-04-29 22:00",
-        "title": "Kukkia ja kielimoukkuja",
-        "host": "Santtu ja jaati",
-        "prod": "keba",
-        "desc": "Suurta suosiota viime vuosina niitt\u00e4nyt suomalaisen iskelm\u00e4musiikin ajankohtaisohjelma k\u00e4\u00e4nn\u00f6skukkasia ja kielomoukareita saa jatkoa. T\u00e4n\u00e4 wappuna Santtu ja Jaati tarjoavat kukkien lis\u00e4ksi varsinaisia kielipommeja. Musiikillisesti merkitt\u00e4v\u00e4t ikivihre\u00e4t ovat historiaa, kun legendojen seasta poimitaan nokkelimmat k\u00e4\u00e4nn\u00f6kset ja tiukimmat kotimaiset.",
-        "timestamp": "2018-04-19T12:48:41+03:00"
-    },
-    {
         "id": "6d633eca-6ad7-4861-b481-b0014cd1b352",
         "start": "2018-04-23 17:00",
         "end": "2018-04-23 19:00",
@@ -1258,5 +1248,15 @@
         "prod": "KukaKumma",
         "desc": "Wappu on j\u00e4lleen saapunut ja sen mukana uusi mets\u00e4styskausi uusin haastein. Millaisella vieheell\u00e4 se Teemu t\u00e4ll\u00e4 kertaa naarataan? Millaiseen ansaan Tiina on helpoin houkutella? Millaiset sy\u00f6tit teekkareihin ylip\u00e4\u00e4ns\u00e4 toimivat? Miten varustautua mets\u00e4stysreissulle arvaamattomaan Herwantaan? \r\n\r\nOlit sitten teekkari, humanisti, fuksi tahi muuten vain Herwannan haastaville, mutta ah niin palkitseville mets\u00e4stysmaille eksynyt saalistaja, tullaan kysymyksiisi vastaamaan vankkumattomalla ammattitaidolla, kun kokeneet mets\u00e4miehemme avaavat sanaiset arkkunsa. Wappuheilakausi on j\u00e4lleen alkanut, ja nyt ammutaan kovilla! \r\n\r\nKerro meille mehukkaimet mets\u00e4stystarinasi tai hae heilaa kanssamme oheisella <a href=\"https:\/\/tiny.cc\/wappuheila\">Wappuheila-lomakeella<\/a>!\r\n",
         "timestamp": "2018-04-24T17:28:29+03:00"
+    },
+    {
+        "id": "587ebc88-0013-4e77-8560-63360ec620ab",
+        "start": "2018-04-29 20:00",
+        "end": "2018-04-29 22:00",
+        "title": "Kukkia ja kielimoukkuja",
+        "host": "Santtu ja jaati",
+        "prod": "keba",
+        "desc": "Suur\u00adta suo\u00adsio\u00adta 2010-luvun alkupuolella niit\u00adt\u00e4\u00adnyt suo\u00adma\u00adlai\u00adsen is\u00adkel\u00adm\u00e4\u00admusii\u00adkin ajan\u00adkoh\u00adtais\u00adoh\u00adjel\u00adma k\u00e4\u00e4n\u00adn\u00f6s\u00adkuk\u00adka\u00adsia ja kie\u00adli\u00admou\u00adka\u00adrei\u00adta tekee (taas) paluun. T\u00e4n\u00e4kin wap\u00adpu\u00adna musii\u00adkil\u00adli\u00adses\u00adti mer\u00adkit\u00adt\u00e4\u00adv\u00e4t iki\u00advih\u00adre\u00e4t ovat his\u00adto\u00adri\u00adaa, kun le\u00adgen\u00addo\u00adjen seas\u00adta poi\u00admi\u00adtaan nok\u00adke\u00adlim\u00admat k\u00e4\u00e4n\u00adn\u00f6k\u00adset ja tiu\u00adkim\u00admat ko\u00adti\u00admai\u00adset. Sant\u00adtu ja Jaa\u00adti tar\u00adjoa\u00advat uusien kuk\u00adkien li\u00ads\u00e4k\u00adsi menneiden ohjelmavuosien varsilla soitettuja kestohittej\u00e4.",
+        "timestamp": "2018-04-24T19:19:55+03:00"
     }
 ]
