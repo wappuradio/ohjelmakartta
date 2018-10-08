@@ -1522,5 +1522,29 @@
         "timestamp": "2018-10-08T19:15:02+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/bjanzenskitsofreniaterapia.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/bjanzenskitsofreniaterapia.jpg"
+    },
+    {
+        "id": "74e40292-8c41-4a8f-9660-756f10f58f9c",
+        "start": "2018-10-24T17:00:00+03:00",
+        "end": "2018-10-24T20:00:00+03:00",
+        "title": "SAMPLERADIO",
+        "host": "Ilkka, Antti",
+        "prod": "Alexander",
+        "desc": "Mist\u00e4 on pienet biisit tehty? No toisista biiseist\u00e4! Sampleradio n\u00e4ytt\u00e4\u00e4 miten musiikki taipuu tuottajan k\u00e4siss\u00e4 aivan uuteen muotoon sopivalla leikkelyll\u00e4 ja puolella rullalla jesaria. Ohjelma kaivautuu hittibiisien, elektronisen musiikin ja suomir\u00e4pin taustoihin paljastaen niiden kauneimmat ja j\u00e4m\u00e4kimm\u00e4t samplet, ja saattaa muuttaa k\u00e4sityksesi musiikista j\u00e4rk\u00e4lesm\u00e4isesti.",
+        "timestamp": "2018-10-08T19:26:02+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio.jpg"
+    },
+    {
+        "id": "e145e103-7a39-4398-990a-01a7efa0fd96",
+        "start": "2018-10-25T00:00:00+03:00",
+        "end": "2018-10-25T07:00:00+03:00",
+        "title": "Punaisen sammalen l\u00e4hettil\u00e4\u00e4t",
+        "host": "Occult Belzebub Desecrator, Aabraham De Ebenius, Artyom Spinn ja Invocator W\u00f6err Miquel.",
+        "prod": "Occult Belzebub Desecrator",
+        "desc": "Muinaisten legendojen mukaan jossain It\u00e4-Hervannan tuolla puolen sijaitsee Punaisen sammalen maa, musikaalisen viisauden tyyssija. V\u00e4itet\u00e4\u00e4n, ett\u00e4 lokakuun alussa Betelgeusen loistaessa tavallista kirkkaammin pidet\u00e4\u00e4n rituaali, jossa nelj\u00e4 uutta tiet\u00e4j\u00e4\u00e4 kastetaan suuren mutajumalan palvelijoiksi. N\u00e4m\u00e4 nelj\u00e4 tiet\u00e4j\u00e4\u00e4 saavat ensimm\u00e4iseksi teht\u00e4v\u00e4kseen valistaa viisautta eteenp\u00e4in, ja l\u00e4htev\u00e4t valtamaan ymp\u00e4ri Pirkanmaata. Pitk\u00e4n vaelluksen p\u00e4\u00e4tteeksi n\u00e4m\u00e4 nelj\u00e4 Punaisen sammalen l\u00e4hettil\u00e4st\u00e4 saapuvat Wappuradioon kuultavaksi torstain vastaisena y\u00f6n\u00e4. Mik\u00e4 on heid\u00e4n sanomansa? Asetu linjoille ja kuuntele.",
+        "timestamp": "2018-10-08T20:14:00+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/punaisensammalenlahettilaat.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/punaisensammalenlahettilaat.jpg"
     }
 ]
