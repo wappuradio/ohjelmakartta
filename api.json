@@ -1512,18 +1512,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/echoshow.jpg"
     },
     {
-        "id": "ac1fd7e7-6299-4d69-b585-abdcc2fbd294",
-        "start": "2018-10-25T17:00:00+03:00",
-        "end": "2018-10-25T19:00:00+03:00",
-        "title": "Bjanzen Skitsofreniaterapia",
-        "host": "Bjanze",
-        "prod": "F1shbone",
-        "desc": "",
-        "timestamp": "2018-10-08T19:15:02+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/bjanzenskitsofreniaterapia.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/bjanzenskitsofreniaterapia.jpg"
-    },
-    {
         "id": "74e40292-8c41-4a8f-9660-756f10f58f9c",
         "start": "2018-10-24T17:00:00+03:00",
         "end": "2018-10-24T20:00:00+03:00",
@@ -1546,5 +1534,17 @@
         "timestamp": "2018-10-08T20:14:00+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/punaisensammalenlahettilaat.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/punaisensammalenlahettilaat.jpg"
+    },
+    {
+        "id": "ac1fd7e7-6299-4d69-b585-abdcc2fbd294",
+        "start": "2018-10-25T17:00:00+03:00",
+        "end": "2018-10-25T19:00:00+03:00",
+        "title": "Bjanzen Skitsofreniaterapia",
+        "host": "Bjanze",
+        "prod": "F1shbone",
+        "desc": "Musiikkia genrerajojen yli hyppien, kaivettuna Wappuradion levykannan pimeimmist\u00e4 sopukoista ja unohdetuista nurkkauksista. Levytyksi\u00e4 joita kukaan ei viel\u00e4 ole Wappuradiossa aiemmin soittanut. Tai ei ainakaan ole viel\u00e4 t\u00e4n\u00e4 vuonna soittanut. Emme kuitenkaan r\u00e4j\u00e4yt\u00e4 kuulijoiden p\u00e4it\u00e4 kakofonialla, vaan pyrimme oivaltavaan helmien etsimiseen, kuin nyppisimme neuloja hein\u00e4suovasta yll\u00e4tt\u00e4v\u00e4n tarkalla satunnaisotannalla.",
+        "timestamp": "2018-10-09T19:05:54+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/bjanzenskitsofreniaterapia.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/bjanzenskitsofreniaterapia.jpg"
     }
 ]
