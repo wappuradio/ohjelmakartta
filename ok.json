@@ -1298,5 +1298,15 @@
         "prod": "",
         "desc": "On aika siirty\u00e4 pahuuden polulle. Omituiset r\u00f6t\u00f6kset ja rikokset tutustuttaa kuuntelijan omituisimpiin r\u00f6t\u00f6ksiin ja rikoksiin. T\u00e4h\u00e4n ohjelmaan ei p\u00e4\u00e4se perinteisill\u00e4 nakkikioskitappeluilla tai villin l\u00e4nnen elokuvista tutulla pankkiry\u00f6st\u00f6ll\u00e4. Rakkauden Wappuradion r\u00f6t\u00f6sten tutkintayksikk\u00f6 pyrkii tarjoamaan omituisia r\u00f6t\u00f6ksi\u00e4 p\u00e4iv\u00e4n ratoksi.",
         "timestamp": "2018-10-09T20:13:24+03:00"
+    },
+    {
+        "id": "a3c040f4-c8cf-4120-8706-47061ac7cee1",
+        "start": "2018-10-22 22:00",
+        "end": "2018-10-23 00:00",
+        "title": "Sceneradio",
+        "host": "Spiikki, Poro, Exca",
+        "prod": "Vuokko",
+        "desc": "Vanhojen tietokoneiden ja l\u00e4hes yht\u00e4 vanhojen yst\u00e4vien muistelua ja nostalgiointia.\r\nUusien tuulien haistelua ja kuuntelua.\r\nEl\u00e4v\u00e4\u00e4, juuri teille soitettua, musiikkia.\r\nIhastu, vihastu, rakastu, suutu jo.\r\nLiity maanantai-iltana seuraamme kuulemaan tarinoita demoscenest\u00e4, tuosta nykyteknologian vastineesta luolamaalauksille.\r\nSed\u00e4t ovat j\u00e4lleen t\u00e4\u00e4ll\u00e4 muistelemassa wanhoja sek\u00e4 turinoimassa tulevista.",
+        "timestamp": "2018-10-10T15:17:25+03:00"
     }
 ]
