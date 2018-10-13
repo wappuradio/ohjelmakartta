@@ -1318,5 +1318,15 @@
         "prod": "reimann",
         "desc": "Noin kello viiden teehetki, jossa jutellaan v\u00e4h\u00e4n kaikesta sek\u00e4 tietysti teest\u00e4. ",
         "timestamp": "2018-10-13T17:14:05+03:00"
+    },
+    {
+        "id": "7f0a9eb6-b99b-43e1-88e9-cc4415b0c8be",
+        "start": "2018-10-23 22:00",
+        "end": "2018-10-24 00:00",
+        "title": "Lakastumusradio",
+        "host": "Hanne, Ilmo, Tapsa",
+        "prod": "Antti Kallunki",
+        "desc": "Syksy tulee. Ilmat viilenee. Sadetta riitt\u00e4\u00e4.\r\nLehdet putoavat. Kaikki kuolee.\r\nSin\u00e4. Min\u00e4. Me. Te.\r\nKuuntele Lakastumisradiota tiistai-iltana ja masennutaan yhdess\u00e4.",
+        "timestamp": "2018-10-13T18:52:02+03:00"
     }
 ]
