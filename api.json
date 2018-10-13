@@ -1570,5 +1570,17 @@
         "timestamp": "2018-10-10T15:17:25+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/sceneradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sceneradio.jpg"
+    },
+    {
+        "id": "53d47526-4d4d-4bbc-8d7c-59eaba529a21",
+        "start": "2018-10-24T15:00:00+03:00",
+        "end": "2018-10-24T17:00:00+03:00",
+        "title": "Teehetkiradio",
+        "host": "Sonja Mikkonen ja Mikko Tiitola",
+        "prod": "reimann",
+        "desc": "Noin kello viiden teehetki, jossa jutellaan v\u00e4h\u00e4n kaikesta sek\u00e4 tietysti teest\u00e4. ",
+        "timestamp": "2018-10-13T17:14:05+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/teehetkiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/teehetkiradio.jpg"
     }
 ]
