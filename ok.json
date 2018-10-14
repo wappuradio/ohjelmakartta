@@ -1290,16 +1290,6 @@
         "timestamp": "2018-10-09T20:13:24+03:00"
     },
     {
-        "id": "a3c040f4-c8cf-4120-8706-47061ac7cee1",
-        "start": "2018-10-22 22:00",
-        "end": "2018-10-23 00:00",
-        "title": "Sceneradio",
-        "host": "Spiikki, Poro, Exca",
-        "prod": "Vuokko",
-        "desc": "Vanhojen tietokoneiden ja l\u00e4hes yht\u00e4 vanhojen yst\u00e4vien muistelua ja nostalgiointia.\r\nUusien tuulien haistelua ja kuuntelua.\r\nEl\u00e4v\u00e4\u00e4, juuri teille soitettua, musiikkia.\r\nIhastu, vihastu, rakastu, suutu jo.\r\nLiity maanantai-iltana seuraamme kuulemaan tarinoita demoscenest\u00e4, tuosta nykyteknologian vastineesta luolamaalauksille.\r\nSed\u00e4t ovat j\u00e4lleen t\u00e4\u00e4ll\u00e4 muistelemassa wanhoja sek\u00e4 turinoimassa tulevista.",
-        "timestamp": "2018-10-10T15:17:25+03:00"
-    },
-    {
         "id": "53d47526-4d4d-4bbc-8d7c-59eaba529a21",
         "start": "2018-10-24 15:00",
         "end": "2018-10-24 17:00",
@@ -1408,5 +1398,15 @@
         "prod": "Jaketus",
         "desc": "Mik\u00e4 pirist\u00e4isi p\u00e4iv\u00e4\u00e4 paremmin kuin tuulahdus lapsuudesta? On aika istahtaa alas ja laulaa mukana, kun Disneyradio tuo korviinne vanhat klassikot ja my\u00f6s uudempia tuttavuuksia vuosien varrelta!",
         "timestamp": "2018-10-14T15:55:38+03:00"
+    },
+    {
+        "id": "a3c040f4-c8cf-4120-8706-47061ac7cee1",
+        "start": "2018-10-24 22:00",
+        "end": "2018-10-25 00:00",
+        "title": "Sinkkumutsin p\u00e4iv\u00e4kirjat",
+        "host": "Petra",
+        "prod": "Veli-V",
+        "desc": "Sinkkumutsin p\u00e4iv\u00e4kirjat Goes on Air - Again!\r\n\r\nSuoraa puhetta suhteista ja varsinkin niiden puutteesta. Mit\u00e4 fiiliksi\u00e4 her\u00e4tt\u00e4\u00e4 dickpick ruudulla? Onko kolmekymppisell\u00e4 mit\u00e4\u00e4n mahdollisuutta deittimarkkinoilla? Mik\u00e4 sinkkuudessa m\u00e4tt\u00e4\u00e4, vai m\u00e4tt\u00e4\u00e4k\u00f6 mik\u00e4\u00e4n?\r\n\r\nKuuntele, naura ja osallistu keskusteluun!",
+        "timestamp": "2018-10-14T17:10:13+03:00"
     }
 ]
