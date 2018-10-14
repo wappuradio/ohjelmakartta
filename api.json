@@ -1152,18 +1152,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg"
     },
     {
-        "id": "257eea68-8b7d-4f41-a522-16e8b7a1ec00",
-        "start": "2018-04-18T09:00:00+03:00",
-        "end": "2018-04-18T11:00:00+03:00",
-        "title": "Aamujamit",
-        "host": "Henna, Mika",
-        "prod": "Sara",
-        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
-        "timestamp": "2018-04-11T20:14:12+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
-    },
-    {
         "id": "b9c62582-bd95-46c4-966c-b312dd6d2777",
         "start": "2018-04-22T07:00:00+03:00",
         "end": "2018-04-22T09:00:00+03:00",
@@ -1594,5 +1582,41 @@
         "timestamp": "2018-10-13T18:52:02+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/lakastumusradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lakastumusradio.jpg"
+    },
+    {
+        "id": "2286bd0f-54a9-4d91-84de-d109343c06ae",
+        "start": "2018-04-18T09:00:00+03:00",
+        "end": "2018-04-18T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna, Mika",
+        "prod": "Sara",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Sara, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2018-10-14T09:39:23+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
+    },
+    {
+        "id": "b81c5ff8-c90a-4385-b050-4cec71b293ae",
+        "start": "2018-10-23T09:00:00+03:00",
+        "end": "2018-10-23T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna, Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Jarno, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2018-10-14T09:40:34+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
+    },
+    {
+        "id": "8ee0c659-2a90-4ab9-8485-96844171a7fb",
+        "start": "2018-10-25T09:00:00+03:00",
+        "end": "2018-10-25T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna, Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Henna, Mika ja Jarno, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2018-10-14T09:40:46+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg"
     }
 ]
