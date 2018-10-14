@@ -1430,13 +1430,43 @@
         "timestamp": "2018-10-14T22:18:18+03:00"
     },
     {
+        "id": "058bd36d-d8a1-4947-871e-136b470e6af7",
+        "start": "2018-10-25 15:00",
+        "end": "2018-10-25 17:00",
+        "title": "Ruskapunkku",
+        "host": "Ruut",
+        "prod": "KukaKumma",
+        "desc": "Kirjailija osallistuu residenssijaksolle H\u00e4meen syd\u00e4meen Villa Karkiaan. Taajamaidylliin kulkee jopa kaksi bussia p\u00e4iv\u00e4ss\u00e4, ja sama verran pois.. tai siis Lahteen. Kirjailijan tavoitteena on kirjoittaa, ty\u00f6suunnitelman mukaan viimeistell\u00e4, mutta totta puhuen aloittaa. Mestariteosta povataan, mutta mit\u00e4 on tulema? Voiko lokakuun pimenev\u00e4ss\u00e4 poterossa saada jotakin aikaiseksi. Onko skutsi pahempi kuin mutsi?\r\nLuvassa on melodraamaa.\r\n\r\nT\u00e4yt\u00e4th\u00e4n viinilasisi punaisella ja makealle (ei ros\u00e9lla) kuuntelemisen yhteydess\u00e4, ett\u00e4 p\u00e4\u00e4set mukaan tunnelmaan.",
+        "timestamp": "2018-10-14T23:39:18+03:00"
+    },
+    {
+        "id": "54e782a4-1f86-4d50-be0e-24192f534cfd",
+        "start": "2018-10-23 20:00",
+        "end": "2018-10-23 22:00",
+        "title": "Deittikoutsit",
+        "host": "Minna ja Henriikka",
+        "prod": "Ketku",
+        "desc": "Deittikoutsit Minna ja Henriikka jakavat deittivinkkej\u00e4 pimenev\u00e4\u00e4n syksyyn! Jos haluat neuvoja juuri sinun seuranhakuusi, l\u00e4het\u00e4 kysymyksesi ja terveisesi s\u00e4hk\u00f6postilla deittikoutsit@gmail.com tai Instagramissa @deittikoutsit <3",
+        "timestamp": "2018-10-14T23:41:43+03:00"
+    },
+    {
+        "id": "1685a6b9-c25a-4c98-9fbf-da929fa17cf6",
+        "start": "2018-10-24 13:00",
+        "end": "2018-10-24 15:00",
+        "title": "Parasta ja pahinta",
+        "host": "Helky ja Lotta",
+        "prod": "Veli-V",
+        "desc": "Asenteet - pilalla, argumentit - pilalla, toteutus on pilalla. Vai onko t\u00e4\u00e4 sittenkin parasta just nyt?\r\n\r\nT\u00e4m\u00e4 ohjelma vie sinut \u00e4\u00e4rirajoille. Turha mutista jotain ep\u00e4m\u00e4\u00e4r\u00e4ist\u00e4 nurkassa, koska kaikesta voi ja pit\u00e4\u00e4 muodostaa mielipide.  Helky ja Lotta kertovat sinulle oman mielipiteens\u00e4 siit\u00e4, mik\u00e4 on parasta ja pahinta kaikessa. Lis\u00e4ksi pyrit\u00e4\u00e4n etsim\u00e4\u00e4n Wappuradion kuulijoiden virallinen linjaus. Mik\u00e4 on maailman pahin haju? Ent\u00e4 mik\u00e4 on maailman paras strippausbiisi? Mist\u00e4 saa parhainta kebabia ja mik\u00e4 on pahin red flag miehess\u00e4? Vied\u00e4\u00e4n sek\u00e4 musat ett\u00e4 puheenaiheet korkeimmille huipuille ja syvimpiin sy\u00f6vereihin.",
+        "timestamp": "2018-10-14T23:56:15+03:00"
+    },
+    {
         "id": "76287b41-5759-4ad5-aa77-9f9d2304a256",
         "start": "2018-10-23 18:00",
         "end": "2018-10-23 20:00",
         "title": "Mielipidepalsta",
         "host": "Matti Moottori, Ansse Apatia",
         "prod": "Ansse Apatia",
-        "desc": "Jokaisella on oma, ja aina ne muiden haisee pahalta! Matti Moottori ja Ansse Apatia v\u00e4ittelev\u00e4t juuri siit\u00e4, mist\u00e4 ei kuulemma saisi: mielipideasioista. Aiheet kootaan sanomalehdist\u00e4, facebookista, IRCist\u00e4 ja kuulijoilta. Jos olet eri mielt\u00e4, kerro se meille!",
-        "timestamp": "2018-10-14T23:09:27+03:00"
+        "desc": "Jokaisella on oma, ja aina ne muiden haisee pahalta! Matti Moottori ja Ansse Apatia arvostelevat erikoisia mielipiteit\u00e4 kommentoiden niit\u00e4 keskivahvan Mennen-hajuveden voimakkuudella. Oletko eri mielt\u00e4? Kerro se meille irkiss\u00e4!",
+        "timestamp": "2018-10-15T00:12:55+03:00"
     }
 ]
