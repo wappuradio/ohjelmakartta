@@ -1418,5 +1418,25 @@
         "prod": "Tommi Mehtonen",
         "desc": "Humanistien n\u00f6rttiradio vastaa klassisen humanismin hengess\u00e4 kysymyksiin, joita kukaan ei esit\u00e4. Mist\u00e4 me tied\u00e4mme ett\u00e4 haltioilla oli suipot korvat tai mit\u00e4 jos kaikkia meit\u00e4 hallitsee luinen parasiitti ja el\u00e4mme osteokratiassa? V\u00e4ltt\u00e4\u00e4ksesi n\u00e4ihin ja muihin suuriin pieniin kysymyksiin nujertumisen ja antautumisen bysanttilaisen metafysiikan ja solipsismin kiroihin, voit vuodattaa suurten mielt\u00e4si repivien kysymyksien pohdinnan muiden hoidettavaksi, eli juurikin meille! Radiossa kolme eri n\u00f6rtteilyn spektrill\u00e4 py\u00f6riv\u00e4\u00e4 humanistia esitt\u00e4\u00e4 vastauksia, oli kysymyst\u00e4 tai ei.",
         "timestamp": "2018-10-14T17:46:40+03:00"
+    },
+    {
+        "id": "f624b2b5-cb98-4858-95b5-953f8d75a725",
+        "start": "2018-10-24 00:00",
+        "end": "2018-10-24 07:00",
+        "title": "Kummitusradio",
+        "host": "Poksa, Siiri",
+        "prod": "Jaketus",
+        "desc": "\"there's something strange in you neighborhood\r\nWho you gonna call?\"\r\n\r\nEt kenellek\u00e4\u00e4n, vaan laitat radion p\u00e4\u00e4lle ja jaat karmivat tarinasi yhdess\u00e4 Siirin ja Petran kanssa! T\u00e4m\u00e4 mystinen tehoduo repii kauhisteltavaa aina elokuvista kirjallisuuteen ja kansaintarinoista vauva.fihiin! Syyskaamoksen j\u00e4nnitt\u00e4vin radio-ohjelma kuullaan 24.10. klo 00-07.",
+        "timestamp": "2018-10-14T22:18:18+03:00"
+    },
+    {
+        "id": "76287b41-5759-4ad5-aa77-9f9d2304a256",
+        "start": "2018-10-23 18:00",
+        "end": "2018-10-23 20:00",
+        "title": "Mielipidepalsta",
+        "host": "Matti Moottori, Ansse Apatia",
+        "prod": "Ansse Apatia",
+        "desc": "Jokaisella on oma, ja aina ne muiden haisee pahalta! Matti Moottori ja Ansse Apatia v\u00e4ittelev\u00e4t juuri siit\u00e4, mist\u00e4 ei kuulemma saisi: mielipideasioista. Aiheet kootaan sanomalehdist\u00e4, facebookista, IRCist\u00e4 ja kuulijoilta. Jos olet eri mielt\u00e4, kerro se meille!",
+        "timestamp": "2018-10-14T23:09:27+03:00"
     }
 ]
