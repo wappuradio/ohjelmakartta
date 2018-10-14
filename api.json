@@ -1536,18 +1536,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/bjanzenskitsofreniaterapia.jpg"
     },
     {
-        "id": "b4b9ffc4-18ff-42ed-af72-d0dd5d9e7b77",
-        "start": "2018-10-24T11:00:00+03:00",
-        "end": "2018-10-24T13:00:00+03:00",
-        "title": "Omituisimmat r\u00f6t\u00f6kset ja rikokset",
-        "host": "reimann",
-        "prod": "",
-        "desc": "On aika siirty\u00e4 pahuuden polulle. Omituiset r\u00f6t\u00f6kset ja rikokset tutustuttaa kuuntelijan omituisimpiin r\u00f6t\u00f6ksiin ja rikoksiin. T\u00e4h\u00e4n ohjelmaan ei p\u00e4\u00e4se perinteisill\u00e4 nakkikioskitappeluilla tai villin l\u00e4nnen elokuvista tutulla pankkiry\u00f6st\u00f6ll\u00e4. Rakkauden Wappuradion r\u00f6t\u00f6sten tutkintayksikk\u00f6 pyrkii tarjoamaan omituisia r\u00f6t\u00f6ksi\u00e4 p\u00e4iv\u00e4n ratoksi.",
-        "timestamp": "2018-10-09T20:13:24+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/omituisimmatrotoksetjarikokset.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/omituisimmatrotoksetjarikokset.jpg"
-    },
-    {
         "id": "53d47526-4d4d-4bbc-8d7c-59eaba529a21",
         "start": "2018-10-24T15:00:00+03:00",
         "end": "2018-10-24T17:00:00+03:00",
@@ -1762,5 +1750,17 @@
         "timestamp": "2018-10-15T00:12:55+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/mielipidepalsta.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mielipidepalsta.jpg"
+    },
+    {
+        "id": "b4b9ffc4-18ff-42ed-af72-d0dd5d9e7b77",
+        "start": "2018-10-24T11:00:00+03:00",
+        "end": "2018-10-24T13:00:00+03:00",
+        "title": "Omituisimmat r\u00f6t\u00f6kset ja rikokset",
+        "host": "reimann",
+        "prod": "Joona",
+        "desc": "On aika siirty\u00e4 pahuuden polulle hulvattomalla tavalla. Omituiset r\u00f6t\u00f6kset ja rikokset tutustuttaa kuuntelijan omituisimpiin rikosmaailman kummallisimpiin sattumuksiin, niin l\u00e4helt\u00e4 kuin kauempaakin. T\u00e4h\u00e4n ohjelmaan ei p\u00e4\u00e4se perinteisill\u00e4 nakkikioskitappeluilla tai villin l\u00e4nnen elokuvista tutulla pankkiry\u00f6st\u00f6ll\u00e4. Nyt haetaan omituisuutta. Rakkauden Wappuradion r\u00f6t\u00f6sten tutkintayksikk\u00f6 pyrkii tarjoamaan omituisia r\u00f6t\u00f6ksi\u00e4 aamun\/p\u00e4iv\u00e4n ratoksi.",
+        "timestamp": "2018-10-15T00:25:32+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/omituisimmatrotoksetjarikokset.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/omituisimmatrotoksetjarikokset.jpg"
     }
 ]
