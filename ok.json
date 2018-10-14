@@ -1368,5 +1368,45 @@
         "prod": "",
         "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
         "timestamp": "2018-10-14T12:01:00+03:00"
+    },
+    {
+        "id": "6ce1409b-9a1b-40ae-9fad-25d1f9b547cc",
+        "start": "2018-10-22 14:00",
+        "end": "2018-10-22 16:00",
+        "title": "Alkushow",
+        "host": "Ruut, helky, tutu, Jaketus",
+        "prod": "Jaketus",
+        "desc": "Kansa, joka pimeydess\u00e4 ja m\u00e4riss\u00e4 lehdiss\u00e4 vaeltaa on t\u00e4n\u00e4 p\u00e4iv\u00e4n\u00e4 n\u00e4kev\u00e4 valonpilkahduksen! Wappuradio on tulee ennenaikaisesti ja Alkushowssa haetaan aitoa Wapputunnelmaa keskelle pimenevi\u00e4 syysiltoja. Samalla k\u00e4ynnistet\u00e4\u00e4n TTYY:n viimeinen juhlaviikko arvonsa mukaisesti. ",
+        "timestamp": "2018-10-14T15:48:48+03:00"
+    },
+    {
+        "id": "8152872f-f478-4b70-84da-56565782c162",
+        "start": "2018-10-22 16:00",
+        "end": "2018-10-22 17:00",
+        "title": "Teekkarijaoston touhutunti",
+        "host": "Sofia Suomala ja Lauri Suomela",
+        "prod": "Jaketus",
+        "desc": "Teekkarijaoston touhukas tunti, jossa levitet\u00e4\u00e4n teekkariuden ja TTYY:n viimeisen juhlaviikon ilosanomaa!",
+        "timestamp": "2018-10-14T15:50:49+03:00"
+    },
+    {
+        "id": "c078b819-5b4a-4780-bdba-51aeb5bfa12d",
+        "start": "2018-10-25 19:00",
+        "end": "2018-10-25 20:00",
+        "title": "Loppushow",
+        "host": "Kaikki",
+        "prod": "Jaketus",
+        "desc": "Loppushow on viimeinen mahdollisuutesi nauttia annos radiota ennen kev\u00e4tt\u00e4 ja t\u00e4ydellinen laskeutuminen vuosijuhlaviikonloppuun. Ikuisen teekkarin laulu taattu, mik\u00e4\u00e4n muu ei. Radion talviuni jatkuu t\u00e4st\u00e4 aina kev\u00e4seen saakka, jolloin palaamme radiotaajuuksille jo kymmenennen kerran! ",
+        "timestamp": "2018-10-14T15:53:03+03:00"
+    },
+    {
+        "id": "9c811075-425d-4a29-9061-a3189a203d1b",
+        "start": "2018-10-25 13:00",
+        "end": "2018-10-25 15:00",
+        "title": "Disneyradio",
+        "host": "tutu, Mannila, Anna",
+        "prod": "Jaketus",
+        "desc": "Mik\u00e4 pirist\u00e4isi p\u00e4iv\u00e4\u00e4 paremmin kuin tuulahdus lapsuudesta? On aika istahtaa alas ja laulaa mukana, kun Disneyradio tuo korviinne vanhat klassikot ja my\u00f6s uudempia tuttavuuksia vuosien varrelta!",
+        "timestamp": "2018-10-14T15:55:38+03:00"
     }
 ]
