@@ -45,6 +45,7 @@ jQuery(function() {
         unselectCancel: 'input, textarea',
         select: function (start, end, jsEvent, view) {
             jQuery('#lisaa')[0].reset();
+            jQuery('#rautalanka').html('');
             jQuery('#ohjelmakartta [name=start]').val(moment(start).format('YYYY-MM-DD HH:mm'));
             jQuery('#ohjelmakartta [name=end]').val(moment(end).format('YYYY-MM-DD HH:mm'));
             jQuery('#ohjelmakartta [name=title]').focus();
@@ -54,6 +55,7 @@ jQuery(function() {
             for(var i in event) {
                 jQuery('#ohjelmakartta [name='+i+']').val(event[i]);
             }
+            jQuery('#rautalanka').html('Muokkaat ohjelmaa '+event.title+'! Tallentamasi muutokset menevät ohjelman '+event.title+' päälle. Jos haluat luoda uuden ohjelman niin maalaa se ohjelmakarttaan tyhjään kohtaan. Miten tää on näin vaikeeta...');
             jQuery('#ohjelmakartta [name=start]').val(moment(event.start).format('YYYY-MM-DD HH:mm'));
             jQuery('#ohjelmakartta [name=end]').val(moment(event.end).format('YYYY-MM-DD HH:mm'));
         },
@@ -146,6 +148,7 @@ jQuery(function() {
               for(var i in event) {
                   jQuery('#ohjelmakartta [name='+i+']').val(event[i]);
               }                                                                                        
+              jQuery('#rautalanka').html('Muokkaat ohjelmaa '+event.title+'! Tallentamasi muutokset menevät ohjelman '+event.title+' päälle. Jos haluat luoda uuden ohjelman niin maalaa se ohjelmakarttaan tyhjään kohtaan. Miten tää on näin vaikeeta...');
               jQuery('#ohjelmakartta [name=start]').val(moment(event.start).format('YYYY-MM-DD HH:mm'));
               jQuery('#ohjelmakartta [name=end]').val(moment(event.end).format('YYYY-MM-DD HH:mm'));
               jQuery('#ohjelmakartta [name=title]').focus();       
