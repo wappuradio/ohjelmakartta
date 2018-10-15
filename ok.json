@@ -1330,26 +1330,6 @@
         "timestamp": "2018-10-14T09:40:46+03:00"
     },
     {
-        "id": "af5b036f-1c3a-4956-8bea-abc44a180d6b",
-        "start": "2018-10-23 07:00",
-        "end": "2018-10-23 09:00",
-        "title": "Curlingspesiaali",
-        "host": "Ruut, Antti, Antti",
-        "prod": "",
-        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
-        "timestamp": "2018-10-14T12:00:49+03:00"
-    },
-    {
-        "id": "01b5ae7a-84bb-4df5-9a12-54462db22a8d",
-        "start": "2018-10-24 07:00",
-        "end": "2018-10-24 09:00",
-        "title": "Curlingspesiaali",
-        "host": "Ruut, Antti, Antti",
-        "prod": "",
-        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
-        "timestamp": "2018-10-14T12:01:00+03:00"
-    },
-    {
         "id": "6ce1409b-9a1b-40ae-9fad-25d1f9b547cc",
         "start": "2018-10-22 14:00",
         "end": "2018-10-22 16:00",
@@ -1468,5 +1448,25 @@
         "prod": "Joona",
         "desc": "On aika siirty\u00e4 pahuuden polulle hulvattomalla tavalla. Omituiset r\u00f6t\u00f6kset ja rikokset tutustuttaa kuuntelijan omituisimpiin rikosmaailman kummallisimpiin sattumuksiin, niin l\u00e4helt\u00e4 kuin kauempaakin. T\u00e4h\u00e4n ohjelmaan ei p\u00e4\u00e4se perinteisill\u00e4 nakkikioskitappeluilla tai villin l\u00e4nnen elokuvista tutulla pankkiry\u00f6st\u00f6ll\u00e4. Nyt haetaan omituisuutta. Rakkauden Wappuradion r\u00f6t\u00f6sten tutkintayksikk\u00f6 pyrkii tarjoamaan omituisia r\u00f6t\u00f6ksi\u00e4 aamun\/p\u00e4iv\u00e4n ratoksi.",
         "timestamp": "2018-10-15T00:25:32+03:00"
+    },
+    {
+        "id": "01b5ae7a-84bb-4df5-9a12-54462db22a8d",
+        "start": "2018-10-24 07:00",
+        "end": "2018-10-24 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Ruut, Antti, Antti",
+        "prod": "Jarno",
+        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
+        "timestamp": "2018-10-15T08:35:57+03:00"
+    },
+    {
+        "id": "af5b036f-1c3a-4956-8bea-abc44a180d6b",
+        "start": "2018-10-23 07:00",
+        "end": "2018-10-23 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Ruut, Antti, Antti",
+        "prod": "Jarno",
+        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
+        "timestamp": "2018-10-15T08:36:04+03:00"
     }
 ]
