@@ -10,16 +10,6 @@
         "timestamp": "2018-10-08T19:26:02+03:00"
     },
     {
-        "id": "e145e103-7a39-4398-990a-01a7efa0fd96",
-        "start": "2018-10-25 00:00",
-        "end": "2018-10-25 07:00",
-        "title": "Punaisen sammalen l\u00e4hettil\u00e4\u00e4t",
-        "host": "Occult Belzebub Desecrator, Aabraham De Ebenius, Artyom Spinn ja Invocator W\u00f6err Miquel.",
-        "prod": "Occult Belzebub Desecrator",
-        "desc": "Muinaisten legendojen mukaan jossain It\u00e4-Hervannan tuolla puolen sijaitsee Punaisen sammalen maa, musikaalisen viisauden tyyssija. V\u00e4itet\u00e4\u00e4n, ett\u00e4 lokakuun alussa Betelgeusen loistaessa tavallista kirkkaammin pidet\u00e4\u00e4n rituaali, jossa nelj\u00e4 uutta tiet\u00e4j\u00e4\u00e4 kastetaan suuren mutajumalan palvelijoiksi. N\u00e4m\u00e4 nelj\u00e4 tiet\u00e4j\u00e4\u00e4 saavat ensimm\u00e4iseksi teht\u00e4v\u00e4kseen valistaa viisautta eteenp\u00e4in, ja l\u00e4htev\u00e4t valtamaan ymp\u00e4ri Pirkanmaata. Pitk\u00e4n vaelluksen p\u00e4\u00e4tteeksi n\u00e4m\u00e4 nelj\u00e4 Punaisen sammalen l\u00e4hettil\u00e4st\u00e4 saapuvat Wappuradioon kuultavaksi torstain vastaisena y\u00f6n\u00e4. Mik\u00e4 on heid\u00e4n sanomansa? Asetu linjoille ja kuuntele.",
-        "timestamp": "2018-10-08T20:14:00+03:00"
-    },
-    {
         "id": "ac1fd7e7-6299-4d69-b585-abdcc2fbd294",
         "start": "2018-10-25 17:00",
         "end": "2018-10-25 19:00",
@@ -238,5 +228,25 @@
         "prod": "Vuokko",
         "desc": "Vanhojen tietokoneiden ja l\u00e4hes yht\u00e4 vanhojen yst\u00e4vien muistelua ja nostalgiointia. Uusien tuulien haistelua ja kuuntelua. El\u00e4v\u00e4\u00e4, juuri teille soitettua, musiikkia. Ihastu, vihastu, rakastu, suutu jo. Liity maanantai-iltana seuraamme kuulemaan tarinoita demoscenest\u00e4, tuosta nykyteknologian vastineesta luolamaalauksille. Sed\u00e4t ovat j\u00e4lleen t\u00e4\u00e4ll\u00e4 muistelemassa wanhoja sek\u00e4 turinoimassa tulevista.\r\n",
         "timestamp": "2018-10-15T10:49:09+03:00"
+    },
+    {
+        "id": "414954e9-be68-4f1b-b6b0-ab528a4de7dc",
+        "start": "2018-10-23 12:00",
+        "end": "2018-10-23 13:00",
+        "title": "TEK-tunti",
+        "host": "aadee?",
+        "prod": "en tied\u00e4",
+        "desc": "TEK Lounge on hyv\u00e4 paikka tehd\u00e4 vaikka Ruskaradiota! Otetaan TEKin tyypit studioon ja jutustellaan ainakin j\u00e4yn\u00e4kisan finaaleista.",
+        "timestamp": "2018-10-15T12:38:29+03:00"
+    },
+    {
+        "id": "e145e103-7a39-4398-990a-01a7efa0fd96",
+        "start": "2018-10-25 00:00",
+        "end": "2018-10-25 07:00",
+        "title": "Punaisen sammalen l\u00e4hettil\u00e4\u00e4t",
+        "host": "Occult Belzebub Desecrator, Aalbert De Ebenius, Artyom Spinn ja Invocator W\u00f6err Miquel.",
+        "prod": "Occult Belzebub Desecrator",
+        "desc": "Muinaisten legendojen mukaan jossain It\u00e4-Hervannan tuolla puolen sijaitsee Punaisen sammalen maa, musikaalisen viisauden tyyssija. V\u00e4itet\u00e4\u00e4n, ett\u00e4 lokakuun alussa Betelgeusen loistaessa tavallista kirkkaammin pidet\u00e4\u00e4n rituaali, jossa nelj\u00e4 uutta tiet\u00e4j\u00e4\u00e4 kastetaan suuren mutajumalan palvelijoiksi. N\u00e4m\u00e4 nelj\u00e4 tiet\u00e4j\u00e4\u00e4 saavat ensimm\u00e4iseksi teht\u00e4v\u00e4kseen valistaa viisautta eteenp\u00e4in, ja l\u00e4htev\u00e4t valtamaan ymp\u00e4ri Pirkanmaata. Pitk\u00e4n vaelluksen p\u00e4\u00e4tteeksi n\u00e4m\u00e4 nelj\u00e4 Punaisen sammalen l\u00e4hettil\u00e4st\u00e4 saapuvat Wappuradioon kuultavaksi torstain vastaisena y\u00f6n\u00e4. Mik\u00e4 on heid\u00e4n sanomansa? Asetu linjoille ja kuuntele.",
+        "timestamp": "2018-10-15T12:44:37+03:00"
     }
 ]
