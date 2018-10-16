@@ -310,5 +310,17 @@
         "timestamp": "2018-10-15T21:04:58+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/aamurassidodis.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamurassidodis.jpg"
+    },
+    {
+        "id": "1967ae1c-4e43-4d94-a2b0-088a2ae11ffd",
+        "start": "2018-10-25T07:00:00+03:00",
+        "end": "2018-10-25T09:00:00+03:00",
+        "title": "Sanoja ja lyriikoita",
+        "host": "kulkija,???",
+        "prod": "???",
+        "desc": "Melkein kaikkissa biiseiss\u00e4 on sanat, mutta valitettavan usein niiden merkitys j\u00e4\u00e4 unohtuu ja j\u00e4\u00e4 tulkitsematta. Korjataksemme t\u00e4m\u00e4n virheen olemme kokoontuneet pohtimaan ehdotttamienne laulujen sanoituksia ja l\u00f6yt\u00e4m\u00e4\u00e4n merkityksi\u00e4 joita kappaleen sanoittajakaan ei keksinyt.",
+        "timestamp": "2018-10-16T15:07:47+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sanojajalyriikoita.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sanojajalyriikoita.jpg"
     }
 ]
