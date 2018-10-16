@@ -180,26 +180,6 @@
         "timestamp": "2018-10-15T00:25:32+03:00"
     },
     {
-        "id": "01b5ae7a-84bb-4df5-9a12-54462db22a8d",
-        "start": "2018-10-24 07:00",
-        "end": "2018-10-24 09:00",
-        "title": "Curlingspesiaali",
-        "host": "Ruut, Antti, Antti",
-        "prod": "Jarno",
-        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
-        "timestamp": "2018-10-15T08:35:57+03:00"
-    },
-    {
-        "id": "af5b036f-1c3a-4956-8bea-abc44a180d6b",
-        "start": "2018-10-23 07:00",
-        "end": "2018-10-23 09:00",
-        "title": "Curlingspesiaali",
-        "host": "Ruut, Antti, Antti",
-        "prod": "Jarno",
-        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
-        "timestamp": "2018-10-15T08:36:04+03:00"
-    },
-    {
         "id": "decc0c9a-cfa6-4358-814c-ed83da21fe80",
         "start": "2018-10-23 00:00",
         "end": "2018-10-23 07:00",
@@ -260,13 +240,43 @@
         "timestamp": "2018-10-15T21:04:58+03:00"
     },
     {
+        "id": "af5b036f-1c3a-4956-8bea-abc44a180d6b",
+        "start": "2018-10-23 07:00",
+        "end": "2018-10-23 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Ruut, Antti, Antti",
+        "prod": "Jarno",
+        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Tiistain vieraana sieniekspertti Lasse Kosonen. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
+        "timestamp": "2018-10-16T22:18:04+03:00"
+    },
+    {
+        "id": "01b5ae7a-84bb-4df5-9a12-54462db22a8d",
+        "start": "2018-10-24 07:00",
+        "end": "2018-10-24 09:00",
+        "title": "Curlingspesiaali",
+        "host": "Ruut, Antti, Antti",
+        "prod": "Jarno",
+        "desc": "Harjaamme esteet pois uuden p\u00e4iv\u00e4n tielt\u00e4 ja kurlaamme kurkun auki. Keskiviikon vieraana burleskitanssija Suzie Dynamite. Curlingspesiaali tiistaina ja keskiviikkona seitsem\u00e4st\u00e4 yhdeks\u00e4\u00e4n.",
+        "timestamp": "2018-10-16T22:18:34+03:00"
+    },
+    {
         "id": "1967ae1c-4e43-4d94-a2b0-088a2ae11ffd",
         "start": "2018-10-25 07:00",
         "end": "2018-10-25 09:00",
         "title": "Sanoja ja lyriikoita",
         "host": "kulkija,???",
         "prod": "???",
-        "desc": "Melkein kaikkissa biiseiss\u00e4 on sanat, mutta valitettavan usein niiden merkitys j\u00e4\u00e4 unohtuu ja j\u00e4\u00e4 tulkitsematta. Korjataksemme t\u00e4m\u00e4n virheen olemme kokoontuneet pohtimaan ehdotttamienne laulujen sanoituksia ja l\u00f6yt\u00e4m\u00e4\u00e4n merkityksi\u00e4 joita kappaleen sanoittajakaan ei keksinyt.",
-        "timestamp": "2018-10-16T15:07:47+03:00"
+        "desc": "Melkein kaikkissa biiseiss\u00e4 on sanat, mutta valitettavan usein niiden merkitys j\u00e4\u00e4 unohtuu ja j\u00e4\u00e4 tulkitsematta. Korjataksemme t\u00e4m\u00e4n virheen olemme kokoontuneet pohtimaan ehdottamienne laulujen sanoituksia ja l\u00f6yt\u00e4m\u00e4\u00e4n merkityksi\u00e4 joita kappaleen sanoittajakaan ei keksinyt.",
+        "timestamp": "2018-10-16T22:21:16+03:00"
+    },
+    {
+        "id": "22b37fa8-bad3-4def-82ec-09aa945a2c21",
+        "start": "2018-10-23 16:00",
+        "end": "2018-10-23 18:00",
+        "title": "Ruskainen tunkkausradio",
+        "host": "Tekniikan kopittomat",
+        "prod": "Tekniikka",
+        "desc": "Kertomuksia tekniikasta l\u00e4hettimen takaa.",
+        "timestamp": "2018-10-16T23:07:11+03:00"
     }
 ]
