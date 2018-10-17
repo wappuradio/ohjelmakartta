@@ -160,16 +160,6 @@
         "timestamp": "2018-10-14T23:56:15+03:00"
     },
     {
-        "id": "76287b41-5759-4ad5-aa77-9f9d2304a256",
-        "start": "2018-10-23 18:00",
-        "end": "2018-10-23 20:00",
-        "title": "Mielipidepalsta",
-        "host": "Matti Moottori, Ansse Apatia",
-        "prod": "Ansse Apatia",
-        "desc": "Jokaisella on oma, ja aina ne muiden haisee pahalta! Matti Moottori ja Ansse Apatia arvostelevat erikoisia mielipiteit\u00e4 kommentoiden niit\u00e4 keskivahvan Mennen-hajuveden voimakkuudella. Oletko eri mielt\u00e4? Kerro se meille irkiss\u00e4!",
-        "timestamp": "2018-10-15T00:12:55+03:00"
-    },
-    {
         "id": "b4b9ffc4-18ff-42ed-af72-d0dd5d9e7b77",
         "start": "2018-10-24 11:00",
         "end": "2018-10-24 13:00",
@@ -278,5 +268,15 @@
         "prod": "reimann",
         "desc": "\"Ei helvetti! T\u00e4\u00e4ll\u00e4 on ihan t\u00e4ysp\u00e4inen rituaali!\" Hyv\u00e4\u00e4 huomenta, Saatana! Antti ja Tatu toimittavat teille vaihtoehtoisen aamushown joka varmasti her\u00e4tt\u00e4\u00e4 ruumiitkin haudoistaan. Nyt ei nimitt\u00e4in s\u00e4\u00e4stell\u00e4 p\u00e4tk\u00e4\u00e4k\u00e4\u00e4n vaan luvassa on kovaa ajoa ensimm\u00e4isist\u00e4 sekunneista loppumetreille. \"Never stop the madness ja kohta vedet\u00e4\u00e4n taas!\" Luvassa on parin tunnin oppitunti thrashin ja d\u00f6diksen maailmaan. \"Oli kyll\u00e4 kielt\u00e4m\u00e4tt\u00e4 yty\u00e4. Venomin hengess\u00e4!\"",
         "timestamp": "2018-10-17T12:06:45+03:00"
+    },
+    {
+        "id": "76287b41-5759-4ad5-aa77-9f9d2304a256",
+        "start": "2018-10-23 18:00",
+        "end": "2018-10-23 20:00",
+        "title": "Mielipidepalsta",
+        "host": "Matti Moottori, Ansse Apatia",
+        "prod": "Ansse Apatia",
+        "desc": "Jokaisella on oma, ja aina ne muiden haisee pahalta! Matti Moottori ja Ansse Apatia arvostelevat erikoisia mielipiteit\u00e4 kommentoiden niit\u00e4 keskivahvan Mennen-hajuveden voimakkuudella. Oletko eri mielt\u00e4? Onko miss\u00e4\u00e4n mit\u00e4\u00e4n mielt\u00e4? Kerro se meille irkiss\u00e4!",
+        "timestamp": "2018-10-17T18:45:33+03:00"
     }
 ]
