@@ -180,16 +180,6 @@
         "timestamp": "2018-10-15T10:18:42+03:00"
     },
     {
-        "id": "301cdfb8-3cb2-4287-94af-59f123f63cd1",
-        "start": "2018-10-22 22:00",
-        "end": "2018-10-23 00:00",
-        "title": "Sceneradio",
-        "host": "Spiikki, Poro, Exca",
-        "prod": "Vuokko",
-        "desc": "Vanhojen tietokoneiden ja l\u00e4hes yht\u00e4 vanhojen yst\u00e4vien muistelua ja nostalgiointia. Uusien tuulien haistelua ja kuuntelua. El\u00e4v\u00e4\u00e4, juuri teille soitettua, musiikkia. Ihastu, vihastu, rakastu, suutu jo. Liity maanantai-iltana seuraamme kuulemaan tarinoita demoscenest\u00e4, tuosta nykyteknologian vastineesta luolamaalauksille. Sed\u00e4t ovat j\u00e4lleen t\u00e4\u00e4ll\u00e4 muistelemassa wanhoja sek\u00e4 turinoimassa tulevista.\r\n",
-        "timestamp": "2018-10-15T10:49:09+03:00"
-    },
-    {
         "id": "e145e103-7a39-4398-990a-01a7efa0fd96",
         "start": "2018-10-25 00:00",
         "end": "2018-10-25 07:00",
@@ -250,16 +240,6 @@
         "timestamp": "2018-10-17T12:00:45+03:00"
     },
     {
-        "id": "bbf577a1-95a6-4511-ad1c-d2d4fbe759e1",
-        "start": "2018-10-22 19:00",
-        "end": "2018-10-22 21:00",
-        "title": "Ruskapunkkarit",
-        "host": "Mutsku, aadee",
-        "prod": "mutsku tai joku vapaaehtoinen",
-        "desc": "Duunattiin \u00e4ijille pyynn\u00f6st\u00e4 t\u00e4mm\u00f6nen yhteiskuntayst\u00e4v\u00e4llinen musaohjelma ruskaisella punkkitwistill\u00e4. Studiossa kampuksen kovimmat ruskapunkkarit mutsku ja tatu.",
-        "timestamp": "2018-10-17T12:02:35+03:00"
-    },
-    {
         "id": "ac13a138-6c93-4168-a3a6-64d09f7721e2",
         "start": "2018-10-24 09:00",
         "end": "2018-10-24 11:00",
@@ -288,5 +268,25 @@
         "prod": "",
         "desc": "Arjen keskell\u00e4 on hyv\u00e4 joskus rauhoittua hetkeksi ja siirty\u00e4 lomalle. Usein lomalle ei kuitenkaan p\u00e4\u00e4se l\u00e4htem\u00e4\u00e4n ihan noin vain ja t\u00e4st\u00e4 syyst\u00e4 l\u00e4hdekkin lyhyelle mielikuvamatkalle Suomen kes\u00e4\u00e4n, syksyyn, talveen ja kev\u00e4\u00e4seen. Matkaev\u00e4\u00e4t tulevat matkanjohtajilta, etk\u00e4 mukaan tarvitse kuin radion ja mukavan leposohvan tai vastaavaan, riippumatto lienee paras.",
         "timestamp": "2018-10-18T10:53:23+03:00"
+    },
+    {
+        "id": "bbf577a1-95a6-4511-ad1c-d2d4fbe759e1",
+        "start": "2018-10-22 19:00",
+        "end": "2018-10-22 21:30",
+        "title": "Ruskapunkkarit",
+        "host": "Mutsku, aadee",
+        "prod": "mutsku tai joku vapaaehtoinen",
+        "desc": "Duunattiin \u00e4ijille pyynn\u00f6st\u00e4 t\u00e4mm\u00f6nen yhteiskuntayst\u00e4v\u00e4llinen musaohjelma ruskaisella punkkitwistill\u00e4. Studiossa kampuksen kovimmat ruskapunkkarit mutsku ja tatu.",
+        "timestamp": "2018-10-19T14:40:36+03:00"
+    },
+    {
+        "id": "301cdfb8-3cb2-4287-94af-59f123f63cd1",
+        "start": "2018-10-22 21:30",
+        "end": "2018-10-23 00:00",
+        "title": "Sceneradio",
+        "host": "Spiikki, Poro, Exca",
+        "prod": "Vuokko",
+        "desc": "Vanhojen tietokoneiden ja l\u00e4hes yht\u00e4 vanhojen yst\u00e4vien muistelua ja nostalgiointia. Uusien tuulien haistelua ja kuuntelua. El\u00e4v\u00e4\u00e4, juuri teille soitettua, musiikkia. Ihastu, vihastu, rakastu, suutu jo. Liity maanantai-iltana seuraamme kuulemaan tarinoita demoscenest\u00e4, tuosta nykyteknologian vastineesta luolamaalauksille. Sed\u00e4t ovat j\u00e4lleen t\u00e4\u00e4ll\u00e4 muistelemassa wanhoja sek\u00e4 turinoimassa tulevista.\r\n",
+        "timestamp": "2018-10-19T14:40:42+03:00"
     }
 ]
