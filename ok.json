@@ -110,16 +110,6 @@
         "timestamp": "2018-10-14T17:10:13+03:00"
     },
     {
-        "id": "99c00b28-d04a-4154-b4aa-f657134c0bdc",
-        "start": "2018-10-25 11:00",
-        "end": "2018-10-25 13:00",
-        "title": "Humanistien n\u00f6rttiradio",
-        "host": "Sonja Mikkonen, Juho Aarikka, Santtu Yli-Tokko",
-        "prod": "Tommi Mehtonen",
-        "desc": "Humanistien n\u00f6rttiradio vastaa klassisen humanismin hengess\u00e4 kysymyksiin, joita kukaan ei esit\u00e4. Mist\u00e4 me tied\u00e4mme ett\u00e4 haltioilla oli suipot korvat tai mit\u00e4 jos kaikkia meit\u00e4 hallitsee luinen parasiitti ja el\u00e4mme osteokratiassa? V\u00e4ltt\u00e4\u00e4ksesi n\u00e4ihin ja muihin suuriin pieniin kysymyksiin nujertumisen ja antautumisen bysanttilaisen metafysiikan ja solipsismin kiroihin, voit vuodattaa suurten mielt\u00e4si repivien kysymyksien pohdinnan muiden hoidettavaksi, eli juurikin meille! Radiossa kolme eri n\u00f6rtteilyn spektrill\u00e4 py\u00f6riv\u00e4\u00e4 humanistia esitt\u00e4\u00e4 vastauksia, oli kysymyst\u00e4 tai ei.",
-        "timestamp": "2018-10-14T17:46:40+03:00"
-    },
-    {
         "id": "f624b2b5-cb98-4858-95b5-953f8d75a725",
         "start": "2018-10-24 00:00",
         "end": "2018-10-24 07:00",
@@ -308,5 +298,25 @@
         "prod": "Jaketus",
         "desc": "T\u00e4m\u00e4 on tutun ja Jaketuksen oma ohjelma. Studiossa on tutu ja Jaketus. Studiossa kuultavat mielipiteet ovat tutun ja Jaketuksen, eiv\u00e4tk\u00e4 edusta Wappuradion virallista linjaa. Musiikin valitsee tutu ja Jaketus. Aihena mm. tutu, Jaketus, kissat, lumisota, antiikkihuonekalut, keinohedelm\u00f6itys ja s\u00e4ilykepersikat. ",
         "timestamp": "2018-10-21T13:17:52+03:00"
+    },
+    {
+        "id": "5e3af15d-325e-4e9b-82e6-12809af49d28",
+        "start": "2018-10-25 11:00",
+        "end": "2018-10-25 13:00",
+        "title": "Humanistien n\u00f6rttiradio",
+        "host": "Sonja Mikkonen, Juho Aarikka, Santtu Yli-Tokko",
+        "prod": "Tommi Mehtonen",
+        "desc": "Humanistien n\u00f6rttiradio vastaa klassisen humanismin hengess\u00e4 kysymyksiin, joita kukaan ei esit\u00e4. Mist\u00e4 me tied\u00e4mme ett\u00e4 haltioilla oli suipot korvat tai mit\u00e4 jos kaikkia meit\u00e4 hallitsee luinen parasiitti ja el\u00e4mme osteokratiassa? V\u00e4ltt\u00e4\u00e4ksesi n\u00e4ihin ja muihin suuriin pieniin kysymyksiin nujertumisen ja antautumisen bysanttilaisen metafysiikan ja solipsismin kiroihin, voit vuodattaa suurten mielt\u00e4si repivien kysymyksien pohdinnan muiden hoidettavaksi, eli juurikin meille! Radiossa kolme eri n\u00f6rtteilyn spektrill\u00e4 py\u00f6riv\u00e4\u00e4 humanistia esitt\u00e4\u00e4 vastauksia, oli kysymyst\u00e4 tai ei.",
+        "timestamp": "2018-10-21T17:46:02+03:00"
+    },
+    {
+        "id": "72bb154c-55ed-40a6-8db0-bb56be146afd",
+        "start": "2018-10-22 17:00",
+        "end": "2018-10-22 19:00",
+        "title": "Humanistien n\u00f6rttiradio",
+        "host": "Sonja Mikkonen, Juho Aarikka, Santtu Yli-Tokko",
+        "prod": "Tommi Mehtonen",
+        "desc": "Humanistien n\u00f6rttiradio vastaa klassisen humanismin hengess\u00e4 kysymyksiin, joita kukaan ei esit\u00e4. Mist\u00e4 me tied\u00e4mme ett\u00e4 haltioilla oli suipot korvat tai mit\u00e4 jos kaikkia meit\u00e4 hallitsee luinen parasiitti ja el\u00e4mme osteokratiassa? V\u00e4ltt\u00e4\u00e4ksesi n\u00e4ihin ja muihin suuriin pieniin kysymyksiin nujertumisen ja antautumisen bysanttilaisen metafysiikan ja solipsismin kiroihin, voit vuodattaa suurten mielt\u00e4si repivien kysymyksien pohdinnan muiden hoidettavaksi, eli juurikin meille! Radiossa kolme eri n\u00f6rtteilyn spektrill\u00e4 py\u00f6riv\u00e4\u00e4 humanistia esitt\u00e4\u00e4 vastauksia, oli kysymyst\u00e4 tai ei.",
+        "timestamp": "2018-10-21T17:48:31+03:00"
     }
 ]
