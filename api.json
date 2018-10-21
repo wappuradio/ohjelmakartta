@@ -346,5 +346,29 @@
         "timestamp": "2018-10-19T14:40:42+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/sceneradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sceneradio.jpg"
+    },
+    {
+        "id": "356d3428-5cd6-4049-9f7e-c02970869ade",
+        "start": "2018-10-23T11:00:00+03:00",
+        "end": "2018-10-23T12:00:00+03:00",
+        "title": "Tutun ja Jaketuksen oma ohjelma",
+        "host": "tutu, Jaketus",
+        "prod": "Jaketus",
+        "desc": "T\u00e4m\u00e4 on tutun ja Jaketuksen oma ohjelma. Studiossa on tutu ja Jaketus. Studiossa kuultavat mielipiteet ovat tutun ja Jaketuksen, eiv\u00e4tk\u00e4 edusta Wappuradion virallista linjaa. Musiikin valitsee tutu ja Jaketus. Aihena mm. tutu, Jaketus, kissat, lumisota, antiikkihuonekalut, keinohedelm\u00f6itys ja s\u00e4ilykepersikat. ",
+        "timestamp": "2018-10-21T13:17:43+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tutunjajaketuksenomaohjelma.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tutunjajaketuksenomaohjelma.jpg"
+    },
+    {
+        "id": "b11790ae-8a17-489b-93ec-c8ec2e28098c",
+        "start": "2018-10-23T13:00:00+03:00",
+        "end": "2018-10-23T14:00:00+03:00",
+        "title": "Tutun ja Jaketuksen oma ohjelma",
+        "host": "tutu, Jaketus",
+        "prod": "Jaketus",
+        "desc": "T\u00e4m\u00e4 on tutun ja Jaketuksen oma ohjelma. Studiossa on tutu ja Jaketus. Studiossa kuultavat mielipiteet ovat tutun ja Jaketuksen, eiv\u00e4tk\u00e4 edusta Wappuradion virallista linjaa. Musiikin valitsee tutu ja Jaketus. Aihena mm. tutu, Jaketus, kissat, lumisota, antiikkihuonekalut, keinohedelm\u00f6itys ja s\u00e4ilykepersikat. ",
+        "timestamp": "2018-10-21T13:17:52+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/tutunjajaketuksenomaohjelma.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tutunjajaketuksenomaohjelma.jpg"
     }
 ]
