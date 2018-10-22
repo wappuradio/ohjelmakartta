@@ -240,18 +240,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/curlingspesiaali.jpg"
     },
     {
-        "id": "1967ae1c-4e43-4d94-a2b0-088a2ae11ffd",
-        "start": "2018-10-25T07:00:00+03:00",
-        "end": "2018-10-25T09:00:00+03:00",
-        "title": "Sanoja ja lyriikoita",
-        "host": "kulkija,???",
-        "prod": "???",
-        "desc": "Melkein kaikkissa biiseiss\u00e4 on sanat, mutta valitettavan usein niiden merkitys j\u00e4\u00e4 unohtuu ja j\u00e4\u00e4 tulkitsematta. Korjataksemme t\u00e4m\u00e4n virheen olemme kokoontuneet pohtimaan ehdottamienne laulujen sanoituksia ja l\u00f6yt\u00e4m\u00e4\u00e4n merkityksi\u00e4 joita kappaleen sanoittajakaan ei keksinyt.",
-        "timestamp": "2018-10-16T22:21:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/sanojajalyriikoita.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sanojajalyriikoita.jpg"
-    },
-    {
         "id": "22b37fa8-bad3-4def-82ec-09aa945a2c21",
         "start": "2018-10-23T16:00:00+03:00",
         "end": "2018-10-23T18:00:00+03:00",
@@ -262,18 +250,6 @@
         "timestamp": "2018-10-16T23:07:11+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/ruskainentunkkausradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ruskainentunkkausradio.jpg"
-    },
-    {
-        "id": "414954e9-be68-4f1b-b6b0-ab528a4de7dc",
-        "start": "2018-10-23T12:00:00+03:00",
-        "end": "2018-10-23T13:00:00+03:00",
-        "title": "K\u00e4yt\u00e4ttek\u00f6 TEKin vapaa-aikaa?",
-        "host": "aadee?",
-        "prod": "en tied\u00e4",
-        "desc": "TEK Lounge on hyv\u00e4 paikka tehd\u00e4 vaikka Ruskaradiota! Otetaan TEKin tyypit studioon ja puhutaan vapaa-ajasta ja siit\u00e4 mit\u00e4 kaikkea sill\u00e4 voi tehd\u00e4.",
-        "timestamp": "2018-10-17T12:00:45+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kaytattekotekinvapaa-aikaa.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kaytattekotekinvapaa-aikaa.jpg"
     },
     {
         "id": "ac13a138-6c93-4168-a3a6-64d09f7721e2",
@@ -394,5 +370,29 @@
         "timestamp": "2018-10-22T10:53:36+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/kvanttipuu6-kvarttiseikkailut.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kvanttipuu6-kvarttiseikkailut.jpg"
+    },
+    {
+        "id": "414954e9-be68-4f1b-b6b0-ab528a4de7dc",
+        "start": "2018-10-23T12:00:00+03:00",
+        "end": "2018-10-23T13:00:00+03:00",
+        "title": "K\u00e4yt\u00e4ttek\u00f6 TEKin vapaa-aikaa?",
+        "host": "aadee",
+        "prod": "",
+        "desc": "TEK Lounge on hyv\u00e4 paikka tehd\u00e4 vaikka Ruskaradiota! Otetaan TEKin tyypit studioon ja puhutaan vapaa-ajasta ja siit\u00e4 mit\u00e4 kaikkea sill\u00e4 voi tehd\u00e4.",
+        "timestamp": "2018-10-22T11:23:26+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kaytattekotekinvapaa-aikaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kaytattekotekinvapaa-aikaa.jpg"
+    },
+    {
+        "id": "1967ae1c-4e43-4d94-a2b0-088a2ae11ffd",
+        "start": "2018-10-25T07:00:00+03:00",
+        "end": "2018-10-25T09:00:00+03:00",
+        "title": "Sanoja ja lyriikoita",
+        "host": "kulkija",
+        "prod": "",
+        "desc": "Melkein kaikkissa biiseiss\u00e4 on sanat, mutta valitettavan usein niiden merkitys j\u00e4\u00e4 unohtuu ja j\u00e4\u00e4 tulkitsematta. Korjataksemme t\u00e4m\u00e4n virheen olemme kokoontuneet pohtimaan ehdottamienne laulujen sanoituksia ja l\u00f6yt\u00e4m\u00e4\u00e4n merkityksi\u00e4 joita kappaleen sanoittajakaan ei keksinyt.",
+        "timestamp": "2018-10-22T11:24:09+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sanojajalyriikoita.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sanojajalyriikoita.jpg"
     }
 ]
