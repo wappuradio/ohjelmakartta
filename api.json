@@ -300,18 +300,6 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mielipidepalsta.jpg"
     },
     {
-        "id": "1bf0df48-d244-447e-9822-b2e56511b77e",
-        "start": "2018-10-23T14:00:00+03:00",
-        "end": "2018-10-23T16:00:00+03:00",
-        "title": "Meditatiiviset p\u00e4ikk\u00e4rit",
-        "host": "Matkaoppaat Cirrus Ja Veli-V",
-        "prod": "",
-        "desc": "Arjen keskell\u00e4 on hyv\u00e4 joskus rauhoittua hetkeksi ja siirty\u00e4 lomalle. Usein lomalle ei kuitenkaan p\u00e4\u00e4se l\u00e4htem\u00e4\u00e4n ihan noin vain ja t\u00e4st\u00e4 syyst\u00e4 l\u00e4hdekkin lyhyelle mielikuvamatkalle Suomen kes\u00e4\u00e4n, syksyyn, talveen ja kev\u00e4\u00e4seen. Matkaev\u00e4\u00e4t tulevat matkanjohtajilta, etk\u00e4 mukaan tarvitse kuin radion ja mukavan leposohvan tai vastaavaan, riippumatto lienee paras.",
-        "timestamp": "2018-10-18T10:53:23+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/meditatiivisetpaikkarit.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/meditatiivisetpaikkarit.jpg"
-    },
-    {
         "id": "301cdfb8-3cb2-4287-94af-59f123f63cd1",
         "start": "2018-10-22T21:30:00+03:00",
         "end": "2018-10-23T00:00:00+03:00",
@@ -384,15 +372,27 @@
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ruskapunkkarit.jpg"
     },
     {
+        "id": "1bf0df48-d244-447e-9822-b2e56511b77e",
+        "start": "2018-10-23T14:00:00+03:00",
+        "end": "2018-10-23T16:00:00+03:00",
+        "title": "Meditatiiviset p\u00e4ikk\u00e4rit",
+        "host": "Matkaoppaat Cirrus Ja Veli-V",
+        "prod": "Bussikuskina Tutu",
+        "desc": "Arjen keskell\u00e4 on hyv\u00e4 joskus rauhoittua hetkeksi ja siirty\u00e4 lomalle. Usein lomalle ei kuitenkaan p\u00e4\u00e4se l\u00e4htem\u00e4\u00e4n ihan noin vain ja t\u00e4st\u00e4 syyst\u00e4 l\u00e4hdekkin lyhyelle mielikuvamatkalle Suomen kes\u00e4\u00e4n, syksyyn, talveen ja kev\u00e4\u00e4seen. Matkaev\u00e4\u00e4t tulevat matkanjohtajilta, etk\u00e4 mukaan tarvitse kuin radion ja mukavan leposohvan tai vastaavaan, riippumatto lienee paras.",
+        "timestamp": "2018-10-22T10:47:17+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/meditatiivisetpaikkarit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/meditatiivisetpaikkarit.jpg"
+    },
+    {
         "id": "74200d67-32b7-45b2-a8dd-1c19ff9a5ed6",
         "start": "2018-10-24T20:00:00+03:00",
         "end": "2018-10-24T22:00:00+03:00",
-        "title": "Yll\u00e4tys",
-        "host": "?",
-        "prod": "?",
-        "desc": "T\u00e4m\u00e4 ohjelma on yll\u00e4tys. Toiset yll\u00e4tykset ovat kivoja - toiset taas ei. ",
-        "timestamp": "2018-10-22T08:33:16+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/yllatys.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yllatys.jpg"
+        "title": "Kvanttipuu 6 - Kvarttiseikkailut",
+        "host": "AapoAlas",
+        "prod": "Vuokko",
+        "desc": "Kvanttipuu palaa j\u00e4lleen radioaalloille, t\u00e4ll\u00e4 kertaa 2 tunnin tiiviin\u00e4 p\u00e4tk\u00e4n\u00e4. Luvassa nopeita roolipeliseikkailuja radioaalloilla, vauhtia ja vaarallisia tilanteita.\r\nPelinjohtajana ja musiikillisena valitsijamiehen\u00e4 toimii perinteisesti AapoAlas. Soita studioon ja heitt\u00e4ydy seikkailuun!",
+        "timestamp": "2018-10-22T10:53:36+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kvanttipuu6-kvarttiseikkailut.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kvanttipuu6-kvarttiseikkailut.jpg"
     }
 ]
