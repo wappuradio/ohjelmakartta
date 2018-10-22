@@ -382,5 +382,17 @@
         "timestamp": "2018-10-21T19:00:57+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/ruskapunkkarit.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ruskapunkkarit.jpg"
+    },
+    {
+        "id": "74200d67-32b7-45b2-a8dd-1c19ff9a5ed6",
+        "start": "2018-10-24T20:00:00+03:00",
+        "end": "2018-10-24T22:00:00+03:00",
+        "title": "Yll\u00e4tys",
+        "host": "?",
+        "prod": "?",
+        "desc": "T\u00e4m\u00e4 ohjelma on yll\u00e4tys. Toiset yll\u00e4tykset ovat kivoja - toiset taas ei. ",
+        "timestamp": "2018-10-22T08:33:16+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/yllatys.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/yllatys.jpg"
     }
 ]
