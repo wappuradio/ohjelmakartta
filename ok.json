@@ -68,5 +68,15 @@
         "prod": "Dildo Peppuli",
         "desc": "",
         "timestamp": "2019-03-03T16:32:51+02:00"
+    },
+    {
+        "id": "32101224-00a7-4ed5-beea-98ea5aa59e5a",
+        "start": "2019-04-17 19:00",
+        "end": "2019-04-17 21:00",
+        "title": "Showroom Dummies",
+        "host": "June, Erika & Wilma",
+        "prod": "Vuokko",
+        "desc": "Puhe\/musa-ohjelma Cossauksesta, eli pukuilusta. Cossaus on harrastus, jossa ihmiset pukeutuvat esimerkiksi manga-, anime-, sarjakuva-, peli- tai elokuvahahmoiksi.",
+        "timestamp": "2019-03-21T01:40:43+02:00"
     }
 ]
