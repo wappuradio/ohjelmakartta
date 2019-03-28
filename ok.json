@@ -78,5 +78,75 @@
         "prod": "Vuokko",
         "desc": "Puhe\/musa-ohjelma Cossauksesta, eli pukuilusta. Cossaus on harrastus, jossa ihmiset pukeutuvat esimerkiksi manga-, anime-, sarjakuva-, peli- tai elokuvahahmoiksi.",
         "timestamp": "2019-03-21T01:40:43+02:00"
+    },
+    {
+        "id": "d5ecf116-da98-45c6-bd5a-a5d69373c623",
+        "start": "2019-04-17 00:00",
+        "end": "2019-04-17 07:00",
+        "title": "Kissojen y\u00f6",
+        "host": "Miu & mau",
+        "prod": "Jaketus",
+        "desc": "Mau mau mau mau. Mau mau mau. Mau mau mau.",
+        "timestamp": "2019-03-28T11:41:00+02:00"
+    },
+    {
+        "id": "e2ccd04b-b2c8-4ed3-a6e2-5832e071c1eb",
+        "start": "2019-04-18 00:00",
+        "end": "2019-04-18 07:00",
+        "title": "Jouluy\u00f6, juhlay\u00f6",
+        "host": "Marjatta",
+        "prod": "Jaketus",
+        "desc": "Koko y\u00f6n kest\u00e4v\u00e4 joulu",
+        "timestamp": "2019-03-28T12:01:24+02:00"
+    },
+    {
+        "id": "bf4fe5e9-c7b7-4e59-8311-2a635b092943",
+        "start": "2019-04-21 13:00",
+        "end": "2019-04-21 18:00",
+        "title": "Wappuradio LIVE!",
+        "host": "",
+        "prod": "Jaketus",
+        "desc": "Wappuradio LIVE! r\u00e4j\u00e4ytt\u00e4\u00e4 Riemurinneareenan suurempana kuin koskaan aiemmin! Kymppivuotisten kunniaksi artistiksi on buukattu Stam1na! Muut artistit paljastamme my\u00f6hemmin, mutta paljastettakoon jo nyt, ett\u00e4 melkoiset mayhemit saattaa olla tulilla.... ",
+        "timestamp": "2019-03-28T12:04:48+02:00"
+    },
+    {
+        "id": "16c76ffd-40e2-4c22-bf65-fa3b55335932",
+        "start": "2019-04-19 00:00",
+        "end": "2019-04-19 07:00",
+        "title": "Eroottinen seksiwauradio",
+        "host": "Maija ja xstalk",
+        "prod": "Jaketus",
+        "desc": "Wapun pornoin ohjelma ei h\u00e4pe\u00e4 mit\u00e4\u00e4n!",
+        "timestamp": "2019-03-28T12:10:59+02:00"
+    },
+    {
+        "id": "ed6dad3d-8631-4b7a-b4fd-fbc836aaff26",
+        "start": "2019-04-20 00:00",
+        "end": "2019-04-20 07:00",
+        "title": "Smurffaa radio! ",
+        "host": "Patti & V\u00e4lkky",
+        "prod": "Jaketus",
+        "desc": "Koko y\u00f6 smurffien matkassa! 7 h pelkk\u00e4\u00e4 tykityst\u00e4! Parhaat hitit! N\u00e4e sin\u00e4kin pieni\u00e4 sinisi\u00e4 miehi\u00e4 kanssamme! ",
+        "timestamp": "2019-03-28T12:12:43+02:00"
+    },
+    {
+        "id": "77755f9b-91b1-43ed-b6a1-6bb63ab05ec1",
+        "start": "2019-04-21 00:00",
+        "end": "2019-04-21 07:00",
+        "title": "Pringlespilluja ja polttopulloja",
+        "host": "aadee ",
+        "prod": "Jaketus",
+        "desc": "Ei posereille.",
+        "timestamp": "2019-03-28T12:13:18+02:00"
+    },
+    {
+        "id": "041f3cfc-188c-447b-9975-04487b50fe0c",
+        "start": "2019-04-16 15:00",
+        "end": "2019-04-16 16:00",
+        "title": "Huoratunti",
+        "host": "kaikki",
+        "prod": "Jaketus",
+        "desc": "",
+        "timestamp": "2019-03-28T12:16:47+02:00"
     }
 ]
