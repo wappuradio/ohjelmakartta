@@ -20,16 +20,6 @@
         "timestamp": "2019-03-28T11:41:00+02:00"
     },
     {
-        "id": "e2ccd04b-b2c8-4ed3-a6e2-5832e071c1eb",
-        "start": "2019-04-18 00:00",
-        "end": "2019-04-18 07:00",
-        "title": "Jouluy\u00f6, juhlay\u00f6",
-        "host": "Marjatta",
-        "prod": "Jaketus",
-        "desc": "Koko y\u00f6n kest\u00e4v\u00e4 joulu",
-        "timestamp": "2019-03-28T12:01:24+02:00"
-    },
-    {
         "id": "16c76ffd-40e2-4c22-bf65-fa3b55335932",
         "start": "2019-04-19 00:00",
         "end": "2019-04-19 07:00",
@@ -1488,5 +1478,25 @@
         "prod": "Jaketus",
         "desc": "Jopa Tampereen sis\u00e4ll\u00e4 s\u00e4\u00e4 saattaa vaihdetta radikaalisti paikoittain. On siis aika seurata Tampereen ja erityisesti Hervannan s\u00e4\u00e4ilmi\u00f6it\u00e4. Saako S\u00e4\u00e4mies raekuuron kiinni vai kuoleeko h\u00e4n sit\u00e4 yritt\u00e4ess\u00e4\u00e4n? Onko Koskis\u00e4\u00e4 yli 5cm? Viritt\u00e4ydy kuuntelemaan my\u00f6s Koskiks\u00e4\u00e4- ja Oletiks\u00e4\u00e4-raportit suoraan toimituksen saunaillasta!",
         "timestamp": "2019-03-28T19:01:12+02:00"
+    },
+    {
+        "id": "2b834001-52d5-4ea2-be6b-a819a95bc78f",
+        "start": "2019-04-30 16:00",
+        "end": "2019-04-30 18:00",
+        "title": "Radiobingo",
+        "host": "Geriatrian poliklinikka",
+        "prod": "Jaketus",
+        "desc": "K\u00e4y hakemassa tekniikkakopilta oma bingol\u00e4yst\u00e4kkeesi, ja t\u00e4m\u00e4n j\u00e4nnitt\u00e4v\u00e4n 120 minuuttisen aikana sin\u00e4kin voit voittaa oman kinkun ja paketin Juhlamokkaa. R\u00e4j\u00e4ht\u00e4v\u00e4 tapa aloittaa Wappu! ",
+        "timestamp": "2019-03-28T20:30:41+02:00"
+    },
+    {
+        "id": "e2ccd04b-b2c8-4ed3-a6e2-5832e071c1eb",
+        "start": "2019-04-18 00:00",
+        "end": "2019-04-18 07:00",
+        "title": "Jouluy\u00f6, juhlay\u00f6",
+        "host": "tutu ja teBo ja ObD",
+        "prod": "Jaketus",
+        "desc": "Koko y\u00f6n kest\u00e4v\u00e4 joulu",
+        "timestamp": "2019-03-28T20:32:47+02:00"
     }
 ]
