@@ -450,16 +450,6 @@
         "timestamp": "2019-03-28T12:33:43+02:00"
     },
     {
-        "id": "f4032367-3ca6-43a2-aebb-d185fdb33200",
-        "start": "2019-04-20 14:00",
-        "end": "2019-04-20 18:00",
-        "title": "Tupsulan ulkoilmakonsertti LIVE!",
-        "host": "Tupsula",
-        "prod": "Tupsula",
-        "desc": "Suora l\u00e4hetys Tupsulan ulkoilmakonsertista",
-        "timestamp": "2019-03-28T12:33:52+02:00"
-    },
-    {
         "id": "33274bf5-ed25-4d0c-b3a4-f80048666bb0",
         "start": "2019-04-27 00:00",
         "end": "2019-04-27 07:00",
@@ -658,16 +648,6 @@
         "prod": "",
         "desc": "Wappuradion aamun avaa Juuston ja Speltin aamiaisradio. Keskustelua ruokraympyr\u00e4st\u00e4 ja sen reunoilta. Mik\u00e4 on paras aamiainen? Mit\u00e4 laittaa leiv\u00e4n p\u00e4\u00e4lle? Ent\u00e4 p\u00e4rj\u00e4\u00e4k\u00f6 ilman leip\u00e4\u00e4. Puurosta puhtia p\u00e4iv\u00e4\u00e4n? Kaikkeen t\u00e4h\u00e4n ja p\u00e4iv\u00e4n polttavimpiin keskusteluaiheisiin tarjoaa teille opastuksen Wappuradion uudet suosikkijuontajat Juusto ja Speltti. ",
         "timestamp": "2019-03-28T12:47:03+02:00"
-    },
-    {
-        "id": "dd7c0ade-8d0d-40dd-874a-1d8185cbcb15",
-        "start": "2019-04-27 20:00",
-        "end": "2019-04-27 22:00",
-        "title": "Mamba-radio",
-        "host": "Tero Vaara",
-        "prod": "",
-        "desc": "Lauantai-iltana ravintolaan oli tarkoitus l\u00e4het\u00e4 juhlimaan, mutta ei ollut varaa taksiin, joten j\u00e4in Hervantaan soittamaan omia levyj\u00e4ni!",
-        "timestamp": "2019-03-28T12:47:09+02:00"
     },
     {
         "id": "82b3ec4a-2c72-4989-add2-f21473a05cc4",
@@ -908,16 +888,6 @@
         "prod": "Jaketus",
         "desc": "Kaksi tuntia kovaa faktaa karhuista, karhuel\u00e4imist\u00e4, karhunkaadosta, -palvonnasta, isoista karvaisista miehist\u00e4 ja karhuryhm\u00e4st\u00e4.\r\n\r\nKovia faktoja katkoo karhuteemainen musiikki.",
         "timestamp": "2019-03-28T13:05:48+02:00"
-    },
-    {
-        "id": "89eba120-dd1b-4f49-b3ee-9123899f70c3",
-        "start": "2019-04-26 20:00",
-        "end": "2019-04-26 22:00",
-        "title": "S\u00e4\u00e4mies",
-        "host": "erikeeper",
-        "prod": "Jaketus",
-        "desc": "Jopa Tampereen sis\u00e4ll\u00e4 s\u00e4\u00e4 saattaa vaihdetta radikaalisti paikoittain. On siis aika seurata Tampereen ja erityisesti Hervannan s\u00e4\u00e4ilmi\u00f6it\u00e4. Saako S\u00e4\u00e4mies raekuuron kiinni vai kuoleeko h\u00e4n sit\u00e4 yritt\u00e4ess\u00e4\u00e4n?",
-        "timestamp": "2019-03-28T13:06:10+02:00"
     },
     {
         "id": "e0c6941c-cf0d-4e1e-9061-5624f9f73bdf",
@@ -1300,16 +1270,6 @@
         "timestamp": "2019-03-28T17:58:16+02:00"
     },
     {
-        "id": "c74dbeef-c0ca-4de9-9815-ff94a51347b6",
-        "start": "2019-04-27 14:00",
-        "end": "2019-04-27 16:00",
-        "title": "Lauantaitanssit",
-        "host": "El\u00e4kel\u00e4iset",
-        "prod": "JSuvanto",
-        "desc": "Perehdyt\u00e4\u00e4n Humpan alkeisiin studiomuusikoiden seurassa ja laitetaan tyr\u00e4t rytkym\u00e4\u00e4n. Soitetaan my\u00f6s jenkkaa ja polkkaa.",
-        "timestamp": "2019-03-28T18:01:24+02:00"
-    },
-    {
         "id": "5d625270-b243-4c02-bfaa-37c6843567e7",
         "start": "2019-04-30 11:00",
         "end": "2019-04-30 13:00",
@@ -1390,36 +1350,6 @@
         "timestamp": "2019-03-28T18:07:37+02:00"
     },
     {
-        "id": "c4f53c1c-f07b-4f7d-817f-c96c75552c45",
-        "start": "2019-04-15 14:00",
-        "end": "2019-04-15 15:00",
-        "title": "Arch Linuxin asennus",
-        "host": "Jaketus",
-        "prod": "Jaketus",
-        "desc": "Jaakko asentaa Arch Linuxin. Tavoitteena p\u00e4ihitt\u00e4\u00e4 Radio Diodin Gentoo-enn\u00e4tys.",
-        "timestamp": "2019-03-28T18:09:05+02:00"
-    },
-    {
-        "id": "e334a54b-4174-4c2f-a820-3ab416c1c2a8",
-        "start": "2019-04-16 00:00",
-        "end": "2019-04-16 07:00",
-        "title": "Pekka Sauronin y\u00f6radio",
-        "host": "Pekka Sauron",
-        "prod": "Dildo Peppuli",
-        "desc": "Ohjelmassa muistellaan vanhojen Pekka Sauronin y\u00f6radioiden parhaita puheluita ja biisej\u00e4.",
-        "timestamp": "2019-03-28T18:10:02+02:00"
-    },
-    {
-        "id": "6206d699-9bcc-4e2d-a30a-6edb741ecaef",
-        "start": "2019-04-20 12:00",
-        "end": "2019-04-20 14:00",
-        "title": "Boomarien paluu",
-        "host": "Ake, Make, Pera",
-        "prod": "ja m\u00e4",
-        "desc": "Asiaa bileist\u00e4, sijoitussalkuista ja bileiss\u00e4 hukatuista sijoitussalkuista.",
-        "timestamp": "2019-03-28T18:11:27+02:00"
-    },
-    {
         "id": "ad09a952-39a0-4aac-9fe2-861d03373a63",
         "start": "2019-04-20 18:00",
         "end": "2019-04-20 20:00",
@@ -1430,13 +1360,133 @@
         "timestamp": "2019-03-28T18:12:47+02:00"
     },
     {
+        "id": "e334a54b-4174-4c2f-a820-3ab416c1c2a8",
+        "start": "2019-04-16 00:00",
+        "end": "2019-04-16 07:00",
+        "title": "Pekka Saravon y\u00f6radio",
+        "host": "Pekka Saravo",
+        "prod": "Dildo Peppuli",
+        "desc": "J\u00e4\u00e4kiekon kunniadosentti, psykologi Pekka Saravo ratkaisee kuulijoiden ongelmat ja soittaa Tapparan kannatuslauluja.",
+        "timestamp": "2019-03-28T18:37:45+02:00"
+    },
+    {
+        "id": "c4f53c1c-f07b-4f7d-817f-c96c75552c45",
+        "start": "2019-04-15 14:00",
+        "end": "2019-04-15 15:00",
+        "title": "Alkushow",
+        "host": "Jaketus",
+        "prod": "Jaketus",
+        "desc": "Jaakko asentaa Arch Linuxin. Tavoitteena p\u00e4ihitt\u00e4\u00e4 Radio Diodin Gentoo-enn\u00e4tys.",
+        "timestamp": "2019-03-28T18:37:55+02:00"
+    },
+    {
+        "id": "67f23781-5cfe-4f17-b3d4-5e3c71210f12",
+        "start": "2019-04-15 15:00",
+        "end": "2019-04-15 16:00",
+        "title": "Lakushow",
+        "host": "tutu",
+        "prod": "Jaketus",
+        "desc": "P\u00e4\u00e4toimittaja sy\u00f6 lakritsia.",
+        "timestamp": "2019-03-28T18:38:09+02:00"
+    },
+    {
         "id": "d2deb343-6b80-40f5-92b5-8b623bba4407",
         "start": "2019-04-27 10:00",
-        "end": "2019-04-27 13:00",
+        "end": "2019-04-27 14:00",
         "title": "Radioshop",
         "host": "Billy Mayz",
         "prod": "",
         "desc": "Nyt parhaat Wappuradion tarjoukset rajoitetun ajan! Kun tilaan puolentunnin sis\u00e4ll\u00e4, saat Wappuradion tuotepaketin lis\u00e4ksi Magic Bulletin, Abtronicin sek\u00e4 paketillisen Silverstar-puhdistuslevyj\u00e4!",
-        "timestamp": "2019-03-28T18:14:17+02:00"
+        "timestamp": "2019-03-28T18:43:22+02:00"
+    },
+    {
+        "id": "c74dbeef-c0ca-4de9-9815-ff94a51347b6",
+        "start": "2019-04-27 16:00",
+        "end": "2019-04-27 18:00",
+        "title": "Lauantaitanssit",
+        "host": "El\u00e4kel\u00e4iset",
+        "prod": "JSuvanto",
+        "desc": "Perehdyt\u00e4\u00e4n Humpan alkeisiin studiomuusikoiden seurassa ja laitetaan tyr\u00e4t rytkym\u00e4\u00e4n. Soitetaan my\u00f6s jenkkaa ja polkkaa.",
+        "timestamp": "2019-03-28T18:43:29+02:00"
+    },
+    {
+        "id": "1f844eb7-f58f-4f56-97c1-6d18150678ec",
+        "start": "2019-04-27 14:00",
+        "end": "2019-04-27 16:00",
+        "title": "Kerava-radio",
+        "host": "Ryyppyfrendit",
+        "prod": "Pussi",
+        "desc": "Pieni suuri Kerava kukkii Rakkauden Wappuradion aalloilla! Kuuntele nurmikonleikkaamisen SM-kisojen 2006 finaalin uusinta, trendikk\u00e4imm\u00e4t junassa pummaamisen metodit sek\u00e4 kev\u00e4\u00e4n menovinkit saatananpalvojille.",
+        "timestamp": "2019-03-28T18:43:35+02:00"
+    },
+    {
+        "id": "d5b38100-510f-4e77-b2c5-42513fdeb206",
+        "start": "2019-04-15 16:00",
+        "end": "2019-04-15 18:00",
+        "title": "Kuninkaallinen ruhtinasradio",
+        "host": "Totuuden torvina ei niin paska helge",
+        "prod": "Melkein kohtuullinen tuottaja veli-v",
+        "desc": "Kuuntelijat ovat paskaa. Radion tekij\u00e4t ovat paskaa. T\u00e4m\u00e4 ohjelma ei ole. T\u00e4m\u00e4 ohjelma kertoo kuinka paskoja te olette, ja mit\u00e4 voisitte tehd\u00e4 ollaksenne v\u00e4hemm\u00e4n paskoja. Ei sill\u00e4 ett\u00e4 teist\u00e4 hy\u00f6ty\u00e4 olisi. Kun soitetaan musiikkia, niin vain paras on kyllin hyv\u00e4\u00e4. Ja te ette tied\u00e4 mit\u00e4 se on ilman meit\u00e4. ",
+        "timestamp": "2019-03-28T18:48:00+02:00"
+    },
+    {
+        "id": "92a25ef0-f008-4e5d-a53e-c342f6f0edfd",
+        "start": "2019-04-20 07:00",
+        "end": "2019-04-20 09:00",
+        "title": "Kokonaista 12 kuuntelijaa",
+        "host": "Nukku-Matti",
+        "prod": "Jaketus",
+        "desc": "Kuka oikeasti on muka hereill\u00e4? Miksi? Miksi me ollaan t\u00e4\u00e4ll\u00e4 studiossa jos striimi n\u00e4ytt\u00e4\u00e4 54 ja niist\u00e4 varmaan 42 on vaan jotain ry\u00f6k\u00e4leit\u00e4 jotka nauhottaa t\u00e4t\u00e4 sontaa??",
+        "timestamp": "2019-03-28T18:51:00+02:00"
+    },
+    {
+        "id": "6206d699-9bcc-4e2d-a30a-6edb741ecaef",
+        "start": "2019-04-20 11:00",
+        "end": "2019-04-20 13:00",
+        "title": "Boomarien paluu",
+        "host": "Ake, Make, Pera",
+        "prod": "ja m\u00e4",
+        "desc": "Asiaa bileist\u00e4, sijoitussalkuista ja bileiss\u00e4 hukatuista sijoitussalkuista.",
+        "timestamp": "2019-03-28T18:54:52+02:00"
+    },
+    {
+        "id": "f4032367-3ca6-43a2-aebb-d185fdb33200",
+        "start": "2019-04-20 13:00",
+        "end": "2019-04-20 18:00",
+        "title": "Tupsulan ulkoilmakonsertti LIVE!",
+        "host": "Tupsula",
+        "prod": "Tupsula",
+        "desc": "Suora l\u00e4hetys Tupsulan ulkoilmakonsertista",
+        "timestamp": "2019-03-28T18:55:02+02:00"
+    },
+    {
+        "id": "891f730f-5535-4150-a2b0-501d1cb4b91a",
+        "start": "2019-04-20 09:00",
+        "end": "2019-04-20 11:00",
+        "title": "Kaikki iso\u00e4itini mustamakkarareseptit",
+        "host": "Kalervo",
+        "prod": "KukaKummola",
+        "desc": "Radion lauantaiaamussa laitetaan suoli t\u00e4yteen mustaa vanhoin kunnon iso\u00e4idin opein - ja Tapio Rautavaaran tahtiin, tietenkin.",
+        "timestamp": "2019-03-28T18:55:27+02:00"
+    },
+    {
+        "id": "dd7c0ade-8d0d-40dd-874a-1d8185cbcb15",
+        "start": "2019-04-27 20:00",
+        "end": "2019-04-27 22:00",
+        "title": "Mamba-radio",
+        "host": "Tero Vaara",
+        "prod": "Anyone? Please?",
+        "desc": "Lauantai-iltana ravintolaan oli tarkoitus l\u00e4het\u00e4 juhlimaan, mutta ei ollut varaa taksiin, joten j\u00e4in Hervantaan soittamaan omia levyj\u00e4ni!",
+        "timestamp": "2019-03-28T18:56:27+02:00"
+    },
+    {
+        "id": "89eba120-dd1b-4f49-b3ee-9123899f70c3",
+        "start": "2019-04-26 20:00",
+        "end": "2019-04-26 22:00",
+        "title": "J\u00e4rvis\u00e4\u00e4",
+        "host": "S\u00e4\u00e4mies",
+        "prod": "Jaketus",
+        "desc": "Jopa Tampereen sis\u00e4ll\u00e4 s\u00e4\u00e4 saattaa vaihdetta radikaalisti paikoittain. On siis aika seurata Tampereen ja erityisesti Hervannan s\u00e4\u00e4ilmi\u00f6it\u00e4. Saako S\u00e4\u00e4mies raekuuron kiinni vai kuoleeko h\u00e4n sit\u00e4 yritt\u00e4ess\u00e4\u00e4n? Onko Koskis\u00e4\u00e4 yli 5cm? Viritt\u00e4ydy kuuntelemaan my\u00f6s Koskiks\u00e4\u00e4- ja Oletiks\u00e4\u00e4-raportit suoraan toimituksen saunaillasta!",
+        "timestamp": "2019-03-28T19:01:12+02:00"
     }
 ]
