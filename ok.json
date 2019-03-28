@@ -1160,16 +1160,6 @@
         "timestamp": "2019-03-28T13:26:32+02:00"
     },
     {
-        "id": "7b746b7b-e1b2-49da-887d-a55f1ae3c46b",
-        "start": "2019-04-25 12:00",
-        "end": "2019-04-25 14:00",
-        "title": "Miksi Telegram on parempi tiedotusv\u00e4line kuin s\u00e4hk\u00f6posti",
-        "host": "",
-        "prod": "",
-        "desc": "",
-        "timestamp": "2019-03-28T13:27:27+02:00"
-    },
-    {
         "id": "f473a8ea-82b3-4c40-a299-6b3b42113828",
         "start": "2019-04-30 00:00",
         "end": "2019-04-30 07:00",
@@ -1270,16 +1260,6 @@
         "timestamp": "2019-03-28T13:52:27+02:00"
     },
     {
-        "id": "7facdf94-bcde-49b7-a23b-54aa48cbffac",
-        "start": "2019-04-29 20:00",
-        "end": "2019-04-29 22:00",
-        "title": "Postmoderni ironiaradio",
-        "host": "David, Foster, Wallace",
-        "prod": "Grommit",
-        "desc": "Ei me t\u00e4st\u00e4 iha tosissaan olla. Iha l\u00e4p\u00e4ll\u00e4 l\u00e4hdettiin t\u00e4t\u00e4 radioo tekee ku ei kukaan kuitenkaan kuuntele, ja jos kuuntelee niin ei nek\u00e4\u00e4 kyl tosissaan.\r\n\r\nNormaalista poiketen t\u00e4\u00e4 l\u00e4hetet\u00e4\u00e4n Etel\u00e4puistosta.",
-        "timestamp": "2019-03-28T13:57:46+02:00"
-    },
-    {
         "id": "7e8b5d70-b694-4feb-8cf1-53baa05edf2b",
         "start": "2019-04-28 17:00",
         "end": "2019-04-28 20:00",
@@ -1298,5 +1278,95 @@
         "prod": "Jaketus",
         "desc": "Mene suoraan roskiin kulkematta l\u00e4ht\u00f6ruudun kautta. T\u00e4ss\u00e4 vaiheessa Wappua kannattaa tunnustaa tosiasiat ja etsi\u00e4 itselleen v\u00e4litt\u00f6m\u00e4sti oikea sijoituspaikka. Muistathan lajitella itsesi oikein. ",
         "timestamp": "2019-03-28T14:07:43+02:00"
+    },
+    {
+        "id": "ebb0b4ab-6181-44b7-a530-837701d274fc",
+        "start": "2019-04-30 07:00",
+        "end": "2019-04-30 09:00",
+        "title": "Suomen kauneimmat juomalaulut",
+        "host": "Puli",
+        "prod": "Ukko",
+        "desc": "Kuunnellaan suomen kauneimpia juomalauluja ja lauletaan mukana!",
+        "timestamp": "2019-03-28T14:22:36+02:00"
+    },
+    {
+        "id": "a5e5ff12-99e2-4021-8b87-52c3f90cd4e4",
+        "start": "2019-04-29 16:00",
+        "end": "2019-04-29 18:00",
+        "title": "Wapexit, eikun brexit",
+        "host": "",
+        "prod": "",
+        "desc": "Tarkistamme mit\u00e4 brexitille kuuluu, joko britannian talous on kaatunut vai viel\u00e4k\u00f6 punta on arvossaan. Studiossa vieraana John Bercow, Theresa May ja Jeremy Corbyn.",
+        "timestamp": "2019-03-28T14:28:11+02:00"
+    },
+    {
+        "id": "ed60c005-246f-452d-8482-08b2deb66a04",
+        "start": "2019-04-29 07:00",
+        "end": "2019-04-29 09:00",
+        "title": "Apuradio",
+        "host": "V. Anki",
+        "prod": "K. Ahlitsija",
+        "desc": "Auttakaa! Olen ollut vangittuna jo melkein vuoden Wappuradion varastossa ja p\u00e4\u00e4sin nyt kiinni intraan. T\u00e4m\u00e4 on ainot mahdollisuuteni saada apua nopeasti. Kuulen askeleita ja yltyv\u00e4n \"Wappu wappu wappu wappu...\" -biitin. Soittakaa poliisit osoitte-EEEH AUTTAKAA! EI TAAS SAVUPIIPPU-JINK",
+        "timestamp": "2019-03-28T14:33:36+02:00"
+    },
+    {
+        "id": "4600f9cb-8563-4e6b-ad97-7c4d81a10444",
+        "start": "2019-04-28 10:00",
+        "end": "2019-04-28 12:00",
+        "title": "Chiliradio",
+        "host": "Exca",
+        "prod": "",
+        "desc": "Chili\u00e4 suuhun miedommasta tuliseen ja samalla toimittamista. Maitotuotteita ei sallita. Kest\u00e4\u00e4k\u00f6 p\u00e4\u00e4 aina Reaperiin asti. Maailman tulisin tiiviste Plutonium 9 kruunaa tilanteen!",
+        "timestamp": "2019-03-28T14:42:05+02:00"
+    },
+    {
+        "id": "7b746b7b-e1b2-49da-887d-a55f1ae3c46b",
+        "start": "2019-04-25 12:00",
+        "end": "2019-04-25 14:00",
+        "title": "Miksi Telegram on parempi tiedotusv\u00e4line kuin s\u00e4hk\u00f6posti",
+        "host": "",
+        "prod": "",
+        "desc": "Kovaa faktaa Telegrammista ja sen hy\u00f6dyist\u00e4 tiedotuskanavana.\r\n\r\nOsallistu keskusteluun Telegramin hy\u00f6dyist\u00e4 IRC:n v\u00e4lityksell\u00e4 kanavalla #wappuradio",
+        "timestamp": "2019-03-28T14:42:49+02:00"
+    },
+    {
+        "id": "7facdf94-bcde-49b7-a23b-54aa48cbffac",
+        "start": "2019-04-29 20:00",
+        "end": "2019-04-29 22:00",
+        "title": "Postmoderni ironiaradio",
+        "host": "David, Foster, Wallace",
+        "prod": "Grommit",
+        "desc": "Ei me t\u00e4st\u00e4 iha tosissaa olla. Iha l\u00e4p\u00e4ll\u00e4 l\u00e4hettii t\u00e4t\u00e4 radioo tekee ku ei kukaa kuitenkaa kuuntele, ja jos kuuntelee niin ei nek\u00e4\u00e4 kyl tosissaa.\r\n\r\nNormaalist poikete t\u00e4\u00e4 l\u00e4hetet\u00e4\u00e4 Etel\u00e4puistost",
+        "timestamp": "2019-03-28T14:47:58+02:00"
+    },
+    {
+        "id": "e9234521-ef8a-4187-8979-a3921e3a8466",
+        "start": "2019-04-28 09:00",
+        "end": "2019-04-28 10:00",
+        "title": "Karseimmat kyykk\u00e4ykset",
+        "host": "H. K\u00e4\u00e4nt\u00f6",
+        "prod": "Bo Daaja",
+        "desc": "K\u00e4yd\u00e4\u00e4n sunnuntaina l\u00e4pi ep\u00e4onnistuneita kyykkyj\u00e4. T\u00e4ss\u00e4 ohjelmassa selk\u00e4 k\u00e4rsii ja polvet paukkuu.",
+        "timestamp": "2019-03-28T14:52:35+02:00"
+    },
+    {
+        "id": "58093bec-8fc2-4795-9950-b7cd2570e2a8",
+        "start": "2019-04-30 09:00",
+        "end": "2019-04-30 11:00",
+        "title": "Suomen kauneimmat sy\u00f6m\u00e4laulut",
+        "host": "Namirohmu",
+        "prod": "",
+        "desc": "Joko tuntuu ettei yht\u00e4\u00e4n palaa en\u00e4\u00e4 uppoa? Turpa kiinni ja SY\u00d6! T\u00e4\u00e4lt\u00e4 meinaan tulee lihaa ja perunaa, voipalloja, onion soupia ja ties mit\u00e4! Mutta uskallakin jumalauta purra mun ananasta!",
+        "timestamp": "2019-03-28T15:03:20+02:00"
+    },
+    {
+        "id": "ce438262-c15b-4ad3-98dd-5195a9d2676b",
+        "start": "2019-04-15 16:00",
+        "end": "2019-04-15 18:00",
+        "title": "PunaJussin hype-show",
+        "host": "PunaJussi",
+        "prod": "",
+        "desc": "PunaJussi soittaa Battlefield kakkosen tunnaria ja hypett\u00e4\u00e4 tulevia ohjelmia.",
+        "timestamp": "2019-03-28T15:07:35+02:00"
     }
 ]
