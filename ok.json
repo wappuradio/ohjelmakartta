@@ -900,16 +900,6 @@
         "timestamp": "2019-03-28T12:57:20+02:00"
     },
     {
-        "id": "cb287bf1-2f2f-4682-9da9-bee5798817f1",
-        "start": "2019-04-28 00:00",
-        "end": "2019-04-28 07:00",
-        "title": "Pekka Sauronin y\u00f6radio takaperin",
-        "host": "noruaS akkeP",
-        "prod": "iluppeP odliD",
-        "desc": "",
-        "timestamp": "2019-03-28T12:57:38+02:00"
-    },
-    {
         "id": "13461f06-c8da-4bff-8443-780eea488448",
         "start": "2019-04-21 20:00",
         "end": "2019-04-21 22:00",
@@ -1300,16 +1290,6 @@
         "timestamp": "2019-03-28T14:28:11+02:00"
     },
     {
-        "id": "ed60c005-246f-452d-8482-08b2deb66a04",
-        "start": "2019-04-29 07:00",
-        "end": "2019-04-29 09:00",
-        "title": "Apuradio",
-        "host": "V. Anki",
-        "prod": "K. Ahlitsija",
-        "desc": "Auttakaa! Olen ollut vangittuna jo melkein vuoden Wappuradion varastossa ja p\u00e4\u00e4sin nyt kiinni intraan. T\u00e4m\u00e4 on ainot mahdollisuuteni saada apua nopeasti. Kuulen askeleita ja yltyv\u00e4n \"Wappu wappu wappu wappu...\" -biitin. Soittakaa poliisit osoitte-EEEH AUTTAKAA! EI TAAS SAVUPIIPPU-JINK",
-        "timestamp": "2019-03-28T14:33:36+02:00"
-    },
-    {
         "id": "4600f9cb-8563-4e6b-ad97-7c4d81a10444",
         "start": "2019-04-28 10:00",
         "end": "2019-04-28 12:00",
@@ -1378,5 +1358,25 @@
         "prod": "Jaketus",
         "desc": "Miss\u00e4 salo sinert\u00e4\u00e4, ja nurmi on kauniin vihre\u00e4\u00e4 ja kaikki on niin rauhaisaa. Hiljaa puro solisee ja kauniit kukat kuiskailee ja el\u00e4m\u00e4 on leppoisaa, siell\u00e4 Taotao! Pieni Taotao! Pieni pandakarhu on.",
         "timestamp": "2019-03-28T15:43:10+02:00"
+    },
+    {
+        "id": "ed60c005-246f-452d-8482-08b2deb66a04",
+        "start": "2019-04-29 07:00",
+        "end": "2019-04-29 09:00",
+        "title": "Avunhuutoradio",
+        "host": "V. Anki",
+        "prod": "K. Ahlitsija",
+        "desc": "Auttakaa! Olen ollut vangittuna jo melkein vuoden Wappuradion varastossa ja p\u00e4\u00e4sin nyt kiinni intraan. T\u00e4m\u00e4 on ainot mahdollisuuteni saada apua nopeasti. Kuulen askeleita ja yltyv\u00e4n \"Wappu wappu wappu wappu...\" -biitin. Soittakaa poliisit osoitte-EEEH AUTTAKAA! EI TAAS SAVUPIIPPU-JINK",
+        "timestamp": "2019-03-28T17:12:52+02:00"
+    },
+    {
+        "id": "cb287bf1-2f2f-4682-9da9-bee5798817f1",
+        "start": "2019-04-28 00:00",
+        "end": "2019-04-28 07:00",
+        "title": "Suomen sellutehtaat v\u00e4rikuvina",
+        "host": "Ville",
+        "prod": "Toivo",
+        "desc": "Koko y\u00f6 vain kauneinta post-hypno-ambient-corea sellun pilaajille ja muille mets\u00e4teollisuuden rakastajille.",
+        "timestamp": "2019-03-28T17:16:10+02:00"
     }
 ]
