@@ -1368,5 +1368,15 @@
         "prod": "",
         "desc": "PunaJussi soittaa Battlefield kakkosen tunnaria ja hypett\u00e4\u00e4 tulevia ohjelmia.",
         "timestamp": "2019-03-28T15:07:35+02:00"
+    },
+    {
+        "id": "e9a838cf-a12c-49cc-8762-1f771b1ec70f",
+        "start": "2019-04-15 18:00",
+        "end": "2019-04-15 20:00",
+        "title": "Taotao",
+        "host": "Koskikeskuksen ravintolamaailma",
+        "prod": "Jaketus",
+        "desc": "Miss\u00e4 salo sinert\u00e4\u00e4, ja nurmi on kauniin vihre\u00e4\u00e4 ja kaikki on niin rauhaisaa. Hiljaa puro solisee ja kauniit kukat kuiskailee ja el\u00e4m\u00e4 on leppoisaa, siell\u00e4 Taotao! Pieni Taotao! Pieni pandakarhu on.",
+        "timestamp": "2019-03-28T15:43:10+02:00"
     }
 ]
