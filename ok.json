@@ -260,16 +260,6 @@
         "timestamp": "2019-03-28T12:28:07+02:00"
     },
     {
-        "id": "b93e9448-80fc-4180-bc8b-e0df5453fd48",
-        "start": "2019-04-25 00:00",
-        "end": "2019-04-25 07:00",
-        "title": "Nightwish-radio",
-        "host": "",
-        "prod": "",
-        "desc": "Edesmenneiden kunniaksi kuuntelijat voivat toivoa suosikki biiseej\u00e4\u00e4n b\u00e4ndilt\u00e4 Y\u00f6.",
-        "timestamp": "2019-03-28T12:30:05+02:00"
-    },
-    {
         "id": "83b83fe2-a080-4856-b06f-593232e410e8",
         "start": "2019-04-22 12:00",
         "end": "2019-04-22 14:00",
@@ -388,16 +378,6 @@
         "prod": "Jaketus",
         "desc": "T\u00e4n\u00e4 vuonna kaikki mainokset esitet\u00e4\u00e4n putkeen, jottei musiikkia tai juontajien omille vitseille naurua tarvitse keskeytt\u00e4\u00e4.",
         "timestamp": "2019-03-28T12:31:34+02:00"
-    },
-    {
-        "id": "5576e0c4-7aac-40ec-9475-3c17517ab4f1",
-        "start": "2019-04-24 22:00",
-        "end": "2019-04-25 00:00",
-        "title": "Mainoskatko",
-        "host": "helky ja tutu",
-        "prod": "Jaketus",
-        "desc": "T\u00e4n\u00e4 vuonna kaikki mainokset esitet\u00e4\u00e4n putkeen, jottei musiikkia tai juontajien omille vitseille naurua tarvitse keskeytt\u00e4\u00e4.",
-        "timestamp": "2019-03-28T12:31:38+02:00"
     },
     {
         "id": "5d3fc0f4-7577-4f0e-ad64-b0f407b3cc5a",
@@ -608,16 +588,6 @@
         "prod": "Jaketus",
         "desc": "Kuunnellaan Huora-yhtyeen koko tuotanto pikakelauksella",
         "timestamp": "2019-03-28T12:41:20+02:00"
-    },
-    {
-        "id": "26ea4394-8330-488e-98e8-8fbae4524336",
-        "start": "2019-04-23 12:00",
-        "end": "2019-04-23 14:00",
-        "title": "P\u00e4ikk\u00e4rit, p\u00e4ikk\u00e4rit, p\u00e4ikk\u00e4rit ja p\u00e4ikk\u00e4rit",
-        "host": "",
-        "prod": "",
-        "desc": "On aika ottaa kunnon p\u00e4ikk\u00e4rit, joiden j\u00e4lkeen voi painua sohvalle p\u00e4ikk\u00e4reille, joista her\u00e4tty\u00e4\u00e4n pirist\u00e4yty\u00e4 p\u00e4ikk\u00e4reill\u00e4 ja etsi\u00e4 itselleen seuraa p\u00e4ikk\u00e4reille.",
-        "timestamp": "2019-03-28T12:43:11+02:00"
     },
     {
         "id": "ad09a952-39a0-4aac-9fe2-861d03373a63",
@@ -1020,16 +990,6 @@
         "timestamp": "2019-03-28T13:03:19+02:00"
     },
     {
-        "id": "7b746b7b-e1b2-49da-887d-a55f1ae3c46b",
-        "start": "2019-04-25 12:00",
-        "end": "2019-04-25 14:00",
-        "title": "Miksi Telegram on parempi viestint\u00e4v\u00e4line kuin s\u00e4hk\u00f6posti",
-        "host": "",
-        "prod": "",
-        "desc": "",
-        "timestamp": "2019-03-28T13:04:07+02:00"
-    },
-    {
         "id": "a075c128-605d-4691-b52a-eb059944a8bb",
         "start": "2019-04-22 20:00",
         "end": "2019-04-22 22:00",
@@ -1100,16 +1060,6 @@
         "timestamp": "2019-03-28T13:11:23+02:00"
     },
     {
-        "id": "2b3898aa-27e7-4305-bc8e-bf9c1dd03c81",
-        "start": "2019-04-15 20:00",
-        "end": "2019-04-15 22:00",
-        "title": "Herskalaiset",
-        "host": "Mimmi ja muut",
-        "prod": "Jaketus",
-        "desc": "Kulinarismin helmi\u00e4 Hervannasta",
-        "timestamp": "2019-03-28T13:11:24+02:00"
-    },
-    {
         "id": "060f96b7-03e1-4022-bcfa-8c458d946817",
         "start": "2019-04-15 22:00",
         "end": "2019-04-16 00:00",
@@ -1170,13 +1120,183 @@
         "timestamp": "2019-03-28T13:14:55+02:00"
     },
     {
+        "id": "bf71d82d-f531-4775-97ce-08a35ce8452b",
+        "start": "2019-04-30 18:00",
+        "end": "2019-04-30 22:00",
+        "title": "Jinkkuhistoriaradio",
+        "host": "Bo Jingles",
+        "prod": "",
+        "desc": "Wappuradio k\u00e4y l\u00e4pi kaikki jinkkunsa ja miettiv\u00e4t mist\u00e4 ne ovat 10-vuotisen historian aikana siinnyt. \r\n\r\nKeit\u00e4 olivat Francesco Schettino ja se kuuluisa Kari? Mit\u00e4 ne Chilen kaivosmiehet shakkia kuuntelivat? Onko Rakkauden Wappuradio todellakin \"Numbah One\"?",
+        "timestamp": "2019-03-28T13:19:20+02:00"
+    },
+    {
+        "id": "b93e9448-80fc-4180-bc8b-e0df5453fd48",
+        "start": "2019-04-25 00:00",
+        "end": "2019-04-25 07:00",
+        "title": "Nightwish-radio",
+        "host": "",
+        "prod": "",
+        "desc": "Edesmenneiden kunniaksi kuuntelijat voivat toivoa suosikkibiiseej\u00e4\u00e4n b\u00e4ndilt\u00e4 Y\u00f6.",
+        "timestamp": "2019-03-28T13:24:35+02:00"
+    },
+    {
+        "id": "404fea1f-bd1b-452b-b8e0-c2c68e981669",
+        "start": "2019-05-01 11:00",
+        "end": "2019-05-01 13:00",
+        "title": "Pakopelistudio",
+        "host": "fux",
+        "prod": "Jaketus",
+        "desc": "Ehtiv\u00e4tk\u00f6 fuksit paeta studiosta ennen kuin teekkarikaste alkaa? Studio on muuttunut labyrintiksi t\u00e4ynn\u00e4 toinen toistaan julmempia ja vaativampia teht\u00e4vi\u00e4... Osaavatko fuksit ratkaista teht\u00e4v\u00e4t, jotka sed\u00e4t ovat kehitt\u00e4neet? Auttaako skellarin kartta pakoon? ",
+        "timestamp": "2019-03-28T13:25:11+02:00"
+    },
+    {
+        "id": "1c929229-e0e9-4b8f-b575-d7c56c408f22",
+        "start": "2019-05-01 06:00",
+        "end": "2019-05-01 08:00",
+        "title": "P\u00e4\u00e4toimituksen puuhatunti",
+        "host": "helky ja tutu",
+        "prod": "Jaketus",
+        "desc": "Luuletteko ett\u00e4 saadaan t\u00e4h\u00e4n aikaan studioon ket\u00e4\u00e4n muuta? ",
+        "timestamp": "2019-03-28T13:26:32+02:00"
+    },
+    {
+        "id": "7b746b7b-e1b2-49da-887d-a55f1ae3c46b",
+        "start": "2019-04-25 12:00",
+        "end": "2019-04-25 14:00",
+        "title": "Miksi Telegram on parempi tiedotusv\u00e4line kuin s\u00e4hk\u00f6posti",
+        "host": "",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2019-03-28T13:27:27+02:00"
+    },
+    {
+        "id": "f473a8ea-82b3-4c40-a299-6b3b42113828",
+        "start": "2019-04-30 00:00",
+        "end": "2019-04-30 07:00",
+        "title": "Ei-Radio",
+        "host": "P\u00e4ivi",
+        "prod": "Sari",
+        "desc": "P\u00e4ivi kertaa kuluneen kahden viikon aikana kaikki asiat, joille p\u00e4\u00e4toimituksen olisi pit\u00e4nyt sanoa suoraan \"Ei!\".",
+        "timestamp": "2019-03-28T13:32:29+02:00"
+    },
+    {
+        "id": "a9f48d81-691f-480c-b234-e0d3adf17208",
+        "start": "2019-04-23 18:00",
+        "end": "2019-04-23 20:00",
+        "title": "T\u00e4yteohjelma",
+        "host": "John Fill & Bob Taxidermy",
+        "prod": "Gy\u00f6rgy P\u00e1lfi",
+        "desc": "T\u00e4ytet\u00e4\u00e4n el\u00e4imi\u00e4 ja konvehteja. V\u00e4lill\u00e4 t\u00e4ytet\u00e4\u00e4n el\u00e4imi\u00e4 konvehteja el\u00e4imill\u00e4 ja el\u00e4imi\u00e4 konvehdeilla. T\u00e4ytt\u00e4 asiaa!",
+        "timestamp": "2019-03-28T13:34:10+02:00"
+    },
+    {
+        "id": "ac949b7d-7301-469e-a439-96110e2c4606",
+        "start": "2019-04-17 15:00",
+        "end": "2019-04-17 17:00",
+        "title": "Fuksit \u2014 onko niist\u00e4 mihink\u00e4\u00e4n",
+        "host": "Geriatrian poliklinikka",
+        "prod": "Jaketus",
+        "desc": "",
+        "timestamp": "2019-03-28T13:35:26+02:00"
+    },
+    {
+        "id": "b05be5bc-5adb-48d1-9e4a-9314af3fb88c",
+        "start": "2019-04-29 18:00",
+        "end": "2019-04-29 20:00",
+        "title": "El\u00e4inten t\u00e4ytt\u00e4mist\u00e4 vasta-alkajille",
+        "host": "Sauli-set\u00e4",
+        "prod": "Jaketus",
+        "desc": "El\u00e4inten t\u00e4ytt\u00e4minen on hauska ja hy\u00f6dyllinen harrastus. Ohjelmassa t\u00e4ytet\u00e4\u00e4n orava suorassa l\u00e4hetyksess\u00e4, mutta kotikatsomoissa el\u00e4imen laji on vapaa. Suosittelemme kuitenkin pienehk\u00f6n nis\u00e4kk\u00e4\u00e4n tai linnun t\u00e4ytt\u00e4mist\u00e4, sill\u00e4 esim. norpan t\u00e4ytt\u00e4miseen kuluu kauemmin kuin kaksi tuntia. ",
+        "timestamp": "2019-03-28T13:36:45+02:00"
+    },
+    {
+        "id": "18f866f6-94ca-4cab-9c87-9d9acd8d6b2c",
+        "start": "2019-04-27 09:00",
+        "end": "2019-04-27 10:00",
+        "title": "Kyykk\u00e4radio",
+        "host": "task",
+        "prod": "Jaketus",
+        "desc": "Viel\u00e4 ei ole liian my\u00f6h\u00e4ist\u00e4! Unohdettiin olla paikalla kyyk\u00e4ss\u00e4, joten ohjelmassa palataan kyyk\u00e4n tunnelmiin, kyyk\u00e4t\u00e4\u00e4n etunurtsilla ja haastatellaan kyykk\u00e4\u00e4j\u00e4\u00e4! ",
+        "timestamp": "2019-03-28T13:40:43+02:00"
+    },
+    {
+        "id": "2b3898aa-27e7-4305-bc8e-bf9c1dd03c81",
+        "start": "2019-04-15 20:00",
+        "end": "2019-04-15 22:00",
+        "title": "Herskalaiset",
+        "host": "Mimmi ja sn\u00e5ttis",
+        "prod": "Jaketus",
+        "desc": "Kulinarismin helmi\u00e4 Hervannasta",
+        "timestamp": "2019-03-28T13:42:45+02:00"
+    },
+    {
+        "id": "5576e0c4-7aac-40ec-9475-3c17517ab4f1",
+        "start": "2019-04-24 22:00",
+        "end": "2019-04-25 00:00",
+        "title": "Pertin nimip\u00e4iv\u00e4",
+        "host": "Keinonen",
+        "prod": "\u00d6stermalm",
+        "desc": "Pertti on suomalainen miehen etunimi. Se perustuu useiden germaanisten miesten etunimien loppuun -bert (n\u00e4it\u00e4 nimi\u00e4 ovat ainakin Albert, Dagobert, Engelbert, Herbert, Hubert ja Robert). Tavallisimmin Pertti liitet\u00e4\u00e4n Albertiin, ja siksi Pertin nimip\u00e4iv\u00e4 on 24. huhtikuuta, sama kuin Albertilla. Pertist\u00e4 k\u00e4ytettyj\u00e4 puhuttelunimi\u00e4 ovat Pera, Pertsa, Perttu, Pete, Petu ja Pepe.",
+        "timestamp": "2019-03-28T13:43:38+02:00"
+    },
+    {
+        "id": "27f8cab3-fd5b-4fe5-9778-5aaf3c82332d",
+        "start": "2019-04-28 07:00",
+        "end": "2019-04-28 09:00",
+        "title": "Suoraan sanottuna",
+        "host": "OgM ja k\u00f6pi",
+        "prod": "Jaketus",
+        "desc": "Sairaat setit",
+        "timestamp": "2019-03-28T13:44:24+02:00"
+    },
+    {
+        "id": "a33e518e-677e-426f-a813-913e6eb66d07",
+        "start": "2019-04-27 07:00",
+        "end": "2019-04-27 09:00",
+        "title": "Tyly\u00e4 puhetta",
+        "host": "TyhmaLapsi",
+        "prod": "",
+        "desc": "Koska viikonloppuaamut eiv\u00e4t ole aivan yht\u00e4 paskoja kuin arkiaamut, voidaankin Lauantaina turpaanvedon sijaan avautua kaikesta mit\u00e4 mieleen sattuukaan juolahtamaan.",
+        "timestamp": "2019-03-28T13:45:25+02:00"
+    },
+    {
+        "id": "26ea4394-8330-488e-98e8-8fbae4524336",
+        "start": "2019-04-23 12:00",
+        "end": "2019-04-23 14:00",
+        "title": "P\u00e4ikk\u00e4rit, p\u00e4ikk\u00e4rit, p\u00e4ikk\u00e4rit ja p\u00e4ikk\u00e4rit",
+        "host": "Seppo, 52v",
+        "prod": "",
+        "desc": "On aika ottaa kunnon p\u00e4ikk\u00e4rit, joiden j\u00e4lkeen voi painua sohvalle p\u00e4ikk\u00e4reille, joista her\u00e4tty\u00e4\u00e4n pirist\u00e4yty\u00e4 p\u00e4ikk\u00e4reill\u00e4 ja etsi\u00e4 itselleen seuraa p\u00e4ikk\u00e4reille.",
+        "timestamp": "2019-03-28T13:52:27+02:00"
+    },
+    {
         "id": "7facdf94-bcde-49b7-a23b-54aa48cbffac",
         "start": "2019-04-29 20:00",
         "end": "2019-04-29 22:00",
         "title": "Postmoderni ironiaradio",
         "host": "David, Foster, Wallace",
         "prod": "Grommit",
-        "desc": "Ei me t\u00e4st\u00e4 iha tosissaan olla. Iha l\u00e4p\u00e4ll\u00e4 l\u00e4hdettiin t\u00e4t\u00e4 radioo tekee ku ei kukaan kuitenkaan kuuntele, ja jos kuuntelee niin ei nek\u00e4\u00e4 kyl tosissaan.",
-        "timestamp": "2019-03-28T13:14:56+02:00"
+        "desc": "Ei me t\u00e4st\u00e4 iha tosissaan olla. Iha l\u00e4p\u00e4ll\u00e4 l\u00e4hdettiin t\u00e4t\u00e4 radioo tekee ku ei kukaan kuitenkaan kuuntele, ja jos kuuntelee niin ei nek\u00e4\u00e4 kyl tosissaan.\r\n\r\nNormaalista poiketen t\u00e4\u00e4 l\u00e4hetet\u00e4\u00e4n Etel\u00e4puistosta.",
+        "timestamp": "2019-03-28T13:57:46+02:00"
+    },
+    {
+        "id": "7e8b5d70-b694-4feb-8cf1-53baa05edf2b",
+        "start": "2019-04-28 17:00",
+        "end": "2019-04-28 20:00",
+        "title": "Yksibittinen radio",
+        "host": "Scenesed\u00e4t",
+        "prod": "Sceneset\u00e4",
+        "desc": "Milt\u00e4 kuulostaa musiikki yhdell\u00e4 bitill\u00e4 tallennettuna? Tule ja kuuntele tietokonetekniikan alkuaikojen prosessointimahtia! Studiokopin vieress\u00e4 musiikin prosessoinnista vastaa suomen ensimm\u00e4inen tietokone ESKO! Kest\u00e4v\u00e4tk\u00f6 ferriittirenkaat vai paukkuuko ensimm\u00e4isen\u00e4 elektroniputki.",
+        "timestamp": "2019-03-28T14:07:13+02:00"
+    },
+    {
+        "id": "ded5324b-62b0-4b4e-8fce-1a6570b231cc",
+        "start": "2019-05-01 08:00",
+        "end": "2019-05-01 09:00",
+        "title": "Roskaradio",
+        "host": "helge",
+        "prod": "Jaketus",
+        "desc": "Mene suoraan roskiin kulkematta l\u00e4ht\u00f6ruudun kautta. T\u00e4ss\u00e4 vaiheessa Wappua kannattaa tunnustaa tosiasiat ja etsi\u00e4 itselleen v\u00e4litt\u00f6m\u00e4sti oikea sijoituspaikka. Muistathan lajitella itsesi oikein. ",
+        "timestamp": "2019-03-28T14:07:43+02:00"
     }
 ]
