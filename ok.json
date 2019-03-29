@@ -1090,16 +1090,6 @@
         "timestamp": "2019-03-28T14:28:11+02:00"
     },
     {
-        "id": "4600f9cb-8563-4e6b-ad97-7c4d81a10444",
-        "start": "2019-04-28 10:00",
-        "end": "2019-04-28 12:00",
-        "title": "Chiliradio",
-        "host": "Exca",
-        "prod": "",
-        "desc": "Chili\u00e4 suuhun miedommasta tuliseen ja samalla toimittamista. Maitotuotteita ei sallita. Kest\u00e4\u00e4k\u00f6 p\u00e4\u00e4 aina Reaperiin asti. Maailman tulisin tiiviste Plutonium 9 kruunaa tilanteen!",
-        "timestamp": "2019-03-28T14:42:05+02:00"
-    },
-    {
         "id": "7b746b7b-e1b2-49da-887d-a55f1ae3c46b",
         "start": "2019-04-25 12:00",
         "end": "2019-04-25 14:00",
@@ -1498,5 +1488,15 @@
         "prod": "Jaketus",
         "desc": "Koko y\u00f6n kest\u00e4v\u00e4 joulu",
         "timestamp": "2019-03-28T20:32:47+02:00"
+    },
+    {
+        "id": "4600f9cb-8563-4e6b-ad97-7c4d81a10444",
+        "start": "2019-04-28 10:00",
+        "end": "2019-04-28 12:00",
+        "title": "Chiliradio",
+        "host": "Exca",
+        "prod": "",
+        "desc": "Chili\u00e4 suuhun miedommasta tuliseen ja samalla toimittamista. Maitotuotteita ei sallita. Kest\u00e4\u00e4k\u00f6 p\u00e4\u00e4 aina Reaperiin asti. Maailman tulisin tiiviste Plutonium 9 kruunaa tilanteen!",
+        "timestamp": "2019-03-29T09:21:30+02:00"
     }
 ]
