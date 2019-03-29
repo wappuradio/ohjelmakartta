@@ -1320,16 +1320,6 @@
         "timestamp": "2019-03-28T18:05:05+02:00"
     },
     {
-        "id": "91484469-1e1b-44c0-a2ce-3b9bc0ba4b17",
-        "start": "2019-04-16 17:00",
-        "end": "2019-04-16 19:00",
-        "title": "Irti Muumeista",
-        "host": "Nuuskamuikkunen",
-        "prod": "Hemuli",
-        "desc": "Tove Janssonin pulleat pirulaiset ovat jo kauan tuhonneet yhteiskuntaj\u00e4rjestyst\u00e4mme erilaisten kirjojen, animaatiosarjojen ja mukien keinoin. Asiantuntijamme neuvovat kuinka n\u00e4ist\u00e4 rei\u00e4tt\u00f6mist\u00e4 virtahepo-ihmishybrideist\u00e4 p\u00e4\u00e4st\u00e4\u00e4n lopullisesti eroon ilman somekohua.",
-        "timestamp": "2019-03-28T18:07:37+02:00"
-    },
-    {
         "id": "ad09a952-39a0-4aac-9fe2-861d03373a63",
         "start": "2019-04-20 18:00",
         "end": "2019-04-20 20:00",
@@ -1398,16 +1388,6 @@
         "prod": "Pussi",
         "desc": "Pieni suuri Kerava kukkii Rakkauden Wappuradion aalloilla! Kuuntele nurmikonleikkaamisen SM-kisojen 2006 finaalin uusinta, trendikk\u00e4imm\u00e4t junassa pummaamisen metodit sek\u00e4 kev\u00e4\u00e4n menovinkit saatananpalvojille.",
         "timestamp": "2019-03-28T18:43:35+02:00"
-    },
-    {
-        "id": "d5b38100-510f-4e77-b2c5-42513fdeb206",
-        "start": "2019-04-15 16:00",
-        "end": "2019-04-15 18:00",
-        "title": "Kuninkaallinen ruhtinasradio",
-        "host": "Totuuden torvina ei niin paska helge",
-        "prod": "Melkein kohtuullinen tuottaja veli-v",
-        "desc": "Kuuntelijat ovat paskaa. Radion tekij\u00e4t ovat paskaa. T\u00e4m\u00e4 ohjelma ei ole. T\u00e4m\u00e4 ohjelma kertoo kuinka paskoja te olette, ja mit\u00e4 voisitte tehd\u00e4 ollaksenne v\u00e4hemm\u00e4n paskoja. Ei sill\u00e4 ett\u00e4 teist\u00e4 hy\u00f6ty\u00e4 olisi. Kun soitetaan musiikkia, niin vain paras on kyllin hyv\u00e4\u00e4. Ja te ette tied\u00e4 mit\u00e4 se on ilman meit\u00e4. ",
-        "timestamp": "2019-03-28T18:48:00+02:00"
     },
     {
         "id": "92a25ef0-f008-4e5d-a53e-c342f6f0edfd",
@@ -1498,5 +1478,25 @@
         "prod": "",
         "desc": "Chili\u00e4 suuhun miedommasta tuliseen ja samalla toimittamista. Maitotuotteita ei sallita. Kest\u00e4\u00e4k\u00f6 p\u00e4\u00e4 aina Reaperiin asti. Maailman tulisin tiiviste Plutonium 9 kruunaa tilanteen!",
         "timestamp": "2019-03-29T09:21:30+02:00"
+    },
+    {
+        "id": "a57096d9-8490-4f5d-b8d5-bfb2783e4ebb",
+        "start": "2019-04-16 17:00",
+        "end": "2019-04-16 19:00",
+        "title": "Kuninkaallinen ruhtinasradio",
+        "host": "Totuuden torvina ei niin paska helge",
+        "prod": "Melkein kohtuullinen tuottaja veli-v",
+        "desc": "Kuuntelijat ovat paskaa. Radion tekij\u00e4t ovat paskaa. T\u00e4m\u00e4 ohjelma ei ole. T\u00e4m\u00e4 ohjelma kertoo kuinka paskoja te olette, ja mit\u00e4 voisitte tehd\u00e4 ollaksenne v\u00e4hemm\u00e4n paskoja. Ei sill\u00e4 ett\u00e4 teist\u00e4 hy\u00f6ty\u00e4 olisi. Kun soitetaan musiikkia, niin vain paras on kyllin hyv\u00e4\u00e4. Ja te ette tied\u00e4 mit\u00e4 se on ilman meit\u00e4. ",
+        "timestamp": "2019-03-29T22:14:20+02:00"
+    },
+    {
+        "id": "91484469-1e1b-44c0-a2ce-3b9bc0ba4b17",
+        "start": "2019-04-15 16:00",
+        "end": "2019-04-15 18:00",
+        "title": "Irti Muumeista",
+        "host": "Nuuskamuikkunen",
+        "prod": "Hemuli",
+        "desc": "Tove Janssonin pulleat pirulaiset ovat jo kauan tuhonneet yhteiskuntaj\u00e4rjestyst\u00e4mme erilaisten kirjojen, animaatiosarjojen ja mukien keinoin. Asiantuntijamme neuvovat kuinka n\u00e4ist\u00e4 rei\u00e4tt\u00f6mist\u00e4 virtahepo-ihmishybrideist\u00e4 p\u00e4\u00e4st\u00e4\u00e4n lopullisesti eroon ilman somekohua.",
+        "timestamp": "2019-03-29T22:14:33+02:00"
     }
 ]
