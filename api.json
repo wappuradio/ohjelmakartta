@@ -13,32 +13,6 @@
         "name": "alkushow"
     },
     {
-        "id": "69fec321-8e1d-4c8c-a89f-6ce6946f1be1",
-        "start": "2019-04-18T18:00:00+03:00",
-        "end": "2019-04-18T20:00:00+03:00",
-        "title": "Jussi Kangas goes Radio",
-        "host": "Jussi Kangas",
-        "prod": "jsuvanto",
-        "desc": "",
-        "timestamp": "2019-04-01T10:05:44+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg",
-        "name": "jussikangasgoesradio"
-    },
-    {
-        "id": "eaeda276-e033-4cd7-984f-0af26c62afda",
-        "start": "2019-04-24T18:00:00+03:00",
-        "end": "2019-04-24T20:00:00+03:00",
-        "title": "Jussi Kangas goes Radio",
-        "host": "Jussi Kangas",
-        "prod": "jsuvanto",
-        "desc": "",
-        "timestamp": "2019-04-01T10:06:14+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg",
-        "name": "jussikangasgoesradio"
-    },
-    {
         "id": "2ea53bf8-7f99-4539-b69d-932bd262fe96",
         "start": "2019-04-28T00:00:00+03:00",
         "end": "2019-04-28T07:00:00+03:00",
@@ -63,5 +37,31 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/huonojenelokuvienradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/huonojenelokuvienradio.jpg",
         "name": "huonojenelokuvienradio"
+    },
+    {
+        "id": "69fec321-8e1d-4c8c-a89f-6ce6946f1be1",
+        "start": "2019-04-18T18:00:00+03:00",
+        "end": "2019-04-18T20:00:00+03:00",
+        "title": "Jussi Kangas Goes Radio",
+        "host": "Jussi Kangas",
+        "prod": "jsuvanto",
+        "desc": "Jussi Kangas Goes Radio jatkaa viidett\u00e4 vuotta Wappuradion kuulijoiden ilahduttamista. Keski-ik\u00e4inen yliopisto-opettaja muistelee kadonnutta nuoruuttaan ja pohtii el\u00e4m\u00e4n tarkoitusta... tai jotain. Luvassa musiikkia menneilt\u00e4 vuosikymmenilt\u00e4 sek\u00e4 ehk\u00e4 joku hauska hetki. Tuote on kevyesti hapokas, tanniininen ja pirskahteleva. Sopii hyvin etkoilun yhteyteen.",
+        "timestamp": "2019-04-01T20:44:26+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg",
+        "name": "jussikangasgoesradio"
+    },
+    {
+        "id": "eaeda276-e033-4cd7-984f-0af26c62afda",
+        "start": "2019-04-24T18:00:00+03:00",
+        "end": "2019-04-24T20:00:00+03:00",
+        "title": "Jussi Kangas Goes Radio",
+        "host": "Jussi Kangas",
+        "prod": "jsuvanto",
+        "desc": "Jussi Kangas Goes Radio jatkaa viidett\u00e4 vuotta Wappuradion kuulijoiden ilahduttamista. Keski-ik\u00e4inen yliopisto-opettaja muistelee kadonnutta nuoruuttaan ja pohtii el\u00e4m\u00e4n tarkoitusta... tai jotain. Luvassa musiikkia menneilt\u00e4 vuosikymmenilt\u00e4 sek\u00e4 ehk\u00e4 joku hauska hetki. Tuote on kevyesti hapokas, tanniininen ja pirskahteleva. Sopii hyvin etkoilun yhteyteen.",
+        "timestamp": "2019-04-01T20:44:41+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jussikangasgoesradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jussikangasgoesradio.jpg",
+        "name": "jussikangasgoesradio"
     }
 ]
