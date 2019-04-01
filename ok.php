@@ -24,9 +24,10 @@ $api = $data;
 for($i=0;$i<sizeof($api);$i++) {
   $api[$i]['start'] = (new DateTime($api[$i]['start']))->format(DateTime::ATOM);
   $api[$i]['end'] = (new DateTime($api[$i]['end']))->format(DateTime::ATOM);
-  $filename = preg_replace('/[^a-z0-9-]/', '', mb_strtolower(iconv('UTF-8', 'ASCII//TRANSLIT', $api[$i]['title']))).'.jpg';
-  $api[$i]['photo'] = 'https://wappuradio.fi/img/host/'.$filename;
-  $api[$i]['thumb'] = 'https://wappuradio.fi/img/host/thumb/'.$filename;
+  $filename = preg_replace('/[^a-z0-9-]/', '', mb_strtolower(iconv('UTF-8', 'ASCII//TRANSLIT', $api[$i]['title'])));
+  $api[$i]['photo'] = 'https://wappuradio.fi/img/host/'.$filename.'.jpg';
+  $api[$i]['thumb'] = 'https://wappuradio.fi/img/host/thumb/'.$filename.'.jpg';
+  $api[$i]['name'] = $filename;
 }
 $api = json_encode($api, JSON_PRETTY_PRINT);
 $fp = fopen('api.json', 'w+');
