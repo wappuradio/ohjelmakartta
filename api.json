@@ -1,18 +1,5 @@
 [
     {
-        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
-        "start": "2019-04-15T14:00:00+03:00",
-        "end": "2019-04-15T15:00:00+03:00",
-        "title": "\u00c4lkush\u00f6w",
-        "host": "pt",
-        "prod": "pt",
-        "desc": "pl\u00e4\u00e4",
-        "timestamp": "2019-04-01T09:53:36+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
-        "name": "alkushow"
-    },
-    {
         "id": "2ea53bf8-7f99-4539-b69d-932bd262fe96",
         "start": "2019-04-28T00:00:00+03:00",
         "end": "2019-04-28T07:00:00+03:00",
@@ -219,5 +206,57 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/mammiampari.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/mammiampari.jpg",
         "name": "mammiampari"
+    },
+    {
+        "id": "324d6e71-48ed-495d-a11d-413c1bf7cc5a",
+        "start": "2019-04-25T00:00:00+03:00",
+        "end": "2019-04-25T07:00:00+03:00",
+        "title": "Historian y\u00f6",
+        "host": "Juho Aarikka, Henrik J\u00e4rvinen, Santtu Yli-tokko",
+        "prod": "Jaketus",
+        "desc": "Ihminen on lajina noin 200 000 vuotta vanha, kirjoitettua historiaa on noin 5000:n vuoden ajalta, Suomi voitti l\u00e4tk\u00e4n MM-kultaa vuonna 1995, mutta vasta n\u00e4in herran vuonna 2019 maailmanhistoria k\u00e4yd\u00e4\u00e4n l\u00e4pi seitsem\u00e4ss\u00e4 tunnissa! \r\nHistorian y\u00f6radio leikkaakin kaiken h\u00f6t\u00f6n pois ja j\u00e4tt\u00e4\u00e4 j\u00e4ljelle vain t\u00e4rkeimm\u00e4t menneisyyden yksityiskohdat, kuten k\u00e4nniss\u00e4 kuolleet tiedemiesten bilehirvet, ajastetut palopommilepakot ja radioaktiiviset hammastahnat. Historia alkoi vaatimattomista oloista mutta on lopulta p\u00e4\u00e4tynyt (ja luultavasti my\u00f6s p\u00e4\u00e4ttyy) atomipommeihin. L\u00e4hestymistapa on kronologis-temaattinen ja metodeina on derivointi ja kroolaus.",
+        "timestamp": "2019-04-02T20:25:20+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/historianyo.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/historianyo.jpg",
+        "name": "historianyo"
+    },
+    {
+        "id": "8a2df151-ed61-4927-9ca1-553b06b4b5bd",
+        "start": "2019-04-24T14:00:00+03:00",
+        "end": "2019-04-24T16:00:00+03:00",
+        "title": "Humanistien n\u00f6rttiradio",
+        "host": "Sonja Mikkonen, Santtu Yli-tokko, Juho Aarikka",
+        "prod": "Tommi Mehtonen",
+        "desc": "N\u00f6rtteily on siit\u00e4 j\u00e4nn\u00e4\u00e4 ett\u00e4 siin\u00e4 voi uppoutua syntiseen kirjallisuuteen, l\u00f6yt\u00e4\u00e4 saatananpalvonnan vieh\u00e4tysvoima D&D:n parissa tai jopa h\u00f6yr\u00e4ht\u00e4\u00e4 v\u00e4kivaltaiseksi katalien v\u00e4kivaltapelien turmelemana. Varo vaaraa -aspekti se vaan kiihtyy kun n\u00e4it\u00e4 hirvityksi\u00e4 ryyditet\u00e4\u00e4n humanistisella otteella ja sidotaan yhteiskunnalliseen kontekstiin, kudotaan yhteis\u00f6lliseen verkkoon tai muita sanam\u00e4\u00e4r\u00e4\u00e4 kasvattavia sivulauseita k\u00e4ytt\u00e4en.",
+        "timestamp": "2019-04-02T20:28:55+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradio.jpg",
+        "name": "humanistiennorttiradio"
+    },
+    {
+        "id": "b6d91fd5-5a75-4009-a625-71fef3b62f97",
+        "start": "2019-04-26T14:00:00+03:00",
+        "end": "2019-04-26T16:00:00+03:00",
+        "title": "Humanistien n\u00f6rttiradio",
+        "host": "Sonja Mikkonen, Santtu Yli-tokko, Juho Aarikka",
+        "prod": "Tommi Mehtonen",
+        "desc": "N\u00f6rtteily on siit\u00e4 j\u00e4nn\u00e4\u00e4 ett\u00e4 siin\u00e4 voi uppoutua syntiseen kirjallisuuteen, l\u00f6yt\u00e4\u00e4 saatananpalvonnan vieh\u00e4tysvoima D&D:n parissa tai jopa h\u00f6yr\u00e4ht\u00e4\u00e4 v\u00e4kivaltaiseksi katalien v\u00e4kivaltapelien turmelemana. Varo vaaraa -aspekti se vaan kiihtyy kun n\u00e4it\u00e4 hirvityksi\u00e4 ryyditet\u00e4\u00e4n humanistisella otteella ja sidotaan yhteiskunnalliseen kontekstiin, kudotaan yhteis\u00f6lliseen verkkoon tai muita sanam\u00e4\u00e4r\u00e4\u00e4 kasvattavia sivulauseita k\u00e4ytt\u00e4en.",
+        "timestamp": "2019-04-02T20:29:10+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/humanistiennorttiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/humanistiennorttiradio.jpg",
+        "name": "humanistiennorttiradio"
+    },
+    {
+        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
+        "start": "2019-04-15T14:00:00+03:00",
+        "end": "2019-04-15T15:00:00+03:00",
+        "title": "\u00c4lkush\u00f6w",
+        "host": "pt",
+        "prod": "pt",
+        "desc": "<a href=\"https:\/\/wappuradio.fi\">t\u00e4st\u00e4 p\u00e4\u00e4set etusivulle<\/a>",
+        "timestamp": "2019-04-02T20:35:27+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
+        "name": "alkushow"
     }
 ]
