@@ -80,16 +80,6 @@
         "timestamp": "2019-04-02T15:34:32+03:00"
     },
     {
-        "id": "084706c9-c82b-4d5d-aeb2-7e8287eefe01",
-        "start": "2019-04-20 17:00",
-        "end": "2019-04-20 19:00",
-        "title": "Would you survive THIS",
-        "host": "Lemon, Tarmo, Freon",
-        "prod": "",
-        "desc": "Survivalisti radio rauhaan ja kriisiin",
-        "timestamp": "2019-04-02T15:47:51+03:00"
-    },
-    {
         "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
         "start": "2019-04-18 14:00",
         "end": "2019-04-18 16:00",
@@ -108,5 +98,45 @@
         "prod": "",
         "desc": "",
         "timestamp": "2019-04-02T15:50:44+03:00"
+    },
+    {
+        "id": "8193b555-f062-48f7-9ef8-157123c84c88",
+        "start": "2019-04-24 00:00",
+        "end": "2019-04-24 07:00",
+        "title": "Romanttinen pemahetki",
+        "host": "Tyrde, Mannila ja Siku",
+        "prod": "obd",
+        "desc": "y\u00f6radio: sikun mannilan ja tyrden ohjelma waburadiossa nimelt\u00e4\u00e4n romanttinen pemahetki, ohjelmakuvassa toimittajat pukeutuvat gnomeiksi, itse ohjelmassa toimittajat pukeutuvat pedroiksi, ohjelmana pematunti, tyrde bottleflippaa, mua sattuu soi joka tunti, radiokoppi v\u00e4rj\u00e4t\u00e4\u00e4n kurkkumopoksi, jonin monologi vartin verran miten kalja auttaa, mannila m\u00e4\u00e4rittelee vartin ajan k\u00e4sitett\u00e4 bromance, lausuu meris\u00e4\u00e4n klo 3 ja 6, vartin rubiikinkuutiohetki, valoanalyysi tunnin v\u00e4lein, tiukka analyysi craps strategioist, v\u00e4rityskuvakilpailu, stickersp\u00e4mmiskaba ja stickereiden arvostelutuokio, vartin tupuhupulupukeskustelu\/luenta sikun dippaa, keskustelu aiheesta mik\u00e4 asia sopii parhaiten\/huonointen kylpyammeeseen ja etenkin mit\u00e4 se asia tekee siell\u00e4, sikun r\u00e4ppitunti, jallux pit\u00e4\u00e4 esitelm\u00e4n aiheesta \u201dnopat ja sohva\u201d, ohjelmia venytet\u00e4\u00e4 tarvittaessa, siku ja mannila muiden \u00e4\u00e4niviestileikin jamppojen kaa vet\u00e4\u00e4 huutistaliven",
+        "timestamp": "2019-04-02T16:42:12+03:00"
+    },
+    {
+        "id": "f45448c5-b444-41b9-8a8d-61b17d180629",
+        "start": "2019-04-24 16:00",
+        "end": "2019-04-24 18:00",
+        "title": "Daddy-o Raddy-o",
+        "host": "Matti Moottori & Skebu",
+        "prod": "Zeppe",
+        "desc": "Isukkirokkia, isukkihuumoria, isukkivartaloisten miesten toimittamana. Eik\u00f6 nykynuorison rytmimusiikki iske? Ovatko modernit trendivirtaukset ajaneet jo ohitsesi? Syv\u00e4llist\u00e4 mietint\u00f6\u00e4 taakse j\u00e4\u00e4v\u00e4st\u00e4 nuoruudesta, tai ainakin kuivaa l\u00e4pp\u00e4\u00e4 ja jyt\u00e4\u00e4 musaa. Tarinat hurjasta nuoruudesta tervetulleita!",
+        "timestamp": "2019-04-02T16:42:56+03:00"
+    },
+    {
+        "id": "084706c9-c82b-4d5d-aeb2-7e8287eefe01",
+        "start": "2019-04-20 17:00",
+        "end": "2019-04-20 19:00",
+        "title": "Would you survive THIS",
+        "host": "Lemon, Tarmo, Freon",
+        "prod": "",
+        "desc": "Survivalistiradio rauhaan ja kriisiin",
+        "timestamp": "2019-04-02T16:46:30+03:00"
+    },
+    {
+        "id": "9bc99e1b-41cb-4280-acc9-dc1e4b85ef4b",
+        "start": "2019-04-19 17:00",
+        "end": "2019-04-19 19:00",
+        "title": "Mielikuvaradio",
+        "host": "Veli-V ja cirrus~",
+        "prod": "",
+        "desc": "On kev\u00e4t, istut Wappuradion kopin vieress\u00e4 olevalla sohvalla ja kuuntelet taajuutta 106,4MHz. Ohitsesi k\u00e4velee rauhallisesti m\u00e4rehtiv\u00e4\u00e4 wappukansaa, joka huojuu liikkuessaan kuin pustalla kasvava hein\u00e4, jonka hevoslauma on juuri ohittanut. Juontajien pehme\u00e4 \u00e4\u00e4ni rauhoittaa sielun ja virkist\u00e4\u00e4 wapun alkurutistuksessa ruhjellun ruumiin: kuuntelet Mielikuvaradiota.",
+        "timestamp": "2019-04-02T17:14:19+03:00"
     }
 ]
