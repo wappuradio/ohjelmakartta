@@ -310,5 +310,31 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
         "name": "alkushow"
+    },
+    {
+        "id": "3f321aaf-aece-4a10-933c-25e533773630",
+        "start": "2019-04-19T22:00:00+03:00",
+        "end": "2019-04-20T00:00:00+03:00",
+        "title": "Rumpua ja bassoa",
+        "host": "Tommi Jokinen, Antti Norvia",
+        "prod": "Samppa Penttinen",
+        "desc": "Kahden tiskijukan liittouma tutkii rumpubasson syvint\u00e4 olemusta kelpuuttaen mukaan vain parhaat vinyylit vuosien varrelta. Kellu l\u00e4pi herk\u00e4n ja pehme\u00e4n liquidin, groovaa tiesi l\u00e4pi viidakon sykkiv\u00e4n syd\u00e4men ja l\u00f6yd\u00e4 itsesi lopulta rakkauden satamasta. ",
+        "timestamp": "2019-04-03T02:07:51+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/rumpuajabassoa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/rumpuajabassoa.jpg",
+        "name": "rumpuajabassoa"
+    },
+    {
+        "id": "07723e8a-49fd-4bbe-a822-2ce1eb651af6",
+        "start": "2019-04-20T15:00:00+03:00",
+        "end": "2019-04-20T17:00:00+03:00",
+        "title": "Synthwave radio",
+        "host": "Tommi Jokinen",
+        "prod": "Tuomas Tinus",
+        "desc": "Neonvalot, pastelliv\u00e4rit, nopeat ja muodokkaat urheiluautot sek\u00e4 kuumat Miamin aurinkorannat auringonlaskun aikaan. \r\nTervetuloa kasarista vahvasti vaikutteita ottavan Synthwave radion pariin, jossa seilataan l\u00e4pi lempeiden analogisynaluritteluiden ja tanssijalat liikkelle laittavien diskobiittien ja vokaalien tahdissa kohti napakampia, klubimaisempia saundeja. Levylautasella vain vinyylirieskoja ja aitoa rakkautta!",
+        "timestamp": "2019-04-03T02:13:13+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/synthwaveradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synthwaveradio.jpg",
+        "name": "synthwaveradio"
     }
 ]
