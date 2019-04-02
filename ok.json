@@ -48,5 +48,65 @@
         "prod": "jsuvanto",
         "desc": "Jussi Kangas Goes Radio jatkaa viidett\u00e4 vuotta Wappuradion kuulijoiden ilahduttamista. Keski-ik\u00e4inen yliopisto-opettaja muistelee kadonnutta nuoruuttaan ja pohtii el\u00e4m\u00e4n tarkoitusta... tai jotain. Luvassa musiikkia menneilt\u00e4 vuosikymmenilt\u00e4 sek\u00e4 ehk\u00e4 joku hauska hetki. Tuote on kevyesti hapokas, tanniininen ja pirskahteleva. Sopii hyvin etkoilun yhteyteen.",
         "timestamp": "2019-04-01T20:44:41+03:00"
+    },
+    {
+        "id": "070424a8-0091-4609-b295-2878b153c29a",
+        "start": "2019-04-17 21:00",
+        "end": "2019-04-18 00:00",
+        "title": "Sceneradio",
+        "host": "Spiikki, Poro, Exca",
+        "prod": "Vuokko",
+        "desc": "Sidinsekaiset soinnut valloittavat j\u00e4lleen kerran radiotaajuudet. Luvassa demoscene-musiikkia laidasta laitaan aina alkuajoista nykyp\u00e4iv\u00e4\u00e4n asti.",
+        "timestamp": "2019-04-02T15:26:41+03:00"
+    },
+    {
+        "id": "2d5f39bd-1251-4316-b704-a6e4b92a85d6",
+        "start": "2019-04-29 00:00",
+        "end": "2019-04-29 07:00",
+        "title": "Maaseuturatio",
+        "host": "Mehtone, Nikula, Ylikarro",
+        "prod": "Nousiaine",
+        "desc": "Koko p\u00e4iv\u00e4n ku oot kynt\u00e4nynn\u00e4 niin se on hyv\u00e4 ottaa lunkisti ja napsauttaa ratio pi\u00e4lle. Laita raktori parkkiin ja humppahousut jalakaan. Koppoo viel\u00e4 reuhka kuapin pi\u00e4lt\u00e4 ja naatiskele maaseuturatiost. Rennon rempse\u00e4\u00e4 seuroo ja ajattomii klassikoit kaikel rahvaalle.",
+        "timestamp": "2019-04-02T15:31:06+03:00"
+    },
+    {
+        "id": "600eda1d-5916-423a-b600-707b5b9acc26",
+        "start": "2019-04-20 13:00",
+        "end": "2019-04-20 15:00",
+        "title": "L\u00f6rdagsbrunch med Jonas",
+        "host": "Jonas",
+        "prod": "Kylanmies",
+        "desc": "De hetaste, kallaste, mest \u00e4lskade och hatade l\u00e5tar i Sverige tillsammans med dagens aktuella nyheter och \u00e4mnen. H\u00e4r surar man inte. J\u00e4ttepositiva svenska vibbor f\u00f6r alla!",
+        "timestamp": "2019-04-02T15:34:32+03:00"
+    },
+    {
+        "id": "084706c9-c82b-4d5d-aeb2-7e8287eefe01",
+        "start": "2019-04-20 17:00",
+        "end": "2019-04-20 19:00",
+        "title": "Would you survive THIS",
+        "host": "Lemon, Tarmo, Freon",
+        "prod": "",
+        "desc": "Survivalisti radio rauhaan ja kriisiin",
+        "timestamp": "2019-04-02T15:47:51+03:00"
+    },
+    {
+        "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
+        "start": "2019-04-18 14:00",
+        "end": "2019-04-18 16:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni",
+        "prod": "",
+        "desc": "K\u00e4sitell\u00e4\u00e4n aiheita numeron kymmenen ymp\u00e4rilt\u00e4, kisoja ja vieraita sen mukaan. \r\n",
+        "timestamp": "2019-04-02T15:47:53+03:00"
+    },
+    {
+        "id": "051001c1-402c-4815-8b6d-045c1dcd7f87",
+        "start": "2019-04-29 14:00",
+        "end": "2019-04-29 16:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni ",
+        "prod": "",
+        "desc": "",
+        "timestamp": "2019-04-02T15:50:44+03:00"
     }
 ]
