@@ -280,16 +280,6 @@
         "timestamp": "2019-04-03T14:48:17+03:00"
     },
     {
-        "id": "1cf50d39-4ba3-4412-ac5b-e03622cf98d2",
-        "start": "2019-04-20 09:00",
-        "end": "2019-04-20 11:00",
-        "title": "Ludofilia",
-        "host": "Bjanze, Takila",
-        "prod": "F1shbone",
-        "desc": "(lat. \"ludus\": pelata + kreik. \"filia\": rakkaus, into) Afrikan t\u00e4hdest\u00e4 ja Muuttuvasta labyrintista on v\u00e4hitellen siirrytty Menolipun kautta ns. kovempiin aineisiin. Kaksi lautapelaamisen veteraania k\u00e4y l\u00e4vitse t\u00e4m\u00e4n nyky\u00e4\u00e4n jo valtavirtaan sovittautuneen harrastuksen piirteit\u00e4 ja ilmi\u00f6it\u00e4 pelien esittelyn yhteydess\u00e4. Jos perusalias on k\u00e4ynyt tyls\u00e4ksi ja kaipaat uusia haasteita on t\u00e4m\u00e4 ohjelma juuri sinulle!",
-        "timestamp": "2019-04-03T15:26:58+03:00"
-    },
-    {
         "id": "070424a8-0091-4609-b295-2878b153c29a",
         "start": "2019-04-17 21:00",
         "end": "2019-04-18 00:00",
@@ -350,13 +340,23 @@
         "timestamp": "2019-04-03T18:37:08+03:00"
     },
     {
+        "id": "1cf50d39-4ba3-4412-ac5b-e03622cf98d2",
+        "start": "2019-04-20 09:00",
+        "end": "2019-04-20 11:00",
+        "title": "Ludofilia",
+        "host": "Bjanze, Takila",
+        "prod": "F1shbone",
+        "desc": "(lat. \"ludus\": pelata + kreik. \"filia\": rakkaus, into) Afrikan t\u00e4hdest\u00e4 ja Muuttuvasta labyrintista on v\u00e4hitellen siirrytty Menolipun kautta ns. kovempiin aineisiin. Kaksi lautapelaamisen veteraania k\u00e4y l\u00e4vitse t\u00e4m\u00e4n nyky\u00e4\u00e4n jo valtavirtaan sovittautuneen harrastuksen piirteit\u00e4 ja ilmi\u00f6it\u00e4 pelien esittelyn yhteydess\u00e4. Jos perus-Alias on k\u00e4ynyt tyls\u00e4ksi ja kaipaat uusia haasteita on t\u00e4m\u00e4 ohjelma juuri sinulle! Tai jos luulit jo tiet\u00e4v\u00e4si aiheesta jotain, me t\u00e4ydenn\u00e4mme tiet\u00e4myst\u00e4si h\u00e4mment\u00e4vill\u00e4 nippelitiedoilla. Kaikki asiaan kuuluvan musiikin kera tietenkin.",
+        "timestamp": "2019-04-03T19:26:49+03:00"
+    },
+    {
         "id": "8da89701-cb5b-4399-bb15-241c3a212545",
         "start": "2019-04-27 14:00",
         "end": "2019-04-27 16:00",
         "title": "Euroviisuspesiaali!",
         "host": "Bjanze, Lorens, Tutu",
         "prod": "Jaketus",
-        "desc": "El\u00e4m\u00e4ss\u00e4 parasta on Euroviisut, piste.",
-        "timestamp": "2019-04-03T18:37:51+03:00"
+        "desc": "Euroviisut. Ah, tuo maailman mahtavin laulukilpailu, jonka voittoa tavoittelee vuosittain yli 40 osallistujamaata. Mutta miten viisuissa oikein menestyt\u00e4\u00e4n? Ent\u00e4 onko voittava biisi my\u00f6s paras? MIt\u00e4 tapahtui 2008? Ent\u00e4 kuka edes voitti 2011?\r\n\r\nTule kuuntelemaan tiukkaa analyysi\u00e4mme diskopalloiksi pukeutuneista sedist\u00e4 ja megalomaanisista balladeista. Asiantuntijoidemme absoluuttinen viisukorva takaa unohtumattoman radioel\u00e4myksen vuodesta toiseen.",
+        "timestamp": "2019-04-03T19:44:43+03:00"
     }
 ]
