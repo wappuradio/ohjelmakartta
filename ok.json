@@ -230,16 +230,6 @@
         "timestamp": "2019-04-02T21:33:59+03:00"
     },
     {
-        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
-        "start": "2019-04-15 14:00",
-        "end": "2019-04-15 15:00",
-        "title": "\u00c4lkush\u00f6w",
-        "host": "pt",
-        "prod": "pt",
-        "desc": "<a href=\"\/\">t\u00e4st\u00e4 p\u00e4\u00e4set etusivulle<\/a>",
-        "timestamp": "2019-04-02T22:06:14+03:00"
-    },
-    {
         "id": "3f321aaf-aece-4a10-933c-25e533773630",
         "start": "2019-04-19 22:00",
         "end": "2019-04-20 00:00",
@@ -258,5 +248,15 @@
         "prod": "Tuomas Tinus",
         "desc": "Neonvalot, pastelliv\u00e4rit, nopeat ja muodokkaat urheiluautot sek\u00e4 kuumat Miamin aurinkorannat auringonlaskun aikaan. \r\nTervetuloa kasarista vahvasti vaikutteita ottavan Synthwave radion pariin, jossa seilataan l\u00e4pi lempeiden analogisynaluritteluiden ja tanssijalat liikkelle laittavien diskobiittien ja vokaalien tahdissa kohti napakampia, klubimaisempia saundeja. Levylautasella vain vinyylirieskoja ja aitoa rakkautta!",
         "timestamp": "2019-04-03T02:13:13+03:00"
+    },
+    {
+        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
+        "start": "2019-04-15 14:00",
+        "end": "2019-04-15 15:00",
+        "title": "\u00c4lkush\u00f6w",
+        "host": "pt",
+        "prod": "pt",
+        "desc": "<\/div><\/div><\/div><\/html>",
+        "timestamp": "2019-04-03T10:54:36+03:00"
     }
 ]

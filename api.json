@@ -299,19 +299,6 @@
         "name": "musiikinrajamaillavol2"
     },
     {
-        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
-        "start": "2019-04-15T14:00:00+03:00",
-        "end": "2019-04-15T15:00:00+03:00",
-        "title": "\u00c4lkush\u00f6w",
-        "host": "pt",
-        "prod": "pt",
-        "desc": "<a href=\"\/\">t\u00e4st\u00e4 p\u00e4\u00e4set etusivulle<\/a>",
-        "timestamp": "2019-04-02T22:06:14+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
-        "name": "alkushow"
-    },
-    {
         "id": "3f321aaf-aece-4a10-933c-25e533773630",
         "start": "2019-04-19T22:00:00+03:00",
         "end": "2019-04-20T00:00:00+03:00",
@@ -336,5 +323,18 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/synthwaveradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/synthwaveradio.jpg",
         "name": "synthwaveradio"
+    },
+    {
+        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
+        "start": "2019-04-15T14:00:00+03:00",
+        "end": "2019-04-15T15:00:00+03:00",
+        "title": "\u00c4lkush\u00f6w",
+        "host": "pt",
+        "prod": "pt",
+        "desc": "<\/div><\/div><\/div><\/html>",
+        "timestamp": "2019-04-03T10:54:36+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
+        "name": "alkushow"
     }
 ]
