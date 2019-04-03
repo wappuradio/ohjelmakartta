@@ -401,5 +401,31 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/deittikoutsit.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/deittikoutsit.jpg",
         "name": "deittikoutsit"
+    },
+    {
+        "id": "2fd11a90-abfa-428c-8074-906a9c413d08",
+        "start": "2019-04-25T14:00:00+03:00",
+        "end": "2019-04-25T16:00:00+03:00",
+        "title": "Wikiwappu",
+        "host": "Tuomas Tiainen, William Lindberg, Patrik Parviainen",
+        "prod": "Werneri Lindberg ",
+        "desc": "Luvassa jargonia, wiki\u00e4 ja huumoria. Soitetaan n\u00e4ihin liittyvi\u00e4 tai liittym\u00e4tt\u00f6mi\u00e4 biisej\u00e4, r\u00e4\u00e4h keh. ",
+        "timestamp": "2019-04-03T16:45:57+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wikiwappu.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wikiwappu.jpg",
+        "name": "wikiwappu"
+    },
+    {
+        "id": "f4828cf6-61f1-44c3-923e-010c6571e894",
+        "start": "2019-04-28T07:00:00+03:00",
+        "end": "2019-04-28T09:00:00+03:00",
+        "title": "Hang the DJ - poimintoja levyhyllyst\u00e4",
+        "host": "Mikael, Pietari",
+        "prod": "",
+        "desc": "Sunnuntaiaamuun levyjen py\u00f6rittely\u00e4 ja mahdollisesti muuta s\u00f6ss\u00f6tyst\u00e4 musiikkiin liittyvist\u00e4 jutuista. Siis soitellaan kunnon musaa vinyylilt\u00e4 painottuen rock-punk-alternative akseleille, ei leiki. Viritt\u00e4ydy radion \u00e4\u00e4reen ja oikealle taajuudelle.",
+        "timestamp": "2019-04-03T16:55:18+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/hangthedj-poimintojalevyhyllysta.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hangthedj-poimintojalevyhyllysta.jpg",
+        "name": "hangthedj-poimintojalevyhyllysta"
     }
 ]
