@@ -312,29 +312,29 @@
         "name": "synthwaveradio"
     },
     {
-        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
-        "start": "2019-04-15T14:00:00+03:00",
-        "end": "2019-04-15T15:00:00+03:00",
-        "title": "\u00c4lkush\u00f6w",
-        "host": "pt",
-        "prod": "pt",
-        "desc": "<\/div><\/div><\/div><\/html>",
-        "timestamp": "2019-04-03T10:54:36+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
-        "name": "alkushow"
-    },
-    {
         "id": "2ea53bf8-7f99-4539-b69d-932bd262fe96",
         "start": "2019-04-28T00:00:00+03:00",
         "end": "2019-04-28T07:00:00+03:00",
         "title": "Pekka Sauronin y\u00f6radio",
         "host": "Pekka Sauron",
         "prod": "Dildo Peppuli",
-        "desc": "Mordorin suurruhtinas, Konnun yliherttua ja keskimaan kauhu, Pekka Sauron ottaa vastaan y\u00f6n pimeydess\u00e4 vaeltavien soittoja, kuuntelee murheita ja soittaa toivemusiikkia. \r\n\r\nMiten el\u00e4m\u00e4si on mullistunut sen j\u00e4lkeen kun yhden t\u00e4hden liike voitti vaalit? Kaipaatko kuuntelevaa olkap\u00e4\u00e4t\u00e4 kun kissasi l\u00e4hti? Onko k\u00e4rp\u00e4sten herra tehnyt pes\u00e4n sis\u00e4korvaasi? Soita l\u00e4hetykseen ja pura huolesi koko kansalle! ",
-        "timestamp": "2019-04-03T12:16:37+03:00",
+        "desc": "Mordorin suurruhtinas, Konnun yliherttua ja keskimaan kauhu Pekka Sauron ottaa vastaan y\u00f6n pimeydess\u00e4 vaeltavien soittoja, kuuntelee murheita ja soittaa toivemusiikkia. \r\n\r\nMiten el\u00e4m\u00e4si on mullistunut sen j\u00e4lkeen, kun yhden t\u00e4hden liike voitti vaalit? Kaipaatko kuuntelevaa olkap\u00e4\u00e4t\u00e4 kun kissasi l\u00e4hti? Onko k\u00e4rp\u00e4sten herra tehnyt pes\u00e4n sis\u00e4korvaasi? Soita l\u00e4hetykseen ja pura huolesi koko kansalle! Pekka Sauron ja Dildo Peppuli vastaavat puheluihisi y\u00f6syd\u00e4mest\u00e4 aamun sarastukseen.",
+        "timestamp": "2019-04-03T12:20:44+03:00",
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pekkasauroninyoradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pekkasauroninyoradio.jpg",
         "name": "pekkasauroninyoradio"
+    },
+    {
+        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
+        "start": "2019-04-15T14:00:00+03:00",
+        "end": "2019-04-15T15:00:00+03:00",
+        "title": "\u00c4lkush\u00f6w",
+        "host": "pt",
+        "prod": "pt",
+        "desc": "## oisko mitt\u00e4\u00e4n markdownia?\r\n\r\n```\r\nvar koodia;\r\nconst julmetusti koodia;\r\n```\r\n[linkki](\/)\r\n\r\nhttp:\/\/wappuradio.fi\/toimiikos\/n\u00e4\u00e4\/urlit\/suoraan",
+        "timestamp": "2019-04-03T13:00:12+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkushow.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkushow.jpg",
+        "name": "alkushow"
     }
 ]
