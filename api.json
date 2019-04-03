@@ -518,5 +518,31 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/suurenurrrheilujuhlantuntua.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/suurenurrrheilujuhlantuntua.jpg",
         "name": "suurenurrrheilujuhlantuntua"
+    },
+    {
+        "id": "8a08b703-be68-4616-ae3f-9e0461fa812f",
+        "start": "2019-04-16T14:00:00+03:00",
+        "end": "2019-04-16T16:00:00+03:00",
+        "title": "Riskiradio",
+        "host": "Aleksi Martikainen & Valtteri Kostiainen",
+        "prod": "Perttu Rekola",
+        "desc": "Tiukkaa tilastoa, faktaa ja analyysi\u00e4 talouden riskeist\u00e4. Oman mutuilun lis\u00e4ksi kansalaisia kuumottelemassa on my\u00f6s ihka oikeita asiantuntijoita.",
+        "timestamp": "2019-04-03T21:17:09+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/riskiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/riskiradio.jpg",
+        "name": "riskiradio"
+    },
+    {
+        "id": "d82c9387-6389-4b8c-93d8-2971100213ff",
+        "start": "2019-04-22T14:00:00+03:00",
+        "end": "2019-04-22T16:00:00+03:00",
+        "title": "Riskiradio",
+        "host": "Aleksi Martikainen & Valtteri Kostiainen",
+        "prod": "Perttu Rekola",
+        "desc": "Tiukkaa tilastoa, faktaa ja analyysi\u00e4 talouden riskeist\u00e4. Oman mutuilun lis\u00e4ksi kansalaisia kuumottelemassa on my\u00f6s ihka oikeita asiantuntijoita.",
+        "timestamp": "2019-04-03T21:17:43+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/riskiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/riskiradio.jpg",
+        "name": "riskiradio"
     }
 ]

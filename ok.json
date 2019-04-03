@@ -398,5 +398,25 @@
         "prod": "fransmanni",
         "desc": "Tervetuloa viidakkoon, me kivitet\u00e4\u00e4n sut! Suuren urrrheilujuhlan tunnussa soitetaan urheilutapahtumien musiikkia ja k\u00e4yd\u00e4\u00e4n l\u00e4pi kappaleiden taustoja siit\u00e4, miten ne ovat p\u00e4\u00e4tyneet stadioneiden ja hallien soittolistoille. Ohjelmassa pureudutaan niin ymp\u00e4ri maapallon k\u00e4ytett\u00e4viin renkutuksiin kuin yksitt\u00e4isiin joukkueisiin yhdistett\u00e4viin kappaleisiinkin. Saattaa studio k\u00e4ytt\u00e4\u00e4 jokusen sekunnin my\u00f6s urheilukannattajuuden ihmettelyyn ja Obafemi Martinsin tuuletusten mehusteluun. Meid\u00e4n kanssa voit viritt\u00e4yty\u00e4 areenatunnelmaan, eik\u00e4 edes tarvitse luopua juoma-astioista tai sateenvarjoista.",
         "timestamp": "2019-04-03T21:13:01+03:00"
+    },
+    {
+        "id": "8a08b703-be68-4616-ae3f-9e0461fa812f",
+        "start": "2019-04-16 14:00",
+        "end": "2019-04-16 16:00",
+        "title": "Riskiradio",
+        "host": "Aleksi Martikainen & Valtteri Kostiainen",
+        "prod": "Perttu Rekola",
+        "desc": "Tiukkaa tilastoa, faktaa ja analyysi\u00e4 talouden riskeist\u00e4. Oman mutuilun lis\u00e4ksi kansalaisia kuumottelemassa on my\u00f6s ihka oikeita asiantuntijoita.",
+        "timestamp": "2019-04-03T21:17:09+03:00"
+    },
+    {
+        "id": "d82c9387-6389-4b8c-93d8-2971100213ff",
+        "start": "2019-04-22 14:00",
+        "end": "2019-04-22 16:00",
+        "title": "Riskiradio",
+        "host": "Aleksi Martikainen & Valtteri Kostiainen",
+        "prod": "Perttu Rekola",
+        "desc": "Tiukkaa tilastoa, faktaa ja analyysi\u00e4 talouden riskeist\u00e4. Oman mutuilun lis\u00e4ksi kansalaisia kuumottelemassa on my\u00f6s ihka oikeita asiantuntijoita.",
+        "timestamp": "2019-04-03T21:17:43+03:00"
     }
 ]
