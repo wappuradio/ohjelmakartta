@@ -427,5 +427,44 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/hangthedj-poimintojalevyhyllysta.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/hangthedj-poimintojalevyhyllysta.jpg",
         "name": "hangthedj-poimintojalevyhyllysta"
+    },
+    {
+        "id": "5b201c3f-f7a1-477e-b74d-3b952c19a0d3",
+        "start": "2019-04-23T18:00:00+03:00",
+        "end": "2019-04-23T20:00:00+03:00",
+        "title": "Maximum Jee&Jee",
+        "host": "Jesse ja Aleksi",
+        "prod": "Mayz",
+        "desc": "Soitamme yl\u00f6j\u00e4rvel\u00e4ist\u00e4 laadukasta meteli\u00e4 valkoisen kuplan sis\u00e4lt\u00e4 ja jos huonosti k\u00e4y niin ehk\u00e4 jotain muutakin. Set\u00e4ytyess\u00e4 voimme kuulla jo parran kohisevan kasvun, tarkoituksena on p\u00e4\u00e4st\u00e4 aiheen syv\u00e4\u00e4n p\u00e4\u00e4h\u00e4n. T\u00e4m\u00e4 voisi olla meid\u00e4n onnellinen hetki el\u00e4m\u00e4ss\u00e4. Olemme kuitenkin vain osa luonnollista karsintaa, joten lopussa syd\u00e4n tyhj\u00e4\u00e4 ly\u00f6. \r\nToivottavasti t\u00e4st\u00e4 kuvauksesta ei tullut hatullista paskaa.",
+        "timestamp": "2019-04-03T18:23:30+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/maximumjeejee.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/maximumjeejee.jpg",
+        "name": "maximumjeejee"
+    },
+    {
+        "id": "febcfffa-d741-4788-adc5-5da0114fef36",
+        "start": "2019-04-27T09:00:00+03:00",
+        "end": "2019-04-27T12:00:00+03:00",
+        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
+        "host": "Lorens ja Skeba",
+        "prod": "Jaketus",
+        "desc": "Onko lapsuustraumoista ja m\u00f6kkimatkojen iskelm\u00e4radiojumputuksista on ehtinyt kulua juuri sen verran kauan, ett\u00e4 muistot ovat melkein jo saaneet hopeisen reunuksen? Ei h\u00e4t\u00e4\u00e4, lauantaiaamu tarjoaa t\u00e4yslaidallisen muistutuksia siit\u00e4, kuinka ihanaa k\u00e4rsimyst\u00e4 iskelm\u00e4 parhaimmillaan on. Ota siis peukalo pois suusta ja paina korvalappustereoiden play-nappia, bumtsibum!",
+        "timestamp": "2019-04-03T18:37:08+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa.jpg",
+        "name": "karsimysiskelmaa"
+    },
+    {
+        "id": "8da89701-cb5b-4399-bb15-241c3a212545",
+        "start": "2019-04-27T14:00:00+03:00",
+        "end": "2019-04-27T16:00:00+03:00",
+        "title": "Euroviisuspesiaali!",
+        "host": "Bjanze, Lorens, Tutu",
+        "prod": "Jaketus",
+        "desc": "El\u00e4m\u00e4ss\u00e4 parasta on Euroviisut, piste.",
+        "timestamp": "2019-04-03T18:37:51+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/euroviisuspesiaali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/euroviisuspesiaali.jpg",
+        "name": "euroviisuspesiaali"
     }
 ]
