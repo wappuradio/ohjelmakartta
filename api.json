@@ -544,5 +544,57 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/riskiradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/riskiradio.jpg",
         "name": "riskiradio"
+    },
+    {
+        "id": "a1f6ef44-777f-4a67-91f8-d94accc5ad7a",
+        "start": "2019-04-20T07:00:00+03:00",
+        "end": "2019-04-20T09:00:00+03:00",
+        "title": "Nousukiito II: Vanhaa ja uutta rautaa",
+        "host": "Severi M\u00e4kel\u00e4, Jussi Heikkinen",
+        "prod": "Jarno Tuokkola",
+        "desc": "Rankan y\u00f6n j\u00e4lkeen aloitetaan aamu l\u00e4htem\u00e4ll\u00e4 nousukiitoon ilmailukerho Albatrossin siivitt\u00e4m\u00e4n\u00e4. Albatross on j\u00e4lleen saapunut Wappuradion radioaalloille tekem\u00e4\u00e4n omaa asiapitoista ohjelmaa. Kuunnellaan ilmailuaiheista musiikkia, loukataan ilmatilaa sakkaavilla matkustajakoneilla sek\u00e4 h\u00e4mm\u00e4stell\u00e4\u00e4n ilmailun menneisyytt\u00e4 ja tulevaisuutta. V\u00e4lill\u00e4 Ressu tappelee Punaista Paronia vastaan.",
+        "timestamp": "2019-04-03T22:25:50+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/nousukiitoiivanhaajauuttarautaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/nousukiitoiivanhaajauuttarautaa.jpg",
+        "name": "nousukiitoiivanhaajauuttarautaa"
+    },
+    {
+        "id": "15b2a566-3f53-48d6-af58-cb6a5ff9aa91",
+        "start": "2019-04-23T22:00:00+03:00",
+        "end": "2019-04-24T00:00:00+03:00",
+        "title": "Kummitusradio",
+        "host": "Siiri, Poksa",
+        "prod": "Jaketus",
+        "desc": "Kuulitko \u00e4\u00e4nen takanasi? N\u00e4itk\u00f6 jotain silm\u00e4kulmasta? Kylm\u00e4t v\u00e4ristykset on taattu, kun hervannan pelottavin trio valloittaa \u00e4\u00e4niaallot. Tiedossa on wapun kuumottavin setti kummituksia, rituaaleja ja kauhuja. Saattaa aiheuttaa y\u00f6unien menetyst\u00e4.",
+        "timestamp": "2019-04-03T22:41:55+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kummitusradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kummitusradio.jpg",
+        "name": "kummitusradio"
+    },
+    {
+        "id": "9c39830b-60bb-4423-8fd3-e9fb1bf4e855",
+        "start": "2019-04-19T19:00:00+03:00",
+        "end": "2019-04-19T22:00:00+03:00",
+        "title": "SAMPLERADIO",
+        "host": "wormi, Fihlman",
+        "prod": "ObD",
+        "desc": "Mist\u00e4 on pienet kappaleet tehty? No toisista kappaleista! Sampleradio pureutuu musiikin tuotantoon ja etenkin samplejen k\u00e4ytt\u00f6\u00f6n soittamalla samplattua musiikkia laidasta laitaan. No mist\u00e4 on isot hitit tehty? Kuuntele ja opi!",
+        "timestamp": "2019-04-03T22:49:57+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sampleradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sampleradio.jpg",
+        "name": "sampleradio"
+    },
+    {
+        "id": "603b653f-70f8-4e6c-a756-7af6224973b6",
+        "start": "2019-04-25T20:00:00+03:00",
+        "end": "2019-04-25T22:00:00+03:00",
+        "title": "Pepe&Traxmar: Kommuuni Sessions vol. 2",
+        "host": "Pepe & Traxmar",
+        "prod": "markk4",
+        "desc": "Pepe&Traxmar Kommuuni Sessions palaa Rakkauden Wappuradioon entist\u00e4 ehompana! Kommuuni Sessions vol. 2 on ennen kaikkea hyv\u00e4nmielen iltaohjelma. Starttaamme elektronisen, upliftaavan trance-house -ohjelmamme WappuKolmioiden etko-ohjelmana, jossa musiikin lomassa pohdimme opiskelijael\u00e4m\u00e4n muutosta valmistumisen j\u00e4lkeen. Ohjelmassa jaetaan tarinoita, kokemuksia ja my\u00f6s vinkkej\u00e4 onnistuneeseen Wappuiltaan. Oli illan agendana sitten kotona\/koululla simastelu, WappuKolmiot tai harkkaty\u00f6n raivokas ryyn\u00e4\u00e4minen, k\u00e4\u00e4nn\u00e4 anturit Wappuradion taajuudelle!",
+        "timestamp": "2019-04-03T23:14:58+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessionsvol2.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessionsvol2.jpg",
+        "name": "pepetraxmarkommuunisessionsvol2"
     }
 ]
