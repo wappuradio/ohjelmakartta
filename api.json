@@ -596,5 +596,31 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pepetraxmarkommuunisessionsvol2.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pepetraxmarkommuunisessionsvol2.jpg",
         "name": "pepetraxmarkommuunisessionsvol2"
+    },
+    {
+        "id": "f6b3912d-b576-49d2-9ad7-5993dd2843a6",
+        "start": "2019-04-29T07:00:00+03:00",
+        "end": "2019-04-29T09:00:00+03:00",
+        "title": "Alkoholiton AAmuhetki",
+        "host": "Konsta, Aarni, Samuli, Patrik",
+        "prod": "VeliT",
+        "desc": "Alkoholittoman aamuhetken rinki pys\u00e4htyy wapun wilskeess\u00e4 hetkeksi pohtimaan sit\u00e4 hermomyrkyist\u00e4 kuuluisinta.  Alkoholismin (hoito)keinoista ja askelten ottamisesta jutustelun lis\u00e4ksi maistelemme my\u00f6s Alkon\u2122 alkoholittomia. Etanolipitoisia tarinoitakin saattaa p\u00e4\u00e4ty\u00e4 kuultavaksi asti.",
+        "timestamp": "2019-04-03T23:37:33+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/alkoholitonaamuhetki.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/alkoholitonaamuhetki.jpg",
+        "name": "alkoholitonaamuhetki"
+    },
+    {
+        "id": "54e481a9-2d43-41b9-89bd-645c6cbe5add",
+        "start": "2019-04-27T22:00:00+03:00",
+        "end": "2019-04-27T23:59:00+03:00",
+        "title": "Matalataajuusv\u00e4r\u00e4htelij\u00e4t",
+        "host": "Aku, Jonttu ja Loigor",
+        "prod": "Vuokko",
+        "desc": "Harrastelijasyntetisoijat Aku, Jonttu ja Loigor johdattelevat kuulijan matkalle \u00e4\u00e4nisynteesin maailmaan. \u00c4\u00e4nisynteesi\u00e4 k\u00e4sitell\u00e4\u00e4n analogisen syntesoijan ja syntesoitujen musiikkikappaleiden tukemana. ",
+        "timestamp": "2019-04-03T23:59:34+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/matalataajuusvarahtelijat.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matalataajuusvarahtelijat.jpg",
+        "name": "matalataajuusvarahtelijat"
     }
 ]
