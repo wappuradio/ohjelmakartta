@@ -1,15 +1,5 @@
 [
     {
-        "id": "2ea53bf8-7f99-4539-b69d-932bd262fe96",
-        "start": "2019-04-28 00:00",
-        "end": "2019-04-28 07:00",
-        "title": "Pekka Sauronin y\u00f6radio",
-        "host": "Pekka Sauron",
-        "prod": "Dildo Peppuli",
-        "desc": "",
-        "timestamp": "2019-04-01T10:08:00+03:00"
-    },
-    {
         "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
         "start": "2019-04-17 16:00",
         "end": "2019-04-17 18:00",
@@ -258,5 +248,15 @@
         "prod": "pt",
         "desc": "<\/div><\/div><\/div><\/html>",
         "timestamp": "2019-04-03T10:54:36+03:00"
+    },
+    {
+        "id": "2ea53bf8-7f99-4539-b69d-932bd262fe96",
+        "start": "2019-04-28 00:00",
+        "end": "2019-04-28 07:00",
+        "title": "Pekka Sauronin y\u00f6radio",
+        "host": "Pekka Sauron",
+        "prod": "Dildo Peppuli",
+        "desc": "Mordorin suurruhtinas, Konnun yliherttua ja keskimaan kauhu, Pekka Sauron ottaa vastaan y\u00f6n pimeydess\u00e4 vaeltavien soittoja, kuuntelee murheita ja soittaa toivemusiikkia. \r\n\r\nMiten el\u00e4m\u00e4si on mullistunut sen j\u00e4lkeen kun yhden t\u00e4hden liike voitti vaalit? Kaipaatko kuuntelevaa olkap\u00e4\u00e4t\u00e4 kun kissasi l\u00e4hti? Onko k\u00e4rp\u00e4sten herra tehnyt pes\u00e4n sis\u00e4korvaasi? Soita l\u00e4hetykseen ja pura huolesi koko kansalle! ",
+        "timestamp": "2019-04-03T12:16:37+03:00"
     }
 ]
