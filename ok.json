@@ -278,5 +278,15 @@
         "prod": "Kukis",
         "desc": "Tule kanssamme viritt\u00e4ytym\u00e4\u00e4n viikonlopun keveyteen, kaukana harmaasta arjesta. Ohjelman aikana lennet\u00e4\u00e4n musiikin ja keskustelun keinoin auringonlaskuun lohik\u00e4\u00e4rmeiden sel\u00e4ss\u00e4.",
         "timestamp": "2019-04-03T13:58:33+03:00"
+    },
+    {
+        "id": "df5f300d-2e3a-4b8a-823e-59629aa5b407",
+        "start": "2019-04-17 18:00",
+        "end": "2019-04-17 19:00",
+        "title": "Jaxuhali",
+        "host": "annamanna, Poksa",
+        "prod": "Maisa",
+        "desc": "Keskustellaan hetki siit\u00e4 miten opiskelijat voivat ja voisivatko voida paremmin. Ei voivotella. T\u00e4ss\u00e4 ohjelmassa pureudutaan opiskelijoiden hyvinvoinnin ja mielenterveyden ytimeen. Luvassa tositarinoita opiskelijoiden arjesta, vinkkej\u00e4 niin omien kuin yst\u00e4vienkin vaikeuksien kohtaamiseen sek\u00e4 paljon muuta. Ja tietenkin lohtumusiikkia.",
+        "timestamp": "2019-04-03T14:48:17+03:00"
     }
 ]

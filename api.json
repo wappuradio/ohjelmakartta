@@ -362,5 +362,18 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/pakotodellisuudesta.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/pakotodellisuudesta.jpg",
         "name": "pakotodellisuudesta"
+    },
+    {
+        "id": "df5f300d-2e3a-4b8a-823e-59629aa5b407",
+        "start": "2019-04-17T18:00:00+03:00",
+        "end": "2019-04-17T19:00:00+03:00",
+        "title": "Jaxuhali",
+        "host": "annamanna, Poksa",
+        "prod": "Maisa",
+        "desc": "Keskustellaan hetki siit\u00e4 miten opiskelijat voivat ja voisivatko voida paremmin. Ei voivotella. T\u00e4ss\u00e4 ohjelmassa pureudutaan opiskelijoiden hyvinvoinnin ja mielenterveyden ytimeen. Luvassa tositarinoita opiskelijoiden arjesta, vinkkej\u00e4 niin omien kuin yst\u00e4vienkin vaikeuksien kohtaamiseen sek\u00e4 paljon muuta. Ja tietenkin lohtumusiikkia.",
+        "timestamp": "2019-04-03T14:48:17+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jaxuhali.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jaxuhali.jpg",
+        "name": "jaxuhali"
     }
 ]
