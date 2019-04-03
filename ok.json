@@ -256,7 +256,27 @@
         "title": "\u00c4lkush\u00f6w",
         "host": "pt",
         "prod": "pt",
-        "desc": "## oisko mitt\u00e4\u00e4n markdownia?\r\n\r\n```\r\nvar koodia;\r\nconst julmetusti koodia;\r\n```\r\n[linkki](\/)\r\n\r\nhttp:\/\/wappuradio.fi\/toimiikos\/n\u00e4\u00e4\/urlit\/suoraan",
-        "timestamp": "2019-04-03T13:00:12+03:00"
+        "desc": "[linkit menee piiloon listauksessa eik\u00f6s](\/)\r\nhttp:\/\/wappuradio.fi\/toimiikos\/n\u00e4\u00e4\/urlit\/suoraan\r\n",
+        "timestamp": "2019-04-03T13:45:29+03:00"
+    },
+    {
+        "id": "21ed1b82-df69-4f39-abdf-ec6ab5ba735b",
+        "start": "2019-04-27 16:00",
+        "end": "2019-04-27 18:00",
+        "title": "Pullan ja Palleron nostalgiatuokio",
+        "host": "Tinsku ja Quendil",
+        "prod": "",
+        "desc": "Pullan ja Palleron nostalgiatuokio tuo Wappuradion taajuudelle suosituimmat ja noloimmat biisit viime vuosikymmenilt\u00e4. P\u00e4\u00e4set viritt\u00e4ytym\u00e4\u00e4n lauantaitunnelmaan muistellen menneit\u00e4 aikoja. Valmistaudu siis liikuttumaan, fiilistelem\u00e4\u00e4n ja krebaamaan!",
+        "timestamp": "2019-04-03T13:47:36+03:00"
+    },
+    {
+        "id": "d6d27226-0417-4645-87bb-1c43e93fe4de",
+        "start": "2019-04-26 16:00",
+        "end": "2019-04-26 18:00",
+        "title": "Pako todellisuudesta",
+        "host": "evs, Quendil",
+        "prod": "Kukis",
+        "desc": "Tule kanssamme viritt\u00e4ytym\u00e4\u00e4n viikonlopun keveyteen, kaukana harmaasta arjesta. Ohjelman aikana lennet\u00e4\u00e4n musiikin ja keskustelun keinoin auringonlaskuun lohik\u00e4\u00e4rmeiden sel\u00e4ss\u00e4.",
+        "timestamp": "2019-04-03T13:58:33+03:00"
     }
 ]
