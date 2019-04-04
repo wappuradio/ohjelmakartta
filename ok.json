@@ -190,16 +190,6 @@
         "timestamp": "2019-04-03T12:20:44+03:00"
     },
     {
-        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
-        "start": "2019-04-15 14:00",
-        "end": "2019-04-15 15:00",
-        "title": "\u00c4lkush\u00f6w",
-        "host": "pt",
-        "prod": "pt",
-        "desc": "[linkit menee piiloon listauksessa eik\u00f6s](\/)\r\nhttp:\/\/wappuradio.fi\/toimiikos\/n\u00e4\u00e4\/urlit\/suoraan\r\n",
-        "timestamp": "2019-04-03T13:45:29+03:00"
-    },
-    {
         "id": "21ed1b82-df69-4f39-abdf-ec6ab5ba735b",
         "start": "2019-04-27 16:00",
         "end": "2019-04-27 18:00",
@@ -848,5 +838,105 @@
         "prod": "jsuvanto",
         "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegramissa. ",
         "timestamp": "2019-04-04T20:16:47+03:00"
+    },
+    {
+        "id": "44a8f31b-2def-479b-a179-ce79149664a6",
+        "start": "2019-04-16 07:00",
+        "end": "2019-04-16 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:24:11+03:00"
+    },
+    {
+        "id": "88182b7f-bd9b-41cc-a879-6a082630b50f",
+        "start": "2019-04-17 07:00",
+        "end": "2019-04-17 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:24:33+03:00"
+    },
+    {
+        "id": "fd28adf9-1928-4b1d-869b-87dcdc79c6b3",
+        "start": "2019-04-18 07:00",
+        "end": "2019-04-18 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:24:38+03:00"
+    },
+    {
+        "id": "fece95a9-6146-455e-b97d-dfaa1482ee3e",
+        "start": "2019-04-23 07:00",
+        "end": "2019-04-23 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:25:38+03:00"
+    },
+    {
+        "id": "33b20e2c-baec-4235-b62b-08a110ac9de6",
+        "start": "2019-04-24 07:00",
+        "end": "2019-04-24 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:25:47+03:00"
+    },
+    {
+        "id": "f5910e44-5eb0-4b37-a71f-883ee47689e1",
+        "start": "2019-04-25 07:00",
+        "end": "2019-04-25 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:25:50+03:00"
+    },
+    {
+        "id": "fc460ff7-5e7e-4338-a321-dc17291412ae",
+        "start": "2019-04-19 07:00",
+        "end": "2019-04-19 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:26:11+03:00"
+    },
+    {
+        "id": "664fdf97-d8ff-4722-a908-40a483272e48",
+        "start": "2019-04-26 07:00",
+        "end": "2019-04-26 09:00",
+        "title": "Murokaasu",
+        "host": "Minna, Ruutti, Antti, Antti, delic, Taru",
+        "prod": "Jarno, Paavo",
+        "desc": "\u201cIltarusko hyv\u00e4 rusko, aamurusko p\u00e4iv\u00e4n pasko\u201d. Tarkastellaan aamun ruskoisuutta ja alkavan p\u00e4iv\u00e4n laatua. Studiossa mit\u00e4\u00e4nsanomatonta keskustelua ja kirjavaa musiikkia, sek\u00e4 satunnaisia vieraita.",
+        "timestamp": "2019-04-04T20:26:18+03:00"
+    },
+    {
+        "id": "44630559-4f8a-4c33-b4ec-1dedc6eef279",
+        "start": "2019-04-21 18:00",
+        "end": "2019-04-21 20:00",
+        "title": "I'm a Road Rane, Honey",
+        "host": " Rane Rock ja Toukka Valtonen",
+        "prod": "Toukka Valtonen",
+        "desc": "Kaksi tiell\u00e4 kulutettua rokkij\u00e4\u00e4r\u00e4\u00e4 muistelee reissussa itselleen ja kavereille sattunutta ja tapahtunutta, kertoen v\u00e4lill\u00e4 my\u00f6s tositarinoita.",
+        "timestamp": "2019-04-04T20:55:53+03:00"
+    },
+    {
+        "id": "922de5cd-66dc-4616-b8ff-b874dc07aa07",
+        "start": "2019-04-15 14:00",
+        "end": "2019-04-15 16:00",
+        "title": "ALKUSHOW",
+        "host": "p\u00e4\u00e4toimitus",
+        "prod": "",
+        "desc": "Kuuntelet Rakkauden Wappuradiota 2019! Viritt\u00e4ydy Wapun tunnelmaan, kuule parhaat vinkit tulevaan radioon ja Wappuun sek\u00e4 hurjimmat varoittavat esimerkit. Radiohittej\u00e4 ja radionaamoja ja kymmenennen Wappuradion arvoista HYPE\u00c4! ",
+        "timestamp": "2019-04-04T20:57:36+03:00"
     }
 ]
