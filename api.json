@@ -1,18 +1,5 @@
 [
     {
-        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
-        "start": "2019-04-17T16:00:00+03:00",
-        "end": "2019-04-17T18:00:00+03:00",
-        "title": "Huonojen elokuvien radio",
-        "host": "Jore, TKirahvi",
-        "prod": "jsuvanto",
-        "desc": "",
-        "timestamp": "2019-04-01T10:14:24+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/huonojenelokuvienradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/huonojenelokuvienradio.jpg",
-        "name": "huonojenelokuvienradio"
-    },
-    {
         "id": "69fec321-8e1d-4c8c-a89f-6ce6946f1be1",
         "start": "2019-04-18T18:00:00+03:00",
         "end": "2019-04-18T20:00:00+03:00",
@@ -949,19 +936,6 @@
         "name": "post-jonneradio"
     },
     {
-        "id": "9cf0826b-029f-45f4-92a1-d4c0912eaa11",
-        "start": "2019-04-28T09:00:00+03:00",
-        "end": "2019-04-28T11:00:00+03:00",
-        "title": "Lyriikkaradio",
-        "host": "kulkija, Tytti, Mikko",
-        "prod": "TBD",
-        "desc": "Musiikki on toiminnut pitk\u00e4\u00e4n tarinoiden ja mielipiteiden v\u00e4litt\u00e4misen apukeinona. Nyky\u00e4\u00e4n t\u00e4m\u00e4 unohtuuhelposti ja monet kuuntelevatkin vain sykett\u00e4 nostavaa bassoraitaa. T\u00e4m\u00e4n takia ajattelimme mietti\u00e4 pari tuntia sanomia ja kertomuksia joita suomenkielisess\u00e4 musiikkissa kerrotaan. Jos sinulla on biisi jonka sanoituksesta pid\u00e4t tai siihen liittyy tarina jonka haluat jakaa ja haluat kuulla meid\u00e4n mietint\u00f6j\u00e4 siit\u00e4 soita studioon.",
-        "timestamp": "2019-04-04T16:56:26+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/lyriikkaradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lyriikkaradio.jpg",
-        "name": "lyriikkaradio"
-    },
-    {
         "id": "1678e46e-30e7-484f-9128-f0b79774833f",
         "start": "2019-04-24T22:00:00+03:00",
         "end": "2019-04-25T00:00:00+03:00",
@@ -1012,5 +986,96 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/tyhmakysymysmutta.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/tyhmakysymysmutta.jpg",
         "name": "tyhmakysymysmutta"
+    },
+    {
+        "id": "9cf0826b-029f-45f4-92a1-d4c0912eaa11",
+        "start": "2019-04-28T09:00:00+03:00",
+        "end": "2019-04-28T11:00:00+03:00",
+        "title": "Lyriikkaradio",
+        "host": "kulkija, Tytti, Mikko",
+        "prod": "TBD",
+        "desc": "Musiikki on toiminnut pitk\u00e4\u00e4n tarinoiden ja mielipiteiden v\u00e4litt\u00e4misen apukeinona. Nyky\u00e4\u00e4n t\u00e4m\u00e4 unohtuu helposti ja monet kuuntelevatkin vain sykett\u00e4 nostavaa bassoraitaa. T\u00e4m\u00e4n takia mietimme pari tuntia sanomia ja kertomuksia joita suomenkielisess\u00e4 musiikissa kerrotaan. Jos sinulla on biisi, jonka sanoituksesta pid\u00e4t tai siihen liittyy tarina, jonka haluat jakaa ja haluat kuulla meid\u00e4n mietint\u00f6j\u00e4 siit\u00e4, soita studioon.",
+        "timestamp": "2019-04-04T18:23:09+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lyriikkaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lyriikkaradio.jpg",
+        "name": "lyriikkaradio"
+    },
+    {
+        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
+        "start": "2019-04-17T16:00:00+03:00",
+        "end": "2019-04-17T18:00:00+03:00",
+        "title": "Huonojen elokuvien iltap\u00e4iv\u00e4",
+        "host": "Jore ja TK",
+        "prod": "jsuvanto",
+        "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegrammissa. ",
+        "timestamp": "2019-04-04T18:39:47+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/huonojenelokuvieniltapaiva.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/huonojenelokuvieniltapaiva.jpg",
+        "name": "huonojenelokuvieniltapaiva"
+    },
+    {
+        "id": "2beba660-0166-45f2-a40e-209a2a9f1962",
+        "start": "2019-04-20T19:00:00+03:00",
+        "end": "2019-04-20T22:00:00+03:00",
+        "title": "EkuDance!",
+        "host": "Eku, Mypa, DJ Kivi",
+        "prod": "KukaKumma",
+        "desc": "Pid\u00e4tk\u00f6 eurodancesta? Ent\u00e4 90-luvusta? Silloin t\u00e4m\u00e4 ohjelma on juuri Sinua varten! Kolme tuntia sit\u00e4 itse\u00e4\u00e4n eli ys\u00e4ridancea! \r\nMukana my\u00f6s viilt\u00e4vi\u00e4 faktoja niin kappaleista kuin artisteistakin.\r\nBoomdigidigidigi boomdigi bom!",
+        "timestamp": "2019-04-04T18:57:45+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/ekudance.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/ekudance.jpg",
+        "name": "ekudance"
+    },
+    {
+        "id": "92408570-b820-4d0d-b834-0d0135887bf2",
+        "start": "2019-04-16T00:00:00+03:00",
+        "end": "2019-04-16T05:00:00+03:00",
+        "title": "Asiantuntijatoimisto",
+        "host": "Pyry, Janne, Patrik ja Onni",
+        "prod": "Jaakko",
+        "desc": "Asiantuntemisen asiantuntijat kokoontuvat \u00f6iseen spessul\u00e4hetykseen esitt\u00e4m\u00e4\u00e4n asiantuntevalla otteella kerrassaan monipuolista kattausta ohjelmaa. Y\u00f6n pimeydess\u00e4 on kuultavissa siis ainakin roolipelaamista, runoutta, levyraatia, arvostelua ja improvisaatiota! Ter\u00e4v\u00e4\u00e4 sanailua ja iskev\u00e4\u00e4 musiikkia luvassa, asettukaa siis lempinojatuolillenne kynttelik\u00f6n valoon nauttimaan asiantuntevasta otteestamme.",
+        "timestamp": "2019-04-04T19:03:35+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/asiantuntijatoimisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/asiantuntijatoimisto.jpg",
+        "name": "asiantuntijatoimisto"
+    },
+    {
+        "id": "6579d411-3b56-414a-84c2-a99a97962fe8",
+        "start": "2019-04-22T07:00:00+03:00",
+        "end": "2019-04-22T09:00:00+03:00",
+        "title": "Lyriikkaradio",
+        "host": "kulkija, Tytti, Mikko",
+        "prod": "TBD",
+        "desc": "Musiikki on toiminnut pitk\u00e4\u00e4n tarinoiden ja mielipiteiden v\u00e4litt\u00e4misen apukeinona. Nyky\u00e4\u00e4n t\u00e4m\u00e4 unohtuu helposti ja monet kuuntelevatkin vain sykett\u00e4 nostavaa bassoraitaa. T\u00e4m\u00e4n takia mietimme pari tuntia sanomia ja kertomuksia joita suomenkielisess\u00e4 musiikissa kerrotaan. Jos sinulla on biisi, jonka sanoituksesta pid\u00e4t tai siihen liittyy tarina, jonka haluat jakaa ja haluat kuulla meid\u00e4n mietint\u00f6j\u00e4 siit\u00e4, soita studioon.",
+        "timestamp": "2019-04-04T19:08:10+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lyriikkaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lyriikkaradio.jpg",
+        "name": "lyriikkaradio"
+    },
+    {
+        "id": "12f8c88a-1438-40cf-8889-fa7908fbda8f",
+        "start": "2019-04-22T09:00:00+03:00",
+        "end": "2019-04-22T11:00:00+03:00",
+        "title": "Arvostelutoimisto",
+        "host": "Pyry, Janne, Patrik ja Onni",
+        "prod": "Tuulia",
+        "desc": "Podcastillaan arvioinnin manttelia kantava Arvostelutoimisto on kanssasi viikon startissa kahtena maanantaina. Ohjelmassamme kaikki on arvosteltavissa! Kissat, koirat, anopin varpaat, sohvaperunat, p\u00e4iv\u00e4ntasaaja tai Kirkan Hengaillaan, mik\u00e4\u00e4n ei ole meille liian hankala arvioitavaksi. Luvassa siis arviointia ja 5\/5 musiikkia aamuihinne. Muistakaa hyv\u00e4t kuulijat l\u00e4hetyksen aikana l\u00e4hett\u00e4\u00e4 meille ts\u00e4tiss\u00e4 arvioinnin aiheita!",
+        "timestamp": "2019-04-04T19:12:43+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto.jpg",
+        "name": "arvostelutoimisto"
+    },
+    {
+        "id": "13decdb6-ea8c-4185-9874-e225a9f0f2db",
+        "start": "2019-04-29T09:00:00+03:00",
+        "end": "2019-04-29T11:00:00+03:00",
+        "title": "Arvostelutoimisto",
+        "host": "Pyry, Janne, Patrik ja Onni",
+        "prod": "Tuulia",
+        "desc": "Podcastillaan arvioinnin manttelia kantava Arvostelutoimisto on kanssasi viikon startissa kahtena maanantaina. Ohjelmassamme kaikki on arvosteltavissa! Kissat, koirat, anopin varpaat, sohvaperunat, p\u00e4iv\u00e4ntasaaja tai Kirkan Hengaillaan, mik\u00e4\u00e4n ei ole meille liian hankala arvioitavaksi. Luvassa siis arviointia ja 5\/5 musiikkia aamuihinne. Muistakaa hyv\u00e4t kuulijat l\u00e4hetyksen aikana l\u00e4hett\u00e4\u00e4 meille ts\u00e4tiss\u00e4 arvioinnin aiheita!",
+        "timestamp": "2019-04-04T19:13:15+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto.jpg",
+        "name": "arvostelutoimisto"
     }
 ]
