@@ -1001,19 +1001,6 @@
         "name": "lyriikkaradio"
     },
     {
-        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
-        "start": "2019-04-17T16:00:00+03:00",
-        "end": "2019-04-17T18:00:00+03:00",
-        "title": "Huonojen elokuvien iltap\u00e4iv\u00e4",
-        "host": "Jore ja TK",
-        "prod": "jsuvanto",
-        "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegrammissa. ",
-        "timestamp": "2019-04-04T18:39:47+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/huonojenelokuvieniltapaiva.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/huonojenelokuvieniltapaiva.jpg",
-        "name": "huonojenelokuvieniltapaiva"
-    },
-    {
         "id": "2beba660-0166-45f2-a40e-209a2a9f1962",
         "start": "2019-04-20T19:00:00+03:00",
         "end": "2019-04-20T22:00:00+03:00",
@@ -1077,5 +1064,44 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/arvostelutoimisto.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/arvostelutoimisto.jpg",
         "name": "arvostelutoimisto"
+    },
+    {
+        "id": "8889af32-db17-4827-a3f5-8101d660fd43",
+        "start": "2019-04-29T18:00:00+03:00",
+        "end": "2019-04-29T20:00:00+03:00",
+        "title": "Fuksivuodet 2008 & 2018",
+        "host": "Eolina, Safira, msai, Tinusaurus",
+        "prod": "Kylanmies",
+        "desc": "Kymmenen vuotta sitten fuksipassi oli violetti, k\u00e4nnyk\u00e4ss\u00e4 oli \u00e4lyn sijaan v\u00e4rin\u00e4ytt\u00f6 ja prujusta luettiin viikon tapahtumista sateenkaaren v\u00e4reiss\u00e4. T\u00e4n\u00e4 lukuvuonna fuksipassissa on kolme v\u00e4ri\u00e4, internet mahdollisuuksineen kosketusn\u00e4yt\u00f6n takana taskussa ja Tampereen kolme korkeakoulua ovat yhdistyneet. Fuksit vuosilta 2008 ja 2018 vertailevat lukuvuotensa opiskelijatapahtumia ja soittavat aiheeseen sopivaa musiikkia.",
+        "timestamp": "2019-04-04T19:32:55+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/fuksivuodet20082018.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/fuksivuodet20082018.jpg",
+        "name": "fuksivuodet20082018"
+    },
+    {
+        "id": "10c44959-9d03-4644-b932-1ef5f055d253",
+        "start": "2019-04-28T22:00:00+03:00",
+        "end": "2019-04-29T00:00:00+03:00",
+        "title": "Kthulhun kutsu",
+        "host": "Kultistit Ahvena ja Kekki",
+        "prod": "Ylipappi Loigor",
+        "desc": "Jo muinaiset muinaiset tiesiv\u00e4t ett\u00e4 kukaan ei pelastu. Syvyyksist\u00e4 kaikuva kutsu voimistuu hetki hetkelt\u00e4, ja me olemme kuulolla. Liity messuumme ja ota vastaan muinaisten siunattu tahto. R'lyehin sy\u00f6verit kutsuvat. Herramme kutsuu. Todellisuus on pian ohi! SIUNATTU HULLUUS. I\u00e4 Cthulhu! I\u00e4 Azathoth! I\u00e4 Nyarlathotep! PH'NGLUI MGLW'NAFH CTHULHU R'LYEH WGAH'NAGH FTAGHN.",
+        "timestamp": "2019-04-04T19:40:00+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kthulhunkutsu.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kthulhunkutsu.jpg",
+        "name": "kthulhunkutsu"
+    },
+    {
+        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
+        "start": "2019-04-17T16:00:00+03:00",
+        "end": "2019-04-17T18:00:00+03:00",
+        "title": "Huonojen elokuvien iltap\u00e4iv\u00e4",
+        "host": "Jore ja TK",
+        "prod": "jsuvanto",
+        "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegramissa. ",
+        "timestamp": "2019-04-04T20:16:47+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/huonojenelokuvieniltapaiva.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/huonojenelokuvieniltapaiva.jpg",
+        "name": "huonojenelokuvieniltapaiva"
     }
 ]

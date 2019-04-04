@@ -770,16 +770,6 @@
         "timestamp": "2019-04-04T18:23:09+03:00"
     },
     {
-        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
-        "start": "2019-04-17 16:00",
-        "end": "2019-04-17 18:00",
-        "title": "Huonojen elokuvien iltap\u00e4iv\u00e4",
-        "host": "Jore ja TK",
-        "prod": "jsuvanto",
-        "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegrammissa. ",
-        "timestamp": "2019-04-04T18:39:47+03:00"
-    },
-    {
         "id": "2beba660-0166-45f2-a40e-209a2a9f1962",
         "start": "2019-04-20 19:00",
         "end": "2019-04-20 22:00",
@@ -828,5 +818,35 @@
         "prod": "Tuulia",
         "desc": "Podcastillaan arvioinnin manttelia kantava Arvostelutoimisto on kanssasi viikon startissa kahtena maanantaina. Ohjelmassamme kaikki on arvosteltavissa! Kissat, koirat, anopin varpaat, sohvaperunat, p\u00e4iv\u00e4ntasaaja tai Kirkan Hengaillaan, mik\u00e4\u00e4n ei ole meille liian hankala arvioitavaksi. Luvassa siis arviointia ja 5\/5 musiikkia aamuihinne. Muistakaa hyv\u00e4t kuulijat l\u00e4hetyksen aikana l\u00e4hett\u00e4\u00e4 meille ts\u00e4tiss\u00e4 arvioinnin aiheita!",
         "timestamp": "2019-04-04T19:13:15+03:00"
+    },
+    {
+        "id": "8889af32-db17-4827-a3f5-8101d660fd43",
+        "start": "2019-04-29 18:00",
+        "end": "2019-04-29 20:00",
+        "title": "Fuksivuodet 2008 & 2018",
+        "host": "Eolina, Safira, msai, Tinusaurus",
+        "prod": "Kylanmies",
+        "desc": "Kymmenen vuotta sitten fuksipassi oli violetti, k\u00e4nnyk\u00e4ss\u00e4 oli \u00e4lyn sijaan v\u00e4rin\u00e4ytt\u00f6 ja prujusta luettiin viikon tapahtumista sateenkaaren v\u00e4reiss\u00e4. T\u00e4n\u00e4 lukuvuonna fuksipassissa on kolme v\u00e4ri\u00e4, internet mahdollisuuksineen kosketusn\u00e4yt\u00f6n takana taskussa ja Tampereen kolme korkeakoulua ovat yhdistyneet. Fuksit vuosilta 2008 ja 2018 vertailevat lukuvuotensa opiskelijatapahtumia ja soittavat aiheeseen sopivaa musiikkia.",
+        "timestamp": "2019-04-04T19:32:55+03:00"
+    },
+    {
+        "id": "10c44959-9d03-4644-b932-1ef5f055d253",
+        "start": "2019-04-28 22:00",
+        "end": "2019-04-29 00:00",
+        "title": "Kthulhun kutsu",
+        "host": "Kultistit Ahvena ja Kekki",
+        "prod": "Ylipappi Loigor",
+        "desc": "Jo muinaiset muinaiset tiesiv\u00e4t ett\u00e4 kukaan ei pelastu. Syvyyksist\u00e4 kaikuva kutsu voimistuu hetki hetkelt\u00e4, ja me olemme kuulolla. Liity messuumme ja ota vastaan muinaisten siunattu tahto. R'lyehin sy\u00f6verit kutsuvat. Herramme kutsuu. Todellisuus on pian ohi! SIUNATTU HULLUUS. I\u00e4 Cthulhu! I\u00e4 Azathoth! I\u00e4 Nyarlathotep! PH'NGLUI MGLW'NAFH CTHULHU R'LYEH WGAH'NAGH FTAGHN.",
+        "timestamp": "2019-04-04T19:40:00+03:00"
+    },
+    {
+        "id": "2390d489-da0a-44a5-ba7f-7cf88627df60",
+        "start": "2019-04-17 16:00",
+        "end": "2019-04-17 18:00",
+        "title": "Huonojen elokuvien iltap\u00e4iv\u00e4",
+        "host": "Jore ja TK",
+        "prod": "jsuvanto",
+        "desc": "On olemassa huonoja elokuvia ja hyvi\u00e4 huonoja elokuvia. Mit\u00e4 ovat oikeasti huonot elokuvat? Voiko huonoista elokuvista nauttia? Mihin tarvitaan haarukoita, kun katsotaan huonoja elokuvia? \r\n\r\nRutinoituneet konkarit Jore ja TK tarjoavat menolipun kulttuurimatkalle valkokankaan pime\u00e4lle puolelle. Voit osallistua keskusteluun irkiss\u00e4 ja Telegramissa. ",
+        "timestamp": "2019-04-04T20:16:47+03:00"
     }
 ]
