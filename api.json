@@ -960,5 +960,18 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/post-jonneradio.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/post-jonneradio.jpg",
         "name": "post-jonneradio"
+    },
+    {
+        "id": "9cf0826b-029f-45f4-92a1-d4c0912eaa11",
+        "start": "2019-04-28T09:00:00+03:00",
+        "end": "2019-04-28T11:00:00+03:00",
+        "title": "Lyriikkaradio",
+        "host": "kulkija, Tytti, Mikko",
+        "prod": "TBD",
+        "desc": "Musiikki on toiminnut pitk\u00e4\u00e4n tarinoiden ja mielipiteiden v\u00e4litt\u00e4misen apukeinona. Nyky\u00e4\u00e4n t\u00e4m\u00e4 unohtuuhelposti ja monet kuuntelevatkin vain sykett\u00e4 nostavaa bassoraitaa. T\u00e4m\u00e4n takia ajattelimme mietti\u00e4 pari tuntia sanomia ja kertomuksia joita suomenkielisess\u00e4 musiikkissa kerrotaan. Jos sinulla on biisi jonka sanoituksesta pid\u00e4t tai siihen liittyy tarina jonka haluat jakaa ja haluat kuulla meid\u00e4n mietint\u00f6j\u00e4 siit\u00e4 soita studioon.",
+        "timestamp": "2019-04-04T16:56:26+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lyriikkaradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lyriikkaradio.jpg",
+        "name": "lyriikkaradio"
     }
 ]
