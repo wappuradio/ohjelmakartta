@@ -622,5 +622,18 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/matalataajuusvarahtelijat.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/matalataajuusvarahtelijat.jpg",
         "name": "matalataajuusvarahtelijat"
+    },
+    {
+        "id": "910c4092-3e0d-4c7a-8b0c-d805d656bc66",
+        "start": "2019-04-27T20:00:00+03:00",
+        "end": "2019-04-27T22:00:00+03:00",
+        "title": "Sinulla on v\u00e4\u00e4r\u00e4 mielipide!",
+        "host": "Jarkko, Aleksi, Kalle, Janne",
+        "prod": "Paavo Tawast",
+        "desc": "Kaksi vanhaa yst\u00e4v\u00e4\u00e4 tapaavat ja halaavat: \"Kiva n\u00e4hd\u00e4 pitk\u00e4st\u00e4 aikaa...\". Menee 5 kaljaa ja taas ollaan samassa \u00e4nkyr\u00e4v\u00e4\u00e4nn\u00f6ss\u00e4. Ihan sama mik\u00e4 aihe, mutta mielipiteesi on v\u00e4\u00e4r\u00e4, molempien mielest\u00e4. Luvassa uskomattoman tuskallinen v\u00e4ittely, jossa on vain h\u00e4vi\u00e4ji\u00e4. \r\n\r\nAiheina mm.: \"Kukkahattut\u00e4tien sijaan tarvitaan enemm\u00e4n koppalakkiseti\u00e4, mut ei sellaisella Tom of Finland tavalla, mik\u00e4 on tietysti Jannelle pettymys.\"",
+        "timestamp": "2019-04-04T08:15:11+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/sinullaonvaaramielipide.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sinullaonvaaramielipide.jpg",
+        "name": "sinullaonvaaramielipide"
     }
 ]
