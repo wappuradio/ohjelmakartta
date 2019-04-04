@@ -429,19 +429,6 @@
         "name": "maximumjeejee"
     },
     {
-        "id": "febcfffa-d741-4788-adc5-5da0114fef36",
-        "start": "2019-04-27T09:00:00+03:00",
-        "end": "2019-04-27T12:00:00+03:00",
-        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
-        "host": "Lorens ja Skeba",
-        "prod": "Jaketus",
-        "desc": "Onko lapsuustraumoista ja m\u00f6kkimatkojen iskelm\u00e4radiojumputuksista on ehtinyt kulua juuri sen verran kauan, ett\u00e4 muistot ovat melkein jo saaneet hopeisen reunuksen? Ei h\u00e4t\u00e4\u00e4, lauantaiaamu tarjoaa t\u00e4yslaidallisen muistutuksia siit\u00e4, kuinka ihanaa k\u00e4rsimyst\u00e4 iskelm\u00e4 parhaimmillaan on. Ota siis peukalo pois suusta ja paina korvalappustereoiden play-nappia, bumtsibum!",
-        "timestamp": "2019-04-03T18:37:08+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa.jpg",
-        "name": "karsimysiskelmaa"
-    },
-    {
         "id": "1cf50d39-4ba3-4412-ac5b-e03622cf98d2",
         "start": "2019-04-20T09:00:00+03:00",
         "end": "2019-04-20T11:00:00+03:00",
@@ -830,5 +817,83 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/murheiluruutu.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/murheiluruutu.jpg",
         "name": "murheiluruutu"
+    },
+    {
+        "id": "7ec74254-3f78-4196-9b67-d4f4df31efe9",
+        "start": "2019-04-16T09:00:00+03:00",
+        "end": "2019-04-16T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:33+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg",
+        "name": "aamujamit"
+    },
+    {
+        "id": "4890b871-a3ee-48a2-ab38-901436c73286",
+        "start": "2019-04-17T09:00:00+03:00",
+        "end": "2019-04-17T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:39+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg",
+        "name": "aamujamit"
+    },
+    {
+        "id": "3872fa49-c326-4005-bce3-987f0734c1c6",
+        "start": "2019-04-18T09:00:00+03:00",
+        "end": "2019-04-18T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:42+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg",
+        "name": "aamujamit"
+    },
+    {
+        "id": "67bd89d3-174a-4047-b213-bef483b6daaa",
+        "start": "2019-04-19T09:00:00+03:00",
+        "end": "2019-04-19T11:00:00+03:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:46+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/aamujamit.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/aamujamit.jpg",
+        "name": "aamujamit"
+    },
+    {
+        "id": "febcfffa-d741-4788-adc5-5da0114fef36",
+        "start": "2019-04-27T09:00:00+03:00",
+        "end": "2019-04-27T12:00:00+03:00",
+        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
+        "host": "Lorens ja Skeba",
+        "prod": "Jaketus",
+        "desc": "Vaivaako nostalgia? Ovatko lapsuuden traumasi jo tukahdutettuja hiilimyttyj\u00e4? Onko m\u00f6kkimatkojen iskelm\u00e4radiopainajaisilla jo hopeiset reunukset? Ei h\u00e4t\u00e4\u00e4! Lauantaiaamu tarjoaa t\u00e4yslaidallisen muistutuksia siit\u00e4, kuinka ihanaa k\u00e4rsimyst\u00e4 iskelm\u00e4 parhaimmillaan on. Nyt se peukalo pois suusta ja korvalappustereoiden play-nappi pohjaan, bumtsibum!",
+        "timestamp": "2019-04-04T12:36:44+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/karsimysiskelmaa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/karsimysiskelmaa.jpg",
+        "name": "karsimysiskelmaa"
+    },
+    {
+        "id": "a5a291c4-74b9-4c33-b13c-fb00647745c3",
+        "start": "2019-04-21T20:00:00+03:00",
+        "end": "2019-04-21T22:00:00+03:00",
+        "title": "Suomen Soramontut V\u00e4rikuvina",
+        "host": "VLEd ja Toivo",
+        "prod": "",
+        "desc": "V\u00e4hin \u00e4\u00e4nin ja suurin elkein. Katse kaukaisuudessa, etualalla tuomionp\u00e4iv\u00e4n pasuunat. Ohjelma joka kykenee kompromisseihin, meill\u00e4 on keinot purkaa muureja.",
+        "timestamp": "2019-04-04T12:37:25+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/suomensoramontutvarikuvina.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/suomensoramontutvarikuvina.jpg",
+        "name": "suomensoramontutvarikuvina"
     }
 ]

@@ -330,16 +330,6 @@
         "timestamp": "2019-04-03T18:23:30+03:00"
     },
     {
-        "id": "febcfffa-d741-4788-adc5-5da0114fef36",
-        "start": "2019-04-27 09:00",
-        "end": "2019-04-27 12:00",
-        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
-        "host": "Lorens ja Skeba",
-        "prod": "Jaketus",
-        "desc": "Onko lapsuustraumoista ja m\u00f6kkimatkojen iskelm\u00e4radiojumputuksista on ehtinyt kulua juuri sen verran kauan, ett\u00e4 muistot ovat melkein jo saaneet hopeisen reunuksen? Ei h\u00e4t\u00e4\u00e4, lauantaiaamu tarjoaa t\u00e4yslaidallisen muistutuksia siit\u00e4, kuinka ihanaa k\u00e4rsimyst\u00e4 iskelm\u00e4 parhaimmillaan on. Ota siis peukalo pois suusta ja paina korvalappustereoiden play-nappia, bumtsibum!",
-        "timestamp": "2019-04-03T18:37:08+03:00"
-    },
-    {
         "id": "1cf50d39-4ba3-4412-ac5b-e03622cf98d2",
         "start": "2019-04-20 09:00",
         "end": "2019-04-20 11:00",
@@ -638,5 +628,65 @@
         "prod": "ObD",
         "desc": "Muistatko viel\u00e4 mm95 tai kun Lasse Viren kaatui ja nousi voittoon, emme mek\u00e4\u00e4n. Suomalaiset takertuvat liian tiukasti kiinni v\u00e4h\u00e4isiin menestystarinoihinsa ja unohtavat Suomalaisille niin ominaisen h\u00e4vi\u00e4misen kulttuurin. Murheiluruudussa paneudumme tarkemmin Suomen urheiluhistorian pime\u00e4lle puolelle. Hetkiin, jotka kansa yritt\u00e4\u00e4 unohtaa. Luvassa on tarkkaa analyysi\u00e4 suomifutiksen arvokisataisteluista, j\u00e4\u00e4kiekon mm-kotikisoista 2003, Ateenan olympialaisten selityksist\u00e4 sek\u00e4 kaikista muista mielt\u00e4 alentavista urheiluhetkist\u00e4.",
         "timestamp": "2019-04-04T11:57:51+03:00"
+    },
+    {
+        "id": "7ec74254-3f78-4196-9b67-d4f4df31efe9",
+        "start": "2019-04-16 09:00",
+        "end": "2019-04-16 11:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:33+03:00"
+    },
+    {
+        "id": "4890b871-a3ee-48a2-ab38-901436c73286",
+        "start": "2019-04-17 09:00",
+        "end": "2019-04-17 11:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:39+03:00"
+    },
+    {
+        "id": "3872fa49-c326-4005-bce3-987f0734c1c6",
+        "start": "2019-04-18 09:00",
+        "end": "2019-04-18 11:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:42+03:00"
+    },
+    {
+        "id": "67bd89d3-174a-4047-b213-bef483b6daaa",
+        "start": "2019-04-19 09:00",
+        "end": "2019-04-19 11:00",
+        "title": "Aamujamit",
+        "host": "Henna ja Mika",
+        "prod": "Jarno",
+        "desc": "Olit sitten hyv\u00e4ll\u00e4 tuulella heti aamusta tai piristyksen tarpeessa my\u00f6h\u00e4\u00e4n menneen illan j\u00e4lkeen, Aamujamit on oikea ohjelma juuri sinulle. Hyv\u00e4\u00e4 tunnelmaa, funkkia, jazzia tai muuten vaan tunnelmaan sopivaa musiikkia sek\u00e4 h\u00f6pin\u00e4\u00e4 ajankohtaisesta. Studiossa Henna, Jarno ja Mika, kanssasi aamuyhdeks\u00e4st\u00e4 lounasaikaan asti.",
+        "timestamp": "2019-04-04T12:17:46+03:00"
+    },
+    {
+        "id": "febcfffa-d741-4788-adc5-5da0114fef36",
+        "start": "2019-04-27 09:00",
+        "end": "2019-04-27 12:00",
+        "title": "K\u00e4rsimysiskelm\u00e4\u00e4",
+        "host": "Lorens ja Skeba",
+        "prod": "Jaketus",
+        "desc": "Vaivaako nostalgia? Ovatko lapsuuden traumasi jo tukahdutettuja hiilimyttyj\u00e4? Onko m\u00f6kkimatkojen iskelm\u00e4radiopainajaisilla jo hopeiset reunukset? Ei h\u00e4t\u00e4\u00e4! Lauantaiaamu tarjoaa t\u00e4yslaidallisen muistutuksia siit\u00e4, kuinka ihanaa k\u00e4rsimyst\u00e4 iskelm\u00e4 parhaimmillaan on. Nyt se peukalo pois suusta ja korvalappustereoiden play-nappi pohjaan, bumtsibum!",
+        "timestamp": "2019-04-04T12:36:44+03:00"
+    },
+    {
+        "id": "a5a291c4-74b9-4c33-b13c-fb00647745c3",
+        "start": "2019-04-21 20:00",
+        "end": "2019-04-21 22:00",
+        "title": "Suomen Soramontut V\u00e4rikuvina",
+        "host": "VLEd ja Toivo",
+        "prod": "",
+        "desc": "V\u00e4hin \u00e4\u00e4nin ja suurin elkein. Katse kaukaisuudessa, etualalla tuomionp\u00e4iv\u00e4n pasuunat. Ohjelma joka kykenee kompromisseihin, meill\u00e4 on keinot purkaa muureja.",
+        "timestamp": "2019-04-04T12:37:25+03:00"
     }
 ]
