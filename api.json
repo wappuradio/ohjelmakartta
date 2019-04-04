@@ -635,5 +635,18 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/sinullaonvaaramielipide.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/sinullaonvaaramielipide.jpg",
         "name": "sinullaonvaaramielipide"
+    },
+    {
+        "id": "de83cfb0-19e6-4c94-b496-eb55a815ee41",
+        "start": "2019-04-21T07:00:00+03:00",
+        "end": "2019-04-21T09:00:00+03:00",
+        "title": "Lasten lauantaiaamu",
+        "host": "Brock, R\u00f6lli & Nasse-set\u00e4",
+        "prod": "Lahis",
+        "desc": "\"M\u00e4 tunnen sen jo kasvavan...\" oli perinteinen startti lauantaille. Nyt j\u00e4tet\u00e4\u00e4n hevijyr\u00e4t kotiin ja palataan takaisiin ihanaan lapsuuden aikaan. Aikaan, jolloin ei tarvinnut mietti\u00e4 laskuista, opinnoista, tuista, politiikasta tai mist\u00e4\u00e4n muustakaan. Sai vain leikki\u00e4, katsoa parhaita piirrettyj\u00e4 ikin\u00e4 ja kuunnella laatumusaa. S\u00e4\u00e4d\u00e4 itsesi Rakkauden Wappuradion aalloille ja palaa muistelemaan lapsuuden ihania kesi\u00e4 ja lauantaiaamuja.",
+        "timestamp": "2019-04-04T09:18:59+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/lastenlauantaiaamu.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/lastenlauantaiaamu.jpg",
+        "name": "lastenlauantaiaamu"
     }
 ]
