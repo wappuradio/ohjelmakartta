@@ -921,5 +921,44 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuvaihtoturunkanssa.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuvaihtoturunkanssa.jpg",
         "name": "wappuvaihtoturunkanssa"
+    },
+    {
+        "id": "987baf77-0c6d-4d71-903e-ba394f54be65",
+        "start": "2019-04-21T13:00:00+03:00",
+        "end": "2019-04-21T18:00:00+03:00",
+        "title": "Wappuradio LIVE! ",
+        "host": "",
+        "prod": "Jaketus",
+        "desc": "Wappuradio LIVE! r\u00e4j\u00e4ytt\u00e4\u00e4 taas etunurtsin! Lavalle nousee nelj\u00e4 artistia: Puolimatka, Imppu, Jankan el\u00e4inpuisto ja Wikirock. Luvassa on nuoruuden kiihkoa, synavelhoilua, r\u00e4ppi\u00e4, rokkia ja sivist\u00e4vi\u00e4 faktoja helposti hoilattavassa muodossa. B\u00e4ndien v\u00e4liss\u00e4 studiossa soittaa Kilmoore, mies joka katsoo maailmaa insin\u00f6\u00f6rin tai vanukkaan n\u00e4k\u00f6kulmasta.",
+        "timestamp": "2019-04-04T15:20:34+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuradiolive.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuradiolive.jpg",
+        "name": "wappuradiolive"
+    },
+    {
+        "id": "80aa0f4f-825c-4c8b-86a7-da7f53f38ca7",
+        "start": "2019-04-23T00:00:00+03:00",
+        "end": "2019-04-23T07:00:00+03:00",
+        "title": "ASMR",
+        "host": "Konsta, Aarni, Samuli",
+        "prod": "Kulkija",
+        "desc": "Aamuy\u00f6n Suuren MeemiRadion selk\u00e4piiss\u00e4 piilee memeritusprofessorienkin k\u00e4ytt\u00e4m\u00e4 akronyymi MEEMIT:\r\n\r\nMeemit\r\nEtymologia\r\nElinkaari\r\nMusiikki\r\nIdea\r\nT\u00e4m\u00e4 ei ole meemi\r\n\r\nASMR d\u00e4pp\u00e4\u00e4 wappukiireet ensi vuodelle ja tuo yksityiskohtaisen ja opettavaisen kurkistuksen aikoihin ennen ja j\u00e4lkeen Internet-meemien. Muinaishistoriasta Peli-ajatuspelin kautta politiikkaan.",
+        "timestamp": "2019-04-04T15:55:54+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/asmr.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/asmr.jpg",
+        "name": "asmr"
+    },
+    {
+        "id": "ba22e913-3d26-44a9-a8b7-27b78e5cbe73",
+        "start": "2019-04-25T18:00:00+03:00",
+        "end": "2019-04-25T20:00:00+03:00",
+        "title": "Post-jonneradio",
+        "host": "Opna ja Mannila",
+        "prod": "ObD",
+        "desc": "K\u00e4rsitk\u00f6 ik\u00e4kriisist\u00e4? Onko naamasi rypistynyt vuosien my\u00f6t\u00e4? Olisitko mieluummin chihuahua vai Pitbull? Jos vastasit johonkin n\u00e4ist\u00e4 kysymyksist\u00e4 kyll\u00e4, ei, ehk\u00e4 tai EI *****SSA, toivotamme sinut tervetulleeksi aikamatkalle l\u00e4himenneisyyteen, jolloin kukaan ei ollut viel\u00e4 kuullut Putouksesta ja Cheek oli viel\u00e4 liekeiss\u00e4! Matkanjohtajina toimivat post-jonneaikakauteen jumahtaneet Opna ja Mannila.",
+        "timestamp": "2019-04-04T15:56:45+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/post-jonneradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/post-jonneradio.jpg",
+        "name": "post-jonneradio"
     }
 ]
