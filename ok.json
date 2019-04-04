@@ -660,16 +660,6 @@
         "timestamp": "2019-04-04T13:48:34+03:00"
     },
     {
-        "id": "43765918-0644-4c8d-993e-3acd85863300",
-        "start": "2019-04-20 22:00",
-        "end": "2019-04-21 00:00",
-        "title": "Musiikin rajamailla vol 2",
-        "host": "prime",
-        "prod": "kulkija",
-        "desc": "Mit\u00e4 on musiikki? Voiko mik\u00e4 tahansa nauhoitettu \u00e4\u00e4ni olla musiikkia? Voiko alkukantainen huuto olla laulua?\r\n\r\nMusiikin rajamailla vol. 2 ei vastaa n\u00e4ihin kysymyksiin, mutta saattaa nostaa kuulijoiltaan sen kaltaisia kysymyksi\u00e4 kuin \"Pit\u00e4isik\u00f6 minun sulkea radio ja soittaa polisiit radion kopille?\"",
-        "timestamp": "2019-04-04T14:04:46+03:00"
-    },
-    {
         "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
         "start": "2019-04-18 14:00",
         "end": "2019-04-18 16:00",
@@ -748,5 +738,45 @@
         "prod": "TBD",
         "desc": "Musiikki on toiminnut pitk\u00e4\u00e4n tarinoiden ja mielipiteiden v\u00e4litt\u00e4misen apukeinona. Nyky\u00e4\u00e4n t\u00e4m\u00e4 unohtuuhelposti ja monet kuuntelevatkin vain sykett\u00e4 nostavaa bassoraitaa. T\u00e4m\u00e4n takia ajattelimme mietti\u00e4 pari tuntia sanomia ja kertomuksia joita suomenkielisess\u00e4 musiikkissa kerrotaan. Jos sinulla on biisi jonka sanoituksesta pid\u00e4t tai siihen liittyy tarina jonka haluat jakaa ja haluat kuulla meid\u00e4n mietint\u00f6j\u00e4 siit\u00e4 soita studioon.",
         "timestamp": "2019-04-04T16:56:26+03:00"
+    },
+    {
+        "id": "1678e46e-30e7-484f-9128-f0b79774833f",
+        "start": "2019-04-24 22:00",
+        "end": "2019-04-25 00:00",
+        "title": "R\u00f6\u00f6kii & R\u00f6t\u00f6ksii",
+        "host": "ObD, Konna",
+        "prod": "ralliolmi",
+        "desc": "Mafia, mafia, mafia, mafia\u2026 Rakkauden Wappuradiossa meno muuttuu l\u00e4hes laittomaksi toisena keskiviikkoiltana, kun suomir\u00e4pin erikoisohjelma R\u00f6\u00f6kii & R\u00f6t\u00f6ksii kriippaa radioaalloille. Kaksituntisen session aikana pureudutaan hitaisiin biitteihin, mafiael\u00e4m\u00e4\u00e4n, sielunmaisemiin ja mit\u00e4 mielenkiintoisempiin riimittelyihin.",
+        "timestamp": "2019-04-04T17:22:22+03:00"
+    },
+    {
+        "id": "43765918-0644-4c8d-993e-3acd85863300",
+        "start": "2019-04-20 22:00",
+        "end": "2019-04-21 00:00",
+        "title": "Musiikin rajamailla vol 2",
+        "host": "prime",
+        "prod": "kulkija",
+        "desc": "Mit\u00e4 on musiikki? Voiko mik\u00e4 tahansa nauhoitettu \u00e4\u00e4ni olla musiikkia? Voiko alkukantainen huuto olla laulua?\r\n\r\nMusiikin rajamailla vol. 2 ei vastaa n\u00e4ihin kysymyksiin, mutta saattaa nostaa kuulijoiltaan sen kaltaisia kysymyksi\u00e4 kuin \"Pit\u00e4isik\u00f6 minun sulkea vastaanottimeni ja soittaa polisiit radion kopille?\"",
+        "timestamp": "2019-04-04T17:22:50+03:00"
+    },
+    {
+        "id": "06b2134f-8c82-4805-bb80-4fb6431ad0a9",
+        "start": "2019-04-29 16:00",
+        "end": "2019-04-29 18:00",
+        "title": "How to English",
+        "host": "Manathan, Jotrick & Patthew",
+        "prod": "Zeppe",
+        "desc": "Takelteleeko kolmas kotimainen? Maanantai-illan opetusradiossa perehdyt\u00e4\u00e4n k\u00e4yt\u00e4nn\u00f6n englantiin musiikin ja havainnollistavien esimerkkien avulla. Kahden tunnin intensiivikurssin j\u00e4lkeen englanti on sinullekin easy nack! Tuutoreinasi toimivat Manathan, Patthew ja Jotrick!",
+        "timestamp": "2019-04-04T17:40:05+03:00"
+    },
+    {
+        "id": "cb61f504-ea27-4db3-abc4-4893461a42af",
+        "start": "2019-04-15 18:00",
+        "end": "2019-04-15 20:00",
+        "title": "Tyhm\u00e4 kysymys, mutta...",
+        "host": "Jouni, Matti & Petri",
+        "prod": "Zeppe",
+        "desc": "Ei ole olemassa tyhmi\u00e4 kysymyksi\u00e4, vain tyhmi\u00e4 ihmisi\u00e4. Kolme niist\u00e4 tekee ohjelmaa, yks j\u00e4rkev\u00e4mpi tuottaa. Aiheena tyhm\u00e4t kysymykset ja mahdollisesti my\u00f6s vastaukset niihin. Mit\u00e4 olet aina halunnut kysy\u00e4, mutta et ole kehdannut? Tee se nyt julkisesti radiossa!",
+        "timestamp": "2019-04-04T17:42:34+03:00"
     }
 ]
