@@ -65,32 +65,6 @@
         "name": "lordagsbrunchmedjonas"
     },
     {
-        "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
-        "start": "2019-04-18T14:00:00+03:00",
-        "end": "2019-04-18T16:00:00+03:00",
-        "title": "Kymppiradio",
-        "host": "Zaida, Mikko & Senni",
-        "prod": "",
-        "desc": "K\u00e4sitell\u00e4\u00e4n aiheita numeron kymmenen ymp\u00e4rilt\u00e4, kisoja ja vieraita sen mukaan. \r\n",
-        "timestamp": "2019-04-02T15:47:53+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kymppiradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kymppiradio.jpg",
-        "name": "kymppiradio"
-    },
-    {
-        "id": "051001c1-402c-4815-8b6d-045c1dcd7f87",
-        "start": "2019-04-29T14:00:00+03:00",
-        "end": "2019-04-29T16:00:00+03:00",
-        "title": "Kymppiradio",
-        "host": "Zaida, Mikko & Senni ",
-        "prod": "",
-        "desc": "",
-        "timestamp": "2019-04-02T15:50:44+03:00",
-        "photo": "https:\/\/wappuradio.fi\/img\/host\/kymppiradio.jpg",
-        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kymppiradio.jpg",
-        "name": "kymppiradio"
-    },
-    {
         "id": "8193b555-f062-48f7-9ef8-157123c84c88",
         "start": "2019-04-24T00:00:00+03:00",
         "end": "2019-04-24T07:00:00+03:00",
@@ -895,5 +869,57 @@
         "photo": "https:\/\/wappuradio.fi\/img\/host\/musiikinrajamaillavol2.jpg",
         "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/musiikinrajamaillavol2.jpg",
         "name": "musiikinrajamaillavol2"
+    },
+    {
+        "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
+        "start": "2019-04-18T14:00:00+03:00",
+        "end": "2019-04-18T16:00:00+03:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni",
+        "prod": "",
+        "desc": "Kymppiradiossa seikkaillaan Rakkauden Wappuradion kymmenennen juhlavuoden kunniaksi numeron 10 ymp\u00e4rill\u00e4. ",
+        "timestamp": "2019-04-04T14:29:59+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kymppiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kymppiradio.jpg",
+        "name": "kymppiradio"
+    },
+    {
+        "id": "051001c1-402c-4815-8b6d-045c1dcd7f87",
+        "start": "2019-04-29T14:00:00+03:00",
+        "end": "2019-04-29T16:00:00+03:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni ",
+        "prod": "",
+        "desc": "Kymppiradiossa seikkaillaan Rakkauden Wappuradion kymmenennen juhlavuoden kunniaksi numeron 10 ymp\u00e4rill\u00e4. ",
+        "timestamp": "2019-04-04T14:30:19+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/kymppiradio.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/kymppiradio.jpg",
+        "name": "kymppiradio"
+    },
+    {
+        "id": "0898bf4d-4ce6-424b-ac3c-42f8182a3636",
+        "start": "2019-04-28T17:00:00+03:00",
+        "end": "2019-04-28T19:00:00+03:00",
+        "title": "Jotain kosmista",
+        "host": "plotko, Quendil",
+        "prod": "LaNi_1",
+        "desc": "Onko maapallo sittenkin maalitte\u00e4? Milloin p\u00e4\u00e4semme lomamatkalle Marsiin? Mit\u00e4 kuuluu projekteille kuten SpaceX ja New Horizons? Liity keskusteluun ulkoavaruuden ja siihen liittyv\u00e4n tutkimuksen tilasta, kun sunnuntain avaruuskatsaus Jotain kosmista pureutuu polttaviin uutisaiheisiin illan vieraiden Esko Valtaojan ja Ziltoidin kanssa.",
+        "timestamp": "2019-04-04T15:01:39+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/jotainkosmista.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/jotainkosmista.jpg",
+        "name": "jotainkosmista"
+    },
+    {
+        "id": "48fecd25-07fb-4a3c-aefc-303ee6768f94",
+        "start": "2019-04-16T16:00:00+03:00",
+        "end": "2019-04-16T18:00:00+03:00",
+        "title": "Wappuvaihto Turun kanssa",
+        "host": "klas ja Jerkku",
+        "prod": "",
+        "desc": "Terveissi Turust! Wappuvaihto Turun kans totanoi esittelee turkulaise teekkarin sielunel\u00e4m\u00e4\u00e4 nii joen t\u00e4lt ku tualtaki pualen. Kummottos al 500 henkine teekkarijoukko selvi\u00e4\u00e4 simmottos vaa 14 000 humanisti valtaamas Turu yliopistos? Kui t\u00e4s\u00e4 ny Turku noi vaa hallitsee suvereenisti Suamen j\u00e4yn\u00e4kentt\u00e4\u00e4? Mis Matti ja Teppo ovat ny? Vastauksen n\u00e4ihin ja moneen muuhunki kysymyksse saat kuuntelemal wappurarion turkulaisint ohjelmaa!",
+        "timestamp": "2019-04-04T15:02:36+03:00",
+        "photo": "https:\/\/wappuradio.fi\/img\/host\/wappuvaihtoturunkanssa.jpg",
+        "thumb": "https:\/\/wappuradio.fi\/img\/host\/thumb\/wappuvaihtoturunkanssa.jpg",
+        "name": "wappuvaihtoturunkanssa"
     }
 ]

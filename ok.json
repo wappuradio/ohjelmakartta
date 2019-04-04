@@ -50,26 +50,6 @@
         "timestamp": "2019-04-02T15:34:32+03:00"
     },
     {
-        "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
-        "start": "2019-04-18 14:00",
-        "end": "2019-04-18 16:00",
-        "title": "Kymppiradio",
-        "host": "Zaida, Mikko & Senni",
-        "prod": "",
-        "desc": "K\u00e4sitell\u00e4\u00e4n aiheita numeron kymmenen ymp\u00e4rilt\u00e4, kisoja ja vieraita sen mukaan. \r\n",
-        "timestamp": "2019-04-02T15:47:53+03:00"
-    },
-    {
-        "id": "051001c1-402c-4815-8b6d-045c1dcd7f87",
-        "start": "2019-04-29 14:00",
-        "end": "2019-04-29 16:00",
-        "title": "Kymppiradio",
-        "host": "Zaida, Mikko & Senni ",
-        "prod": "",
-        "desc": "",
-        "timestamp": "2019-04-02T15:50:44+03:00"
-    },
-    {
         "id": "8193b555-f062-48f7-9ef8-157123c84c88",
         "start": "2019-04-24 00:00",
         "end": "2019-04-24 07:00",
@@ -688,5 +668,45 @@
         "prod": "kulkija",
         "desc": "Mit\u00e4 on musiikki? Voiko mik\u00e4 tahansa nauhoitettu \u00e4\u00e4ni olla musiikkia? Voiko alkukantainen huuto olla laulua?\r\n\r\nMusiikin rajamailla vol. 2 ei vastaa n\u00e4ihin kysymyksiin, mutta saattaa nostaa kuulijoiltaan sen kaltaisia kysymyksi\u00e4 kuin \"Pit\u00e4isik\u00f6 minun sulkea radio ja soittaa polisiit radion kopille?\"",
         "timestamp": "2019-04-04T14:04:46+03:00"
+    },
+    {
+        "id": "095fafe8-6b81-49f1-848d-abb40c90c0f3",
+        "start": "2019-04-18 14:00",
+        "end": "2019-04-18 16:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni",
+        "prod": "",
+        "desc": "Kymppiradiossa seikkaillaan Rakkauden Wappuradion kymmenennen juhlavuoden kunniaksi numeron 10 ymp\u00e4rill\u00e4. ",
+        "timestamp": "2019-04-04T14:29:59+03:00"
+    },
+    {
+        "id": "051001c1-402c-4815-8b6d-045c1dcd7f87",
+        "start": "2019-04-29 14:00",
+        "end": "2019-04-29 16:00",
+        "title": "Kymppiradio",
+        "host": "Zaida, Mikko & Senni ",
+        "prod": "",
+        "desc": "Kymppiradiossa seikkaillaan Rakkauden Wappuradion kymmenennen juhlavuoden kunniaksi numeron 10 ymp\u00e4rill\u00e4. ",
+        "timestamp": "2019-04-04T14:30:19+03:00"
+    },
+    {
+        "id": "0898bf4d-4ce6-424b-ac3c-42f8182a3636",
+        "start": "2019-04-28 17:00",
+        "end": "2019-04-28 19:00",
+        "title": "Jotain kosmista",
+        "host": "plotko, Quendil",
+        "prod": "LaNi_1",
+        "desc": "Onko maapallo sittenkin maalitte\u00e4? Milloin p\u00e4\u00e4semme lomamatkalle Marsiin? Mit\u00e4 kuuluu projekteille kuten SpaceX ja New Horizons? Liity keskusteluun ulkoavaruuden ja siihen liittyv\u00e4n tutkimuksen tilasta, kun sunnuntain avaruuskatsaus Jotain kosmista pureutuu polttaviin uutisaiheisiin illan vieraiden Esko Valtaojan ja Ziltoidin kanssa.",
+        "timestamp": "2019-04-04T15:01:39+03:00"
+    },
+    {
+        "id": "48fecd25-07fb-4a3c-aefc-303ee6768f94",
+        "start": "2019-04-16 16:00",
+        "end": "2019-04-16 18:00",
+        "title": "Wappuvaihto Turun kanssa",
+        "host": "klas ja Jerkku",
+        "prod": "",
+        "desc": "Terveissi Turust! Wappuvaihto Turun kans totanoi esittelee turkulaise teekkarin sielunel\u00e4m\u00e4\u00e4 nii joen t\u00e4lt ku tualtaki pualen. Kummottos al 500 henkine teekkarijoukko selvi\u00e4\u00e4 simmottos vaa 14 000 humanisti valtaamas Turu yliopistos? Kui t\u00e4s\u00e4 ny Turku noi vaa hallitsee suvereenisti Suamen j\u00e4yn\u00e4kentt\u00e4\u00e4? Mis Matti ja Teppo ovat ny? Vastauksen n\u00e4ihin ja moneen muuhunki kysymyksse saat kuuntelemal wappurarion turkulaisint ohjelmaa!",
+        "timestamp": "2019-04-04T15:02:36+03:00"
     }
 ]
