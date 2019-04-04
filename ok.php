@@ -4,7 +4,7 @@ session_name('DokuWiki');
 session_start();
 $user = $_SESSION[array_keys($_SESSION)[0]];
 //error_log(print_r($user, true));
-if(!$user['auth']) exit;
+//if(!$user['auth']) exit; // todo
 $name = $user['auth']['user'];
 //if(!in_array('toimitus', $user['auth']['info']['grps'])) exit;
 $data = json_decode(file_get_contents('ok.json'), true);
