@@ -100,16 +100,6 @@
         "timestamp": "2019-04-02T16:46:30+03:00"
     },
     {
-        "id": "9bc99e1b-41cb-4280-acc9-dc1e4b85ef4b",
-        "start": "2019-04-19 17:00",
-        "end": "2019-04-19 19:00",
-        "title": "Mielikuvaradio",
-        "host": "Veli-V ja cirrus~",
-        "prod": "",
-        "desc": "On kev\u00e4t, istut Wappuradion kopin vieress\u00e4 olevalla sohvalla ja kuuntelet taajuutta 106,4MHz. Ohitsesi k\u00e4velee rauhallisesti m\u00e4rehtiv\u00e4\u00e4 wappukansaa, joka huojuu liikkuessaan kuin pustalla kasvava hein\u00e4, jonka hevoslauma on juuri ohittanut. Juontajien pehme\u00e4 \u00e4\u00e4ni rauhoittaa sielun ja virkist\u00e4\u00e4 wapun alkurutistuksessa ruhjellun ruumiin: kuuntelet Mielikuvaradiota.",
-        "timestamp": "2019-04-02T17:14:19+03:00"
-    },
-    {
         "id": "3eca3936-5cc0-45b7-a0c3-6f35cac67ba6",
         "start": "2019-04-28 11:00",
         "end": "2019-04-28 13:00",
@@ -198,16 +188,6 @@
         "prod": "Jaketus",
         "desc": "Jos radioo haluat kuunnella nyt, niin takuulla* yll\u00e4tyt.\r\n\r\n*Karhuradio ei takaa kuulijoilleen seuraavia tunteita: Yll\u00e4tys, ilahdus, h\u00e4mm\u00e4stys, yll\u00e4tys, h\u00e4mmennys, \u00e4llistys, ihmetys, yll\u00e4tys",
         "timestamp": "2019-04-02T21:33:28+03:00"
-    },
-    {
-        "id": "43765918-0644-4c8d-993e-3acd85863300",
-        "start": "2019-04-20 22:00",
-        "end": "2019-04-21 00:00",
-        "title": "Musiikin rajamailla vol 2",
-        "host": "prime",
-        "prod": "kulkija",
-        "desc": "",
-        "timestamp": "2019-04-02T21:33:59+03:00"
     },
     {
         "id": "3f321aaf-aece-4a10-933c-25e533773630",
@@ -510,16 +490,6 @@
         "timestamp": "2019-04-04T10:48:21+03:00"
     },
     {
-        "id": "65d65eb7-aeb9-4805-9785-5b5e490a09cd",
-        "start": "2019-04-15 16:00",
-        "end": "2019-04-15 18:00",
-        "title": "Haippii, laikkii, subscraippii",
-        "host": "Delic ja Veli-V",
-        "prod": "tba",
-        "desc": "Se kaikki alkoi yhdest\u00e4 vlogista. Sen piti olla vain l\u00e4pp\u00e4, hassutteluu kavereiden kesken. Mutta eih\u00e4n se siihen j\u00e4\u00e4nyt, joku tykk\u00e4s siit\u00e4 videosta, sit toinen, sit tuli kyselyy koska tulee lis\u00e4\u00e4. Kohta niit\u00e4 laitettiin jo useampaan TG ryhm\u00e4\u00e4n, mutta eih\u00e4n se en\u00e4\u00e4 riitt\u00e4nyt. M\u00e4 laitoin pystyyn donate napin, rupesin striimaa mun kahvikuppei twitchiin, laitoin insta stooriin hetki\u00e4 kun m\u00e4 ker\u00e4sin roskia maasta, siis oikeesti, roskia! Sit mulla olikin jo oma youtube kanava, gofundme, paypal... M\u00e4 aloin j\u00e4rjestee miittei ja kriittei...",
-        "timestamp": "2019-04-04T11:02:01+03:00"
-    },
-    {
         "id": "3aa5acef-521c-4b52-b5cf-fb0a2521f060",
         "start": "2019-04-27 07:00",
         "end": "2019-04-27 09:00",
@@ -528,26 +498,6 @@
         "prod": "bitofhope",
         "desc": "Radio of the Rising Sun returns, now with a slightly more international cast. Join us as we delve into the depths of Japanese and Japan-adjacent music. Welcoming all weebs and normies alike.",
         "timestamp": "2019-04-04T11:03:04+03:00"
-    },
-    {
-        "id": "96ed7d5d-b25e-49f5-9a42-222e978f71f9",
-        "start": "2019-04-23 16:00",
-        "end": "2019-04-23 18:00",
-        "title": "Esports-radio",
-        "host": "Tyrde & Veli-V",
-        "prod": "",
-        "desc": "Piti menn\u00e4 servulle, mutta mentiinkin radioon. Kaksi esports urallaan ep\u00e4onnistunutta kaverusta pureutuu siihen miksi t\u00e4st\u00e4 elektronisesta urheilusta tuli ilmi\u00f6. Mit\u00e4 kulisseissa tapahtuu, mit\u00e4 eroa on ammattilaisella ja nyyb\u00e4ll\u00e4? Onko vastaus el\u00e4m\u00e4\u00e4n sittenkin #EZ4ENCE? Mukana my\u00f6s parhaat vinkit rankin laskuun, miten tehd\u00e4 rahaa t\u00e4st\u00e4 kaikesta ja tottakai niin paljon pelimusaa kuin radion kannasta vaan l\u00f6ytyy.",
-        "timestamp": "2019-04-04T11:11:20+03:00"
-    },
-    {
-        "id": "c085a870-2980-4a9a-b727-79d00e9bd4c5",
-        "start": "2019-04-19 13:00",
-        "end": "2019-04-19 15:00",
-        "title": "Esports-radio",
-        "host": "Tyrde & Veli-V",
-        "prod": "",
-        "desc": "Piti menn\u00e4 servulle, mutta mentiinkin radioon. Kaksi esports urallaan ep\u00e4onnistunutta kaverusta pureutuu siihen miksi t\u00e4st\u00e4 elektronisesta urheilusta tuli ilmi\u00f6. Mit\u00e4 kulisseissa tapahtuu, mit\u00e4 eroa on ammattilaisella ja nyyb\u00e4ll\u00e4? Onko vastaus el\u00e4m\u00e4\u00e4n sittenkin #EZ4ENCE? Mukana my\u00f6s parhaat vinkit rankin laskuun, miten tehd\u00e4 rahaa t\u00e4st\u00e4 kaikesta ja tottakai niin paljon pelimusaa kuin radion kannasta vaan l\u00f6ytyy.",
-        "timestamp": "2019-04-04T11:11:32+03:00"
     },
     {
         "id": "9d7bb67f-3e4c-461b-8269-eeb420ffdcde",
@@ -688,5 +638,55 @@
         "prod": "",
         "desc": "V\u00e4hin \u00e4\u00e4nin ja suurin elkein. Katse kaukaisuudessa, etualalla tuomionp\u00e4iv\u00e4n pasuunat. Ohjelma joka kykenee kompromisseihin, meill\u00e4 on keinot purkaa muureja.",
         "timestamp": "2019-04-04T12:37:25+03:00"
+    },
+    {
+        "id": "9bc99e1b-41cb-4280-acc9-dc1e4b85ef4b",
+        "start": "2019-04-19 17:00",
+        "end": "2019-04-19 19:00",
+        "title": "Mielikuvaradio",
+        "host": "Veli-V ja cirrus~",
+        "prod": "",
+        "desc": "On kev\u00e4t, istut Wappuradion kopin vieress\u00e4 olevalla sohvalla ja kuuntelet taajuutta 106,4 MHz. Ohitsesi k\u00e4velee rauhallisesti m\u00e4rehtiv\u00e4\u00e4 wappukansaa, joka huojuu liikkuessaan kuin pustalla kasvava hein\u00e4, jonka hevoslauma on juuri ohittanut. Juontajien pehme\u00e4 \u00e4\u00e4ni rauhoittaa sielun ja virkist\u00e4\u00e4 wapun alkurutistuksessa ruhjellun ruumiin: kuuntelet Mielikuvaradiota.",
+        "timestamp": "2019-04-04T13:26:20+03:00"
+    },
+    {
+        "id": "c085a870-2980-4a9a-b727-79d00e9bd4c5",
+        "start": "2019-04-19 13:00",
+        "end": "2019-04-19 15:00",
+        "title": "Esports-radio",
+        "host": "Tyrde & Veli-V",
+        "prod": "",
+        "desc": "Piti menn\u00e4 servulle, mutta mentiinkin radioon. Kaksi esports-urallaan ep\u00e4onnistunutta kaverusta pureutuu siihen, miksi t\u00e4st\u00e4 elektronisesta urheilusta tuli ilmi\u00f6. Mit\u00e4 kulisseissa tapahtuu, mit\u00e4 eroa on ammattilaisella ja nyyb\u00e4ll\u00e4? Onko vastaus el\u00e4m\u00e4\u00e4n sittenkin #EZ4ENCE? Mukana my\u00f6s parhaat vinkit rankin laskuun, miten tehd\u00e4 rahaa t\u00e4st\u00e4 kaikesta ja tottakai niin paljon pelimusaa kuin radion kannasta vaan l\u00f6ytyy.",
+        "timestamp": "2019-04-04T13:26:46+03:00"
+    },
+    {
+        "id": "96ed7d5d-b25e-49f5-9a42-222e978f71f9",
+        "start": "2019-04-23 16:00",
+        "end": "2019-04-23 18:00",
+        "title": "Esports-radio",
+        "host": "Tyrde & Veli-V",
+        "prod": "",
+        "desc": "Piti menn\u00e4 servulle, mutta mentiinkin radioon. Kaksi esports-urallaan ep\u00e4onnistunutta kaverusta pureutuu siihen, miksi t\u00e4st\u00e4 elektronisesta urheilusta tuli ilmi\u00f6. Mit\u00e4 kulisseissa tapahtuu, mit\u00e4 eroa on ammattilaisella ja nyyb\u00e4ll\u00e4? Onko vastaus el\u00e4m\u00e4\u00e4n sittenkin #EZ4ENCE? Mukana my\u00f6s parhaat vinkit rankin laskuun, miten tehd\u00e4 rahaa t\u00e4st\u00e4 kaikesta ja tottakai niin paljon pelimusaa kuin radion kannasta vaan l\u00f6ytyy.",
+        "timestamp": "2019-04-04T13:32:28+03:00"
+    },
+    {
+        "id": "65d65eb7-aeb9-4805-9785-5b5e490a09cd",
+        "start": "2019-04-15 16:00",
+        "end": "2019-04-15 18:00",
+        "title": "Haippii, laikkii, subscraippii",
+        "host": "Delic ja Veli-V",
+        "prod": "tba",
+        "desc": "Se kaikki alkoi yhdest\u00e4 vlogista. Sen piti olla vain l\u00e4pp\u00e4, hassutteluu kavereiden kesken. Mutta eih\u00e4n se siihen j\u00e4\u00e4nyt, joku tykk\u00e4s siit\u00e4 videosta, sit toinen, sit tuli kyselyy koska tulee lis\u00e4\u00e4. Kohta niit\u00e4 laitettiin jo useampaan TG ryhm\u00e4\u00e4n, mutta eih\u00e4n se en\u00e4\u00e4 riitt\u00e4nyt. M\u00e4 laitoin pystyyn donate napin, rupesin striimaa mun kahvikuppei twitchiin, laitoin instastooriin hetki\u00e4 kun m\u00e4 ker\u00e4sin roskia maasta, siis oikeesti, roskia! Sit mulla olikin jo oma youtube kanava, gofundme, paypal... M\u00e4 aloin j\u00e4rjestee miittei ja kriittei...",
+        "timestamp": "2019-04-04T13:48:34+03:00"
+    },
+    {
+        "id": "43765918-0644-4c8d-993e-3acd85863300",
+        "start": "2019-04-20 22:00",
+        "end": "2019-04-21 00:00",
+        "title": "Musiikin rajamailla vol 2",
+        "host": "prime",
+        "prod": "kulkija",
+        "desc": "Mit\u00e4 on musiikki? Voiko mik\u00e4 tahansa nauhoitettu \u00e4\u00e4ni olla musiikkia? Voiko alkukantainen huuto olla laulua?\r\n\r\nMusiikin rajamailla vol. 2 ei vastaa n\u00e4ihin kysymyksiin, mutta saattaa nostaa kuulijoiltaan sen kaltaisia kysymyksi\u00e4 kuin \"Pit\u00e4isik\u00f6 minun sulkea radio ja soittaa polisiit radion kopille?\"",
+        "timestamp": "2019-04-04T14:04:46+03:00"
     }
 ]
